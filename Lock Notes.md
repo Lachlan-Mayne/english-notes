@@ -221,7 +221,7 @@ Dramatic form: 
 - Props
 - Scenery
 - Paradoxical settings
-- Character conflict (eg [John](Quotes#^b7197b) proctor)
+- Character conflict (eg [John Proctor](Quotes#^b7197b))
 
 Language features:
 - Historically authentic language
