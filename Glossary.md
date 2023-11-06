@@ -18,7 +18,7 @@ Anomaly: behaviour that is different//deviates from social norms//anomalous from
 
 Paradoxes: contradictions (normally in reference to a character, eg. social guy in public, drinker depressed by self) (gallows humour: use of humour in a bad situation)
 
-Authorial intrusion: the author intrudes to explain something
+Authorial intrusion: the author intrudes to explain something ^caf53e
 
 Calumny: making false statements about someone to ruin their reputation // slander
 

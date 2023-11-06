@@ -152,7 +152,6 @@ SC: 
 - I can identify key aspects of the context of the play - both Miller’s 1950’s America & Salem 1692 and how Miller connects these two contexts. (viewing the videos and making notes from LMS)
 - I can explain the purpose of the play (from notes on LMS)
 
-[[Glossary]]
 [McCarthyism](Glossary#^dc5591):
 - Joseph McCarthy was a member of the american parliament, he used privilege to make baseless accusations against citizens of america being communists 
 - By having privilege he can’t be sued or defamed for the accusations made in session 
@@ -211,7 +210,7 @@ Goal: to understand the ways language is used to shape representations in texts
 Dramatic form: 
 - Acts and scenes
 - Stage directions
-- Authorial Intrusions
+- [Authorial Intrusions](Glossary#^caf53e)
 - Action
 - Gestures
 - Facial expressions
