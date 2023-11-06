@@ -167,7 +167,6 @@ SC: 
 Historical accuracy:
 
 - Man who was crushed to death with stones was real
-    
 
 Cold war:
 
