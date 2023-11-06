@@ -88,7 +88,7 @@ Implementing and utilising operations strategies provides an opportunity for the
   
   
 
-Performance objectives are implemented in business in efforts to make the business more profitable and productive, mainly when these goals are applied to the transformation process. The key performance objectives a business may consider quality, ﬂexibility, speed, customisation, dependability, cost. Quantas as a business, successfully implements all these objectives in order to achieve their goals and create a strong and successful foundation and standard for their business operations. 
+Performance objectives are implemented in business in efforts to make the business more profitable and productive, mainly when these goals are applied to the transformation process. The key performance objectives a business may consider quality, ﬂexibility, speed, customisation, dependability, cost. Qantas as a business, successfully implements all these objectives in order to achieve their goals and create a strong and successful foundation and standard for their business operations. 
 
   
 
