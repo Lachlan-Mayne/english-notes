@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f82ce3b4cc37be3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "english-notes/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8384ea7a4bcea64b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lock Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cc490c25d3df25d8",
             "type": "leaf",
             "state": {
@@ -41,6 +17,26 @@
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "c718b8f4a19d4554",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quotes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18b97c1071fc9a83",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -110,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lock Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lock Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Lock Notes.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,13 +163,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc490c25d3df25d8",
+  "active": "18b97c1071fc9a83",
   "lastOpenFiles": [
-    "Glossary.md",
-    "README.md",
     "Lock Notes.md",
-    "Business Viz.md",
+    "Quotes.md",
     "english-notes/README.md",
+    "[[Quotes.md",
+    "README.md",
+    "Glossary.md",
+    "folder/file",
+    "folder",
+    "Business Viz.md",
     "english-notes/demo file.md",
     "english-notes"
   ]
