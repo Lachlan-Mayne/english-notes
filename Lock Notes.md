@@ -152,7 +152,8 @@ SC: 
 - I can identify key aspects of the context of the play - both Miller’s 1950’s America & Salem 1692 and how Miller connects these two contexts. (viewing the videos and making notes from LMS)
 - I can explain the purpose of the play (from notes on LMS)
 
-[McCarthyism](./Glossary.md):
+[[Glossary]]
+[McCarthyism](Glossary#^dc5591):
 - Joseph McCarthy was a member of the american parliament, he used privilege to make baseless accusations against citizens of america being communists 
 - By having privilege he can’t be sued or defamed for the accusations made in session 
 - Arthur Miller was accused, and didn’t give up any names to save himself, mainly because he didn’t go to the meetings 

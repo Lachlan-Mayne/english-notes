@@ -12,7 +12,7 @@ Allegory - a story, poem, or picture that can be interpreted to reveal a hidden 
 
 Characterisation - What characters say, do and wear; what others say about them
 
-McCarthyism: Ruinous accusation without any basis in evidence
+McCarthyism: Ruinous accusation without any basis in evidence ^dc5591
 
 Anomaly: behaviour that is different//deviates from social norms//anomalous from societal norms
 
