@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english-notes/Lock Notes.md",
+                "file": "Lock Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "english-notes/Lock Notes.md",
+                "file": "Lock Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "english-notes/Lock Notes.md",
+                "file": "Lock Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "english-notes/Lock Notes.md"
+                "file": "Lock Notes.md"
               }
             }
           }
@@ -159,13 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8384ea7a4bcea64b",
+  "active": "e6c5c6b044973fd6",
   "lastOpenFiles": [
     "Untitled.md",
     "README.md",
     "Business Viz.md",
     "english-notes/README.md",
-    "english-notes/Lock Notes.md",
+    "Lock Notes.md",
     "english-notes/demo file.md",
     "english-notes"
   ]
