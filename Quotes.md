@@ -1,71 +1,20 @@
 **JOHN DOESN’T GET HUNG IN THE PLAY!!!**
 
-  
-
 What are the societal expectations within the setting of the witch trials/McCarthyism?
-
-  
 
 Did antagonists born bad, or did they become bad? (nature/nurture)
 
-  
-
 Dancing in the forest is only in film, it is just mentioned in the play
-
-  
 
 “There be no blush about my name” -> My name is good in the village! I will not have it said my name is soiled! - Abigail
 
-  
-  
-  
+Abigail, *in a temper*: My name is good in the village! I will not have it said my name is soiled! Goody Proctor is a gossiping liar!
 
-Abigail, *in a temper*: My name is good in the village! I will not have it said my name is
+Mary Warren: Abby, we’ve got to tell. Witchery’s a hangin’ error, a hangin’ like they done in Boston two year ago!
 
-  
+Betty: You did, you did! You drank a charm to kill John Proctor’s wife! You drank a charm to kill Goody Proctor!
 
-soiled! Goody Proctor is a gossiping liar!
-
-  
-  
-  
-  
-  
-
-Mary Warren: Abby, we’ve got to tell. Witchery’s a hangin’ error, a hangin’
-
-  
-
-like they done in Boston two year ago!
-
-  
-  
-  
-
-Betty: You did, you did! You drank a charm to kill John Proctor’s wife! You drank a
-
-  
-
-charm to kill Goody Proctor!
-
-  
-
-I danced for
-
-  
-
-the Devil; I saw him; I wrote in his book; I go back to Jesus; I kiss His hand. I saw
-
-  
-
-Sarah Good with the Devil! I saw Goody Osburn with the Devil! I saw Bridget Bishop
-
-  
-
-with the Devil!
-
-  
-  
+I danced for the Devil; I saw him; I wrote in his book; I go back to Jesus; I kiss His hand. I saw Sarah Good with the Devil! I saw Goody Osburn with the Devil! I saw Bridget Bishop with the Devil!
 
 |**Location in play**|**Quote**|**Technique**|**Characters in quote**|**Historical connection**|**Effect**|**Meaning**|
 | :- | :- | :- | :- | :- | :- | :- |
