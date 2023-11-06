@@ -78,91 +78,52 @@ It shows us the amount of thought put into each photo taken, sort of leading int
 The African Begger (Raymond Tong):
 
 Sprawled in the dust outside the Syrian store,
-
 a target for small children, dogs and flies,
-
 a heap of verminous rags and matted hair,
-
 he watches us with cunning reptile eyes,
-
 his noiseless, small-poxed face creased in a sneer.
 
-  
-
 Sometimes he shows his yellow stumps of teeth
-
 and wines for alms, perceiving that we bear
-
 the curse of pity; a grotesque mask of death,
-
 with hands like claws about his begging bowl.
 
-  
-
 But often he is lying all alone
-
 within the shadow of a crumbling wall,
-
 lost in the trackless jungle of his pain,
-
 clutching the pitiless red earth in vain
-
 and whimpering like a stricken animal.
-
-  
 
 GOT TO UNDERSTAND WHAT THE WORDS YOU’RE USING MEAN
 
 The one lie John Proctor's wife gives ends up killing John, she tries to save his reputation and in turn destroys her own
 
-  
-
 The experience of fear, a common collective and individual human experience, permeates the play as many of the characters hold genuine fears for a range of reasons.
 
 Even the location of salem, isolated on the edge of a forest fed these fears. The forest was seen as the domain of the devil, and therefore a dangerous place.
-
-  
-
 ### Human experience; revenge:
 
 1. Define revenge
-    
-
 Revenge is the act of taking action against someone or something who you feel has wronged you in some way
 
 2. Why do you think revenge is such a common human experience? Do you think it is more likely to be an individual experience or a collective one? Why?
-    
-
 A large number of people believe in the “eye for an eye” mentality - that if somebody wrongs you, you should wrong them with the same severity, so you’re both equally wronged.
 
    3.i. Ann putnam: Who does Mrs Putnam want revenge against and why?
-
 Betty - throwing her under the bus as a demon first chance, Tituba - probably race, Rebecca - belief that rebecca caused the miscarriages by midwifing,  
 
   3.ii Thomas Putnam: who does he want revenge against and why?
-
 “He was a man with many grievances” - narrator, “this man is killing his neighbours for their land!” - giles
-
 “A moment, Mr Proctor. What lumber is that you’re draggin’ if i may ask you? … Why, we are surely gone wild this year. What anarchy is this? That tract is in my bounds, it’s in my bounds, Mr Proctor.”
-
-  
-
 He is mad against the town, generally for land disputes and things relating to power, Proctor - over a land dispute, Giles and danforth - still around land, and who can claim it
 
   3.iii. Abigail: Elizabeth Proctor - Married to John Proctor who Abigail wants to marry and so sees Elizabeth as competition
-
 P26 - all the girls are trying to say we should stop now before we get too deep into the accusations
-
 P30 - wants elizabeth gone so she can have John Proctor to herself
-
 P60 - Elizabeth talking about john not blaming abigail
-
 P70 - 
-
 P96 - 
-
 Mary - Mary is trying to prove Abigail wrong and so to preserve her name she denies Mary. 
-
 ‘I know not. A wind, a cold wind, has come.’ 
 
 # Crucible notes:
@@ -171,27 +132,18 @@ Mary - Mary is trying to prove Abigail wrong and so to preserve her name she den
 
 Movie starts in dark location, with girls dancing around a fire in the forest. The girls are “casting” love spells - likely just 
 
-  
-
 Trials in court: hysteria, mass hysteria, girl saying she can’t faint again, there was no spirits but there was, the story is shifting constantly
 
 Lies - witch hunts - story changing
-
-  
 
 Man crushed to death is historically accurate: [https://www.masshist.org/beehiveblog/2021/09/giles-corey-pressed-to-death/](https://www.masshist.org/beehiveblog/2021/09/giles-corey-pressed-to-death/)
 
 Bringing the total death count up to 13 thus far, 12 by hanging 1 by crushing. 
 
-  
-
 John tears his signed confession, invalidating the document
-
 ## Play notes:
 
 - Miller uses repetition of “i saw … with the devil” as the curtains are closing are falling
-    
-
 ## Context:
 
 LI: We are learning about human experiences in The Crucible and how these experiences are represented.
@@ -199,11 +151,9 @@ LI: We are learning about human experiences in The Crucible and how these experi
 SC: 
 
 - I can identify key aspects of the context of the play - both Miller’s 1950’s America & Salem 1692 and how Miller connects these two contexts. (viewing the videos and making notes from LMS)
-    
 - I can explain the purpose of the play (from notes on LMS)
-    
 
-[McCarthyism](./Glossary.md):
+[McCarthyism](./Glossary.md#L15):
 
 - Joseph McCarthy was a member of the american parliament, he used privilege to make baseless accusations against citizens of america being communists 
     
