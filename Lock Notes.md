@@ -153,7 +153,7 @@ SC: 
 - I can identify key aspects of the context of the play - both Miller’s 1950’s America & Salem 1692 and how Miller connects these two contexts. (viewing the videos and making notes from LMS)
 - I can explain the purpose of the play (from notes on LMS)
 
-[McCarthyism](./Glossary.md#L15):
+[McCarthyism](./Glossary.md?plain=1#L15):
 
 - Joseph McCarthy was a member of the american parliament, he used privilege to make baseless accusations against citizens of america being communists 
     
