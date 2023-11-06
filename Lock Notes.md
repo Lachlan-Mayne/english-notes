@@ -203,7 +203,7 @@ SC: 
 - I can explain the purpose of the play (from notes on LMS)
     
 
-[McCarthyism](./Glossary):
+[McCarthyism](./Glossary.md):
 
 - Joseph McCarthy was a member of the american parliament, he used privilege to make baseless accusations against citizens of america being communists 
     
