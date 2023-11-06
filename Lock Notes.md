@@ -149,179 +149,96 @@ John tears his signed confession, invalidating the document
 LI: We are learning about human experiences in The Crucible and how these experiences are represented.
 
 SC: 
-
 - I can identify key aspects of the context of the play - both Miller’s 1950’s America & Salem 1692 and how Miller connects these two contexts. (viewing the videos and making notes from LMS)
 - I can explain the purpose of the play (from notes on LMS)
 
-[McCarthyism](./Glossary.md?plain=1#L15):
-
+[McCarthyism](./Glossary.md):
 - Joseph McCarthy was a member of the american parliament, he used privilege to make baseless accusations against citizens of america being communists 
-    
 - By having privilege he can’t be sued or defamed for the accusations made in session 
-    
 - Arthur Miller was accused, and didn’t give up any names to save himself, mainly because he didn’t go to the meetings 
-    
 - Gave more power to the capitalist mindset, as everyone was thinking capitalist as they got grilled by HUAC
-    
-
 Historical accuracy:
-
 - Man who was crushed to death with stones was real
 
 Cold war:
-
 - Period of threatened violence between communist east and capitalist west (1945 - 1991)
-    
 - Communism is all organised differently to capitalism (humility vs greed)
-    
 - Timeline:
-    
-
-- 1945: end of WW2, start of cold war
-    
-- 1947: Checks conducted on the loyalty of US government workers (ARE THEY COMMUNIST??)
-    
-- 1949: Mao Zedong proclaims China a Communist nation (USSR assisted)
-    
-- 1950 - 1953: period of heightened ideological aggression by the USA against Communism (everyone becomes afraid of being called a communist)
-    
-- 1950: Senator McCarthy claims 205 people in the U.S. State Department are members of the communist party
-    
+	- 1945: end of WW2, start of cold war
+	- 1947: Checks conducted on the loyalty of US government workers (ARE THEY COMMUNIST??)
+	- 1949: Mao Zedong proclaims China a Communist nation (USSR assisted)
+	- 1950 - 1953: period of heightened ideological aggression by the USA against Communism (everyone becomes afraid of being called a communist)
+	- 1950: Senator McCarthy claims 205 people in the U.S. State Department are members of the communist party
 - HUAC (House Un-American Activities Committee) asked many Americans “Are you now, or have ever been a member of the Communist Party?”
-    
-
 - “The Other” - someone belonging not in this community (demon calling)
-    
--   
-    
-
 ## Techniques:
 
 Adultery:
-
 - John with Abigail
-    
 
 Dramatic irony:
-
 - John reciting 10 commandments, ignoring the one he hasn’t kept (adultery)
-    
 
 Stage directions:
-
 - Convey the sense of fear and panic, denoting mood
-    
 
 Symbolism:
-
 - Black/White, Light/Heavy, etc.
-    
 
 Setting:
-
 - Puritan New England, 1692
-    
 - Each act is set in one setting - offers four different views of Salem e.g. orderly calm of the Proctor’s home contrasts the emotional chaos of Parris’ home
-    
 - Right on the dark woods (the indians) representing the unknown (where the devil is) church is the centre, Proctor on a farm therefore on the outside
-    
 - The setting highlights the life and death struggle, raising the stakes of the play
-    
 
 Characterisation:
-
 - Characters are conventional. They are individually and collectively represented. (sympathy and engagement with the characters) Almost all of the main characters are represented in very human with flaws and strengths
-    
 
 Dialogue:
-
 - Believable dialogues for the C17th Puritans; convincingly old fashioned without being hard to understand. Partly based on research from Salem court records. Apart from a few words, such as ‘harlot’, the vocabulary is essentially modern. Miller achieves this by echoing the language of the King James Bible - linking words in unusual ways, using double negatives, changing verb tenses.
-    
 
 Farce:
-
 - The girls clambering over the pews, saying the “birds” have a face of whoever
-    
 
 Allegory: 
-
 - Salem witch trials used to warn audience about dangers of McCarthyism
-    
 - Narrator argues that “political inspiration of the Devil” began centuries before the witch trials - the Spanish inquisition, Martin Luther. This extends the allegory to be about the dangers of “mob mentality and unchecked political authority”
-    
-
-  
-
 ## Language forms and features in the crucible:
 
 Goal: to understand the ways language is used to shape representations in texts
 
 Dramatic form: 
-
 - Acts and scenes
-    
 - Stage directions
-    
 - Authorial Intrusions
-    
 - Action
-    
 - Gestures
-    
 - Facial expressions
-    
 - Dialogue
-    
 - Sound Effects
-    
 - Lighting
-    
 - Costume
-    
 - Props
-    
 - Scenery
-    
 - Paradoxical settings
-    
 - Character conflict (eg john proctor)
-    
 
 Language features:
-
 - Historically authentic language
-    
-
 - Some archaic language (some has been modernised)
-    
 - Double negatives
-    
 - Theological Language/jargon/terminology
-    
 - Legal language/jargon/terminology
-    
 - Character specific diction e.g. Danforth speaks more formally than those from Salem
-    
-
 - Foreshadowing
-    
-
 - Used quite frequently throughout the play. Despite a range of audience members assumedly knowing the historical context of the Salem Witch Trials, Miller employs this technique often throughout the play
-    
 
-- Symbolism
-    
-
+- Symbolism    
 - Hot and cold
-    
 - Documentation and books
-    
 - Poppets
-    
 - Crucible
-    
 - Colours: black, white and red
-    
 
 # Resources:
 
@@ -349,7 +266,6 @@ Quote sheet allowed.
     
 - Is this human experience individual / collective, or both?
     
-
 ## Rubric 2:
 
 “In addition, students select one related text and draw from personal experience to make connections between themselves, the world of the text and their wider world.”
@@ -359,16 +275,10 @@ Selecting and analysing a supplementary text - explaining how narrative and idea
 ## Rubric 3:
 
 - Author has intentionally chosen a play
-    
-
 - Chosen what’s gonna happen in each act
-    
 - Character emotions, etc
-    
 
 Rubrik, text used, tools
-
-  
 
 # Quotes (ignore these, use quote doc):
 
