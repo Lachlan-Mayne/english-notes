@@ -96,7 +96,7 @@ and whimpering like a stricken animal.
 
 GOT TO UNDERSTAND WHAT THE WORDS YOU’RE USING MEAN
 
-The one lie John Proctor's wife gives ends up killing John, she tries to save his reputation and in turn destroys her own
+The one lie [John](Quotes#^b7197b) Proctor's wife gives ends up killing [John](Quotes#^b7197b), she tries to save his reputation and in turn destroys her own
 
 The experience of fear, a common collective and individual human experience, permeates the play as many of the characters hold genuine fears for a range of reasons.
 
@@ -117,10 +117,10 @@ Betty - throwing her under the bus as a demon first chance, Tituba - probably ra
 “A moment, Mr Proctor. What lumber is that you’re draggin’ if i may ask you? … Why, we are surely gone wild this year. What anarchy is this? That tract is in my bounds, it’s in my bounds, Mr Proctor.”
 He is mad against the town, generally for land disputes and things relating to power, Proctor - over a land dispute, Giles and danforth - still around land, and who can claim it
 
-  3.iii. Abigail: Elizabeth Proctor - Married to John Proctor who Abigail wants to marry and so sees Elizabeth as competition
+  3.iii. Abigail: Elizabeth Proctor - Married to [John](Quotes#^b7197b) Proctor who Abigail wants to marry and so sees Elizabeth as competition
 P26 - all the girls are trying to say we should stop now before we get too deep into the accusations
-P30 - wants elizabeth gone so she can have John Proctor to herself
-P60 - Elizabeth talking about john not blaming abigail
+P30 - wants elizabeth gone so she can have [John](Quotes#^b7197b) Proctor to herself
+P60 - Elizabeth talking about [John](Quotes#^b7197b) not blaming abigail
 P70 - 
 P96 - 
 Mary - Mary is trying to prove Abigail wrong and so to preserve her name she denies Mary. 
@@ -140,7 +140,7 @@ Man crushed to death is historically accurate: [https://www.masshist.org/beehive
 
 Bringing the total death count up to 13 thus far, 12 by hanging 1 by crushing. 
 
-John tears his signed confession, invalidating the document
+[John](Quotes#^b7197b) tears his signed confession, invalidating the document
 ## Play notes:
 
 - Miller uses repetition of “i saw … with the devil” as the curtains are closing are falling
@@ -177,7 +177,7 @@ Adultery:
 - [John](Quotes#^b7197b) with [Abigail](Quotes#^3539e8)
 
 Dramatic irony:
-- John reciting 10 commandments, ignoring the one he hasn’t kept (adultery)
+- [John](Quotes#^b7197b) reciting 10 commandments, ignoring the one he hasn’t kept (adultery)
 
 Stage directions:
 - Convey the sense of fear and panic, denoting mood
@@ -221,7 +221,7 @@ Dramatic form: 
 - Props
 - Scenery
 - Paradoxical settings
-- Character conflict (eg john proctor)
+- Character conflict (eg [John](Quotes#^b7197b) proctor)
 
 Language features:
 - Historically authentic language
@@ -282,12 +282,12 @@ Rubrik, text used, tools
 
 # Quotes (ignore these, use quote doc):
 
-“I say you’re pulling heaven down and raising up a whore” - John proctor  
-“I say God is dead” - John proctor
+“I say you’re pulling heaven down and raising up a whore” - [John Proctor](Quotes#^b7197b)
+“I say God is dead” - [John Proctor](Quotes#^b7197b)
 
-“I will not see you again, but in hell” - John to the whore
+“I will not see you again, but in hell” - [John](Quotes#^b7197b) to the whore
 
-“(the Lord's prayer)” - on the gallows, John proctor, two women convicted 
+“(the Lord's prayer)” - on the gallows, [John Proctor](Quotes#^b7197b), two women convicted 
 
 # Glossary
 

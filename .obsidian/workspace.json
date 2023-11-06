@@ -30,9 +30,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "18b97c1071fc9a83",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quotes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Quotes.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,11 +163,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c718b8f4a19d4554",
+  "active": "18b97c1071fc9a83",
   "lastOpenFiles": [
     "Lock Notes.md",
-    "english-notes/README.md",
     "Quotes.md",
+    "english-notes/README.md",
     "[[Quotes.md",
     "README.md",
     "Glossary.md",
