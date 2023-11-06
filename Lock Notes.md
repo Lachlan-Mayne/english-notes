@@ -174,7 +174,7 @@ Cold war:
 ## Techniques:
 
 Adultery:
-- John with Abigail
+- [John](Quotes#^b7197b) with [Abigail](Quotes#^3539e8)
 
 Dramatic irony:
 - John reciting 10 commandments, ignoring the one he hasn’t kept (adultery)

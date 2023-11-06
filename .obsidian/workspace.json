@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f82ce3b4cc37be3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "english-notes/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cc490c25d3df25d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Lock Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,13 +161,14 @@
   },
   "active": "c718b8f4a19d4554",
   "lastOpenFiles": [
-    "README.md",
-    "Quotes.md",
-    "english-notes/README.md",
     "Lock Notes.md",
+    "english-notes/README.md",
+    "Quotes.md",
+    "[[Quotes.md",
+    "README.md",
+    "Glossary.md",
     "folder/file",
     "folder",
-    "Glossary.md",
     "Business Viz.md",
     "english-notes/demo file.md",
     "english-notes"

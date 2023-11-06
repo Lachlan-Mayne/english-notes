@@ -55,24 +55,16 @@ I danced for the Devil; I saw him; I wrote in his book; I go back to Jesus; I ki
 
 # <a name="_rx407ct9agy8"></a>Characters:
 
-Abigail - woman who john proctor sleeps with. Has a paradox of being all nice, no blackened name, yet is a whore for proctor. 17 years old, “strikingly beautiful, an orphan”
-
-  
+Abigail - woman who john proctor sleeps with. Has a paradox of being all nice, no blackened name, yet is a whore for proctor. 17 years old, “strikingly beautiful, an orphan” ^3539e8
 
 Goody proctor - truthful woman, but yet she lied (inconsistency), she kept a cold heart to her husband
 
-  
-
 Susanna Walcott - little younger than abigail
-
-  
 
 Reverend Parris - uncle of Abigail
 
-  
-
 Thomas putnam - man with many grievances, brother in law was turned down as minister of salem, eldest son of the richest man in the village, regards himself as one of the smartest there, vindictive, deeply embittered,
 
-  
-
 Mr Hale - a very proud man
+
+John Proctor - Top g ^b7197b
