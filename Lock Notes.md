@@ -210,7 +210,7 @@ Goal: to understand the ways language is used to shape representations in texts
 Dramatic form: 
 - Acts and scenes
 - Stage directions
-- [Authorial Intrusions](Glossary#^caf53e.md)
+- [Authorial Intrusions](Glossary#^caf53e)
 - Action
 - Gestures
 - Facial expressions
