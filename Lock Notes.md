@@ -203,7 +203,7 @@ SC: 
 - I can explain the purpose of the play (from notes on LMS)
     
 
-McCarthyism:
+[McCarthyism](./Glossary):
 
 - Joseph McCarthy was a member of the american parliament, he used privilege to make baseless accusations against citizens of america being communists 
     
@@ -462,4 +462,3 @@ Lynching: public killing of an individual who has not received any due process
 
 Power: The ability to influence the abilities/acts of others//the capacity to act in a certain way
 
-**
