@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "000adc2a22cb917f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian-notes-2024/Qantas case study (CSR) vry helpful.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7a9ddcbf3a47219f",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,12 +148,12 @@
   },
   "active": "7a9ddcbf3a47219f",
   "lastOpenFiles": [
+    "obsidian-notes-2024/Qantas case study (CSR) vry helpful.md",
+    "obsidian-notes-2024/README.md",
     "english-notes/test.md",
     "english-notes",
     "conflict-files-obsidian-git.md",
-    "obsidian-notes-2024/README.md",
     "obsidian-notes-2024/Special syntax.md",
-    "obsidian-notes-2024/Qantas case study (CSR) vry helpful.md",
     "obsidian-notes-2024/Quotes.md",
     "README.md",
     "Special syntax.md",
