@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "folder/Test file.md",
+                "file": "Lachlan's editing space/Test file.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "folder/Test file.md",
+                "file": "Lachlan's editing space/Test file.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "folder/Test file.md",
+                "file": "Lachlan's editing space/Test file.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "folder/Test file.md"
+                "file": "Lachlan's editing space/Test file.md"
               }
             }
           }
@@ -171,10 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18b97c1071fc9a83",
+  "active": "e6c5c6b044973fd6",
   "lastOpenFiles": [
     "Business Notes Lock.md",
-    "folder/Test file.md",
+    "Lachlan's editing space/Test file.md",
     "Crucible work done in year 10 Viz.md",
     "Business Notes Viz.md",
     "Business Assignment Viz.md",
@@ -184,8 +184,8 @@
     "[[Quotes.md",
     "README.md",
     "Glossary.md",
-    "folder/file",
-    "folder",
+    "Lachlan's editing space/file",
+    "Lachlan's editing space",
     "Business Viz.md",
     "english-notes/demo file.md",
     "english-notes"
