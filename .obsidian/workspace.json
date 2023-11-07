@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bab43ee1c8bd88f8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian-notes-2024/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian-notes-2024/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "obsidian-notes-2024/README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +151,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a9ddcbf3a47219f",
+  "active": "bab43ee1c8bd88f8",
   "lastOpenFiles": [
-    "obsidian-notes-2024/Qantas case study (CSR) vry helpful.md",
     "obsidian-notes-2024/README.md",
+    "obsidian-notes-2024/Qantas case study (CSR) vry helpful.md",
     "english-notes/test.md",
     "english-notes",
     "conflict-files-obsidian-git.md",
