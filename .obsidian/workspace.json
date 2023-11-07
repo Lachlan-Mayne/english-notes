@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business Glossary (READ ONLY).md",
+                "file": "Business.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business Glossary (READ ONLY).md",
+                "file": "Business.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business Glossary (READ ONLY).md",
+                "file": "Business.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Business Glossary (READ ONLY).md"
+                "file": "Business.md"
               }
             }
           }
@@ -185,8 +185,10 @@
   },
   "active": "fe53f5eebf6d980b",
   "lastOpenFiles": [
-    "Lachlan's editing space/Business Notes Lock.md",
     "Business Glossary (READ ONLY).md",
+    "Business.md",
+    "[[Business.md",
+    "Lachlan's editing space/Business Notes Lock.md",
     "Lachlan's editing space/English Notes Lachlan.md",
     "Viz's editing space/Crucible work done in year 10 Viz.md",
     "Lachlan's editing space/Test file.md",
