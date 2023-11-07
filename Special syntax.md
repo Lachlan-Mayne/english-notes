@@ -42,4 +42,8 @@ Here's some text! ^sometext
 [Here's a link to some text!](Special%20syntax#^sometext)
 #links #navigation
 
-
+Below is a checkbox list
+- [ ] g
+- [ ] h
+- [ ] i
+#list 
