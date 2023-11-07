@@ -1,3 +1,9 @@
+---
+tags:
+  - notes
+  - business
+  - operations
+---
 Operations management:
 
 - Responsible for acquiring the inputs and devising the best production methods so that the value adding occurs 

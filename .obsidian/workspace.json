@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lachlan's editing space/English Notes Lachlan.md",
+                "file": "Lachlan's editing space/Business Notes Lock.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#notes  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lachlan's editing space/English Notes Lachlan.md",
+                "file": "Lachlan's editing space/Business Notes Lock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lachlan's editing space/English Notes Lachlan.md",
+                "file": "Lachlan's editing space/Business Notes Lock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lachlan's editing space/English Notes Lachlan.md"
+                "file": "Lachlan's editing space/Business Notes Lock.md"
               }
             }
           }
@@ -171,7 +172,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18b97c1071fc9a83",
+  "active": "79ceddee2992cd9f",
   "lastOpenFiles": [
     "Lachlan's editing space/English Notes Lachlan.md",
     "Lachlan's editing space/Test file.md",
