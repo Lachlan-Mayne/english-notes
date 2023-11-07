@@ -7,13 +7,8 @@ tags:
 Operations management:
 
 - Responsible for acquiring the inputs and devising the best production methods so that the value adding occurs 
-    
-- The strategic role of operations management in business is to play a part in ensuring that the goals of the organisation are met.
-    
+- The strategic role of operations management in business is to play a part in ensuring that the goals of the organisation are met.   
 - Generally, business goals have to do with profit maximisation, which is achieved through maximising revenue and minimising costs. Expense minimisation.
-    
--   
-    
 
 Cost Leadership:
 
