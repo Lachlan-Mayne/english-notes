@@ -11,7 +11,7 @@ Price: how much a customer pays for a good/service
 
 Cost leadership: having the lowest [costs](Business%20Glossary%20(READ%20ONLY)#^cost) in the industry
 
-Economies of scale: the amount of a product/good/service a business can produce for the same [cost](Business%20Glossary%20(READ%20ONLY)#^cost), leading into decrease of [cost](Business%20Glossary%20(READ%20ONLY)#^cost)/item 
+Economies of scale: the amount of a product/good/service a business can produce for the same [cost](Business%20Glossary%20(READ%20ONLY)#^cost), leading into decrease of [cost](Business%20Glossary%20(READ%20ONLY)#^cost)/item
 
 Products: goods or services ^products
 
