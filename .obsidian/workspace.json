@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lachlan's editing space/Business Notes Lock.md",
+                "file": "Viz's editing space/Crucible work done in year 10 Viz.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#notes  ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lachlan's editing space/Business Notes Lock.md",
+                "file": "Viz's editing space/Crucible work done in year 10 Viz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lachlan's editing space/Business Notes Lock.md",
+                "file": "Viz's editing space/Crucible work done in year 10 Viz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lachlan's editing space/Business Notes Lock.md"
+                "file": "Viz's editing space/Crucible work done in year 10 Viz.md"
               }
             }
           }
@@ -172,18 +171,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "79ceddee2992cd9f",
+  "active": "e6c5c6b044973fd6",
   "lastOpenFiles": [
+    "Lachlan's editing space/Business Notes Lock.md",
     "Lachlan's editing space/English Notes Lachlan.md",
     "Lachlan's editing space/Test file.md",
     "Viz's editing space/file.md",
     "english-notes/README.md",
     "Lachlan's editing space/file.md",
     "Viz's editing space",
-    "Lachlan's editing space/Business Notes Lock.md",
-    "Crucible work done in year 10 Viz.md",
-    "Business Notes Viz.md",
-    "Business Assignment Viz.md",
+    "Viz's editing space/Crucible work done in year 10 Viz.md",
+    "Viz's editing space/Business Notes Viz.md",
+    "Viz's editing space/Business Assignment Viz.md",
     "Quotes.md",
     "[[Quotes.md",
     "README.md",
