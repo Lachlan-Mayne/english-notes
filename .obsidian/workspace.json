@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "05763d70e6e44bbf",
+            "id": "000adc2a22cb917f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,19 +20,31 @@
             }
           },
           {
-            "id": "11eab318c90ef4f4",
+            "id": "7a9ddcbf3a47219f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-notes-2024/Qantas case study (CSR) vry helpful.md",
+                "file": "obsidian-notes-2024/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "283d1add1677ccb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian-notes-2024/Qantas case study (CSR) vry helpful.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian-notes-2024/Qantas case study (CSR) vry helpful.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian-notes-2024/Qantas case study (CSR) vry helpful.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -159,16 +171,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "11eab318c90ef4f4",
+  "active": "283d1add1677ccb5",
   "lastOpenFiles": [
-    "obsidian-notes-2024/Quotes.md",
-    "obsidian-notes-2024/Glossary.md",
-    "obsidian-notes-2024/Qantas case study (CSR) vry helpful.md",
-    "obsidian-notes-2024/Business Glossary (READ ONLY).md",
+    "obsidian-notes-2024/README.md",
     "conflict-files-obsidian-git.md",
+    "obsidian-notes-2024/Special syntax.md",
+    "obsidian-notes-2024/Qantas case study (CSR) vry helpful.md",
+    "obsidian-notes-2024/Quotes.md",
+    "README.md",
+    "Special syntax.md",
+    "obsidian-notes-2024/Glossary.md",
+    "obsidian-notes-2024/Business Glossary (READ ONLY).md",
     "nickNotes/file.md",
     "nickNotes",
-    "README.md",
     "Lachlan's editing space/DailyNotes/Nov 8, 2023.md",
     "Lachlan's editing space/DailyNotes",
     "Lachlan's editing space",
@@ -178,8 +193,6 @@
     "obsidian-notes-2024/Viz's editing space/Business Notes Viz.md",
     "obsidian-notes-2024/Viz's editing space/Business Assignment Viz.md",
     "obsidian-notes-2024/Viz's editing space",
-    "obsidian-notes-2024/Special syntax.md",
-    "obsidian-notes-2024/README.md",
     "obsidian-notes-2024/Lachlan's editing space/DailyNotes/Nov 8, 2023.md",
     "obsidian-notes-2024/Lachlan's editing space/DailyNotes/Landing.md",
     "obsidian-notes-2024/Lachlan's editing space/file.md",
