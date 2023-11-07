@@ -15,7 +15,8 @@ tags:
 #tags #navigation
 
 ```
-
+```mermaid
+```
 flowchart TD
 
     A[Christmas] -->|Get money| B(Go shopping)
