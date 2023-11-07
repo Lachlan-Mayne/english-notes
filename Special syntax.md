@@ -31,6 +31,45 @@ flowchart TD
 #flowchart #diagram
 
 |**Title one**|**2nd title**|**Title 3**|**etc**|
-| - | :- | -: | :- | :- | :- | :- |
-|non-indented|left-indented|right indented|right indented|||The girl is being called a prostitute, tearing down God for her own gain|
+| - | :- | -: | :-: |
+|non-indented|left-indented|right indented|centred|
+#tables #diagram 
+
+Here's some text! ^sometext
+[Here's a link to some text!](Special%20syntax#^sometext)
+#links #navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
