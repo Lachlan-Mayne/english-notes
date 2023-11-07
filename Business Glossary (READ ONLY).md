@@ -22,7 +22,7 @@ Quality: How well designed, made and functional [products](Business%20Glossary%2
 ```mermaid
 flowchart TD
 
-    A[Christmas] -->|Get money| B(Go shopping)
+    A[Create github page] -->|Get smart| B(Create this)
 
     B --> C{Let me think}
 
