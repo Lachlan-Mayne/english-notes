@@ -1,6 +1,5 @@
-# Welcome!
-To work on documents in here, You'll have to start out by using git pull. 
-Once you've run git pull, feel free to start editing. Before pushing any changes, you'll need to either git pull, or just skip that and git commit. Once git committed, you can git push to upload the changes!
+# Welcome to obsidian!
+The hardest part is installing it, smooth sailing from here on out.
 
-[Viz document](Business%20Assignment%20Viz.md)
+## How do I do $x$?
 

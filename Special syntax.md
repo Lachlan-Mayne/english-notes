@@ -4,7 +4,9 @@ tags:
   - how-to
   - guide
   - obsidian
+  - markdown
 ---
+By adding this at the top of any pages, it'll make it easier to search for different topics
 ```
 ---
 tags:
@@ -14,6 +16,7 @@ tags:
 ```
 #tags #navigation
 
+Diagrams in obsidian use [mermaid](https://mermaid.live/edit), which can be written using the [mermaid](https://mermaid.live/edit) link.
 ```mermaid
 
 flowchart TD
@@ -38,38 +41,5 @@ flowchart TD
 Here's some text! ^sometext
 [Here's a link to some text!](Special%20syntax#^sometext)
 #links #navigation
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
