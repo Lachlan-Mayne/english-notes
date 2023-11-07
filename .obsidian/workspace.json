@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lachlan's editing space/Business Notes Lock.md",
+                "file": "Business Glossary (READ ONLY).md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lachlan's editing space/Business Notes Lock.md",
+                "file": "Business Glossary (READ ONLY).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lachlan's editing space/Business Notes Lock.md",
+                "file": "Business Glossary (READ ONLY).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lachlan's editing space/Business Notes Lock.md"
+                "file": "Business Glossary (READ ONLY).md"
               }
             }
           }
@@ -183,10 +183,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe53f5eebf6d980b",
+  "active": "18b97c1071fc9a83",
   "lastOpenFiles": [
-    "Business Glossary (READ ONLY).md",
     "Lachlan's editing space/Business Notes Lock.md",
+    "Business Glossary (READ ONLY).md",
+    "Glossary.md",
     "Quotes.md",
     "Business.md",
     "[[Business.md",
@@ -201,7 +202,6 @@
     "Viz's editing space/Business Assignment Viz.md",
     "[[Quotes.md",
     "README.md",
-    "Glossary.md",
     "Lachlan's editing space/file",
     "Lachlan's editing space",
     "Business Viz.md",
