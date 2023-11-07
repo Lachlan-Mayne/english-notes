@@ -4,4 +4,11 @@ The hardest part is installing it, smooth sailing from here on out. Firstly, ask
 ## How do I do $x$?
 Start off by checking the [official obsidian documentation](https://help.obsidian.md/Home). If your question hasn't been answered, feel free to google your questions, and if that doesn't provide any helpful answers, come ask me or Viz.
 
-
+# obsidian setup
+install obsidian.md
+install brew.sh
+install github cli (``brew install gh``)
+create directory
+navigate to directory in terminal
+run ``gh auth login``
+git clone https://github.com/Lachlan-Mayne/obsidian-notes-2024.git
