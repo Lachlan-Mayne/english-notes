@@ -18,17 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bab43ee1c8bd88f8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "obsidian-notes-2024/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "obsidian-notes-2024/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "obsidian-notes-2024/README.md"
+              }
             }
           }
         ]
@@ -151,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bab43ee1c8bd88f8",
+  "active": "7a9ddcbf3a47219f",
   "lastOpenFiles": [
     "obsidian-notes-2024/README.md",
     "obsidian-notes-2024/Qantas case study (CSR) vry helpful.md",
