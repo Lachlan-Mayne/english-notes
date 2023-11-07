@@ -80,62 +80,29 @@ Issues: Global web, sourcing, innovation/imitation, competition etc
 Positive impacts: 
 
 - Access to new customer markets
-    
-
 - Growth as a business
-    
 - Generate more returns for their shareholders
-    
-
 - Launch new services -> growth in asia
-    
-
 - New airlines launched eg jetstar japan
-    
-
 - Access to cheaper labour -> outsource their IT work to other countries etc
-    
-
 Negative impacts:
-
 - Increased competition for Aussie customers choosing who to fly with
-    
-
 - Potentially losing revenue
-    
-
 - Creates an uneven playing field as 70% of the 40 airlines flying into Australia get government support from their home countries in ways Qantas doesn’t
-    
 
 Government influences: 
-
 Taxation rates
-
 Required materials handling practices
-
 WHS standards
-
 Training and rules
-
 Public health policies
-
 Environmental policies
-
 Employment relations
-
 Trade and industry policies
-
-  
-  
-  
 
 Legal regulation : following the law inside a business
 
 Corporate social responsibility (CSR): Involves businesses doing more than just complying with the laws and regulations. Also known as the ‘triple bottom line’, CSR places value on financial returns as well as social responsibility and environmental sustainability
-
-  
-  
-  
 
 # Glossary:
 

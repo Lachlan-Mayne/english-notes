@@ -17,4 +17,6 @@ Products: goods or services ^5f49c2
 
 Product Differentiation: distinguishing [products](Business%20Glossary%20(READ%20ONLY)#^5f49c2) in some way from a business's competitors
 
+Quality: How well designed, made and functional [products](Business%20Glossary%20(READ%20ONLY)#^5f49c2) are, and the degree of competence 
+
 
