@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fe53f5eebf6d980b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lachlan's editing space/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lachlan's editing space/Business Notes Lock.md",
+                "file": "Lachlan's editing space/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lachlan's editing space/Business Notes Lock.md",
+                "file": "Lachlan's editing space/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lachlan's editing space/Business Notes Lock.md"
+                "file": "Lachlan's editing space/Untitled.md"
               }
             }
           }
@@ -171,10 +183,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18b97c1071fc9a83",
+  "active": "e6c5c6b044973fd6",
   "lastOpenFiles": [
-    "Viz's editing space/Crucible work done in year 10 Viz.md",
     "Lachlan's editing space/Business Notes Lock.md",
+    "Lachlan's editing space/Untitled.md",
+    "Viz's editing space/Crucible work done in year 10 Viz.md",
     "Lachlan's editing space/English Notes Lachlan.md",
     "Lachlan's editing space/Test file.md",
     "Viz's editing space/file.md",

@@ -13,54 +13,34 @@ Operations management:
 Cost Leadership:
 
 - Cost is how much the business pays for a good, price is how much the customer does
-    
 - Cost leadership is working towards being the lowest cost manufacturer in the industry
-    
 
 Can be achieved by different production technology, more efficient staffing etc. Cost leadership is only successful if a business is able to produce goods or services at the lowest possible cost whilst they are still acceptable to customers. By reducing costs of production and distribution, a business will be able to gain an advantage over competitors.
-
-  
 
 If the strategy is successful, the business will become the leading provider of a particular good or services based on their lowered costs. Businesses adopting a cost leadership strategy commonly have standardised products.(Kia is a good example). One company that can save themselves a lot of money for example is Startrack, checking their haul security so they don’t lose products ≈≈ money.
 
 Input costs, Labour costs, processing costs, inventory costs, quality management costs.
 
-  
-
 Economies of scale are the cost advantages companies gain from increasing their output. For example, the same setup would be there for 1 unit AND 1 million units of a product.
 
 Cost leadership at Qantas: they try to cut as many costs, in the main categories of staff, maintenance, fuel, and depreciation.
 
-  
-
 Qantas cost leadership:
 
 - Economies of scale; the huge business means they have purchasing power when buying inputs such as fuel
-    
 - Strategic alliances; The OneWorld alliance means they can offer more routes without necessarily having to fly an actual plane there themselves
-    
 - They standardize product offering; by having fewer variations they can keep costs down, they recently reassessed and cut a bunch of routes to do this
-    
 - Technology; Cutting costs on HR through the use of online booking, tickets and check-in as well as more fuel efficient planes keeping fuel costs even lower
-    
 - Waste reduction; by using energy efficient devices, water saving measures and sustainable design, Qantas have saved money in their costs on electricity, water and waste removal
-    
-
-  
 
 Product differentiation:
 
 Distinguishing products (goods or services) in some way from its competitors. Different forms of differentiation include: the amount of time spent on a service, the level of expertise brought to a service, the qualifications and the experience of service providers, varying the quality of materials/technology used in service delivery.
 
-  
-
 Operations: Differentiating by industry category
 
 - Operations function will look different in different businesses depending on their industry category
-    
-
   
-
 Quality expectations: understanding of a products ability to satisfy stated or implied needs. 
 
 People have an inherent belief in what the quality standards should be for products and their personal level of satisfaction with their experience of the product will indicate whether the quality has met with these expectations or not.
@@ -68,7 +48,6 @@ People have an inherent belief in what the quality standards should be for produ
 # Influences
 
 - Globalisation: the removal of barriers of trade between nations. It is characterised by an increasing integration between national economies and a high degree of transfer of capital, labour, intellectual capital and ideas, financial resources and technology.
-    
 
 Supply chain:
 
@@ -80,11 +59,7 @@ Sourcing: operations strategy that requires finding the suppliers needed so that
 
 Imitation: a business tends to create products similar to those that already exist, but will aim to do so at a lower cost
 
-  
-
 Reverse engineering: A process that involves a business taking the product of a competitor that has already been released into the market. This product is then taken apart to see how it is made. The imitating business then tries to make their own version of the product from the component parts, but does so using different materials and at a lower cost
-
-  
 
 How might globalisation impact aussie businesses?
 
