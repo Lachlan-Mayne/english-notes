@@ -15,6 +15,6 @@ Economies of scale: the amount of a product/good/service a business can produce 
 
 Products: goods or services
 
-Product Differentiation: distinguishing [products]([[Business%20Glossary%20(READ%20ONLY)#^Products)
+Product Differentiation: distinguishing [products]([[Business Glossary (READ ONLY)^]])
 
 
