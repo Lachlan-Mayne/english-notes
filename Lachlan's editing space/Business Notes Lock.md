@@ -132,14 +132,7 @@ Need to adjust their schedules if they cannot deliver on time. Furthermore if Op
 Questions:
 
 1. Monitoring : supervising/keeping an eye on, watching
-    
-
 1. Control: to determine the behaviour of whatevers running
-    
 2. Improvement: the act of increasing the quality of a good or service
-    
-
 3. How would you monitor the performance of a retailer? Support your answer with reference to relevant examples
-    
-
-1. I would look at their cashflow, determine what spending is required and what is unnecessary. Then, look into their customer
+	1. I would look at their cashflow, determine what spending is required and what is unnecessary. Then, look into their customer
