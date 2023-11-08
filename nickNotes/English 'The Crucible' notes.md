@@ -41,8 +41,11 @@ What are the key experiences the poet is trying to explore?
 - Facing death in war
 - "Meet my fate" - death
 
-soldiers are normally motivated by
+Soldiers are normally motivated by:
 
 getting to see their family after
 ending the war
 going back home after
+patriotism - fighting for their country, love for their country
+propaganda - tricked into joining
+hate of enemies
