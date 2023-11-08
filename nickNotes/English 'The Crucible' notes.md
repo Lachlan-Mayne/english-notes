@@ -78,3 +78,6 @@ Another key idea that you need to explore in both texts is the concept of parado
 Elizabeth is a person that never lies, but then she comes into a court and lies.
 When things contradict each other and do not easily blend together we refer to them as a paradox.
 
+To have peace we must prepare for war
+
+The 
