@@ -210,3 +210,17 @@ The years to come seemed waste of breath,
 A waste of breath the years behind
 
 In balance with this life, this death.
+
+Facing death in a war
+an airman is another word for a pilot and he can see his death in the skies, almost as if it is expected the next time he goes back into context. 
+pilots flew in small planes and was very dangerous.
+
+Anomaly
+Is something or someone which is different from the status quo, it stands out very much and is far from standard. 
+
+What are soldiers normally motivated by?
+- for their country and their hopes for freedom once the war is over, which is presumed when THEIR side wins. 
+
+Anomaly - motivations
+Yeats uses technique called anaphora to emphasis what he is not motivated by. Repetition can be seen in the word "nor" being repeated throughout the poem. 
+The poet uses anaphora of "nor" to show how all traditional motivations for soldiers do not apply to this character. 
