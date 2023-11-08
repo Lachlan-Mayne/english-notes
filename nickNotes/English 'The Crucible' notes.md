@@ -54,4 +54,7 @@ Anomaly - Motivations
 
 He uses the technique of anaphora to emphasised what he is not motivated by. Anaphora comes from a Greek word meaning repetition. it is when a word is repeated at the start of a number of phrases. In this poem, "Nor law, nor duty bade me fight, Nor public men, nor cheering crowds."
 
-The poet uses the anaphora of "nor" to stress how all the traditional motivations of soldiers do not influence 
+The poet uses the anaphora of "nor" to stress how all the traditional motivations of soldiers do not influence his decisions.
+He is nor being forced to fight by the law
+He is not driven by a sense of duty, doing what is right
+He is not influenced by other people: politicians "public men" and "cheerign"
