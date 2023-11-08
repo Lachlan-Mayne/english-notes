@@ -164,3 +164,71 @@ Cheever and Herrick are at JP’s door with an arrest warrant for Elizabeth. The
 
 In act 2 of the crucible, Miller is setting up the idea of a test or trial. Quite literally a trial by putting Elizabeth in court. Through JP ripping up the warrant shows that he is willing to take a stand against the oppressive society that issued the warrant. The court like Hale believes that God has blessed the court and all decisions and judgements made are correct and just. Because of the witchcraft accusations, the court therefore does not need evidence. When Proctor talks to Mary about her testifying against Abigail in court this is JP trying to protect his reputation, Mary’s behaviour indicates her fear is stronger than her integrity which foreshadows disaster.
 
+8/11
+Learning Intention
+By the end of the week, you will be able to write an essay paragraph that analyses the human experiences in a related text. 
+
+Success Criteria
+1. You can identify the key human experiences in the poem.
+2. You can analyse how the poet represents these experiences using language techniques and form. 
+3. You can link the context of the poem to the human experiences. 
+4. You can explore how the poet uses paradox, inconsistency and anomalies to give insight into human experience. 
+
+Related text: 
+**An Irish Airman foresees his Death**
+
+By [William Butler Yeats](https://www.poetryfoundation.org/poets/william-butler-yeats)
+
+I know that I shall meet my fate
+
+Somewhere among the clouds above;
+
+Those that I fight I do not hate,
+
+Those that I guard I do not love;
+
+My country is Kiltartan Cross,
+
+My countrymen Kiltartan’s poor,
+
+No likely end could bring them loss
+
+Or leave them happier than before.
+
+Nor law, nor duty bade me fight,
+
+Nor public men, nor cheering crowds,
+
+A lonely impulse of delight
+
+Drove to this tumult in the clouds;
+
+I balanced all, brought all to mind,
+
+The years to come seemed waste of breath,
+
+A waste of breath the years behind
+
+In balance with this life, this death.
+
+Facing death in a war
+an airman is another word for a pilot and he can see his death in the skies, almost as if it is expected the next time he goes back into context. 
+pilots flew in small planes and was very dangerous.
+
+Anomaly
+Is something or someone which is different from the status quo, it stands out very much and is far from standard. 
+
+What are soldiers normally motivated by?
+- for their country and their hopes for freedom once the war is over, which is presumed when THEIR side wins. 
+
+Anomaly - motivations
+Yeats uses technique called anaphora to emphasis what he is not motivated by. Repetition can be seen in the word "nor" being repeated throughout the poem. 
+The poet uses anaphora of "nor" to show how all traditional motivations for soldiers do not apply to this character. 
+What is he motivated by?
+"A lonely impulse of delight
+Drove to this tumult in the clouds"
+The contrast is created between the external and internal motivations. The airman is more romantic because he is driven by an impulse that is within him.
+There is also a contrast between "crowds" and the impulse which is "lonely".
+
+Comparison to The Crucible
+the persona of the poem are very different to the characters of The Crucible. 
