@@ -95,3 +95,8 @@ Paradox of war
 Those that I guard I do not love"
 
 It would be more simple if he hated the enemy or if he loved the people he is guarding. As with the anomaly, he is different to many soldiers in the war. He is detached from the people around him and so finds himself trying to kill people that he does not hate. He will be sacrificing his life for people that he does not care for.
+
+CONTEXT - Irish soldiers
+
+Note how the poem focuses on the nationality of the pilot. Why is it significant that he is Irish?
+The context helps us here. During WW1, 
