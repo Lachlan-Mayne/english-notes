@@ -87,3 +87,10 @@ Why paradoxes?
 Human experience is sometimes very complicated. There are aspects of our lives that pull us in opposite directions. Human experience that is dealt with in good texts tends to avoid being neat and simplistic.
 
 The pilot facing his own death in a war is not a simple or easy thing to explain. And so Yeats uses paradoxes to help us wrestle with these complicated and contradictory feelings.
+
+Paradox of war 
+
+"Those that I fight I do not hate,
+Those that I guard I do not love"
+
+It would be more simple if he hated the enemy or if he loved the people he is guarding. As with the anomaly, he is different to many 
