@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "590102144bb87e95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nickNotes/cock - Software.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Special syntax.md",
+                "file": "nickNotes/cock - Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Special syntax.md",
+                "file": "nickNotes/cock - Software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Special syntax.md"
+                "file": "nickNotes/cock - Software.md"
               }
             }
           }
@@ -148,8 +161,10 @@
   },
   "active": "235dd4fd5f80c9c2",
   "lastOpenFiles": [
-    "README.md",
+    "nickNotes/cock 2 - English.md",
+    "nickNotes/cock - Software.md",
     "Special syntax.md",
+    "README.md",
     "shenanigans/Lachlan's editing space/DailyNotes/Nov 8, 2023.md",
     "shenanigans/Lachlan's editing space/DailyNotes/Landing.md",
     "shenanigans/Viz's editing space/file.md",
@@ -173,7 +188,6 @@
     "shenanigans/Business Glossary (READ ONLY).md",
     "shenanigans",
     "obsidian-notes-2024 1",
-    "nickNotes/file.md",
     "nickNotes",
     "english-notes/test.md",
     "english-notes",
@@ -182,7 +196,6 @@
     "Lachlan's editing space",
     "store stuff here/Lachlan's editing space/DailyNotes/Nov 8, 2023.md",
     "store stuff here/Special syntax.md",
-    "store stuff here/README.md",
-    "store stuff here/real/obsidian-notes-2024/shenanigans/Lachlan's editing space/DailyNotes/Nov 8, 2023.md"
+    "store stuff here/README.md"
   ]
 }
