@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c718b8f4a19d4554",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quotes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quotes.md",
+                "file": "Lachlan's editing space/English Notes Lachlan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quotes.md",
+                "file": "Lachlan's editing space/English Notes Lachlan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quotes.md"
+                "file": "Lachlan's editing space/English Notes Lachlan.md"
               }
             }
           }
@@ -159,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c718b8f4a19d4554",
+  "active": "cc490c25d3df25d8",
   "lastOpenFiles": [
+    "Quotes.md",
     "Business Glossary (READ ONLY).md",
     "Lachlan's editing space/Business Notes Lock.md",
     "Qantas case study (CSR) vry helpful.md",
@@ -175,7 +163,6 @@
     "Pasted image 20231107170001.png",
     "[[Business.md",
     "Glossary.md",
-    "Quotes.md",
     "Business.md",
     "Lachlan's editing space/English Notes Lachlan.md",
     "Viz's editing space/Crucible work done in year 10 Viz.md",
