@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nickNotes/cock - Software.md",
+                "file": "nickNotes/English.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nickNotes/cock - Software.md",
+                "file": "nickNotes/English.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nickNotes/cock - Software.md",
+                "file": "nickNotes/English.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nickNotes/cock - Software.md"
+                "file": "nickNotes/English.md"
               }
             }
           }
@@ -161,13 +161,13 @@
   },
   "active": "590102144bb87e95",
   "lastOpenFiles": [
+    "nickNotes/Software.md",
+    "nickNotes/English.md",
     "conflict-files-obsidian-git.md",
-    "nickNotes/cock - Software.md",
     "Lachlan's editing space/English Notes Lachlan.md",
     "Lachlan's editing space/DailyNotes/Landing.md",
     "Lachlan's editing space/Business Notes Lock.md",
     "shenanigans/Special syntax.md",
-    "nickNotes/cock 2 - English.md",
     "Special syntax.md",
     "README.md",
     "shenanigans/Lachlan's editing space/DailyNotes/Nov 8, 2023.md",
