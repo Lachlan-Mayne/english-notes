@@ -76,4 +76,5 @@ Paradox
 
 Another key idea that you need to explore in both texts is the concept of paradox. In real life and in texts we expect things to work together in a logical way and make sense. So we expect cause and effect and we like it when things are predictable and consistent.
 Elizabeth is a person that never lies, but then she comes into a court and lies.
-When things contradict 
+When things contradict each other and do not easily blend together we refer to them as a paradox.
+
