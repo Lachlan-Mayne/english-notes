@@ -82,6 +82,8 @@ To have peace we must prepare for war
 
 The two opposites are "have peace" and "prepare for war". It makes sense because if the opposing force knows we are ready for war then they will be deterred from initiating the war
 
+Why paradoxes?
+
 Human experience is sometimes very complicated. There are aspects of our lives that pull us in opposite directions. Human experience that is dealt with in good texts tends to avoid being neat and simplistic.
 
-The pilot facing his o
+The pilot facing his own death in a war is not a simple or easy thing to explain. And so Yeats uses paradoxes to help us wrestle with these complicated and contradictory feelings.
