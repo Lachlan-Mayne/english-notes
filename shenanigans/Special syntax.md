@@ -39,7 +39,7 @@ flowchart TD
 #tables #diagram 
 
 Here's some text! ^sometext
-[Here's a link to some text!](reak/shenanigans/Special%20syntax.md#^sometext)
+[Here's a link to some text!](shenanigans/Special%20syntax.md#^sometext)
 #links #navigation
 
 
