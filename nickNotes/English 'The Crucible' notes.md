@@ -11,6 +11,6 @@ SC:
 - You can identify the key human experiences in the poem.
 - You can analyse how the poet represents these experiences using language techniques and form.
 - You can link the context of the poem to human experiences.
-- You can explore how the poet uses paradox, inconsistency and anomalies to give insight into the human experience.
+- You can explore how the poet uses **paradox**, **inconsistency** and **anomalies** to give insight into the human experience.
 
-paradox, inconsistency and anomalies
+Key experiences
