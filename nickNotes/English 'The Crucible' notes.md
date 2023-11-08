@@ -82,4 +82,6 @@ To have peace we must prepare for war
 
 The two opposites are "have peace" and "prepare for war". It makes sense because if the opposing force knows we are ready for war then they will be deterred from initiating the war
 
-Human experience is sometimes very 
+Human experience is sometimes very complicated. There are aspects of our lives that pull us in opposite directions. Human experience that is dealt with in good texts tends to avoid being neat and simplistic.
+
+The pilot facing his o
