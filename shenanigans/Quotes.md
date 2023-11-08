@@ -67,4 +67,4 @@ Thomas putnam - man with many grievances, brother in law was turned down as mini
 
 Mr Hale - a very proud man
 
-John Proctor - Top g ^b7197b
+John Proctor - Top g ^Proctor
