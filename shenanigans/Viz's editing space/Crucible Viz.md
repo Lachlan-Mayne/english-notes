@@ -167,3 +167,9 @@ In act 2 of the crucible, Miller is setting up the idea of a test or trial. Quit
 8/11
 Learning Intention
 By the end of the week, you will be able to write an essay paragraph that analyses the human experiences in a related text. 
+
+Success Criteria
+1. You can identify the key human experiences in the poem.
+2. You can analyse how the poet represents these experiences using language techniques and form. 
+3. You can link the context of the poem to the human experiences. 
+4. You can explore how the poet uses paradox, inconsistency and anomalies to give insight into human experience. 
