@@ -52,4 +52,4 @@ Soldiers are normally motivated by:
 
 Anomaly - Motivations
 
-He uses the technique of anaphora to emphasised what he is not motivated by. Ana
+He uses the technique of anaphora to emphasised what he is not motivated by. Anaphora comes from a Greek word meaning repetition. it is when a word is repeated at the start of a number of phrases. In this poem, "Nor law, nor duty bade me fight"
