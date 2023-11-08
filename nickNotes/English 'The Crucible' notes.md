@@ -37,4 +37,5 @@ What are the key experiences the poet is trying to explore?
 
 - Coming to terms with death
 - Facing death in war
-- Meet my fate
+- "Meet my fate" - death
+- 
