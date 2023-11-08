@@ -59,4 +59,7 @@ He is nor being forced to fight by the law
 He is not driven by a sense of duty, doing what is right
 He is not influenced by other people: politicians "public men" and "cheering crowds."
 
-
+What is he motivated by?
+"A lonely impulse of delight
+Drove to this tumult in the clouds"
+The contrast is created between the external and internal motivations.
