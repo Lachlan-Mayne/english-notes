@@ -57,4 +57,6 @@ He uses the technique of anaphora to emphasised what he is not motivated by. Ana
 The poet uses the anaphora of "nor" to stress how all the traditional motivations of soldiers do not influence his decisions.
 He is nor being forced to fight by the law
 He is not driven by a sense of duty, doing what is right
-He is not influenced by other people: politicians "public men" and "cheerign"
+He is not influenced by other people: politicians "public men" and "cheering crowds."
+
+
