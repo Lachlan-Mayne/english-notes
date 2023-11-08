@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#co",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
