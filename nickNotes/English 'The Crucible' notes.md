@@ -5,13 +5,15 @@ tags:
 ---
 Related text: An Irish Airman foresees his death (poem)
 
+An anomaly is something that deviates from what is standard or normal
+
 LI: By the end of the week, you will be able to write an essay paragraph that analyses the human experiences in a related text
 
 SC:
 - You can identify the key human experiences in the poem.
 - You can analyse how the poet represents these experiences using language techniques and form.
 - You can link the context of the poem to human experiences.
-- You can explore how the poet uses **paradox**, **inconsistency** and **anomalies** to give insight into the human experience.
+- You can explore how the poet uses **paradox**, **inconsistency** and  to give insight into the human experience.
 
 Poem: An Irish Airman foresees his Death
 By William Butler Yeats
@@ -38,5 +40,3 @@ What are the key experiences the poet is trying to explore?
 - Coming to terms with death
 - Facing death in war
 - "Meet my fate" - death
-
-An anomaly is something that deviates
