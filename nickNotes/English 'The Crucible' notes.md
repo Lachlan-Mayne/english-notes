@@ -107,3 +107,8 @@ The Final Lines
 
 Note how the final lines of the poem help to resolve the paradox. Yeats uses the form of the poem to convey peace and calm that the pilot feels as he brings into balance. Look at how Yeats uses rhyme scheme and the structure of the poem to reflect this calm balance.
 
+I balanced all, brought all to mind,
+The years to come seemed waste of breath,
+A waste of breath the years behind
+In balance with this life, this death.
+
