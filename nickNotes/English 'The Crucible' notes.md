@@ -3,4 +3,6 @@ tags:
   - crucible
   - english
 ---
-Related text: An Irish Airman foresees his death
+Related text: An Irish Airman foresees his death (poem)
+
+LI: By the end of the week, you will be able to write an essay paragraph that analyses the human experiences in a related text
