@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shenanigans/Special syntax.md",
+                "file": "shenanigans/Viz's editing space/Crucible Viz.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "shenanigans/Special syntax.md",
+                "file": "shenanigans/Viz's editing space/Crucible Viz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "shenanigans/Special syntax.md",
+                "file": "shenanigans/Viz's editing space/Crucible Viz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "shenanigans/Special syntax.md"
+                "file": "shenanigans/Viz's editing space/Crucible Viz.md"
               }
             }
           }
@@ -146,8 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c327201a0b90a8a",
+  "active": "7a9ddcbf3a47219f",
   "lastOpenFiles": [
+    "shenanigans/Viz's editing space/Business Assignment Viz.md",
+    "shenanigans/Viz's editing space/file.md",
+    "shenanigans/Viz's editing space/English notes 2024.md",
+    "shenanigans/Special syntax.md",
     "shenanigans/file.md",
     "shenanigans/README.md",
     "shenanigans",
@@ -166,7 +170,6 @@
     "english-notes/test.md",
     "english-notes",
     "conflict-files-obsidian-git.md",
-    "shenanigans/Special syntax.md",
     "shenanigans/Quotes.md",
     "README.md",
     "Special syntax.md",
@@ -176,13 +179,10 @@
     "nickNotes",
     "Lachlan's editing space/DailyNotes/Nov 8, 2023.md",
     "Lachlan's editing space/DailyNotes",
-    "shenanigans/Viz's editing space/file.md",
-    "shenanigans/Viz's editing space/Crucible work done in year 10 Viz.md",
+    "shenanigans/Viz's editing space/Crucible Viz.md",
     "shenanigans/Viz's editing space/Business Notes Viz.md",
-    "shenanigans/Viz's editing space/Business Assignment Viz.md",
     "shenanigans/Lachlan's editing space/DailyNotes/Nov 8, 2023.md",
     "shenanigans/Lachlan's editing space/DailyNotes/Landing.md",
-    "shenanigans/Lachlan's editing space/file.md",
-    "shenanigans/Lachlan's editing space/Test file.md"
+    "shenanigans/Lachlan's editing space/file.md"
   ]
 }
