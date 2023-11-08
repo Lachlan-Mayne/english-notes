@@ -1,39 +1,52 @@
 {
   "main": {
-    "id": "75ea967bbac70707",
+    "id": "b0a88f685a96076f",
     "type": "split",
     "children": [
       {
-        "id": "0a0e9edef90261de",
+        "id": "1e531979c486cb8d",
         "type": "tabs",
         "children": [
           {
-            "id": "7a9ddcbf3a47219f",
+            "id": "772aec8b7b5e8818",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-notes-2024/README.md",
+                "file": "Special syntax.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "590102144bb87e95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nickNotes/cock - Software.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "4d3296266a04e564",
+    "id": "90260d3f60ed2acb",
     "type": "split",
     "children": [
       {
-        "id": "45e29fcb105f0692",
+        "id": "320e299de6ed451a",
         "type": "tabs",
         "children": [
           {
-            "id": "1c327201a0b90a8a",
+            "id": "235dd4fd5f80c9c2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +56,7 @@
             }
           },
           {
-            "id": "6c6494cbab30f947",
+            "id": "a12f646f10536f43",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +71,7 @@
             }
           },
           {
-            "id": "8ab1d7f05e4f3920",
+            "id": "49b429940b15b3e1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +85,20 @@
     "width": 300
   },
   "right": {
-    "id": "629ba2fcd9d6cfcd",
+    "id": "87e07bac30d46b7d",
     "type": "split",
     "children": [
       {
-        "id": "30c570cd21ff2701",
+        "id": "2599608c8aee06ba",
         "type": "tabs",
         "children": [
           {
-            "id": "4eb2537a52d605ce",
+            "id": "51fec20468776d0a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian-notes-2024/README.md",
+                "file": "nickNotes/cock - Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +110,19 @@
             }
           },
           {
-            "id": "750a64f1a7cf066a",
+            "id": "1324fff252dd4887",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian-notes-2024/README.md",
+                "file": "nickNotes/cock - Software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "0a51c46a2a9ce7c6",
+            "id": "ec6443d7836b77a5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +133,12 @@
             }
           },
           {
-            "id": "2c0a39e7f70d4b78",
+            "id": "2171e27d35ea3db6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian-notes-2024/README.md"
+                "file": "nickNotes/cock - Software.md"
               }
             }
           }
@@ -146,38 +159,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a9ddcbf3a47219f",
+  "active": "235dd4fd5f80c9c2",
   "lastOpenFiles": [
-    "obsidian-notes-2024/Qantas case study (CSR) vry helpful.md",
-    "obsidian-notes-2024/README.md",
+    "nickNotes/cock 2 - English.md",
+    "nickNotes/cock - Software.md",
+    "Special syntax.md",
+    "README.md",
+    "shenanigans/Lachlan's editing space/DailyNotes/Nov 8, 2023.md",
+    "shenanigans/Lachlan's editing space/DailyNotes/Landing.md",
+    "shenanigans/Viz's editing space/file.md",
+    "shenanigans/Viz's editing space/Crucible work done in year 10 Viz.md",
+    "shenanigans/Viz's editing space/Business Notes Viz.md",
+    "shenanigans/Viz's editing space/Business Assignment Viz.md",
+    "shenanigans/Lachlan's editing space/file.md",
+    "shenanigans/Lachlan's editing space/Test file.md",
+    "shenanigans/Lachlan's editing space/English Notes Lachlan.md",
+    "shenanigans/Lachlan's editing space/DailyNotes",
+    "shenanigans/Lachlan's editing space/Business Notes Lock.md",
+    "shenanigans/obsidian-notes-2024",
+    "shenanigans/file.md",
+    "shenanigans/Viz's editing space",
+    "shenanigans/Special syntax.md",
+    "shenanigans/README.md",
+    "shenanigans/Quotes.md",
+    "shenanigans/Qantas case study (CSR) vry helpful.md",
+    "shenanigans/Lachlan's editing space",
+    "shenanigans/Glossary.md",
+    "shenanigans/Business Glossary (READ ONLY).md",
+    "shenanigans",
+    "obsidian-notes-2024 1",
+    "nickNotes",
     "english-notes/test.md",
     "english-notes",
-    "conflict-files-obsidian-git.md",
-    "obsidian-notes-2024/Special syntax.md",
-    "obsidian-notes-2024/Quotes.md",
-    "README.md",
-    "Special syntax.md",
-    "obsidian-notes-2024/Glossary.md",
-    "obsidian-notes-2024/Business Glossary (READ ONLY).md",
-    "nickNotes/file.md",
-    "nickNotes",
     "Lachlan's editing space/DailyNotes/Nov 8, 2023.md",
     "Lachlan's editing space/DailyNotes",
     "Lachlan's editing space",
-    "obsidian-notes-2024/english-notes",
-    "obsidian-notes-2024/Viz's editing space/file.md",
-    "obsidian-notes-2024/Viz's editing space/Crucible work done in year 10 Viz.md",
-    "obsidian-notes-2024/Viz's editing space/Business Notes Viz.md",
-    "obsidian-notes-2024/Viz's editing space/Business Assignment Viz.md",
-    "obsidian-notes-2024/Viz's editing space",
-    "obsidian-notes-2024/Lachlan's editing space/DailyNotes/Nov 8, 2023.md",
-    "obsidian-notes-2024/Lachlan's editing space/DailyNotes/Landing.md",
-    "obsidian-notes-2024/Lachlan's editing space/file.md",
-    "obsidian-notes-2024/Lachlan's editing space/Test file.md",
-    "obsidian-notes-2024/Lachlan's editing space/Business Notes Lock.md",
-    "obsidian-notes-2024/Lachlan's editing space/English Notes Lachlan.md",
-    "obsidian-notes-2024/Lachlan's editing space/DailyNotes",
-    "obsidian-notes-2024/Lachlan's editing space",
-    "obsidian-notes-2024"
+    "store stuff here/Lachlan's editing space/DailyNotes/Nov 8, 2023.md",
+    "store stuff here/Special syntax.md",
+    "store stuff here/README.md"
   ]
 }
