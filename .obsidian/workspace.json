@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Special syntax.md",
+                "file": "nickNotes/English 'The Crucible' notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Special syntax.md",
+                "file": "nickNotes/English 'The Crucible' notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Special syntax.md"
+                "file": "nickNotes/English 'The Crucible' notes.md"
               }
             }
           }
@@ -158,10 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "590102144bb87e95",
+  "active": "3b65dd5ae1bedd7a",
   "lastOpenFiles": [
-    "nickNotes/English 'The Crucible' notes.md",
     "Special syntax.md",
+    "nickNotes/English 'The Crucible' notes.md",
     "nickNotes/Software.md",
     "conflict-files-obsidian-git.md",
     "Lachlan's editing space/English Notes Lachlan.md",
