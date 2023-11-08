@@ -99,4 +99,4 @@ It would be more simple if he hated the enemy or if he loved the people he is gu
 CONTEXT - Irish soldiers
 
 Note how the poem focuses on the nationality of the pilot. Why is it significant that he is Irish?
-The context helps us here. During WW1, Ireland was seeking to be independent of the United Kingdom. There were rebellions against the British in parts of Ireland. So an Irish man 
+The context helps us here. During WW1, Ireland was seeking to be independent of the United Kingdom. There were rebellions against the British in parts of Ireland. So an Irish man fighting in the English army might feel detached or have mixed feelings (ambivalence) about dying for a country that he does not feel he belongs to. 
