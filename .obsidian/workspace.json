@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -159,7 +160,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "235dd4fd5f80c9c2",
+  "active": "a12f646f10536f43",
   "lastOpenFiles": [
     "nickNotes/cock 2 - English.md",
     "nickNotes/cock - Software.md",
