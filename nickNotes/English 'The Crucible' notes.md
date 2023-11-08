@@ -13,7 +13,7 @@ SC:
 - You can identify the key human experiences in the poem.
 - You can analyse how the poet represents these experiences using language techniques and form.
 - You can link the context of the poem to human experiences.
-- You can explore how the poet uses **paradox**, **inconsistency** and [anomaly](An anomaly is something that deviates from what is standard or normal) to give insight into the human experience.
+- You can explore how the poet uses **paradox**, **inconsistency** and [anomaly](English%20syntax.md#^sometext) to give insight into the human experience.
 
 Poem: An Irish Airman foresees his Death
 By William Butler Yeats
@@ -40,3 +40,5 @@ What are the key experiences the poet is trying to explore?
 - Coming to terms with death
 - Facing death in war
 - "Meet my fate" - death
+
+
