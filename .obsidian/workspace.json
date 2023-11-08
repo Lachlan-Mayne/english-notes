@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "44bd358925bfd605",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "shenanigans/Viz's editing space/Crucible Viz.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,8 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a9ddcbf3a47219f",
+  "active": "44bd358925bfd605",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "shenanigans/Viz's editing space/Crucible Viz.md",
+    "reak/obsidian-notes-2024",
+    "reak",
+    "nickNotes/Software.md",
+    "nickNotes/English.md",
+    "Lachlan's editing space/English Notes Lachlan.md",
+    "Lachlan's editing space/DailyNotes/Landing.md",
+    "Lachlan's editing space/Business Notes Lock.md",
     "shenanigans/Viz's editing space/Business Assignment Viz.md",
     "shenanigans/Viz's editing space/file.md",
     "shenanigans/Viz's editing space/English notes 2024.md",
@@ -169,20 +191,11 @@
     "shenanigans/Qantas case study (CSR) vry helpful.md",
     "english-notes/test.md",
     "english-notes",
-    "conflict-files-obsidian-git.md",
     "shenanigans/Quotes.md",
     "README.md",
     "Special syntax.md",
     "shenanigans/Glossary.md",
     "shenanigans/Business Glossary (READ ONLY).md",
-    "nickNotes/file.md",
-    "nickNotes",
-    "Lachlan's editing space/DailyNotes/Nov 8, 2023.md",
-    "Lachlan's editing space/DailyNotes",
-    "shenanigans/Viz's editing space/Crucible Viz.md",
-    "shenanigans/Viz's editing space/Business Notes Viz.md",
-    "shenanigans/Lachlan's editing space/DailyNotes/Nov 8, 2023.md",
-    "shenanigans/Lachlan's editing space/DailyNotes/Landing.md",
-    "shenanigans/Lachlan's editing space/file.md"
+    "nickNotes/file.md"
   ]
 }

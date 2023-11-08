@@ -164,3 +164,6 @@ Cheever and Herrick are at JP’s door with an arrest warrant for Elizabeth. The
 
 In act 2 of the crucible, Miller is setting up the idea of a test or trial. Quite literally a trial by putting Elizabeth in court. Through JP ripping up the warrant shows that he is willing to take a stand against the oppressive society that issued the warrant. The court like Hale believes that God has blessed the court and all decisions and judgements made are correct and just. Because of the witchcraft accusations, the court therefore does not need evidence. When Proctor talks to Mary about her testifying against Abigail in court this is JP trying to protect his reputation, Mary’s behaviour indicates her fear is stronger than her integrity which foreshadows disaster.
 
+8/11
+Learning Intention
+By the end of the week, you will be able to write an essay paragraph that analyses the human experiences in a related text. 
