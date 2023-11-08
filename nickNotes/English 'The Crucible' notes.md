@@ -34,3 +34,7 @@ By William Butler Yeats
 	In balance with this life, this death.
 
 What are the key experiences the poet is trying to explore?
+
+- Coming to terms with death
+- Facing death in war
+- Meet my fate
