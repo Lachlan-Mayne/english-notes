@@ -65,3 +65,6 @@ Drove to this tumult in the clouds"
 The contrast is created between the external and internal motivations.
 The airman is more romantic because he is driven by an impulse that is within him.
 Note also the contrast between "crowds" and the impulse which is "lonely."
+
+Comparison to The Crucible
+
