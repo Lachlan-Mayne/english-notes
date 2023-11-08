@@ -105,5 +105,5 @@ The context helps us here. During WW1, Ireland was seeking to be independent of 
 
 The Final Lines
 
-Note how the final lines of the poem help to resolve the paradox. Yeats uses the form of the poem to convey peace and calm that the pilot feels as he brings into balance the 
+Note how the final lines of the poem help to resolve the paradox. Yeats uses the form of the poem to convey peace and calm that the pilot feels as he brings into balance. Look at how Yeats uses rhyme scheme and the structure of the poem to reflect this calm balance.
 
