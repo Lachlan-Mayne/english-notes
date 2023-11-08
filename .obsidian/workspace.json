@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reak/obsidian-notes-2024/README.md",
+                "file": "reak/Special syntax.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reak/obsidian-notes-2024/README.md",
+                "file": "reak/Special syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reak/obsidian-notes-2024/README.md",
+                "file": "reak/Special syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reak/obsidian-notes-2024/README.md"
+                "file": "reak/Special syntax.md"
               }
             }
           }
@@ -146,40 +146,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "772aec8b7b5e8818",
+  "active": "235dd4fd5f80c9c2",
   "lastOpenFiles": [
-    "reak/obsidian-notes-2024/Special syntax.md",
-    "reak/obsidian-notes-2024/README.md",
-    "reak/obsidian-notes-2024/shenanigans/Lachlan's editing space/DailyNotes/Nov 8, 2023.md",
-    "reak/obsidian-notes-2024/shenanigans/Lachlan's editing space/DailyNotes/Landing.md",
-    "reak/obsidian-notes-2024/shenanigans/Viz's editing space/file.md",
-    "reak/obsidian-notes-2024/shenanigans/Viz's editing space/Crucible work done in year 10 Viz.md",
-    "reak/obsidian-notes-2024/shenanigans/Viz's editing space/Business Notes Viz.md",
-    "reak/obsidian-notes-2024/shenanigans/Viz's editing space/Business Assignment Viz.md",
-    "reak/obsidian-notes-2024/shenanigans/Lachlan's editing space/file.md",
-    "reak/obsidian-notes-2024/shenanigans/Lachlan's editing space/Test file.md",
-    "reak/obsidian-notes-2024/shenanigans/Lachlan's editing space/English Notes Lachlan.md",
-    "reak/obsidian-notes-2024/shenanigans/Lachlan's editing space/DailyNotes",
-    "reak/obsidian-notes-2024/shenanigans/Lachlan's editing space/Business Notes Lock.md",
-    "reak/obsidian-notes-2024/shenanigans/obsidian-notes-2024",
-    "reak/obsidian-notes-2024/shenanigans/file.md",
-    "reak/obsidian-notes-2024/shenanigans/Viz's editing space",
-    "reak/obsidian-notes-2024/shenanigans/Special syntax.md",
-    "reak/obsidian-notes-2024/shenanigans/README.md",
-    "reak/obsidian-notes-2024/shenanigans/Quotes.md",
-    "reak/obsidian-notes-2024/shenanigans/Qantas case study (CSR) vry helpful.md",
-    "reak/obsidian-notes-2024/shenanigans/Lachlan's editing space",
-    "reak/obsidian-notes-2024/shenanigans/Glossary.md",
-    "reak/obsidian-notes-2024/shenanigans/Business Glossary (READ ONLY).md",
-    "reak/obsidian-notes-2024/shenanigans",
-    "reak/obsidian-notes-2024/obsidian-notes-2024",
-    "reak/obsidian-notes-2024/nickNotes/file.md",
-    "reak/obsidian-notes-2024/nickNotes",
-    "reak/obsidian-notes-2024/english-notes/test.md",
-    "reak/obsidian-notes-2024/english-notes",
-    "reak/obsidian-notes-2024/Lachlan's editing space/DailyNotes/Nov 8, 2023.md",
-    "reak/obsidian-notes-2024/Lachlan's editing space/DailyNotes",
-    "reak/obsidian-notes-2024/Lachlan's editing space",
+    "reak/README.md",
+    "reak/Special syntax.md",
+    "reak/shenanigans/Lachlan's editing space/DailyNotes/Nov 8, 2023.md",
+    "reak/shenanigans/Lachlan's editing space/DailyNotes/Landing.md",
+    "reak/shenanigans/Viz's editing space/file.md",
+    "reak/shenanigans/Viz's editing space/Crucible work done in year 10 Viz.md",
+    "reak/shenanigans/Viz's editing space/Business Notes Viz.md",
+    "reak/shenanigans/Viz's editing space/Business Assignment Viz.md",
+    "reak/shenanigans/Lachlan's editing space/file.md",
+    "reak/shenanigans/Lachlan's editing space/Test file.md",
+    "reak/shenanigans/Lachlan's editing space/English Notes Lachlan.md",
+    "reak/shenanigans/Lachlan's editing space/DailyNotes",
+    "reak/shenanigans/Lachlan's editing space/Business Notes Lock.md",
+    "reak/shenanigans/obsidian-notes-2024",
+    "reak/shenanigans/file.md",
+    "reak/shenanigans/Viz's editing space",
+    "reak/shenanigans/Special syntax.md",
+    "reak/shenanigans/README.md",
+    "reak/shenanigans/Quotes.md",
+    "reak/shenanigans/Qantas case study (CSR) vry helpful.md",
+    "reak/shenanigans/Lachlan's editing space",
+    "reak/shenanigans/Glossary.md",
+    "reak/shenanigans/Business Glossary (READ ONLY).md",
+    "reak/shenanigans",
+    "reak/obsidian-notes-2024 1",
+    "reak/nickNotes/file.md",
+    "reak/nickNotes",
+    "reak/english-notes/test.md",
+    "reak/english-notes",
+    "reak/Lachlan's editing space/DailyNotes/Nov 8, 2023.md",
+    "reak/Lachlan's editing space/DailyNotes",
+    "reak/Lachlan's editing space",
     "store stuff here/Lachlan's editing space/DailyNotes/Nov 8, 2023.md",
     "store stuff here/Special syntax.md",
     "store stuff here/README.md",
