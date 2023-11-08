@@ -110,9 +110,10 @@ Note how the final lines of the poem help to resolve the paradox. Yeats uses the
 "I **balanced** all, brought all to mind,
 The years to **come** seemed 
 **waste of breath**,
+___
 A **waste of breath** 
 the years **behind**
 In **balance** with this life, this death."
 
-
+This is called the chiastic structure. It c
 
