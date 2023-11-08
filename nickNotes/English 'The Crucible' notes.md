@@ -96,7 +96,10 @@ Those that I guard I do not love"
 
 It would be more simple if he hated the enemy or if he loved the people he is guarding. As with the anomaly, he is different to many soldiers in the war. He is detached from the people around him and so finds himself trying to kill people that he does not hate. He will be sacrificing his life for people that he does not care for.
 
+If war is about killing, you would expect it to be driven by very strong emotions. Yeats explores the complicated nature of war by removing the emotions 
+
 CONTEXT - Irish soldiers
 
 Note how the poem focuses on the nationality of the pilot. Why is it significant that he is Irish?
 The context helps us here. During WW1, Ireland was seeking to be independent of the United Kingdom. There were rebellions against the British in parts of Ireland. So an Irish man fighting in the English army might feel detached or have mixed feelings (ambivalence) about dying for a country that he does not feel he belongs to. 
+
