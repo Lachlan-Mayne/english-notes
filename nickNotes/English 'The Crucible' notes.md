@@ -43,9 +43,13 @@ What are the key experiences the poet is trying to explore?
 
 Soldiers are normally motivated by:
 
-getting to see their family after
-ending the war
-going back home after
-patriotism - fighting for their country, love for their country
-propaganda - tricked into joining
-hate of enemies
+- getting to see their family after
+- ending the war
+- going back home after
+- patriotism - fighting for their country, love for their country
+- propaganda - tricked into joining
+- hate of enemies
+
+Anomaly - Motivations
+
+He uses the technique of anaphora to emphasised what he is not motivated by. Ana
