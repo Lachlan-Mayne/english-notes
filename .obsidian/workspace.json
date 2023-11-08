@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nickNotes/English.md",
+                "file": "nickNotes/English 'The Crucible' notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:crucible",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nickNotes/English.md",
+                "file": "nickNotes/English 'The Crucible' notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nickNotes/English.md",
+                "file": "nickNotes/English 'The Crucible' notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nickNotes/English.md"
+                "file": "nickNotes/English 'The Crucible' notes.md"
               }
             }
           }
@@ -159,10 +160,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "590102144bb87e95",
+  "active": "a12f646f10536f43",
   "lastOpenFiles": [
     "nickNotes/Software.md",
-    "nickNotes/English.md",
+    "nickNotes/English 'The Crucible' notes.md",
     "conflict-files-obsidian-git.md",
     "Lachlan's editing space/English Notes Lachlan.md",
     "Lachlan's editing space/DailyNotes/Landing.md",
