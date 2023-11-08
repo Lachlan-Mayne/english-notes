@@ -32,3 +32,5 @@ By William Butler Yeats
 	The years to come seemed waste of breath,
 	A waste of breath the years behind
 	In balance with this life, this death.
+
+What are the key experiences the poet is trying to explore?
