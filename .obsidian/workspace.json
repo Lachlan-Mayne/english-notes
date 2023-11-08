@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lachlan's editing space/English Notes Lachlan.md",
+                "file": "Lachlan's editing space/DailyNotes/Nov 8, 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lachlan's editing space/English Notes Lachlan.md",
+                "file": "Lachlan's editing space/DailyNotes/Nov 8, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lachlan's editing space/English Notes Lachlan.md",
+                "file": "Lachlan's editing space/DailyNotes/Nov 8, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lachlan's editing space/English Notes Lachlan.md"
+                "file": "Lachlan's editing space/DailyNotes/Nov 8, 2023.md"
               }
             }
           }
@@ -148,12 +148,13 @@
   },
   "active": "cc490c25d3df25d8",
   "lastOpenFiles": [
+    "Special syntax.md",
+    "Lachlan's editing space/English Notes Lachlan.md",
     "Quotes.md",
     "Business Glossary (READ ONLY).md",
     "Lachlan's editing space/Business Notes Lock.md",
     "Qantas case study (CSR) vry helpful.md",
     "Lachlan's editing space/DailyNotes/Nov 8, 2023.md",
-    "Special syntax.md",
     "nickNotes/English 'The Crucible' notes.md",
     "nickNotes/Software.md",
     "nickNotes",
@@ -164,7 +165,6 @@
     "[[Business.md",
     "Glossary.md",
     "Business.md",
-    "Lachlan's editing space/English Notes Lachlan.md",
     "Viz's editing space/Crucible work done in year 10 Viz.md",
     "Lachlan's editing space/Test file.md",
     "Viz's editing space/file.md",
