@@ -232,3 +232,12 @@ There is also a contrast between "crowds" and the impulse which is "lonely".
 
 Comparison to The Crucible
 the persona of the poem are very different to the characters of The Crucible. 
+
+
+Paradox
+Another key idea that needs to be explored in both texts is the concept of paradox. Most of the time we expect things in life to make logical sense and predictable. Paradox's are the opposite, these draw attention to ideas and help them contradict and go against what is predicted. 
+
+Why Paradox's?
+Human experience is sometimes complicated. Some things in life pull us in opposite directions. Good texts try to avoid being neat and simplistic. 
+Paradoxes are helpful for us when trying to understand complicated and contradictory feelings. 
+
