@@ -68,3 +68,6 @@ Note also the contrast between "crowds" and the impulse which is "lonely."
 
 Comparison to The Crucible
 
+There is a big contrast between the two
+Poem MC is uncaring about the world around him wants to do his own thing
+The Crucible characters care too much about how other people see them
