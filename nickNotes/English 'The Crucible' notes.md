@@ -57,4 +57,14 @@ He uses the technique of anaphora to emphasised what he is not motivated by. Ana
 The poet uses the anaphora of "nor" to stress how all the traditional motivations of soldiers do not influence his decisions.
 He is nor being forced to fight by the law
 He is not driven by a sense of duty, doing what is right
-He is not influenced by other people: politicians "public men" and "cheerign"
+He is not influenced by other people: politicians "public men" and "cheering crowds."
+
+What is he motivated by?
+"A lonely impulse of delight
+Drove to this tumult in the clouds"
+The contrast is created between the external and internal motivations.
+The airman is more romantic because he is driven by an impulse that is within him.
+Note also the contrast between "crowds" and the impulse which is "lonely."
+
+Comparison to The Crucible
+
