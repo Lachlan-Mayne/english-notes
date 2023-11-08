@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "42bd8b090dc3abb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nickNotes/English 'The Crucible' notes.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nickNotes/English 'The Crucible' notes.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nickNotes/English 'The Crucible' notes.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -159,15 +171,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b65dd5ae1bedd7a",
+  "active": "42bd8b090dc3abb6",
   "lastOpenFiles": [
+    "nickNotes/English 'The Crucible' notes.md",
+    "conflict-files-obsidian-git.md",
+    "Viz's editing space/file.md",
+    "Viz's editing space/Crucible Viz.md",
+    "Viz's editing space/Business Notes Viz.md",
+    "Viz's editing space/Business Assignment Viz.md",
+    "Viz's editing space",
+    "Quotes.md",
+    "Qantas case study (CSR) vry helpful.md",
+    "Glossary.md",
+    "Business Glossary (READ ONLY).md",
     "shenanigans/Viz's editing space/Crucible Viz.md",
     "obsidian-notes-2024",
     "Special syntax.md",
-    "nickNotes/English 'The Crucible' notes.md",
     "An.md",
     "nickNotes/Software.md",
-    "conflict-files-obsidian-git.md",
     "Lachlan's editing space/English Notes Lachlan.md",
     "Lachlan's editing space/DailyNotes/Landing.md",
     "Lachlan's editing space/Business Notes Lock.md",
@@ -180,22 +201,13 @@
     "shenanigans/Viz's editing space/Business Notes Viz.md",
     "shenanigans/Viz's editing space/Business Assignment Viz.md",
     "shenanigans/Lachlan's editing space/file.md",
-    "shenanigans/Lachlan's editing space/Test file.md",
-    "shenanigans/Lachlan's editing space/English Notes Lachlan.md",
     "shenanigans/Lachlan's editing space/DailyNotes",
-    "shenanigans/Lachlan's editing space/Business Notes Lock.md",
     "shenanigans/obsidian-notes-2024",
-    "shenanigans/file.md",
     "shenanigans/Viz's editing space",
-    "shenanigans/README.md",
-    "shenanigans/Quotes.md",
-    "shenanigans/Qantas case study (CSR) vry helpful.md",
     "shenanigans/Lachlan's editing space",
-    "shenanigans/Glossary.md",
     "shenanigans",
     "obsidian-notes-2024 1",
     "nickNotes",
-    "english-notes",
-    "Lachlan's editing space/DailyNotes"
+    "english-notes"
   ]
 }
