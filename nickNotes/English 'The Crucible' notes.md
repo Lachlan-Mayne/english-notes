@@ -115,5 +115,7 @@ A **waste of breath**
 the years **behind**
 In **balance** with this life, this death."
 
-This is called the chiastic structure. It c
+This is called the chiastic structure. It creates a balance and symmetry.
+
+
 
