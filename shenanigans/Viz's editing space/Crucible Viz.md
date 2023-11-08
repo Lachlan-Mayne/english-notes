@@ -224,3 +224,11 @@ What are soldiers normally motivated by?
 Anomaly - motivations
 Yeats uses technique called anaphora to emphasis what he is not motivated by. Repetition can be seen in the word "nor" being repeated throughout the poem. 
 The poet uses anaphora of "nor" to show how all traditional motivations for soldiers do not apply to this character. 
+What is he motivated by?
+"A lonely impulse of delight
+Drove to this tumult in the clouds"
+The contrast is created between the external and internal motivations. The airman is more romantic because he is driven by an impulse that is within him.
+There is also a contrast between "crowds" and the impulse which is "lonely".
+
+Comparison to The Crucible
+the persona of the poem are very different to the characters of The Crucible. 
