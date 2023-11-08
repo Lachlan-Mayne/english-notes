@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -160,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a12f646f10536f43",
+  "active": "590102144bb87e95",
   "lastOpenFiles": [
-    "nickNotes/cock 2 - English.md",
+    "shenanigans/Special syntax.md",
     "nickNotes/cock - Software.md",
+    "nickNotes/cock 2 - English.md",
     "Special syntax.md",
     "README.md",
     "shenanigans/Lachlan's editing space/DailyNotes/Nov 8, 2023.md",
@@ -180,7 +180,6 @@
     "shenanigans/obsidian-notes-2024",
     "shenanigans/file.md",
     "shenanigans/Viz's editing space",
-    "shenanigans/Special syntax.md",
     "shenanigans/README.md",
     "shenanigans/Quotes.md",
     "shenanigans/Qantas case study (CSR) vry helpful.md",
