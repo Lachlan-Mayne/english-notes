@@ -1,4 +1,12 @@
+---
+tags:
+  - maths
+  - mathematics
+---
 # Maths: Differentiating Logarithmically
+
+$g(x)=a^{f(x)}$
+$g'(x)=ln_a*f'(x)*a^{f(x)}$
 
 Differentiate $y=x^x$
 Take natural log of both sides: $\ln{y}=\ln{x^x}$
@@ -21,3 +29,51 @@ Consider the equation: $$h(x)=\frac{g(x)}{f(x)}$$
 Vertical asymptotes where denominator $f(x)=0$
 Horizontal asymptotes are found through **limiting behaviour**, $\lim \limits_{x \to \infty} f(x)$, divide throughout $h(x)$ by highest power in $f(x)$. 
 Test if the function is even by subbing in $f(-x)$
+
+
+trig:
+To graph, use caps
+$f(x)=asin(b(x+c))+d$
+C: Centre ($d$)
+A: Amplitude ($a$)
+P: Period ($\frac{2π}{b}$ if sin/cos, $\frac{π}{b}$ if tan)
+S: shift ($c$)
+
+Solving trig eqns:
+$y=sin(x)$
+RAA: related acute angle, $sin^-1(|y|)$ - then find quadrants using ASTC (all positive, sin positive, cos positive, tan positive)
+Simplify equations initially before working on 
+
+
+
+Finding asymptotes:
+Denominator = 0, vertical asymptotes at value of x to equal zero
+
+horizontal:
+$f(x)=\frac{2^x+1}{2^x-1}$
+as $x$⇒-∞, $2^x+1$ --> 1 & $2^x-1$ -> -1
+horizontal:
+$f(x)=\frac{\sqrt{16x^2-8}}{2x-5}$
+Divide throughout by 1/x
+=$\frac{\sqrt{(16x^2-8)*\frac{1^2}{x^2}}}{2-\frac{5}{x}}$
+=$\frac{\sqrt{16-0}}{2-0}$
+=$\frac{4}{2}$
+=2
+∴horizontal asymptote at y=2 for positive values of x
+
+Vertical:
+$f(x)=\frac{x}{x^2-4}$
+= $\frac{x}{(x+2)(x-2)}$
+∴asymptotes at x=±2, as denominator ≠ 0
+DISREGARD vertical:
+divide by the highest power in denominator
+$f(x)=\frac{x}{x^2-4}$
+$÷x^2$
+=$\frac{\frac{x}{x^2}}{\frac{x^2}{x^2}-\frac{4}{x^2}}$
+=$\frac{\frac{1}{x}}{1-\frac{4}{x^2}}$
+as $x$ becomes bigger, 1/x becomes smaller. Same with $4/x^2$
+apply a limit as x approaches 0:
+= $\lim_{x \to ±∞}$ , $\frac{1}{x} \rightarrow 0$
+= $\frac{0}{1-0}$
+=$0$
+Whenever there is a power on the bottom of the fraction larger than the top, doing the above process will always result in 0
