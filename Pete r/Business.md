@@ -106,203 +106,98 @@ They would lose customers, and potential future profits.
 
 **What would be the implications of a business that successfully met quality expectations?**
 They would have an increase in revenue for as long as they are able to exceed the expectations that customers have for them.
-
-  
-  
-  
-
 ## **There is an intrinsic link between price and quality**
 
-  
-  
+**Cost based competition** is derived from determining the breakeven point and then applying strategies to create cost advantages over competitors.  
 
-**Cost based competition** is derived from determining the breakeven point and then applying strategies to create cost advantages over competitors.
-
-  
-
-**Government Policies:**
-
-  
+## **Government Policies:**
 
 - Government policies change from time to time, usually due to a change in government or a change in social expectations
-
 - Government policy is a major influence on operations because all businesses operate in a political–legal environment
-
 - Political decisions affect the rules and regulations that a business must follow, which, in turn, directly affects each function - particularly operations
 
-  
-
-What might be an example of a government policy that influences the operations functions of a business?
-
-  
-
+**What might be an example of a government policy that influences the operations functions of a business?**
 The government taxing certain goods or services can influence the operations functions of a business. An example of this would be the cigarette tax imposed by the government. It requires companies to have an extra tax on the ability to sell cigarettes; thus limiting the profitability of them by a small margin.
 
-  
 
-Policies that impact business operations may include:
-
-  
-
+## Policies that impact business operations may include:
 - Taxation rates
-
 - Required materials handling practices
-
 - Work health and safety (WHS) standards
-
 - Training and rules
-
 - Public health policies
-
 - Environmental policies
-
 - Employment relations
-
 - Trade and industry policies
 
-  
-
-**Influence on Qantas operations:**
-
-  
+## **Influence on Qantas operations:**
 
 During the pandemic Qantas retired their 6 remaining 747s, grounded around 100 aircraft including most of their international fleet for up to 12 months, put all its 12 Airbus A380s into storage in Mojave Desert and deferred deliveries of new planes – a huge impact on Operations as a result of Government Covid policies.
 
-  
-
 Taking care of grounded planes impacted what Operations did. Planes were towed periodically, aircraft cleaned inside and out, engines turned over etc.
-
-  
 
 Operations had to introduce a deep clean of aircrafts into their process (as a means of quality management). The aircraft was also forced to replace their High-Efficiency Particle Filters (HEPA).
 
-  
-
 Normally items like blankets, pillows and headphones were cleaned and reused, but they needed to be thrown out or even destroyed.
 
-  
-
-**Legal Regulations:**
-
-  
+## **Legal Regulations:**
 
 - Another highly significant external influence is the range of laws with which a business must comply
-
 - All parts of a business, not just operations must abide by the relevant laws
-
 - Relevant laws for operations will relate to labour and labour management, the environment and public health
 
-  
-  
-
 |**Legal Area**|**What it consists of**|
-
 | :-: | :-: |
-
 |Labour laws|Minimum wage, award wages, hours, breaks, leave, workers compensation and health and safety laws|
-
 |Environmental and public health|Regulations stopping dumping, pollution|
-
 |Business and licensing rules|Particular levels of training or certification, conditions on operations|
-
 |Taxation|Levies and duties, taxes imposed on profits, superannuation. Tax can be applied in such a way as to encourage particular practices, or discourage others|
-
 |Trade practices|Market power, misleading and unfair conduct, price collusion, monopoly behaviour, market concentration|
-
 |Migration and the use of offshore skilled labour|Minimum standards for labour brought in from other nations|
-
 |Intellectual property|Moral rights such as copyright, patents, trademarks, designs and other original ideas and artistic works|
-
 |Financial and accounting regulations|Standardise methods and rules around financial reports and record, as well as ensuring that company directors follow certain rules|
-
 |Human rights|Rules restricting discrimination|
 
-  
-
-**Corporate Social Responsibility:**
-
-  
+## **Corporate Social Responsibility:**
 
 - It involves businesses doing more than just complying with the laws and regulations
-
 - Also known as the ‘triple bottom line,’ CSR places value on financial returns as well as social responsibility and environmental sustainability
-
 - CSR - the difference between legal compliance and ethical responsibility
 
-  
-
-**Inputs at Qantas:**
-
-  
+## **Inputs at Qantas:**
 
 **Transformed:**
-
-  
-
 - **Materials:**
-
 - Fossil fuels
-
 - Food for catering
-
 - Paper and computers
 
-- **Information:**
-
+**Information:**
 - Gov stats
-
 - Market and industry reports
-
 - Media reports
-
 - Academic papers
-
 - Financial operation stats, data on prev performance
 
-- **Customers:**
-
+**Customers:**
 - Transformed by transportation from one location to another
 
-  
-
 **Transforming:**
-
-  
-
 - Human resources:
-
 - Everyone from the cleaners and baggage handlers to the pilots and sales managers
-
 - Facilities/capital:
-
 - Terminal buildings and contents
-
 - Maintenance facilities
 
-  
-
 **The 4 V’s:**
-
-  
-
 - Volume: How much of a product is made
-
 - Variety: The range of products made
-
 - Variation in demand: The differing amounts of a product desired by customers
-
 - Visibility: The nature and amount of customer contact (feedback)
 
-  
-
 **Technology:**
-
-  
-
 - Often, an increase in technology will lead to a decrease in human employees
-
 - As technology improves, the cost is decreasing, but businesses may need to factor in the cost of redundancies
-
 - Creates more efficiency in the transformation process
 
   
