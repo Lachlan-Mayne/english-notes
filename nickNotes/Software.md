@@ -1,7 +1,3 @@
 ---
-tags:
-  - tag
-  - a
-  - tag
-  - b
+tags: []
 ---
