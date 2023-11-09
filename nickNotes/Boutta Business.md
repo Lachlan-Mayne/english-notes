@@ -1,5 +1,4 @@
 ---
 tags:
-  - tag
-  - b
+  - business
 ---
