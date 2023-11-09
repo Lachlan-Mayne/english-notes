@@ -374,6 +374,9 @@ a) Outline ONE way that e-commerce could assist Casey with supply chain manageme
 
 Casey's fuel and convenience store could benefit  from e-commerce could be through how it can be integrated with supply chain management. Casey could use the internet to contact bulk retailers to minimise costs. E-commerce would also be a good way for Casey to negotiate delivery costs and times for her shop and to possibly see if there is a cheaper alternative online to keep profit gain while having discounted prices. 
 
+b) Is supply chain management important to Casey's business? Justify your answer.
+
+
 
 
 
