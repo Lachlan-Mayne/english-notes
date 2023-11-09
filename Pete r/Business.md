@@ -232,7 +232,25 @@ Normally items like blankets, pillows and headphones were cleaned and reused, bu
 ## Dependability - Iphone
 When apple released the iPhone 5a (2013) it had significant issues with the fingerprint sensor and there were technical issues with the maps app
 
-## Flexibility
-**Flexibility is how quickly operations can adjust to changes in the market**
-- It can be best achieved by increasing the capacity of production
-	- For goods, this can be done by using plant,
+## Flexibility: Toilet paper
+
+Flexibility is how quickly operations can adjust to changes in the market  
+It can be best achieved by increasing the capacity of production
+
+- For goods, this can be done by using plant, machinery, or technology better than before
+- With services, flexibility can be achieved through increasing the number of service providers, increasing their skill level and through technology used when providing the service.  
+    During the pandemics toilet paper hoarding, many toilet paper businesses (e.g. Charmin) recognized the boom wouldn't last forever
+- The business ran **double shifts and increased production rates** for their factories
+- They did NOT hire thousands of new workers or built extra factories because **they understood that this was very short term**
+
+## 
+
+Customisation:
+
+Creation of individual products to meet customer needs
+
+## 
+
+Cost:
+
+the amount a business pays for its goods
