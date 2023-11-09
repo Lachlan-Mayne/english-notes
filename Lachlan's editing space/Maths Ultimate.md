@@ -79,7 +79,6 @@ Simplify equations initially before working on
 
 
 
-
 Vertical:
 $f(x)=\frac{x}{x^2-4}$
 = $\frac{x}{(x+2)(x-2)}$
