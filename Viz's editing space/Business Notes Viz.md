@@ -337,6 +337,15 @@ Supply chain management
 	- e-commerce
 	- global sourcing
 
+Global sourcing
+- refers to strategy where you source the things from around the world.
+- means that buying or sourcing from whenever the suppliers are that best meet the sourcing requirements. 
 
+E-commerce
+- involves buying and selling goods and services through the internet. 
+- can be linked to sourcing inputs. 
+- supply chain can be managed through electronic ordering, etc. 
+
+E-commerce can be a business to business 
 
 

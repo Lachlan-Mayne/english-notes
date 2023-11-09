@@ -1,22 +1,30 @@
 {
   "main": {
-    "id": "b0a88f685a96076f",
+    "id": "75ea967bbac70707",
     "type": "split",
     "children": [
       {
-        "id": "1e531979c486cb8d",
+        "id": "0a0e9edef90261de",
         "type": "tabs",
         "children": [
           {
-            "id": "590102144bb87e95",
+            "id": "44bd358925bfd605",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nickNotes/English 'The Crucible' notes.md",
+                "file": "Viz's editing space/Business Notes Viz.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "e0e6fb34900ef2a8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -25,15 +33,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "90260d3f60ed2acb",
+    "id": "4d3296266a04e564",
     "type": "split",
     "children": [
       {
-        "id": "320e299de6ed451a",
+        "id": "45e29fcb105f0692",
         "type": "tabs",
         "children": [
           {
-            "id": "235dd4fd5f80c9c2",
+            "id": "1c327201a0b90a8a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +51,12 @@
             }
           },
           {
-            "id": "a12f646f10536f43",
+            "id": "6c6494cbab30f947",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:tag",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +66,7 @@
             }
           },
           {
-            "id": "49b429940b15b3e1",
+            "id": "8ab1d7f05e4f3920",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +77,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "87e07bac30d46b7d",
+    "id": "629ba2fcd9d6cfcd",
     "type": "split",
     "children": [
       {
-        "id": "2599608c8aee06ba",
+        "id": "30c570cd21ff2701",
         "type": "tabs",
         "children": [
           {
-            "id": "51fec20468776d0a",
+            "id": "4eb2537a52d605ce",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nickNotes/English 'The Crucible' notes.md",
+                "file": "Viz's editing space/Business Notes Viz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +106,19 @@
             }
           },
           {
-            "id": "1324fff252dd4887",
+            "id": "750a64f1a7cf066a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nickNotes/English 'The Crucible' notes.md",
+                "file": "Viz's editing space/Business Notes Viz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ec6443d7836b77a5",
+            "id": "0a51c46a2a9ce7c6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +129,12 @@
             }
           },
           {
-            "id": "2171e27d35ea3db6",
+            "id": "2c0a39e7f70d4b78",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "nickNotes/English 'The Crucible' notes.md"
+                "file": "Viz's editing space/Business Notes Viz.md"
               }
             }
           }
@@ -146,44 +155,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "590102144bb87e95",
+  "active": "1c327201a0b90a8a",
   "lastOpenFiles": [
-    "Special syntax.md",
-    "nickNotes/English 'The Crucible' notes.md",
-    "Untitled.canvas",
+    "conflict-files-obsidian-git.md",
+    "Viz's editing space/Business Notes Viz.md",
     "Lachlan's editing space/Maths Ultimate.md",
-    "nickNotes/Software.md",
+    "Lachlan's editing space/Business Notes Lock.md",
+    "Viz's editing space/Crucible Viz.md",
     "Lachlan's editing space/Excalidraw/Drawing 2023-11-09 11.30.58.excalidraw.md",
     "Lachlan's editing space/Excalidraw",
-    "2023-11-09.md",
+    "Untitled.canvas",
     "Untitled 1.canvas",
-    "Lachlan's editing space/Business Notes Lock.md",
-    "shenanigans/obsidian-notes-2024",
-    "shenanigans",
-    "obsidian-notes-2024",
+    "2023-11-09.md",
     "Lachlan's editing space/DailyNotes/Nov 08, 2023.md",
-    "Lachlan's editing space/DailyNotes/Nov 09, 2023.md",
-    "conflict-files-obsidian-git.md",
+    "shenanigans/Viz's editing space/Crucible Viz.md",
     "Viz's editing space/file.md",
-    "Viz's editing space/Crucible Viz.md",
-    "Viz's editing space/Business Notes Viz.md",
     "Viz's editing space/Business Assignment Viz.md",
     "Viz's editing space",
     "Quotes.md",
     "Qantas case study (CSR) vry helpful.md",
+    "Lachlan's editing space/DailyNotes/Nov 09, 2023.md",
     "Glossary.md",
     "Business Glossary (READ ONLY).md",
-    "shenanigans/Viz's editing space/Crucible Viz.md",
-    "An.md",
+    "nickNotes/English 'The Crucible' notes.md",
+    "reak/obsidian-notes-2024",
+    "reak",
+    "nickNotes/Software.md",
+    "nickNotes/English.md",
     "Lachlan's editing space/English Notes Lachlan.md",
     "Lachlan's editing space/DailyNotes/Landing.md",
+    "shenanigans/Viz's editing space/Business Assignment Viz.md",
+    "shenanigans/Viz's editing space/file.md",
+    "shenanigans/Viz's editing space/English notes 2024.md",
     "shenanigans/Special syntax.md",
-    "README.md",
-    "shenanigans/Lachlan's editing space/DailyNotes/Nov 8, 2023.md",
-    "shenanigans/Lachlan's editing space/DailyNotes",
-    "shenanigans/Viz's editing space",
-    "shenanigans/Lachlan's editing space",
-    "obsidian-notes-2024 1",
-    "nickNotes"
+    "shenanigans/file.md",
+    "shenanigans",
+    "shenanigans/obsidian-notes-2024/obsidian-notes-2024",
+    "shenanigans/obsidian-notes-2024/nickNotes",
+    "shenanigans/obsidian-notes-2024/english-notes",
+    "shenanigans/obsidian-notes-2024/Lachlan's editing space/DailyNotes",
+    "shenanigans/obsidian-notes-2024/Lachlan's editing space"
   ]
 }
