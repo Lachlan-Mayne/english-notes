@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3fb86aefd5dfa7e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nickNotes/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nickNotes/English 'The Crucible' notes.md",
+                "file": "nickNotes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nickNotes/English 'The Crucible' notes.md",
+                "file": "nickNotes/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nickNotes/English 'The Crucible' notes.md"
+                "file": "nickNotes/Untitled.md"
               }
             }
           }
@@ -148,8 +161,10 @@
   },
   "active": "235dd4fd5f80c9c2",
   "lastOpenFiles": [
-    "Lachlan's editing space/36776323 chemistry.md",
     "nickNotes/English 'The Crucible' notes.md",
+    "nickNotes/Untitled.md",
+    "Viz's editing space/Business Assignment Viz.md",
+    "Lachlan's editing space/36776323 chemistry.md",
     "Special syntax.md",
     "Untitled.canvas",
     "Lachlan's editing space/Maths Ultimate.md",
@@ -168,7 +183,6 @@
     "Viz's editing space/file.md",
     "Viz's editing space/Crucible Viz.md",
     "Viz's editing space/Business Notes Viz.md",
-    "Viz's editing space/Business Assignment Viz.md",
     "Viz's editing space",
     "Quotes.md",
     "Qantas case study (CSR) vry helpful.md",
@@ -180,7 +194,6 @@
     "Lachlan's editing space/DailyNotes/Landing.md",
     "shenanigans/Special syntax.md",
     "README.md",
-    "shenanigans/Lachlan's editing space/DailyNotes/Nov 8, 2023.md",
     "shenanigans/Lachlan's editing space/DailyNotes",
     "shenanigans/Viz's editing space",
     "shenanigans/Lachlan's editing space",
