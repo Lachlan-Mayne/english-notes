@@ -376,6 +376,7 @@ Casey's fuel and convenience store could benefit  from e-commerce could be throu
 
 b) Is supply chain management important to Casey's business? Justify your answer.
 
+Supply chain management is important to Casey as stock for the business is affected. Casey should prioritise looking for cheaper suppliers to keep costs down and maximise profits.
 
 
 
