@@ -329,4 +329,8 @@ Specifics
 - Use of goods
 
 
+Supply chain management
+- managing the chain of supplies
+	- supply chain management involves figuring out and managing the flow o
+
 
