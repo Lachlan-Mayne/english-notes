@@ -97,5 +97,3 @@ apply a limit as x approaches 0:
 Whenever there is a power on the bottom of the fraction larger than the top, doing the above process will always result in 0
 
 
-# Business
-#business 
