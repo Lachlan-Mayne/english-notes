@@ -57,3 +57,6 @@ Obsidian uses [MathJax](https://www.mathjax.org/). [Quick Guide for MathJax](htt
 ##### Almost there
 ###### This is the smallest heading possible
 Normal text for scale
+#headings #navigation 
+
+
