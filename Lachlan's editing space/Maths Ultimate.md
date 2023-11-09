@@ -27,7 +27,9 @@ When solving $f(x)=g(x)$:
 - the number of solutions is the number of points of intersection of $y=f(x)$ and $y=g(x)$.
 - The solutions are the $x$-values of the points of intersection
 When solving $f(x)>g(x)$:
--
+- the range of $x$-values where $y=f(x)$ is above $y=g(x)$
+$f(x)$
+- the range of $x$-values where $y=f(x)$ is below $y=g(x)$
 When solving equations, there are normally two main methods:
 ### Algebraic solving
 
