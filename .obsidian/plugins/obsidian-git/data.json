@@ -4,7 +4,7 @@
   "autoSaveInterval": 1,
   "autoPushInterval": 0,
   "autoPullInterval": 1,
-  "autoPullOnBoot": true,
+  "autoPullOnBoot": false,
   "disablePush": false,
   "pullBeforePush": true,
   "disablePopups": false,
@@ -24,7 +24,7 @@
   "showBranchStatusBar": true,
   "setLastSaveToLastCommit": false,
   "submoduleRecurseCheckout": false,
-  "gitDir": "",
+  "gitDir": "./reak/obsidian-notes-2024/.git",
   "showFileMenu": true,
   "lineAuthor": {
     "show": false,
