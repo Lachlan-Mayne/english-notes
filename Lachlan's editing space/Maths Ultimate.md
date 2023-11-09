@@ -35,6 +35,18 @@ Vertical asymptotes where denominator $f(x)=0$
 Horizontal asymptotes are found through **limiting behaviour**, $\lim \limits_{x \to \infty} f(x)$, divide throughout $h(x)$ by highest power in $f(x)$. 
 Test if the function is even by subbing in $f(-x)$
 
+#### Examples:
+- horizontal:
+	$f(x)=\frac{2^x+1}{2^x-1}$
+	as $x$⇒-∞, $2^x+1$ --> 1 & $2^x-1$ -> -1
+	horizontal:
+	$f(x)=\frac{\sqrt{16x^2-8}}{2x-5}$
+	Divide throughout by 1/x
+	=$\frac{\sqrt{(16x^2-8)*\frac{1^2}{x^2}}}{2-\frac{5}{x}}$
+	=$\frac{\sqrt{16-0}}{2-0}$
+	=$\frac{4}{2}$
+	=2
+	∴horizontal asymptote at y=2 for positive values of x
 
 # Trigonometry
 To graph, use caps
@@ -50,17 +62,7 @@ RAA: related acute angle, $sin^-1(|y|)$ - then find quadrants using ASTC (all po
 Simplify equations initially before working on 
 
 
-horizontal:
-$f(x)=\frac{2^x+1}{2^x-1}$
-as $x$⇒-∞, $2^x+1$ --> 1 & $2^x-1$ -> -1
-horizontal:
-$f(x)=\frac{\sqrt{16x^2-8}}{2x-5}$
-Divide throughout by 1/x
-=$\frac{\sqrt{(16x^2-8)*\frac{1^2}{x^2}}}{2-\frac{5}{x}}$
-=$\frac{\sqrt{16-0}}{2-0}$
-=$\frac{4}{2}$
-=2
-∴horizontal asymptote at y=2 for positive values of x
+
 
 
 Vertical:
