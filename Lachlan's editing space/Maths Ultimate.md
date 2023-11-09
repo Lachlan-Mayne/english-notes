@@ -21,6 +21,14 @@ Simplify: $y'=x^x+x^x\ln{x}$
 
 # Functions
 #functions
+
+## Solving Equations
+When solving $f(x)=g(x)$, 
+When solving equations, there are normally two main methods:
+### Algebraic solving
+
+### Graphical solving
+
 ## Transformations of functions & graphs
 ***Dilation before translation***. Order of vertical and horizontal doesn't matter.
 Function f(x) is vertically dilated by factor k, then translated by c ($y=k\times{f(x)}+c$) 
