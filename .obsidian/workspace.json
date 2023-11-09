@@ -11,8 +11,12 @@
             "id": "44bd358925bfd605",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Viz's editing space/Business Assignment Viz.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Viz's editing space/Business Assignment Viz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Viz's editing space/Business Assignment Viz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Viz's editing space/Business Assignment Viz.md"
+              }
             }
           }
         ]
@@ -149,6 +157,9 @@
   "active": "44bd358925bfd605",
   "lastOpenFiles": [
     "Viz's editing space/Business Notes Viz.md",
+    "Viz's editing space/Crucible Viz.md",
+    "shenanigans/obsidian-notes-2024/README.md",
+    "Qantas case study (CSR) vry helpful.md",
     "conflict-files-obsidian-git.md",
     "nickNotes/Untitled 2.md",
     "nickNotes/Untitled 1.md",
@@ -161,7 +172,6 @@
     "Lachlan's editing space/36776323 chemistry.md",
     "Lachlan's editing space/Maths Ultimate.md",
     "Lachlan's editing space/Business Notes Lock.md",
-    "Viz's editing space/Crucible Viz.md",
     "Lachlan's editing space/Excalidraw/Drawing 2023-11-09 11.30.58.excalidraw.md",
     "Lachlan's editing space/Excalidraw",
     "Untitled.canvas",
@@ -173,7 +183,6 @@
     "Viz's editing space/Business Assignment Viz.md",
     "Viz's editing space",
     "Quotes.md",
-    "Qantas case study (CSR) vry helpful.md",
     "Lachlan's editing space/DailyNotes/Nov 09, 2023.md",
     "Glossary.md",
     "Business Glossary (READ ONLY).md",
@@ -181,7 +190,6 @@
     "reak/obsidian-notes-2024",
     "reak",
     "nickNotes/Software.md",
-    "nickNotes/English.md",
     "shenanigans",
     "shenanigans/obsidian-notes-2024/obsidian-notes-2024",
     "shenanigans/obsidian-notes-2024/nickNotes",
