@@ -23,15 +23,18 @@ Simplify: $y'=x^x+x^x\ln{x}$
 #functions
 
 ## Solving Equations
-When solving $f(x)=g(x)$:
-- the number of solutions is the number of points of intersection of $y=f(x)$ and $y=g(x)$.
-- The solutions are the $x$-values of the points of intersection
-When solving $f(x)>g(x)$:
--
+
 When solving equations, there are normally two main methods:
 ### Algebraic solving
 
 ### Graphical solving
+When solving $f(x)=g(x)$:
+- the number of solutions is the number of points of intersection of $y=f(x)$ and $y=g(x)$.
+- The solutions are the $x$-values of the points of intersection
+When solving $f(x)>g(x)$:
+- the range of $x$-values where $y=f(x)$ is above $y=g(x)$
+$f(x)<g(x)$
+- the range of $x$-values where $y=f(x)$ is below $y=g(x)$
 
 ## Transformations of functions & graphs
 ***Dilation before translation***. Order of vertical and horizontal doesn't matter.
@@ -64,7 +67,7 @@ Test if the function is even by subbing in $f(-x)$
 To graph, use caps
 $f(x)=asin(b(x+c))+d$
 C: Centre ($d$)
-A: Amplitude ($a$)
+A: Amplitude ($|a|$)
 P: Period ($\frac{2π}{b}$ if sin/cos, $\frac{π}{b}$ if tan)
 S: shift ($c$)
 
