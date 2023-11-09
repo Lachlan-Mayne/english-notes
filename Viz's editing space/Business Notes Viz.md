@@ -323,3 +323,10 @@ Capacity of the business
 Cost
 - can be determined from the amount of inputs, time and energy used in processing the new products. 
 
+Specifics
+- Explicit service
+- Implicit service
+- Use of goods
+
+
+
