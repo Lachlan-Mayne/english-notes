@@ -299,3 +299,7 @@ o   Efficiency
 North Coast Manufacturing could monitor the effectiveness of their new factory layout by setting individual KPI’s for the speed that the factory could output a piece of furniture.
 
 They could then compare current and previous figures to keep track of any improvement while looking at how they can improve for the new KPI.
+
+New product or service design & development
+- identifying a market opportunitiy.
+- 
