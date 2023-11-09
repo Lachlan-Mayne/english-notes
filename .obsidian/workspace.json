@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lachlan's editing space/DailyNotes/Nov 09, 2023.md",
+                "file": "nickNotes/Untitled 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lachlan's editing space/DailyNotes/Nov 09, 2023.md",
+                "file": "nickNotes/Untitled 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lachlan's editing space/DailyNotes/Nov 09, 2023.md",
+                "file": "nickNotes/Untitled 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lachlan's editing space/DailyNotes/Nov 09, 2023.md"
+                "file": "nickNotes/Untitled 2.md"
               }
             }
           }
@@ -147,8 +147,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cc490c25d3df25d8",
+  "active": "e6c5c6b044973fd6",
   "lastOpenFiles": [
+    "nickNotes/Untitled 1.md",
+    "nickNotes/Untitled 1 1.md",
+    "nickNotes/English 'The Crucible' notes.md",
+    "nickNotes/Software.md",
+    "nickNotes/Boutta Business.md",
     "Lachlan's editing space/DailyNotes/Nov 09, 2023.md",
     "Lachlan's editing space/Excalidraw/Drawing 2023-11-09 11.30.58.excalidraw.md",
     "Lachlan's editing space/Maths Ultimate.md",
@@ -159,9 +164,6 @@
     "reak",
     "obsidian-notes-2024",
     "nickNotes/Untitled 2.md",
-    "nickNotes/Untitled 1.md",
-    "nickNotes/Untitled 1 1.md",
-    "nickNotes/Boutta Business.md",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
@@ -180,8 +182,6 @@
     "Business Glossary (READ ONLY).md",
     "Lachlan's editing space/Business Notes Lock.md",
     "Qantas case study (CSR) vry helpful.md",
-    "nickNotes/English 'The Crucible' notes.md",
-    "nickNotes/Software.md",
     "nickNotes",
     "Viz's editing space/Crucible Viz.md",
     "Lachlan's editing space/DailyNotes/Landing.md",
