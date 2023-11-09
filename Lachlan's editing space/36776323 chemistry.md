@@ -31,7 +31,7 @@ The temperature of a system has a major impact on whether a reaction favours mov
 
 Collision theory states that for a product to form, the particles of the reactants must collide. The more heat there is in a system, the more the particles within move. 
 
-<mark style="background: #FFF3A3A6;">Explanation of the effect of changing the concentration on the haber process (including collision theory and Le Chatalier's Principle)</mark>
+Explanation of the effect of changing the concentration on the haber process (including collision theory and Le Chatalier's Principle)
 
 
 
