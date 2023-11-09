@@ -346,6 +346,16 @@ E-commerce
 - can be linked to sourcing inputs. 
 - supply chain can be managed through electronic ordering, etc. 
 
-E-commerce can be a business to business 
+E-commerce can be business to business  or business to consumer. 
+
+Business to consumer
+- customers buy directly from the business online, online systems used to manage supply allowing suppliers direct access to needs of customers. 
+
+Logistics
+- All about managing the flow of materials, info and other resources between supply and consumption. 
+- logistics refers to distribution and also includes; transportation, use of storage and material handling and packaging. 
+- distribution refers to the ways of getting the goods or services to the customer. 
+
+
 
 
