@@ -47,3 +47,5 @@ Below is a checkbox list
 - [ ] h
 - [ ] i
 #list 
+
+Obsidian uses [MathJax](https://www.mathjax.org/)
