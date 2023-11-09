@@ -356,6 +356,8 @@ Logistics
 - logistics refers to distribution and also includes; transportation, use of storage and material handling and packaging. 
 - distribution refers to the ways of getting the goods or services to the customer. 
 
-
+Transportation
+- relates to the physical movement of inventories.
+	- storage involves finding a secure place to hold stock 
 
 
