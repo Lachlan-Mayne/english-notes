@@ -30,9 +30,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9ea72e4cf23f7f94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nickNotes/Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc22298b05fffa20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nickNotes/Untitled 1 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a56c4d87a5859b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nickNotes/English 'The Crucible' notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -61,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:tag",
+                "query": "tag:#crucible  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nickNotes/Untitled.md",
+                "file": "nickNotes/English 'The Crucible' notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nickNotes/Untitled.md",
+                "file": "nickNotes/English 'The Crucible' notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nickNotes/Untitled.md"
+                "file": "nickNotes/English 'The Crucible' notes.md"
               }
             }
           }
@@ -159,16 +196,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "235dd4fd5f80c9c2",
+  "active": "a12f646f10536f43",
   "lastOpenFiles": [
-    "nickNotes/English 'The Crucible' notes.md",
+    "nickNotes/Software.md",
     "nickNotes/Untitled.md",
+    "nickNotes/Untitled 2.md",
+    "nickNotes/Untitled 1 1.md",
+    "nickNotes/Untitled 1.md",
+    "nickNotes/English 'The Crucible' notes.md",
     "Viz's editing space/Business Assignment Viz.md",
     "Lachlan's editing space/36776323 chemistry.md",
     "Special syntax.md",
     "Untitled.canvas",
     "Lachlan's editing space/Maths Ultimate.md",
-    "nickNotes/Software.md",
     "Lachlan's editing space/Excalidraw/Drawing 2023-11-09 11.30.58.excalidraw.md",
     "Lachlan's editing space/Excalidraw",
     "2023-11-09.md",
@@ -191,9 +231,6 @@
     "shenanigans/Viz's editing space/Crucible Viz.md",
     "An.md",
     "Lachlan's editing space/English Notes Lachlan.md",
-    "Lachlan's editing space/DailyNotes/Landing.md",
-    "shenanigans/Special syntax.md",
-    "README.md",
     "shenanigans/Lachlan's editing space/DailyNotes",
     "shenanigans/Viz's editing space",
     "shenanigans/Lachlan's editing space",
