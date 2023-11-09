@@ -14,8 +14,7 @@ Can be achieved by different production technology, more efficient staffing etc.
 - If the strategy is successful, the business will become the leading provider of a particular good or services based on their lowered costs.
 - Businesses adopting a cost leadership strategy commonly have standardised products.(Kia is a good example)
 
-**- There are many ways of reducing costs, with main categories including:**
-
+## **There are many ways of reducing costs, with main categories including:**
 - Input
 - Labour
 - Processing
@@ -200,32 +199,18 @@ Normally items like blankets, pillows and headphones were cleaned and reused, bu
 - As technology improves, the cost is decreasing, but businesses may need to factor in the cost of redundancies
 - Creates more efficiency in the transformation process
 
-  
-
-**Customer service:**
-
-  
-
+## **Customer service:**
 - Customer service refers to how well a business meets and exceeds the expectations of customers in all aspects of its operations
-
 - A satisfied customer will act as an ambassador for a business, a dissatisfied customer will have the reverse effect
 
-  
-
-Shonky Questions:
-
-  
-
+**Shonky Questions:**
 1. XBOX
 2. They would need to fix their faulty product to try and show they care about customer satisfaction
 3. Alter production to boost quality assurance. They would need to do this by changing certain parts used in the product and make sure it functions as intended before going back on the shelf
 
-  
-
 ## **Performance objectives:**
 
 - Performance objectives are goals that relate to particular aspects of the transformation processes. These objectives or targets will be set so that the business becomes more efficient, productive and profitable
-
 - **There are 6 key performance objectives in operations:**
 	- Quality
 	- Speed
