@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nickNotes/Untitled 2.md",
+                "file": "Lachlan's editing space/DailyNotes/Nov 09, 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nickNotes/Untitled 2.md",
+                "file": "Lachlan's editing space/DailyNotes/Nov 09, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nickNotes/Untitled 2.md",
+                "file": "Lachlan's editing space/DailyNotes/Nov 09, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nickNotes/Untitled 2.md"
+                "file": "Lachlan's editing space/DailyNotes/Nov 09, 2023.md"
               }
             }
           }
@@ -147,8 +147,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e6c5c6b044973fd6",
+  "active": "cc490c25d3df25d8",
   "lastOpenFiles": [
+    "nickNotes/Untitled 2.md",
     "nickNotes/Untitled 1.md",
     "nickNotes/Untitled 1 1.md",
     "nickNotes/English 'The Crucible' notes.md",
@@ -163,7 +164,6 @@
     "reak/obsidian-notes-2024",
     "reak",
     "obsidian-notes-2024",
-    "nickNotes/Untitled 2.md",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
