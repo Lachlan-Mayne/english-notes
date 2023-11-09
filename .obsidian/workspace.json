@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nickNotes/English 'The Crucible' notes.md",
+                "file": "Special syntax.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nickNotes/English 'The Crucible' notes.md",
+                "file": "Special syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nickNotes/English 'The Crucible' notes.md",
+                "file": "Special syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nickNotes/English 'The Crucible' notes.md"
+                "file": "Special syntax.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "590102144bb87e95",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "nickNotes/English 'The Crucible' notes.md",
+    "Untitled.canvas",
     "Lachlan's editing space/Maths Ultimate.md",
     "nickNotes/Software.md",
     "Lachlan's editing space/Excalidraw/Drawing 2023-11-09 11.30.58.excalidraw.md",
