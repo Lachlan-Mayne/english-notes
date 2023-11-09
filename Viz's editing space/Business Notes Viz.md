@@ -301,5 +301,14 @@ North Coast Manufacturing could monitor the effectiveness of their new factory l
 They could then compare current and previous figures to keep track of any improvement while looking at how they can improve for the new KPI.
 
 New product or service design & development
-- identifying a market opportunitiy.
-- 
+- identifying a market opportunity.
+- Creating a product.
+- Testing and modifying the product. 
+Businesses do this to gain or maintain competitive advantages. Satisfy the needs of existing customers and/or attempt to sell to new customers. 
+
+Development
+-  Screening of ideas as well as identifying the commercial aspects. (marketing and product launch and forecasting.)
+Design
+- Selecting materials and processes and engineering product as well as product's mechanical make up to make sure it works before production. 
+
+
