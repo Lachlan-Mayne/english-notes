@@ -247,4 +247,4 @@ It can be best achieved by increasing the capacity of production
 Creation of individual products to meet customer needs
 
 ## Cost:
-The amount a business pays for its goods
+The amount a business pays for its goods\
