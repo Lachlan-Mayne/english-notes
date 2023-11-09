@@ -69,7 +69,7 @@ $f(x)=ksin(b(x+c))+d$
 C: Centre ($d$)
 A: Amplitude ($|k|$)
 P: Period ($\frac{2π}{b}$ if sin/cos, $\frac{π}{b}$ if tan)
-S: shift ($c$)
+S: shift ($-c$ units)
 
 Solving trig eqns:
 $y=sin(x)$
