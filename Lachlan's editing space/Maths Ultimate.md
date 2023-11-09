@@ -23,7 +23,11 @@ Simplify: $y'=x^x+x^x\ln{x}$
 #functions
 
 ## Solving Equations
-When solving $f(x)=g(x)$, 
+When solving $f(x)=g(x)$:
+- the number of solutions is the number of points of intersection of $y=f(x)$ and $y=g(x)$.
+- The solutions are the $x$-values of the points of intersection
+When solving $f(x)>g(x)$:
+-
 When solving equations, there are normally two main methods:
 ### Algebraic solving
 
