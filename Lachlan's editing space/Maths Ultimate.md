@@ -48,10 +48,6 @@ RAA: related acute angle, $sin^-1(|y|)$ - then find quadrants using ASTC (all po
 Simplify equations initially before working on 
 
 
-
-Finding asymptotes:
-Denominator = 0, vertical asymptotes at value of x to equal zero
-
 horizontal:
 $f(x)=\frac{2^x+1}{2^x-1}$
 as $x$⇒-∞, $2^x+1$ --> 1 & $2^x-1$ -> -1
@@ -63,6 +59,7 @@ Divide throughout by 1/x
 =$\frac{4}{2}$
 =2
 ∴horizontal asymptote at y=2 for positive values of x
+
 
 Vertical:
 $f(x)=\frac{x}{x^2-4}$
