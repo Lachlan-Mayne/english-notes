@@ -331,6 +331,12 @@ Specifics
 
 Supply chain management
 - managing the chain of supplies
-	- supply chain management involves figuring out and managing the flow o
+	- supply chain management involves figuring out and managing the flow of supplies though inputs, transformation processes and outputs. 
+- three key aspects
+	- logistics
+	- e-commerce
+	- global sourcing
+
+
 
 
