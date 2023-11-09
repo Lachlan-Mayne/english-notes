@@ -3,8 +3,8 @@ tags:
   - maths
   - mathematics
 ---
-# Functions/Calculus
-#functions
+# Calculus
+#calculus
 ## Logarithmic calculus
 
 $g(x)=a^{f(x)}$
@@ -19,12 +19,13 @@ Multiply by y to make y' the subject: $y'=y(x\frac{1}{x}+\ln{x})$
 sub in the value for y: $y'=x^x(x\frac{1}{x}+\ln{x})$
 Simplify: $y'=x^x+x^x\ln{x}$
 
-### Transformations of functions & graphs
+# Functions
+## Transformations of functions & graphs
 ***Dilation before translation***. Order of vertical and horizontal doesn't matter.
 Function f(x) is vertically dilated by factor k, then translated by c ($y=k\times{f(x)}+c$) 
 Function f(x) is is horizontally dilated by a factor of $\frac{1}{a}$, then shifted by $-b$ units. NOTE: a is factored ($y=f(a(x+b))$)
-Combined together, $y=kf(a(x+b))+c$: Vertical dilation by $k$, horizontal dilation by $\frac{1}{a}$, shifted direction opposite to the sign of $b$, shifted up or down by $c$.
-#### Asymptotes of graphs:
+Combined together, $y=kf(a(x+b))+c$ : Vertical dilation by $k$, horizontal dilation by $\frac{1}{a}$, shifted direction opposite to the sign of $b$, shifted up or down by $c$.
+### Asymptotes of graphs:
 $y$-intercepts when $x=0$
 $x$-intercepts when $y=0$
 Consider the equation: $$h(x)=\frac{g(x)}{f(x)}$$
