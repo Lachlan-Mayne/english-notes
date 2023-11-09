@@ -7,4 +7,6 @@ Performance Objectives: (how businesses maximise profit)
 - Speed: being fast
 - Dependability: being reliable
 - Flexibility: being adaptable
-- 
+- Customisation: being able to provide options
+- Cost: being productive
+
