@@ -10,5 +10,5 @@ Performance Objectives: (how businesses maximise profit)
 - Customisation: being able to provide options
 - Cost: being productive
 
+A business usually chooses 1-2 of these Performance Objectives
 Choose strategies that will maximise one of these objectives
-A business usually chooses 1-2 
