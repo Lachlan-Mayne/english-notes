@@ -359,5 +359,20 @@ Logistics
 Transportation
 - relates to the physical movement of inventories.
 	- storage involves finding a secure place to hold stock 
+	- warehousing is the use of a facility for storage, protection and distribution of stock
+	- distribution centre is not intended for log term storage, it is strategically placed for convenience to minimise time taken for stock to travel to outlets. 
+
+Material handling and packaging
+- involves choosing the appropriate methods for the goods or services involved. 
+	- Eg: glassware, dangerous chemicals
+
+2013 HSC Question 29 (9 marks)
+
+Casey owns and operates an independent discount fuel and convenience store. 
+
+a) Outline ONE way that e-commerce could assist Casey with supply chain management. 
+
+Casey's fuel and convenience store could beni 
+
 
 
