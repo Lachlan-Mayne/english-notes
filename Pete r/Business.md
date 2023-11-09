@@ -243,14 +243,9 @@ It can be best achieved by increasing the capacity of production
 - The business ran **double shifts and increased production rates** for their factories
 - They did NOT hire thousands of new workers or built extra factories because **they understood that this was very short term**
 
-## 
-
-Customisation:
-
+## Customisation:
 Creation of individual products to meet customer needs
 
-## 
-
-Cost:
+## Cost:
 
 the amount a business pays for its goods
