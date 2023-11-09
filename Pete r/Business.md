@@ -239,7 +239,7 @@ It can be best achieved by increasing the capacity of production
 
 - For goods, this can be done by using plant, machinery, or technology better than before
 - With services, flexibility can be achieved through increasing the number of service providers, increasing their skill level and through technology used when providing the service.  
-    During the pandemics toilet paper hoarding, many toilet paper businesses (e.g. Charmin) recognized the boom wouldn't last forever
+    During the pandemics toilet paper hoarding, many toilet paper businesses (e.g. Charmin) recognised the boom wouldn't last forever
 - The business ran **double shifts and increased production rates** for their factories
 - They did NOT hire thousands of new workers or built extra factories because **they understood that this was very short term**
 
@@ -247,5 +247,5 @@ It can be best achieved by increasing the capacity of production
 Creation of individual products to meet customer needs
 
 ## Cost:
+The amount a business pays for its goods
 
-the amount a business pays for its goods
