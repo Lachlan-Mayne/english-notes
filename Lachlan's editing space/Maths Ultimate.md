@@ -3,7 +3,9 @@ tags:
   - maths
   - mathematics
 ---
-# Maths: Differentiating Logarithmically
+# Functions/Calculus
+#functions
+## Logarithmic calculus
 
 $g(x)=a^{f(x)}$
 $g'(x)=ln_a*f'(x)*a^{f(x)}$
@@ -31,7 +33,7 @@ Horizontal asymptotes are found through **limiting behaviour**, $\lim \limits_{x
 Test if the function is even by subbing in $f(-x)$
 
 
-trig:
+# Trigonometry
 To graph, use caps
 $f(x)=asin(b(x+c))+d$
 C: Centre ($d$)
