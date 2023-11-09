@@ -91,7 +91,7 @@ $÷x^2$
 =$\frac{\frac{1}{x}}{1-\frac{4}{x^2}}$
 as $x$ becomes bigger, 1/x becomes smaller. Same with $4/x^2$
 apply a limit as x approaches 0:
-= $\lim_{x \to ±∞}$ , $\frac{1}{x} \rightarrow 0$
+= $\lim \limits_{x\to\infty}$ , $\frac{1}{x} \rightarrow 0$
 = $\frac{0}{1-0}$
 =$0$
 Whenever there is a power on the bottom of the fraction larger than the top, doing the above process will always result in 0
