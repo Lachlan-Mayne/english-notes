@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nickNotes/English 'The Crucible' notes.md",
+                "file": "nickNotes/Boutta Business.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,50 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nickNotes/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ea72e4cf23f7f94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nickNotes/Untitled 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc22298b05fffa20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nickNotes/Untitled 1 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a56c4d87a5859b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nickNotes/English 'The Crucible' notes.md",
+                "file": "Special syntax.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#crucible  ",
+                "query": "tag:#crucible",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nickNotes/English 'The Crucible' notes.md",
+                "file": "nickNotes/Boutta Business.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nickNotes/English 'The Crucible' notes.md",
+                "file": "nickNotes/Boutta Business.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nickNotes/English 'The Crucible' notes.md"
+                "file": "nickNotes/Boutta Business.md"
               }
             }
           }
@@ -196,17 +158,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a12f646f10536f43",
+  "active": "590102144bb87e95",
   "lastOpenFiles": [
+    "nickNotes/English 'The Crucible' notes.md",
+    "Special syntax.md",
+    "nickNotes/Boutta Business.md",
+    "Untitled 2.canvas",
     "nickNotes/Software.md",
-    "nickNotes/Untitled.md",
     "nickNotes/Untitled 2.md",
     "nickNotes/Untitled 1 1.md",
     "nickNotes/Untitled 1.md",
-    "nickNotes/English 'The Crucible' notes.md",
     "Viz's editing space/Business Assignment Viz.md",
     "Lachlan's editing space/36776323 chemistry.md",
-    "Special syntax.md",
     "Untitled.canvas",
     "Lachlan's editing space/Maths Ultimate.md",
     "Lachlan's editing space/Excalidraw/Drawing 2023-11-09 11.30.58.excalidraw.md",
@@ -230,7 +193,6 @@
     "Business Glossary (READ ONLY).md",
     "shenanigans/Viz's editing space/Crucible Viz.md",
     "An.md",
-    "Lachlan's editing space/English Notes Lachlan.md",
     "shenanigans/Lachlan's editing space/DailyNotes",
     "shenanigans/Viz's editing space",
     "shenanigans/Lachlan's editing space",
