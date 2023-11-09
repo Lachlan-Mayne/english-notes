@@ -24,7 +24,7 @@
   "showBranchStatusBar": true,
   "setLastSaveToLastCommit": false,
   "submoduleRecurseCheckout": false,
-  "gitDir": "./reak/obsidian-notes-2024/.git",
+  "gitDir": "./.git",
   "showFileMenu": true,
   "lineAuthor": {
     "show": false,
