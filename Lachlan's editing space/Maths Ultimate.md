@@ -65,9 +65,9 @@ Test if the function is even by subbing in $f(-x)$
 
 # Trigonometry
 To graph, use caps
-$f(x)=asin(b(x+c))+d$
+$f(x)=ksin(b(x+c))+d$
 C: Centre ($d$)
-A: Amplitude ($|a|$)
+A: Amplitude ($|k|$)
 P: Period ($\frac{2π}{b}$ if sin/cos, $\frac{π}{b}$ if tan)
 S: shift ($c$)
 
