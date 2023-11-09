@@ -47,7 +47,7 @@ $y$-intercepts when $x=0$
 $x$-intercepts when $y=0$
 Consider the equation: $$h(x)=\frac{g(x)}{f(x)}$$
 Vertical asymptotes where denominator $f(x)=0$
-Horizontal asymptotes are found through **limiting behaviour**, $\lim \limits_{x \to \infty} f(x)$, divide throughout $h(x)$ by highest power in $f(x)$. 
+Horizontal asymptotes are found through **limiting behaviour**, $\lim \limits_{x \to \infty} f(x)$, divide throughout $h(x)$ by highest power in $f(x)$. p
 Test if the function is even by subbing in $f(-x)$
 
 #### Examples:
@@ -95,3 +95,5 @@ apply a limit as x approaches 0:
 = $\frac{0}{1-0}$
 =$0$
 Whenever there is a power on the bottom of the fraction larger than the top, doing the above process will always result in 0
+
+
