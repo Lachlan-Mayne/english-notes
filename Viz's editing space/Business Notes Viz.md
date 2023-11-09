@@ -311,4 +311,15 @@ Development
 Design
 - Selecting materials and processes and engineering product as well as product's mechanical make up to make sure it works before production. 
 
+Supply chain management 
+- important because new products will draw from suppliers and may extend the range or supplies, etc. 
+
+Quality
+- because in market-oriented production, the customers will demand particular quality, and certain attributes and features. 
+
+Capacity of the business
+- a new product may increase the use or range of present resources. 
+
+Cost
+- can be determined from the amount of inputs, time and energy used in processing the new products. 
 
