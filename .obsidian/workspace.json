@@ -1,22 +1,30 @@
 {
   "main": {
-    "id": "e1110c6d6ca2020b",
+    "id": "75ea967bbac70707",
     "type": "split",
     "children": [
       {
-        "id": "a433b9c2d8e235e3",
+        "id": "0a0e9edef90261de",
         "type": "tabs",
         "children": [
           {
-            "id": "cc490c25d3df25d8",
+            "id": "44bd358925bfd605",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lachlan's editing space/DailyNotes/Nov 09, 2023.md",
+                "file": "Viz's editing space/Crucible Viz.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "e0e6fb34900ef2a8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -25,15 +33,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f78ab1944e13da08",
+    "id": "4d3296266a04e564",
     "type": "split",
     "children": [
       {
-        "id": "3613229297ac400f",
+        "id": "45e29fcb105f0692",
         "type": "tabs",
         "children": [
           {
-            "id": "e6c5c6b044973fd6",
+            "id": "1c327201a0b90a8a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +51,7 @@
             }
           },
           {
-            "id": "79ceddee2992cd9f",
+            "id": "6c6494cbab30f947",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +66,7 @@
             }
           },
           {
-            "id": "e55556702c5ca32e",
+            "id": "8ab1d7f05e4f3920",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +80,20 @@
     "width": 300
   },
   "right": {
-    "id": "515c8c69ed8d261b",
+    "id": "629ba2fcd9d6cfcd",
     "type": "split",
     "children": [
       {
-        "id": "680d79e5fb6fd856",
+        "id": "30c570cd21ff2701",
         "type": "tabs",
         "children": [
           {
-            "id": "79b0cedba1f0ef90",
+            "id": "4eb2537a52d605ce",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lachlan's editing space/DailyNotes/Nov 09, 2023.md",
+                "file": "Viz's editing space/Crucible Viz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +105,19 @@
             }
           },
           {
-            "id": "a7ff3ee2fba9a081",
+            "id": "750a64f1a7cf066a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lachlan's editing space/DailyNotes/Nov 09, 2023.md",
+                "file": "Viz's editing space/Crucible Viz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a878a60c74b0c311",
+            "id": "0a51c46a2a9ce7c6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +128,12 @@
             }
           },
           {
-            "id": "8fd63309cb65030b",
+            "id": "2c0a39e7f70d4b78",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lachlan's editing space/DailyNotes/Nov 09, 2023.md"
+                "file": "Viz's editing space/Crucible Viz.md"
               }
             }
           }
@@ -143,51 +151,51 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "e6c5c6b044973fd6",
+  "active": "44bd358925bfd605",
   "lastOpenFiles": [
-    "reak/obsidian-notes-2024",
-    "reak",
-    "nickNotes/Untitled 2.md",
-    "nickNotes/Untitled 1.md",
-    "nickNotes/Untitled 1 1.md",
-    "nickNotes/English 'The Crucible' notes.md",
-    "nickNotes/Software.md",
-    "nickNotes/Boutta Business.md",
-    "Lachlan's editing space/DailyNotes/Nov 09, 2023.md",
-    "Lachlan's editing space/Excalidraw/Drawing 2023-11-09 11.30.58.excalidraw.md",
-    "Lachlan's editing space/Maths Ultimate.md",
-    "Lachlan's editing space/DailyNotes/Nov 8, 2023.md",
-    "shenanigans/obsidian-notes-2024",
-    "shenanigans",
-    "obsidian-notes-2024",
-    "Untitled.canvas",
-    "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Pete r/file.md",
-    "Pete r/Business.md",
-    "Pete r",
+    "Pete r/English.md",
+    "conflict-files-obsidian-git.md",
+    "Viz's editing space/Crucible Viz.md",
+    "Lachlan's editing space/images/Pasted image 20231109204849.png",
+    "Lachlan's editing space/chemistry.md",
+    "Lachlan's editing space/DailyNotes/Nov 10, 2023.md",
+    "Viz's editing space/Business Assignment Viz.md",
     "Lachlan's editing space/images/landing.md",
     "Lachlan's editing space/images/business9.11.23.jpg",
     "Lachlan's editing space/images",
-    "Lachlan's editing space/Excalidraw",
-    "Lachlan's editing space/DailyNotes/Nov 08, 2023.md",
-    "Lachlan's editing space/36776323 chemistry.md",
-    "Special syntax.md",
-    "Lachlan's editing space/English Notes Lachlan.md",
-    "Quotes.md",
-    "Business Glossary (READ ONLY).md",
-    "Lachlan's editing space/Business Notes Lock.md",
+    "Viz's editing space/Business Notes Viz.md",
+    "shenanigans/obsidian-notes-2024/README.md",
     "Qantas case study (CSR) vry helpful.md",
-    "nickNotes",
-    "Viz's editing space/Crucible Viz.md",
-    "Lachlan's editing space/DailyNotes/Landing.md",
-    "Lachlan's editing space/DailyNotes",
-    "Pasted image 20231107170001.png",
-    "[[Business.md",
-    "Glossary.md"
+    "nickNotes/Untitled 2.md",
+    "nickNotes/Untitled 1.md",
+    "nickNotes/Untitled 1 1.md",
+    "nickNotes/Boutta Business.md",
+    "Untitled 2.canvas",
+    "Pete r/file.md",
+    "Pete r/Business.md",
+    "Pete r",
+    "Lachlan's editing space/36776323 chemistry.md",
+    "Lachlan's editing space/Maths Ultimate.md",
+    "Lachlan's editing space/Business Notes Lock.md",
+    "Lachlan's editing space/Excalidraw/Drawing 2023-11-09 11.30.58.excalidraw.md",
+    "Lachlan's editing space/Excalidraw",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "2023-11-09.md",
+    "Lachlan's editing space/DailyNotes/Nov 08, 2023.md",
+    "shenanigans/Viz's editing space/Crucible Viz.md",
+    "Viz's editing space/file.md",
+    "Viz's editing space",
+    "Quotes.md",
+    "Lachlan's editing space/DailyNotes/Nov 09, 2023.md",
+    "reak/obsidian-notes-2024",
+    "reak",
+    "shenanigans",
+    "shenanigans/obsidian-notes-2024/obsidian-notes-2024",
+    "shenanigans/obsidian-notes-2024/nickNotes",
+    "shenanigans/obsidian-notes-2024/english-notes"
   ]
 }
