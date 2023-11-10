@@ -267,3 +267,4 @@ The activities involved in creating the styling, appearance, feel, etc of the pr
 **The following flowchart indicates the product design and development process**
 ![[Screen Shot 2023-11-10 at 12.20.12 pm.png]]
 
+## Supply Chain Management:
