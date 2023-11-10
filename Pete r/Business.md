@@ -250,4 +250,6 @@ Creation of individual products to meet customer needs
 The amount a business pays for its goods
 
 ## New product or service design & development:
-This
+This is all about the process of a business bringing a new product or service into the market.
+It involves;
+- 
