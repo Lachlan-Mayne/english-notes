@@ -311,5 +311,7 @@ The supply chain for a product can be determined by starting with the final prod
 	- The use of storage, warehousing and distribution centres
 	- Material handling and packaging
 - Distribution refers to the ways of getting goods or services to the desired customers
+- **Transportation is concerned with the physical movement of inventories**
+- 
 
 
