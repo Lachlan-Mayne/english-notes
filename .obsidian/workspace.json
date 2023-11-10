@@ -64,6 +64,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "efd787deb1e433be",
+            "type": "leaf",
+            "state": {
+              "type": "screen-garden-user-pane",
+              "state": {}
+            }
           }
         ]
       }
@@ -128,6 +136,14 @@
                 "file": "Lachlan's editing space/DailyNotes/Nov 10, 2023.md"
               }
             }
+          },
+          {
+            "id": "dbc04c206c44e7da",
+            "type": "leaf",
+            "state": {
+              "type": "screen-garden-document-pane",
+              "state": {}
+            }
           }
         ]
       }
@@ -144,7 +160,8 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian42-brat:BRAT": false
     }
   },
   "active": "cc490c25d3df25d8",
