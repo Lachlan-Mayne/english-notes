@@ -251,5 +251,10 @@ The amount a business pays for its goods
 
 ## New product or service design & development:
 This is all about the process of a business bringing a new product or service into the market.
-It involves;
-- 
+**It involves;**
+- Identifying a market opportunity – what new product/service might be needed by people? Or something that people might want?
+- Creating a product – particularly one that will be appealing
+- Testing and modifying the product until it’s ready for  production
+
+## Why?
+**Often businesses do this to gain or maintain competitive advantage. It may be done to better satisfy the needs of existing customers and/or attempt to sell to new customers.**
