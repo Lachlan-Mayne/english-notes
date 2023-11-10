@@ -305,4 +305,9 @@ The supply chain for a product can be determined by starting with the final prod
 - Supply chain can be managed through electronic ordering, e-procurement is the name for the system where on-line systems to manage supply levels, updating suppliers when a business is low and may need to re-stock.
 
 ## Logistics:
-- 
+- **All about managing the flow of materials, info and other resources between supply and consumption**
+- Logistics is a term referring to distribution but also includes:
+	- Transportation
+	- The use of storage, warehousing,
+
+
