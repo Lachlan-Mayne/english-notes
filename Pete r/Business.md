@@ -264,5 +264,6 @@ The coming up with and screening of ideas as well as identifying the commercial 
 
 ## Design:
 The activities involved in creating the styling, appearance, feel, etc of the product, deciding on the product’s mechanical make up, selecting materials and processes and engineering these so that they work.
-
+**The following flowchart indicates the product design and development process**
 ![[Screen Shot 2023-11-10 at 12.20.12 pm.png]]
+
