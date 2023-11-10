@@ -268,3 +268,14 @@ The activities involved in creating the styling, appearance, feel, etc of the pr
 ![[Screen Shot 2023-11-10 at 12.20.12 pm.png]]
 
 ## Supply Chain Management:
+**Supply chain management involves figuring out and managing the flow ofsupplies through inputs, transformation processes and outputs in order to best meet the needs of the customer.
+It is essentially, the sequence of activities and organisation involved in producing a good or service, it is concerned with making sure all this happens in an efficient and cost effective way.**
+
+Its goals include:
+- Reducing inventory
+- Increasing the speed of transactions and increasing revenue for a business by satisfying customer demands.
+
+**The three key aspects of supply chain management include;**
+- Logistics
+- E-commerce
+- Global sourcing
