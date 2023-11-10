@@ -15,8 +15,8 @@
               "state": {
                 "file": "Untitled 2.canvas",
                 "viewState": {
-                  "x": -425,
-                  "y": -51.5,
+                  "x": -505,
+                  "y": -117,
                   "zoom": 0
                 }
               }
@@ -65,14 +65,6 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "efd787deb1e433be",
-            "type": "leaf",
-            "state": {
-              "type": "screen-garden-user-pane",
               "state": {}
             }
           }
@@ -139,17 +131,9 @@
                 "file": "Untitled 2.canvas"
               }
             }
-          },
-          {
-            "id": "dbc04c206c44e7da",
-            "type": "leaf",
-            "state": {
-              "type": "screen-garden-document-pane",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -170,10 +154,10 @@
   },
   "active": "cc490c25d3df25d8",
   "lastOpenFiles": [
+    "WeeklySummaries/Look at this live demo!.md",
+    "Untitled 2.canvas",
     "Untitled.canvas",
     "Lachlan's editing space/DailyNotes/Nov 10, 2023.md",
-    "Untitled 2.canvas",
-    "WeeklySummaries/Look at this live demo!.md",
     "Untitled 1.canvas",
     "Lachlan's editing space/DailyNotes/Nov 09, 2023.md",
     "Lachlan's editing space/DailyNotes/Nov 08, 2023.md",
