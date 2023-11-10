@@ -26,7 +26,7 @@ One company that can save themselves a lot of money for example is Startrack, ch
 
 **Economies of scale are the cost advantages companies gain from increasing their output. For example, the same setup would be there for 1 unit AND 1 million units of a product.**
 
-Qantas’ competitive advantage over their rivals comes from being able to have the lowest production costs possible. Over 5 years Qantas has managed to cut 3.2 morbillion, with plans for a further 15 morbillion to be cut over the next 3 years.
+Qantas’ competitive advantage over their rivals comes from being able to have the lowest production costs possible. Over 5 years Qantas has managed to cut 3.2 Billion, with plans for a further 15 Billion to be cut over the next 3 years.
 
 **Qantas achieves cost-leadership through:**
 
@@ -279,5 +279,4 @@ It is essentially, the sequence of activities and organisation involved in produ
 - Logistics
 - E-commerce
 - Global sourcing
-
 
