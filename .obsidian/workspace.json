@@ -11,14 +11,11 @@
             "id": "cc490c25d3df25d8",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled 2.canvas",
-                "viewState": {
-                  "x": -490,
-                  "y": -33,
-                  "zoom": 0
-                }
+                "file": "among/Lachlan's editing space/DailyNotes/Nov 08, 2023.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,6 +64,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "14b75b1dbc7cd8bc",
+            "type": "leaf",
+            "state": {
+              "type": "screen-garden-user-pane",
+              "state": {}
+            }
           }
         ]
       }
@@ -88,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 2.canvas",
+                "file": "among/Lachlan's editing space/DailyNotes/Nov 08, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 2.canvas",
+                "file": "among/Lachlan's editing space/DailyNotes/Nov 08, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,8 +133,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 2.canvas"
+                "file": "among/Lachlan's editing space/DailyNotes/Nov 08, 2023.md"
               }
+            }
+          },
+          {
+            "id": "04c0da875d44de3c",
+            "type": "leaf",
+            "state": {
+              "type": "screen-garden-document-pane",
+              "state": {}
             }
           }
         ],
@@ -154,50 +167,50 @@
   },
   "active": "cc490c25d3df25d8",
   "lastOpenFiles": [
-    "Lachlan's editing space/DailyNotes/Nov 10, 2023.md",
-    "Untitled 2.canvas",
+    "among/Special syntax.md",
+    "among/Lachlan's editing space/DailyNotes/Nov 10, 2023.md",
+    "Look at this live demo!.md",
+    "among/Untitled 2.canvas",
+    "among",
     "WeeklySummaries/Look at this live demo!.md",
-    "Untitled.canvas",
-    "Untitled 1.canvas",
-    "Lachlan's editing space/DailyNotes/Nov 09, 2023.md",
-    "Lachlan's editing space/DailyNotes/Nov 08, 2023.md",
-    "WeeklySummaries/NovemberSum7.md",
-    "WeeklySummaries",
-    "Pete r/Business.md",
-    "Lachlan's editing space/Maths Ultimate.md",
-    "Lachlan's editing space/English Notes Lachlan.md",
-    "shenanigans/obsidian-notes-2024",
-    "shenanigans",
-    "nickNotes/English Reflection.md",
-    "Pete r/images/Screen Shot 2023-11-10 at 12.37.02 pm.png",
-    "Pete r/images/Screen Shot 2023-11-10 at 12.39.45 pm.png",
-    "Pete r/images/landing.md",
-    "Pete r/images",
-    "Pete r/English.md",
-    "Lachlan's editing space/images/Screenshot 2023-11-10 at 12.24.27 pm.png",
-    "Lachlan's editing space/images/Screenshot 2023-11-10 at 12.19.02 pm.png",
-    "Lachlan's editing space/images/Pasted image 20231109204849.png",
-    "Lachlan's editing space/chemistry.md",
-    "reak/obsidian-notes-2024",
-    "reak",
-    "nickNotes/Untitled 2.md",
+    "among/Untitled.canvas",
+    "among/Untitled 1.canvas",
+    "among/Lachlan's editing space/DailyNotes/Nov 09, 2023.md",
+    "among/Lachlan's editing space/DailyNotes/Nov 08, 2023.md",
+    "among/WeeklySummaries/NovemberSum7.md",
+    "among/WeeklySummaries",
+    "among/Pete r/Business.md",
+    "among/Lachlan's editing space/Maths Ultimate.md",
+    "among/Lachlan's editing space/English Notes Lachlan.md",
+    "among/shenanigans/obsidian-notes-2024",
+    "among/shenanigans",
+    "among/nickNotes/English Reflection.md",
+    "among/Pete r/images/Screen Shot 2023-11-10 at 12.37.02 pm.png",
+    "among/Pete r/images/Screen Shot 2023-11-10 at 12.39.45 pm.png",
+    "among/Pete r/images/landing.md",
+    "among/Pete r/images",
+    "among/Pete r/English.md",
+    "among/Lachlan's editing space/images/Screenshot 2023-11-10 at 12.24.27 pm.png",
+    "among/Lachlan's editing space/images/Screenshot 2023-11-10 at 12.19.02 pm.png",
+    "among/Lachlan's editing space/images/Pasted image 20231109204849.png",
+    "among/Lachlan's editing space/chemistry.md",
+    "among/reak/obsidian-notes-2024",
+    "among/reak",
+    "among/nickNotes/Untitled 2.md",
     "nickNotes/Untitled 1.md",
-    "nickNotes/Untitled 1 1.md",
-    "nickNotes/English 'The Crucible' notes.md",
-    "nickNotes/Software.md",
-    "nickNotes/Boutta Business.md",
-    "Lachlan's editing space/Excalidraw/Drawing 2023-11-09 11.30.58.excalidraw.md",
+    "among/nickNotes/Untitled 1 1.md",
+    "among/nickNotes/English 'The Crucible' notes.md",
+    "among/nickNotes/Software.md",
+    "among/nickNotes/Boutta Business.md",
+    "among/Lachlan's editing space/Excalidraw/Drawing 2023-11-09 11.30.58.excalidraw.md",
     "Lachlan's editing space/DailyNotes/Nov 8, 2023.md",
-    "obsidian-notes-2024",
-    "Pete r/file.md",
-    "Pete r",
-    "Lachlan's editing space/images/landing.md",
-    "Lachlan's editing space/images/business9.11.23.jpg",
-    "Lachlan's editing space/images",
-    "Lachlan's editing space/Excalidraw",
+    "among/obsidian-notes-2024",
+    "among/Pete r/file.md",
+    "among/Pete r",
+    "among/Lachlan's editing space/images/landing.md",
+    "among/Lachlan's editing space/images/business9.11.23.jpg",
+    "among/Lachlan's editing space/images",
     "Lachlan's editing space/36776323 chemistry.md",
-    "Special syntax.md",
-    "Quotes.md",
     "Pasted image 20231107170001.png"
   ]
 }

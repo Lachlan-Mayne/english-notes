@@ -7,10 +7,10 @@
   },
   "files": {
     "pathsToDocumentIds": {
-      "WeeklySummaries/Look at this live demo!.md": "ff7c5616-b60d-4ba8-a14a-8d30894735eb"
+      "Look at this live demo!.md": "ff7c5616-b60d-4ba8-a14a-8d30894735eb"
     },
     "documentIdsToPaths": {
-      "ff7c5616-b60d-4ba8-a14a-8d30894735eb": "WeeklySummaries/Look at this live demo!.md"
+      "ff7c5616-b60d-4ba8-a14a-8d30894735eb": "Look at this live demo!.md"
     }
   }
 }
