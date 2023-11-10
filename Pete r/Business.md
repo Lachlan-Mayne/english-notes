@@ -291,5 +291,11 @@ The supply chain for a product can be determined by starting with the final prod
 ## Global Sourcing:
 - Same as sourcing, but this time on a global scale
 - It's basically buying or sourcing from wherever the suppliers are the best at meeting the sourcing requirements
+![[Screen Shot 2023-11-10 at 12.39.45 pm.png]]
 
-
+## Challenges of Global Sourcing:
+- The possible relocation of aspects of operations
+- The increased cost of logistics
+- Storage and distribution
+- Managing different regulatory conditions between nations 
+- The increasing complexity of overall operations when sourcing from diverse locations
