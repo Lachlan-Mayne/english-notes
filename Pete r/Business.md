@@ -289,6 +289,7 @@ The supply chain for a product can be determined by starting with the final prod
 ![[Screen Shot 2023-11-10 at 12.37.02 pm.png]]
 
 ## Global Sourcing:
-Same as sourcing, but this time on a global scale
+- Same as sourcing, but this time on a global scale
+- It's basically buying or sourcing from wherever the suppliers are the best at meeting the sourcing requirements
 
 
