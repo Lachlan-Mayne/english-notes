@@ -7,9 +7,9 @@ tags:
 ---
 Cost: how much a business pays for a good/service ^cost
 
-Price: how much a customer pays for a good/service
+Price: how much a customer pays for a good/service ^price
 
-Cost leadership: having the lowest [costs](Business%20Glossary%20(READ%20ONLY).md#^cost) in the industry
+Cost leadership: having the lowest [costs](Business%20Glossary%20(READ%20ONLY).md#^cost) in the industry ^costleadership
 
 Economies of scale: the amount of a product/good/service a business can produce for the same [cost](Business%20Glossary%20(READ%20ONLY).md#^cost), leading into decrease of [cost](Business%20Glossary%20(READ%20ONLY).md#^cost)/item ^economiesofscale
 
