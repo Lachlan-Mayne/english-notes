@@ -258,3 +258,6 @@ This is all about the process of a business bringing a new product or service in
 
 ## Why?
 **Often businesses do this to gain or maintain competitive advantage. It may be done to better satisfy the needs of existing customers and/or attempt to sell to new customers.**
+
+## Development:
+ishe coming up with and screening of ideas as well as identifying the commercial aspects (marketing and product launch and forecasting etc)
