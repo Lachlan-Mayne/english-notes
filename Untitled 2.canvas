@@ -1,9 +1,10 @@
 {
 	"nodes":[
+		{"id":"83b6917c999faf47","x":-1020,"y":-460,"width":1030,"height":686,"type":"group","label":"Test"},
 		{"id":"44de5e42ee6de485","type":"text","text":"Look at this","x":-528,"y":-123,"width":250,"height":60},
 		{"id":"12667480de34554b","type":"text","text":"","x":-260,"y":140,"width":250,"height":50},
 		{"id":"d990f26e20865565","type":"file","file":"Lachlan's editing space/images/Screenshot 2023-11-10 at 12.24.27 pm.png","x":-840,"y":74,"width":400,"height":132},
-		{"id":"f3255f46410c464e","x":-1000,"y":-380,"width":400,"height":400,"type":"file","file":"Lachlan's editing space/DailyNotes/Nov 10, 2023.md"}
+		{"id":"f3255f46410c464e","x":-1000,"y":-440,"width":400,"height":400,"type":"file","file":"Lachlan's editing space/DailyNotes/Nov 10, 2023.md"}
 	],
 	"edges":[
 		{"id":"41e63005f6aef84e","fromNode":"44de5e42ee6de485","fromSide":"bottom","toNode":"12667480de34554b","toSide":"top"},
