@@ -21,6 +21,8 @@ Quality: How well designed, made and functional [products](Business%20Glossary%2
 
 Development: coming up with and screening of ideas as well as identifying the commercial aspects (marketing, product launch, forecasting etc.) ^development
 
+Design: activities involved in creating styling, appearance, feel etc. of the product, deciding on the products mechanical make up, selecting materials and processes and engineering these so that they work ^design
+
 ```mermaid
 flowchart TD
 
