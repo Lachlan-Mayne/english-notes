@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Special syntax.md",
+                "file": "nickNotes/English Reflection.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:tag",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Special syntax.md",
+                "file": "nickNotes/English Reflection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Special syntax.md",
+                "file": "nickNotes/English Reflection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Special syntax.md"
+                "file": "nickNotes/English Reflection.md"
               }
             }
           }
@@ -149,10 +150,10 @@
   },
   "active": "cc490c25d3df25d8",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Special syntax.md",
-    "nickNotes/English 'The Crucible' notes.md",
     "nickNotes/English Reflection.md",
+    "conflict-files-obsidian-git.md",
+    "nickNotes/English 'The Crucible' notes.md",
     "nickNotes/Software.md",
     "Viz's editing space/Crucible Viz.md",
     "nickNotes/Boutta Business.md",
