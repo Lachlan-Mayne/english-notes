@@ -11,14 +11,11 @@
             "id": "cc490c25d3df25d8",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled 2.canvas",
-                "viewState": {
-                  "x": -505,
-                  "y": -117,
-                  "zoom": 0
-                }
+                "file": "Lachlan's editing space/DailyNotes/Nov 10, 2023.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 2.canvas",
+                "file": "Lachlan's editing space/DailyNotes/Nov 10, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 2.canvas",
+                "file": "Lachlan's editing space/DailyNotes/Nov 10, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 2.canvas"
+                "file": "Lachlan's editing space/DailyNotes/Nov 10, 2023.md"
               }
             }
           }
@@ -154,8 +151,8 @@
   },
   "active": "cc490c25d3df25d8",
   "lastOpenFiles": [
-    "WeeklySummaries/Look at this live demo!.md",
     "Untitled 2.canvas",
+    "WeeklySummaries/Look at this live demo!.md",
     "Untitled.canvas",
     "Lachlan's editing space/DailyNotes/Nov 10, 2023.md",
     "Untitled 1.canvas",
