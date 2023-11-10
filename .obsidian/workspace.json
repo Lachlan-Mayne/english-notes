@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nickNotes/English 'The Crucible' notes.md",
+                "file": "Special syntax.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc9fb6c1af66ad57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nickNotes/English 'The Crucible' notes.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nickNotes/English 'The Crucible' notes.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nickNotes/English 'The Crucible' notes.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -147,12 +160,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cc490c25d3df25d8",
+  "active": "bc9fb6c1af66ad57",
   "lastOpenFiles": [
+    "Special syntax.md",
+    "conflict-files-obsidian-git.md",
+    "nickNotes/English 'The Crucible' notes.md",
     "nickNotes/English Reflection.md",
     "nickNotes/Software.md",
     "Viz's editing space/Crucible Viz.md",
-    "nickNotes/English 'The Crucible' notes.md",
     "nickNotes/Boutta Business.md",
     "pete r/English.md",
     "Lachlan's editing space/DailyNotes/Nov 09, 2023.md",
@@ -181,7 +196,6 @@
     "Lachlan's editing space/Excalidraw",
     "Lachlan's editing space/DailyNotes/Nov 08, 2023.md",
     "Lachlan's editing space/36776323 chemistry.md",
-    "Special syntax.md",
     "Lachlan's editing space/English Notes Lachlan.md",
     "Quotes.md",
     "Business Glossary (READ ONLY).md",
