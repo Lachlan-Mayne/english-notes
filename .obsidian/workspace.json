@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lachlan's editing space/DailyNotes/Nov 10, 2023.md",
+                "file": "WeeklySummaries/Look at this live demo!.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lachlan's editing space/DailyNotes/Nov 10, 2023.md",
+                "file": "WeeklySummaries/Look at this live demo!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lachlan's editing space/DailyNotes/Nov 10, 2023.md",
+                "file": "WeeklySummaries/Look at this live demo!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lachlan's editing space/DailyNotes/Nov 10, 2023.md"
+                "file": "WeeklySummaries/Look at this live demo!.md"
               }
             }
           },
@@ -151,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,8 +168,11 @@
   },
   "active": "cc490c25d3df25d8",
   "lastOpenFiles": [
-    "Pete r/Business.md",
     "Lachlan's editing space/DailyNotes/Nov 10, 2023.md",
+    "WeeklySummaries/Look at this live demo!.md",
+    "WeeklySummaries/NovemberSum7.md",
+    "WeeklySummaries",
+    "Pete r/Business.md",
     "Lachlan's editing space/Maths Ultimate.md",
     "Lachlan's editing space/English Notes Lachlan.md",
     "Lachlan's editing space/DailyNotes/Nov 09, 2023.md",
@@ -209,8 +213,6 @@
     "Special syntax.md",
     "Quotes.md",
     "Business Glossary (READ ONLY).md",
-    "Lachlan's editing space/Business Notes Lock.md",
-    "nickNotes",
     "Pasted image 20231107170001.png"
   ]
 }
