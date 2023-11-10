@@ -282,3 +282,7 @@ It is essentially, the sequence of activities and organisation involved in produ
 
 The supply chain for a product can be determined by starting with the final product and then tracing backwards through all processes that add value, all the way back to inputs
 
+## Sourcing:
+- Sourcing is all about acquiring, purchasing or procuring (fancy names  for buying) the inputs needed for the transformation process.
+- “Sources” or the inputs you use, come from suppliers (think – these are my supplies, therefore I got them from suppliers)
+When choosing which sources to use, Supply Chain Managers think about the following:
