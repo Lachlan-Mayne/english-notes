@@ -11,11 +11,14 @@
             "id": "cc490c25d3df25d8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Lachlan's editing space/DailyNotes/Nov 10, 2023.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled 2.canvas",
+                "viewState": {
+                  "x": -425,
+                  "y": 41.5,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -73,8 +76,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -151,7 +153,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,11 +170,18 @@
   },
   "active": "cc490c25d3df25d8",
   "lastOpenFiles": [
-    "Pete r/Business.md",
+    "Untitled.canvas",
     "Lachlan's editing space/DailyNotes/Nov 10, 2023.md",
+    "Untitled 2.canvas",
+    "WeeklySummaries/Look at this live demo!.md",
+    "Untitled 1.canvas",
+    "Lachlan's editing space/DailyNotes/Nov 09, 2023.md",
+    "Lachlan's editing space/DailyNotes/Nov 08, 2023.md",
+    "WeeklySummaries/NovemberSum7.md",
+    "WeeklySummaries",
+    "Pete r/Business.md",
     "Lachlan's editing space/Maths Ultimate.md",
     "Lachlan's editing space/English Notes Lachlan.md",
-    "Lachlan's editing space/DailyNotes/Nov 09, 2023.md",
     "shenanigans/obsidian-notes-2024",
     "shenanigans",
     "nickNotes/English Reflection.md",
@@ -195,22 +205,15 @@
     "Lachlan's editing space/Excalidraw/Drawing 2023-11-09 11.30.58.excalidraw.md",
     "Lachlan's editing space/DailyNotes/Nov 8, 2023.md",
     "obsidian-notes-2024",
-    "Untitled.canvas",
-    "Untitled 2.canvas",
-    "Untitled 1.canvas",
     "Pete r/file.md",
     "Pete r",
     "Lachlan's editing space/images/landing.md",
     "Lachlan's editing space/images/business9.11.23.jpg",
     "Lachlan's editing space/images",
     "Lachlan's editing space/Excalidraw",
-    "Lachlan's editing space/DailyNotes/Nov 08, 2023.md",
     "Lachlan's editing space/36776323 chemistry.md",
     "Special syntax.md",
     "Quotes.md",
-    "Business Glossary (READ ONLY).md",
-    "Lachlan's editing space/Business Notes Lock.md",
-    "nickNotes",
     "Pasted image 20231107170001.png"
   ]
 }
