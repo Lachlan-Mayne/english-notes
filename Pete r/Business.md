@@ -284,5 +284,11 @@ The supply chain for a product can be determined by starting with the final prod
 
 ## Sourcing:
 - Sourcing is all about acquiring, purchasing or procuring (fancy names  for buying) the inputs needed for the transformation process.
-- “Sources” or the inputs you use, come from suppliers (think – these are my supplies, therefore I got them from suppliers)
-When choosing which sources to use, Supply Chain Managers think about the following:
+- “Sources” or the inputs you use, come from suppliers
+- When choosing which sources to use, Supply Chain Managers think about the following:
+![[Screen Shot 2023-11-10 at 12.37.02 pm.png]]
+
+## Global Sourcing:
+Same as sourcing, but this time on a global scale
+
+
