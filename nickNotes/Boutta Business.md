@@ -12,3 +12,4 @@ Performance Objectives: (how businesses maximise profit)
 
 A business usually chooses 1-2 of these Performance Objectives
 Choose strategies that will maximise one of these objectives
+
