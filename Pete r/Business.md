@@ -308,6 +308,8 @@ The supply chain for a product can be determined by starting with the final prod
 - **All about managing the flow of materials, info and other resources between supply and consumption**
 - Logistics is a term referring to distribution but also includes:
 	- Transportation
-	- The use of storage, warehousing,
+	- The use of storage, warehousing and distribution centres
+	- Material handling and packaging
+- Distribution refers to the ways of getting goods or services to the desired customers
 
 
