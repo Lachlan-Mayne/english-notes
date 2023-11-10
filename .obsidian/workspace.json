@@ -136,8 +136,17 @@
                 "file": "Viz's editing space/Crucible Viz.md"
               }
             }
+          },
+          {
+            "id": "b609158c9f99163d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -154,7 +163,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "44bd358925bfd605",
+  "active": "b609158c9f99163d",
   "lastOpenFiles": [
     "Pete r/English.md",
     "conflict-files-obsidian-git.md",
