@@ -294,8 +294,12 @@ The supply chain for a product can be determined by starting with the final prod
 ![[Screen Shot 2023-11-10 at 12.39.45 pm.png]]
 
 ## Challenges of Global Sourcing:
-- The possible relocation of aspects of operations
-- The increased cost of logistics
-- Storage and distribution
-- Managing different regulatory conditions between nations 
-- The increasing complexity of overall operations when sourcing from diverse locations
+- **The possible relocation of aspects of operations**
+- **The increased cost of logistics**
+- **Storage and distribution**
+- **Managing different regulatory conditions between nations** 
+- **The increasing complexity of overall operations when sourcing from diverse locations**
+
+## E-Commerce:
+- E-commerce involves the buying and selling of goods and services via the internet. With reference to supply chain management, it’s linked to the sourcing of your inputs.
+- 
