@@ -281,3 +281,4 @@ It is essentially, the sequence of activities and organisation involved in produ
 - Global sourcing
 
 The supply chain for a product can be determined by starting with the final product and then tracing backwards through all processes that add value, all the way back to inputs
+
