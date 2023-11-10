@@ -1,10 +1,10 @@
 {
-  "commitMessage": "manual vault backup ready to push: {{date}}",
+  "commitMessage": "vault backup: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 5,
-  "autoPushInterval": 1,
+  "autoSaveInterval": 1,
+  "autoPushInterval": 0,
   "autoPullInterval": 1,
-  "autoPullOnBoot": true,
+  "autoPullOnBoot": false,
   "disablePush": false,
   "pullBeforePush": true,
   "disablePopups": false,
@@ -17,14 +17,14 @@
   "treeStructure": false,
   "refreshSourceControl": true,
   "basePath": "",
-  "differentIntervalCommitAndPush": true,
+  "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": false,
   "showedMobileNotice": true,
   "refreshSourceControlTimer": 7000,
   "showBranchStatusBar": true,
   "setLastSaveToLastCommit": false,
   "submoduleRecurseCheckout": false,
-  "gitDir": "/Users/visarlmorgan-higgins/Desktop/obsdiaina/obsidianreal/obsidian-notes-2024/.git",
+  "gitDir": "./reak/obsidian-notes-2024/.git",
   "showFileMenu": true,
   "lineAuthor": {
     "show": false,
@@ -51,5 +51,5 @@
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   },
-  "autoCommitMessage": "auto vault backup ready to push: {{date}}"
+  "autoCommitMessage": "vault backup: {{date}}"
 }
