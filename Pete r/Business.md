@@ -26,7 +26,7 @@ One company that can save themselves a lot of money for example is Startrack, ch
 
 **Economies of scale are the cost advantages companies gain from increasing their output. For example, the same setup would be there for 1 unit AND 1 million units of a product.**
 
-Qantas’ competitive advantage over their rivals comes from being able to have the lowest production costs possible. Over 5 years Qantas has managed to cut 3.2 morbillion, with plans for a further 15 morbillion to be cut over the next 3 years.
+Qantas’ competitive advantage over their rivals comes from being able to have the lowest production costs possible. Over 5 years Qantas has managed to cut 3.2 Billion, with plans for a further 15 Billion to be cut over the next 3 years.
 
 **Qantas achieves cost-leadership through:**
 
@@ -247,4 +247,76 @@ It can be best achieved by increasing the capacity of production
 Creation of individual products to meet customer needs
 
 ## Cost:
-The amount a business pays for its goods\
+The amount a business pays for its goods
+
+## New product or service design & development:
+This is all about the process of a business bringing a new product or service into the market.
+**It involves;**
+- Identifying a market opportunity – what new product/service might be needed by people? Or something that people might want?
+- Creating a product – particularly one that will be appealing
+- Testing and modifying the product until it’s ready for  production
+
+## Why?
+**Often businesses do this to gain or maintain competitive advantage. It may be done to better satisfy the needs of existing customers and/or attempt to sell to new customers.**
+
+## Development:
+The coming up with and screening of ideas as well as identifying the commercial aspects (marketing and product launch and forecasting etc)
+
+## Design:
+The activities involved in creating the styling, appearance, feel, etc of the product, deciding on the product’s mechanical make up, selecting materials and processes and engineering these so that they work.
+**The following flowchart indicates the product design and development process**
+![[Screen Shot 2023-11-10 at 12.20.12 pm.png]]
+
+## Supply Chain Management:
+**Supply chain management involves figuring out and managing the flow ofsupplies through inputs, transformation processes and outputs in order to best meet the needs of the customer.
+It is essentially, the sequence of activities and organisation involved in producing a good or service, it is concerned with making sure all this happens in an efficient and cost effective way.**
+
+**Its goals include:**
+- Reducing inventory
+- Increasing the speed of transactions and increasing revenue for a business by satisfying customer demands.
+
+**The three key aspects of supply chain management include;**
+- Logistics
+- E-commerce
+- Global sourcing
+
+The supply chain for a product can be determined by starting with the final product and then tracing backwards through all processes that add value, all the way back to inputs
+
+## Sourcing:
+- Sourcing is all about acquiring, purchasing or procuring (fancy names  for buying) the inputs needed for the transformation process.
+- “Sources” or the inputs you use, come from suppliers
+- When choosing which sources to use, Supply Chain Managers think about the following:
+![[Screen Shot 2023-11-10 at 12.37.02 pm.png]]
+
+## Global Sourcing:
+- Same as sourcing, but this time on a global scale
+- It's basically buying or sourcing from wherever the suppliers are the best at meeting the sourcing requirements
+![[Screen Shot 2023-11-10 at 12.39.45 pm.png]]
+
+## Challenges of Global Sourcing:
+- **The possible relocation of aspects of operations**
+- **The increased cost of logistics**
+- **Storage and distribution**
+- **Managing different regulatory conditions between nations** 
+- **The increasing complexity of overall operations when sourcing from diverse locations**
+
+## E-Commerce:
+- E-commerce involves the buying and selling of goods and services via the internet. With reference to supply chain management, it’s linked to the sourcing of your inputs.
+- Supply chain can be managed through electronic ordering, e-procurement is the name for the system where on-line systems to manage supply levels, updating suppliers when a business is low and may need to re-stock.
+
+## Logistics:
+- **All about managing the flow of materials, info and other resources between supply and consumption**
+- Logistics is a term referring to distribution but also includes:
+	- Transportation
+	- The use of storage, warehousing and distribution centres
+	- Material handling and packaging
+- Distribution refers to the ways of getting goods or services to the desired customers
+- **Transportation is concerned with the physical movement of inventories**
+- Storage involves finding a secure place to hold stock until it is required
+- Warehousing is the use of a facility for the storage, protection and, later, distribution of stock
+- Distribution centre (slightly different to a warehouse) not intended for long term storage, instead, strategically located so as to minimise the time it takes to supply stock to retail outlets
+- Materials handling and packaging involves choosing the appropriate methods for the goods or services involved
+- 
+
+
+
