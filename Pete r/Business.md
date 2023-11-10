@@ -249,3 +249,5 @@ Creation of individual products to meet customer needs
 ## Cost:
 The amount a business pays for its goods
 
+## New product or service design & development:
+This
