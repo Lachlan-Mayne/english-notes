@@ -57,7 +57,7 @@ Students develop an understanding of the way that graphs of trigonometric functi
 - Constructs arguments to prove and justify results and provides reasoning to support conclusions which are appropriate to the context (MA12-10)
 ##### Subtopic Focus:
 The principal focus of this subtopic is to develop and apply rules for differentiation to a variety of functions.
-Students develop an understanding 
+Students develop an understanding of the interconnectedness of topics from across the syllabus and the use o
 ## Extension
 ### Term 1
 #### ME-P1 Proof by Mathematical Induction
