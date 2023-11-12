@@ -54,7 +54,10 @@ Students develop an understanding of the way that graphs of trigonometric functi
 - Applies calculus techniques to model and solve problems(MA12-3)
 - Applies appropriate differentiation methods to solve problems (MA12-6)
 - Chooses and uses appropriate technology effectively in a range of contexts, models and applies critical thinking to recognise appropriate times for such use (MA12-9)
-- Constructs arguments to prove and justify results and provides reasoning to support conclusions which are 
+- Constructs arguments to prove and justify results and provides reasoning to support conclusions which are appropriate to the context (MA12-10)
+##### Subtopic Focus:
+The principal focus of this subtopic is to develop and apply rules for differentiation to a variety of functions.
+Students develop an understanding 
 ## Extension
 ### Term 1
 #### ME-P1 Proof by Mathematical Induction
