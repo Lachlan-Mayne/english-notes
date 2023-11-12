@@ -40,7 +40,9 @@ Horizontal dilation (compression): ![[Pasted image 20231112132808.png|373]]
 - Applies the concepts and techniques of periodic functions in the solution of problems involving trigonometric graphs
 - Chooses and uses appropriate technology effectively in a range of contexts, models and applies critical thinking to recognise appropriate times for such use
 - Constructs arguments to prove and justify results and provides reasoning to support conclusions which are appropriate to the context
-##### 
+##### Subtopic focus:
+The principle focus of this subtopic is to explore the key features of the graphs of trigonometric functions and to understand and use basic transformations to solve trigonometric equations.
+Students develop an understanding of the way that graphs of trigonometric functions change when the functions are altered in a systematic way. This is important in understanding how mathem
 #### MA-C2 Differential Calculus
 
 ## Extension
