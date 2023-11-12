@@ -37,7 +37,8 @@ Horizontal dilation (compression): ![[Pasted image 20231112132808.png|373]]
 #### MA-T3 Trigonometric Functions and Graphs
 ##### Outcomes:
 - Uses detailed algebraic and graphical techniques to critically construct, model and evaluate arguments in a range of familiar and unfamiliar contexts
-- Applies the concepts and techniques of periodic
+- Applies the concepts and techniques of periodic functions in the solution of problems involving trigonometric graphs
+- Chooses and uses appropriate 
 #### MA-C2 Differential Calculus
 
 ## Extension
