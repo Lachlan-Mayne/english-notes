@@ -19,6 +19,11 @@ Students develop an understanding of transformations from a graphical and algebr
 	- Examine translations and the graphs of $y=f(x)+c$ and $y=f(x+b)$ using technology
 	- Examine dilations and the graphs of $y=kf(x)$ and $y=f(ax)$ using technology
 	- Recognise that the order in which transformations are applied is important in the construction of the resulting function or graph
+###### Transformations of functions & graphs
+***Dilation before translation***. Order of vertical and horizontal doesn't matter.
+Function f(x) is vertically dilated by factor k, then translated by c ($y=k\times{f(x)}+c$) 
+Function f(x) is is horizontally dilated by a factor of $\frac{1}{a}$, then shifted by $-b$ units. NOTE: a is factored ($y=f(a(x+b))$)
+Combined together, $y=kf(a(x+b))+c$ : Vertical dilation by $k$, horizontal dilation by $\frac{1}{a}$, shifted direction opposite to the sign of $b$, shifted up or down by $c$.
 - Use graphical methods with supporting algebraic working to solve a variety of practical problems involving any of the functions within the scope of this syllabus, in both real-life and abstract contexts
 	- Select and use an appropriate method to graph a given function, including finding intercepts, considering the sign of $f(x)$ and using symmetry
 	- Determine asymptotes and discontinuities where appropriate (vertical and horizontal asymptotes only)
