@@ -43,7 +43,9 @@ Horizontal dilation (compression): ![[Pasted image 20231112132808.png|373]]
 ##### Outcomes:
 - Applies techniques involving proof or calculus to model and solve problems (ME12-1)
 - Chooses and uses appropriate technology to solve problems in a range of contexts (ME12-6)
-- Evaluates and 
+- Evaluates and justifies conclusions, communicating a position clearly in appropriate mathematical forms (ME12-7)
+##### Subtopic Focus:
+The principle focus of this subtopic is to explore and to 
 
 #### ME-T3 Trigonometric Equations
 #### ME-C2 Further Calculus Skills
