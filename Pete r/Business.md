@@ -316,7 +316,7 @@ The supply chain for a product can be determined by starting with the final prod
 - Warehousing is the use of a facility for the storage, protection and, later, distribution of stock
 - Distribution centre (slightly different to a warehouse) not intended for long term storage, instead, strategically located so as to minimise the time it takes to supply stock to retail outlets
 - Materials handling and packaging involves choosing the appropriate methods for the goods or services involved
-- 
+
 
 
 
