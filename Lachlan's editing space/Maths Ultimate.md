@@ -35,6 +35,9 @@ Horizontal dilation (compression): ![[Pasted image 20231112132808.png|373]]
 	- Solve linear and quadratic inequalities by sketching appropriate graphs
 
 #### MA-T3 Trigonometric Functions and Graphs
+##### Outcomes:
+- Uses detailed algebraic and graphical techniques to critically construct, model and evaluate arguments in a range of familiar and unfamiliar contexts
+- Applies the concepts and techniques of periodic
 #### MA-C2 Differential Calculus
 
 ## Extension
