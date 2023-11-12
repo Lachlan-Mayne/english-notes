@@ -40,6 +40,10 @@ Horizontal dilation (compression): ![[Pasted image 20231112132808.png|373]]
 ## Extension
 ### Term 1
 #### ME-P1 Proof by Mathematical Induction
+##### Outcomes:
+- Applies techniques involving proof or calculus to model and solve problems (ME12-1)
+- Chooses and uses appropriate technology to solve problems in a range of contexts (ME12-6)
+- Evaluates and 
 
 #### ME-T3 Trigonometric Equations
 #### ME-C2 Further Calculus Skills
