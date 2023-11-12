@@ -51,7 +51,9 @@ Students develop an understanding of the way that graphs of trigonometric functi
 - Use trigonometric functions of the form $y=kf(a(x+b))+c$ to model and/or solve practical problems involving periodic phenomena
 #### MA-C2 Differential Calculus
 ##### Outcomes:
-- Applies 
+- Applies calculus techniques to model and solve problems
+- Applies appropriate differentiation methods to solve problems
+- Chooses and uses appropriate technology effectively in a a
 ## Extension
 ### Term 1
 #### ME-P1 Proof by Mathematical Induction
