@@ -45,7 +45,7 @@ Horizontal dilation (compression): ![[Pasted image 20231112132808.png|373]]
 - Chooses and uses appropriate technology to solve problems in a range of contexts (ME12-6)
 - Evaluates and justifies conclusions, communicating a position clearly in appropriate mathematical forms (ME12-7)
 ##### Subtopic Focus:
-The principle focus of this subtopic is to explore and to 
+The principle focus of this subtopic is to explore and to develop the use of the technique of proof by mathematical induction to prove results. Students are introducted to mathematical induction for a range of applications so that they have tmie to develop confidence in its use
 
 #### ME-T3 Trigonometric Equations
 #### ME-C2 Further Calculus Skills
