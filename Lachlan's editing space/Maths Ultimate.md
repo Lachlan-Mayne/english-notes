@@ -50,7 +50,8 @@ Students develop the use of formal mathematical language and argument to prove t
 ##### Content:
 - Understand the nature of inductive proof, including the 'Initial statement' and the inductive step
 - Prove results using mathematical induction
-	- Prove results for sums, for example $1+4+9$
+	- Prove results for sums, for example $1+4+9+...+n^2=\frac{n(n+1)(2n+1)}{6}$ for any positive integer $n$
+	- Prove divisibility results, for example $3^{2n}-1$ is d
 #### ME-T3 Trigonometric Equations
 #### ME-C2 Further Calculus Skills
 # Calculus
