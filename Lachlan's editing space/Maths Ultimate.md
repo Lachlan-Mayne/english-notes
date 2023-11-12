@@ -64,6 +64,7 @@ C2.1: Differentiation of trigonometric, exponential and logarithmic functions
 - Calculate derivatives of trigonometric functions
 - Establish and use the formula $\frac{d}{dx}(a^x)=(\ln{a})\times a^x$
 	- Using graphing software or otherwise, sketch and explore the gradient function for a given exponential function, recognise it as another exponential function and hence determine the relationship between exponential functions and their derivatives
+- Calculate the derivative of the natural logarithm function $\frac{d}{dx}(\ln{x})=\frac{1}{x}$
 - 
 ## Extension
 ### Term 1
