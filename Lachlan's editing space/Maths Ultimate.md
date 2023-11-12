@@ -13,7 +13,10 @@ Syllabus content:
 	- Examine dilations and the graphs of $y=kf(x)$ and $y=f(ax)$ using technology
 	- Recognise that the order in which transformations are applied is important in the construction of the resulting function or graph
 - Use graphical methods with supporting algebraic working to solve a variety of practical problems involving any of the functions within the scope of this syllabus, in both real-life and abstract contexts
-	- Select and use an appropriate method to graph a given function, includin
+	- Select and use an appropriate method to graph a given function, including finding intercepts, considering the sign of $f(x)$ and using symmetry
+	- Determine asymptotes and discontinuities where appropriate (vertical and horizontal asymptotes only)
+	- Determine the number of solutions of an equation by considering appropriate graphs
+	- Solve linear and quadratic inequalities by sketching appropriate graphs
 #### MA-T3 Trigonometric Functions and Graphs
 #### MA-C2 Differential Calculus
 
