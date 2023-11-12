@@ -5,6 +5,11 @@ tags:
 ---
 # Tasks
 ## Advanced
+### Term 1:
+- MA-F2 Graphing Techniques
+- MA-T3 Trigonometric Functions and Graphs
+- MA-C2 Differential Calculus
+
 ## Extension
 # Calculus
 #calculus
