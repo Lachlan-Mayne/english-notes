@@ -60,7 +60,8 @@ The principal focus of this subtopic is to develop and apply rules for different
 Students develop an understanding of the interconnectedness of topics from across the syllabus and the use of calculus to help solve problems from each topic. These skills are then applied in the following subtopic on the second derivative in order to investigate the applications of the calculus of trigonometric, exponential and logarithmic functions.
 ##### Content:
 C2.1: Differentiation of trigonometric, exponential and logarithmic functions
-- Establish the formulae $\frac{d}{dx}(\sin{x})=\$
+- Establish the formulae $\frac{d}{dx}(\sin{x})=\cos{x}$ and $\frac{d}{dx}(\cos{x})=-\sin{x}$ by numerical estimations of the limits and informal proofs based on geometric constructions
+- 
 ## Extension
 ### Term 1
 #### ME-P1 Proof by Mathematical Induction
