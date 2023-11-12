@@ -100,7 +100,8 @@ Students develop complex algebraic manipulative skills and fluency in applying t
 ##### Content:
 - Convert expressions of the form $a\cos{x}+b\sin{x}$ to $R\cos{(x\mp\alpha)}$ or $R\sin{(x\pm\alpha)}$ and apply these to solve equations of the form $a\cos{x}+b\sin{x}=c$, sketch graphs and solve related problems
 - Solve trigonometric equations requiring factorising and/or the application of compound angle, double angle formulae or the t-formulae
-- Prove and apply other trigonometric identities, for example $\cos{3x}=4\cos{}$
+- Prove and apply other trigonometric identities, for example $\cos{3x}=4\cos{^3x}-3\cos{x}$
+- Solve trigonometric equations and interpret solutions in context using technology or otherwise
 #### ME-C2 Further Calculus Skills
 - Find derivatives of inverse functions by using the relationships $\frac{dy}{dx}=\frac{1}{\frac{dx}{dy}}$
 - Solve problems involving the derivatives of inverse trigonometric functions
