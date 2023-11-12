@@ -47,7 +47,10 @@ Horizontal dilation (compression): ![[Pasted image 20231112132808.png|373]]
 ##### Subtopic Focus:
 The principle focus of this subtopic is to explore and to develop the use of the technique of proof by mathematical induction to prove results. Students are introduced to mathematical induction for a range of applications so that they have time to develop confidence in its use.
 Students develop the use of formal mathematical language and argument to prove the validity of given situations using inductive reasoning. The logical sequence of steps in the proof technique needs to be understood and carefully justified, thus encouraging clear and concise communication which is useful both in further study of mathematics and in life.
-#####
+##### Content:
+- Understand the nature of inductive proof, including the 'Initial statement' and the inductive step
+- Prove results using mathematical induction
+	- Prove results for sums, for example $1+4+9$
 #### ME-T3 Trigonometric Equations
 #### ME-C2 Further Calculus Skills
 # Calculus
