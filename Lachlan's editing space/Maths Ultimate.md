@@ -69,6 +69,7 @@ C2.1: Differentiation of trigonometric, exponential and logarithmic functions
 C2.2: Rules of differentiation
 - Apply the product, quotient and chain rules to differentiate functions of the form $f(x)g(x), \frac{f(x)}{g(x)}$ and $f(g(x))$ where $f(x)$ and $g(x)$ are any of the functions covered in the scope of this syllabus, for example $xe^x,\tan{x},\frac{1}{x^n},x\sin{x},e^{-x}\sin{x}$ and $f(ax+b)$
 	- use the composite function rule (chain rule) to establish that $\frac{d}{dx}(e^{f(x)})=f'(x)e^{f(x)}$
+	- use the composite function rule (chain rule) to establish that 
 ## Extension
 ### Term 1
 #### ME-P1 Proof by Mathematical Induction
