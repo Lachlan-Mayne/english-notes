@@ -215,7 +215,7 @@ Goal: to understand the ways language is used to shape representations in texts
 Dramatic form: 
 - Acts and scenes
 - Stage directions
-- [Authorial Intrusions](Glossary%201.md#^caf53e)
+- [Authorial Intrusions](Glossary#^caf53e)
 - Action
 - Gestures
 - Facial expressions
@@ -226,7 +226,7 @@ Dramatic form: 
 - Props
 - Scenery
 - Paradoxical settings
-- Character conflict (eg [John Proctor](Quotes%201.md#^b7197b))
+- Character conflict (eg [John Proctor](Quotes#^b7197b))
 
 Language features:
 - Historically authentic language
@@ -287,12 +287,12 @@ Rubrik, text used, tools
 
 # Quotes (ignore these, use quote doc):
 
-“I say you’re pulling heaven down and raising up a whore” - [John Proctor](Quotes%201.md#^b7197b)
-“I say God is dead” - [John Proctor](Quotes%201.md#^b7197b)
+“I say you’re pulling heaven down and raising up a whore” - [John Proctor](Quotes#^b7197b)
+“I say God is dead” - [John Proctor](Quotes#^b7197b)
 
 “I will not see you again, but in hell” - [John](Quotes#^b7197b) to the whore
 
-“(the Lord's prayer)” - on the gallows, [John Proctor](Quotes%201.md#^b7197b), two women convicted 
+“(the Lord's prayer)” - on the gallows, [John Proctor](Quotes#^b7197b), two women convicted 
 
 # Glossary
 
