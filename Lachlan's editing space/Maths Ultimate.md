@@ -25,7 +25,7 @@ Function f(x) is vertically dilated by factor k, then translated by c ($y=k\time
 Function f(x) is is horizontally dilated by a factor of $\frac{1}{a}$, then shifted by $-b$ units. NOTE: a is factored ($y=f(a(x+b))$)
 Combined together, $y=kf(a(x+b))+c$ : Vertical dilation by $k$, horizontal dilation by $\frac{1}{a}$, shifted direction opposite to the sign of $b$, shifted up or down by $c$.
 The vertical dilation stretches the graph, easily visualised by changing the turning points from a point, say $(x, y)$ to $(x,ky)$. 
-![[Pasted image 20231112132808.png]]
+![[Pasted image 20231112132808.png|500]]
 - Use graphical methods with supporting algebraic working to solve a variety of practical problems involving any of the functions within the scope of this syllabus, in both real-life and abstract contexts
 	- Select and use an appropriate method to graph a given function, including finding intercepts, considering the sign of $f(x)$ and using symmetry
 	- Determine asymptotes and discontinuities where appropriate (vertical and horizontal asymptotes only)
