@@ -42,7 +42,9 @@ Horizontal dilation (compression): ![[Pasted image 20231112132808.png|373]]
 - Constructs arguments to prove and justify results and provides reasoning to support conclusions which are appropriate to the context
 ##### Subtopic focus:
 The principle focus of this subtopic is to explore the key features of the graphs of trigonometric functions and to understand and use basic transformations to solve trigonometric equations.
-Students develop an understanding of the way that graphs of trigonometric functions change when the functions are altered in a systematic way. This is important in understanding how mathem
+Students develop an understanding of the way that graphs of trigonometric functions change when the functions are altered in a systematic way. This is important in understanding how mathematical models of real-world phenomena can be developed
+##### Content:
+- Examine and apply transformations to sketch functions of the form $y=kf(a(x+b))+c$, where a, b, c and k are constants, 
 #### MA-C2 Differential Calculus
 
 ## Extension
