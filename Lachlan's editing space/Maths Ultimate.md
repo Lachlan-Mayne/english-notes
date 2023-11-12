@@ -71,7 +71,7 @@ C2.2: Rules of differentiation
 	- use the composite function rule (chain rule) to establish that $\frac{d}{dx}(e^{f(x)})=f'(x)e^{f(x)}$
 	- use the composite function rule (chain rule) to establish that $\frac{d}{dx}(\ln{f(x)})=\frac{f'(x)}{f(x)}$
 	- use the logarithmic laws to simplify an expression before differentiating
-	- use the composite function rule (chain rule)
+	- use the composite function rule (chain rule) to establish and use the derivatives of $\sin{(f(x))}, \cos{(f(x))}$ and $\tan{(f(x))}$
 ## Extension
 ### Term 1
 #### ME-P1 Proof by Mathematical Induction
