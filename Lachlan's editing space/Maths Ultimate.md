@@ -94,7 +94,8 @@ Students develop the use of formal mathematical language and argument to prove t
 - Applies advanced concepts and techniques in simplifying expressions involving compound angles and solving trigonometric equations (ME12-3)
 - Chooses and uses appropriate technology to solve problems in a range of contexts (ME12-6)
 - Evaluates and justifies conclusions, communicating a position clearly in appropriate mathematical forms (ME12-7)
-##### 
+##### Subtopic focus:
+The principal focus of this subtopib is to conso
 #### ME-C2 Further Calculus Skills
 - Find derivatives of inverse functions by using the relationships $\frac{dy}{dx}=\frac{1}{\frac{dx}{dy}}$
 - Solve problems involving the derivatives of inverse trigonometric functions
