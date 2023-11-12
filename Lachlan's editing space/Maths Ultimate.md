@@ -40,6 +40,7 @@ Horizontal dilation (compression): ![[Pasted image 20231112132808.png|373]]
 ## Extension
 ### Term 1
 #### ME-P1 Proof by Mathematical Induction
+
 #### ME-T3 Trigonometric Equations
 #### ME-C2 Further Calculus Skills
 # Calculus
