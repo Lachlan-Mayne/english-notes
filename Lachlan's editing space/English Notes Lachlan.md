@@ -124,8 +124,8 @@ He is mad against the town, generally for land disputes and things relating to p
 
   3.iii. Abigail: Elizabeth Proctor - Married to [John](Quotes#^b7197b) Proctor who Abigail wants to marry and so sees Elizabeth as competition
 P26 - all the girls are trying to say we should stop now before we get too deep into the accusations
-P30 - wants elizabeth gone so she can have [John](Quotes%201.md#^b7197b) Proctor to herself
-P60 - Elizabeth talking about [John](Quotes%201.md#^b7197b) not blaming abigail
+P30 - wants elizabeth gone so she can have [John](Quotes#^b7197b) Proctor to herself
+P60 - Elizabeth talking about [John](Quotes#^b7197b) not blaming abigail
 P70 - 
 P96 - 
 Mary - Mary is trying to prove Abigail wrong and so to preserve her name she denies Mary. 
@@ -145,7 +145,7 @@ Man crushed to death is historically accurate: [https://www.masshist.org/beehive
 
 Bringing the total death count up to 13 thus far, 12 by hanging 1 by crushing. 
 
-[John](Quotes%201.md#^b7197b) tears his signed confession, invalidating the document
+[John](Quotes#^b7197b) tears his signed confession, invalidating the document
 ## Play notes:
 
 - Miller uses repetition of “i saw … with the devil” as the curtains are closing are falling
@@ -157,7 +157,7 @@ SC: 
 - I can identify key aspects of the context of the play - both Miller’s 1950’s America & Salem 1692 and how Miller connects these two contexts. (viewing the videos and making notes from LMS)
 - I can explain the purpose of the play (from notes on LMS)
 
-[McCarthyism](Glossary%201.md#^dc5591):
+[McCarthyism](Glossary#^dc5591):
 - Joseph McCarthy was a member of the american parliament, he used privilege to make baseless accusations against citizens of america being communists 
 - By having privilege he can’t be sued or defamed for the accusations made in session 
 - Arthur Miller was accused, and didn’t give up any names to save himself, mainly because he didn’t go to the meetings 
@@ -179,10 +179,10 @@ Cold war:
 ## Techniques:
 
 Adultery:
-- [John](Quotes%201.md#^b7197b) with [Abigail](Quotes%201.md#^3539e8)
+- [John](Quotes#^b7197b) with [Abigail](Quotes%201.md#^3539e8)
 
 Dramatic irony:
-- [John](Quotes%201.md#^b7197b) reciting 10 commandments, ignoring the one he hasn’t kept (adultery)
+- [John](Quotes#^b7197b) reciting 10 commandments, ignoring the one he hasn’t kept (adultery)
 
 Stage directions:
 - Convey the sense of fear and panic, denoting mood
@@ -290,7 +290,7 @@ Rubrik, text used, tools
 “I say you’re pulling heaven down and raising up a whore” - [John Proctor](Quotes%201.md#^b7197b)
 “I say God is dead” - [John Proctor](Quotes%201.md#^b7197b)
 
-“I will not see you again, but in hell” - [John](Quotes%201.md#^b7197b) to the whore
+“I will not see you again, but in hell” - [John](Quotes#^b7197b) to the whore
 
 “(the Lord's prayer)” - on the gallows, [John Proctor](Quotes%201.md#^b7197b), two women convicted 
 
