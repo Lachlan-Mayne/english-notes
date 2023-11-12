@@ -96,7 +96,9 @@ Students develop the use of formal mathematical language and argument to prove t
 - Evaluates and justifies conclusions, communicating a position clearly in appropriate mathematical forms (ME12-7)
 ##### Subtopic focus:
 The principal focus of this subtopic is to consolidate and extend students' knowledge in relation to solving trigonometric equations and to apply this knowledge to practical situations.
-Students develop complex algebraic manipulative skills and fluency in applying trigonometric knowledge to a variety of situations. Trigonometric expressions and equations provide a powerful tool for modelling quantities that va
+Students develop complex algebraic manipulative skills and fluency in applying trigonometric knowledge to a variety of situations. Trigonometric expressions and equations provide a powerful tool for modelling quantities that vary in a cyclical way such as tides, seasons, demand for resources, and alternating current.
+##### Content:
+- Convert expressions of the form $a\cos{x}+b\sin{x}$ to $R\cos{x}$
 #### ME-C2 Further Calculus Skills
 - Find derivatives of inverse functions by using the relationships $\frac{dy}{dx}=\frac{1}{\frac{dx}{dy}}$
 - Solve problems involving the derivatives of inverse trigonometric functions
