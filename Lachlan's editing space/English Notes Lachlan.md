@@ -101,7 +101,7 @@ and whimpering like a stricken animal.
 
 GOT TO UNDERSTAND WHAT THE WORDS YOU’RE USING MEAN
 
-The one lie [John](Quotes%201.md#^b7197b) Proctor's wife gives ends up killing [John](Quotes%201.md#^b7197b), she tries to save his reputation and in turn destroys her own
+The one lie [John](Quotes#^b7197b) Proctor's wife gives ends up killing [John](Quotes#^b7197b), she tries to save his reputation and in turn destroys her own
 
 The experience of fear, a common collective and individual human experience, permeates the play as many of the characters hold genuine fears for a range of reasons.
 
@@ -122,7 +122,7 @@ Betty - throwing her under the bus as a demon first chance, Tituba - probably ra
 “A moment, Mr Proctor. What lumber is that you’re draggin’ if i may ask you? … Why, we are surely gone wild this year. What anarchy is this? That tract is in my bounds, it’s in my bounds, Mr Proctor.”
 He is mad against the town, generally for land disputes and things relating to power, Proctor - over a land dispute, Giles and danforth - still around land, and who can claim it
 
-  3.iii. Abigail: Elizabeth Proctor - Married to [John](Quotes%201.md#^b7197b) Proctor who Abigail wants to marry and so sees Elizabeth as competition
+  3.iii. Abigail: Elizabeth Proctor - Married to [John](Quotes#^b7197b) Proctor who Abigail wants to marry and so sees Elizabeth as competition
 P26 - all the girls are trying to say we should stop now before we get too deep into the accusations
 P30 - wants elizabeth gone so she can have [John](Quotes%201.md#^b7197b) Proctor to herself
 P60 - Elizabeth talking about [John](Quotes%201.md#^b7197b) not blaming abigail
