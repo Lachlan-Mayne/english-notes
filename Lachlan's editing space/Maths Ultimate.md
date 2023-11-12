@@ -12,6 +12,8 @@ tags:
 - Chooses and uses appropriate technology effectively in a range of contexts, models and applies critical thinking to recognise appropriate times for such use (MA12-9)
 - Constructs arguments to prove and justify results and provides reasoning to support conclusions which are appropriate to the context (MA12-10)
 ##### Subtopic focus:
+The principle focus of this subtopic is to become more familiar with key features of graphs and functions, as well as develop an understanding of and use of the effect of basic transformations of these graphs to explain graphical behaviour
+Students develop an understanding of transformations from a graphical and algebraic approach, including the use of technology, and 
 ##### Syllabus content:
 - Apply transformations to sketch functions of the form $y=kf(a(x+b))+c$, where $f(x)$ is a polynomial, reciprocal, absolute value, exponential or logarithmic function, and a, b, c and k are constants
 	- Examine translations and the graphs of $y=f(x)+c$ and $y=f(x+b)$ using technology
