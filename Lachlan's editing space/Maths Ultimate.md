@@ -8,7 +8,10 @@ tags:
 ### Term 1:
 #### MA-F2 Graphing Techniques
 Syllabus content:
-- Apply transformations to sketch functions of the form $y=kf(a(x+b))+c$, where $f(x)$ is a polynomial, reciprocal, absolute value, exponential or logarithmic function, and a,b,c and k are constants
+- Apply transformations to sketch functions of the form $y=kf(a(x+b))+c$, where $f(x)$ is a polynomial, reciprocal, absolute value, exponential or logarithmic function, and a, b, c and k are constants
+	- Examine translations and the graphs of $y=f(x)+c$ and $y=f(x+b)$ using technology
+	- Examine dilations and the graphs of $y=kf(x)$ and $y=f(ax)$ using technology
+	- Recog
 #### MA-T3 Trigonometric Functions and Graphs
 #### MA-C2 Differential Calculus
 
