@@ -48,7 +48,7 @@ Students develop an understanding of the way that graphs of trigonometric functi
 	- Use technology or otherwise to examine the effect on the graphs of changing the amplitude (where appropriate), $y=kf(x)$, the period, $y=f(ax)$, the phase, $y=f(x+b)$, and the vertical shift, $y=f(x)+c$
 	- Use k, a, b, c to describe transformational shifts and sketch graphs
 - Solve trigonometric equations involving functions of the form $y=kf(a(x+b))+c$, using technology or otherwise, within a specified domain
-- Use trigonometric functions of the form $y=kf(ff)
+- Use trigonometric functions of the form $y=kf(a(x+b))+c$ to model and/or solve practical problems involving periodic phenomena
 #### MA-C2 Differential Calculus
 
 ## Extension
