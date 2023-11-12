@@ -61,7 +61,8 @@ Students develop an understanding of the interconnectedness of topics from acros
 ##### Content:
 C2.1: Differentiation of trigonometric, exponential and logarithmic functions
 - Establish the formulae $\frac{d}{dx}(\sin{x})=\cos{x}$ and $\frac{d}{dx}(\cos{x})=-\sin{x}$ by numerical estimations of the limits and informal proofs based on geometric constructions
-- 
+- Calculate derivatives of trigonometric functions
+- Establish and
 ## Extension
 ### Term 1
 #### ME-P1 Proof by Mathematical Induction
