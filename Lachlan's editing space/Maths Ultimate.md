@@ -11,7 +11,9 @@ Syllabus content:
 - Apply transformations to sketch functions of the form $y=kf(a(x+b))+c$, where $f(x)$ is a polynomial, reciprocal, absolute value, exponential or logarithmic function, and a, b, c and k are constants
 	- Examine translations and the graphs of $y=f(x)+c$ and $y=f(x+b)$ using technology
 	- Examine dilations and the graphs of $y=kf(x)$ and $y=f(ax)$ using technology
-	- Recog
+	- Recognise that the order in which transformations are applied is important in the construction of the resulting function or graph
+- Use graphical methods with supporting algebraic working to solve a variety of practical problems involving any of the functions within the scope of this syllabus, in both real-life and abstract contexts
+	- Select and use an appropriate method to graph a given function, includin
 #### MA-T3 Trigonometric Functions and Graphs
 #### MA-C2 Differential Calculus
 
