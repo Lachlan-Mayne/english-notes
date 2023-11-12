@@ -314,7 +314,7 @@ McCarthyism: Ruinous accusation without any basis in evidence
 
 Anomaly: behaviour that is different//deviates from social norms//anomalous from societal norms
 
-Paradoxes: contradictions (normally in reference to a character, eg. social guy in public, drinker depressed by self) [gallows humour: use of humour in a bad situation]
+Paradoxes: contradictions (normally in reference to a character, eg. social guy in public, drinker depressed by self) \[gallows humour: use of humour in a bad situation]
 
 Authorial intrusion: the author intrudes to explain something
 
