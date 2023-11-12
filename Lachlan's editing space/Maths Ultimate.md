@@ -6,11 +6,14 @@ tags:
 # Tasks
 ## Advanced
 ### Term 1:
-- MA-F2 Graphing Techniques
-- MA-T3 Trigonometric Functions and Graphs
-- MA-C2 Differential Calculus
+#### MA-F2 Graphing Techniques
+#### MA-T3 Trigonometric Functions and Graphs
+#### MA-C2 Differential Calculus
 
 ## Extension
+### ME-P1 Proof by Mathematical Induction
+### ME-T3 Trigonometric Equations
+### ME-C2 Further Calculus Skills
 # Calculus
 #calculus
 ## Logarithmic calculus
