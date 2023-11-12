@@ -13,7 +13,7 @@ tags:
 - Constructs arguments to prove and justify results and provides reasoning to support conclusions which are appropriate to the context (MA12-10)
 ##### Subtopic focus:
 The principle focus of this subtopic is to become more familiar with key features of graphs and functions, as well as develop an understanding of and use of the effect of basic transformations of these graphs to explain graphical behaviour
-Students develop an understanding of transformations from a graphical and algebraic approach, including the use of technology, and 
+Students develop an understanding of transformations from a graphical and algebraic approach, including the use of technology, and thus develop a deeper understanding of the properties of functions. As graphing software becomes more widely accessible, skills in reading scales and interpreting magnification effects becomes essential.
 ##### Syllabus content:
 - Apply transformations to sketch functions of the form $y=kf(a(x+b))+c$, where $f(x)$ is a polynomial, reciprocal, absolute value, exponential or logarithmic function, and a, b, c and k are constants
 	- Examine translations and the graphs of $y=f(x)+c$ and $y=f(x+b)$ using technology
@@ -24,6 +24,7 @@ Students develop an understanding of transformations from a graphical and algebr
 	- Determine asymptotes and discontinuities where appropriate (vertical and horizontal asymptotes only)
 	- Determine the number of solutions of an equation by considering appropriate graphs
 	- Solve linear and quadratic inequalities by sketching appropriate graphs
+######
 #### MA-T3 Trigonometric Functions and Graphs
 #### MA-C2 Differential Calculus
 
