@@ -90,7 +90,10 @@ Students develop the use of formal mathematical language and argument to prove t
 - Identify errors in false 'proofs by induction', such as cases where only one of the required two steps of a proof by induction is true, and understand that this means that the statement has not been proved
 - Recognise situations where proof by mathematical induction is not appropriate
 #### ME-T3 Trigonometric Equations
-##### 
+##### Outcomes:
+- Applies advanced concepts and techniques in simplifying expressions involving compound angles and solving trigonometric equations (ME12-3)
+- Chooses and uses appropriate technology to solve problems in a range of contexts (ME12-6)
+- 
 #### ME-C2 Further Calculus Skills
 - Find derivatives of inverse functions by using the relationships $\frac{dy}{dx}=\frac{1}{\frac{dx}{dy}}$
 - Solve problems involving the derivatives of inverse trigonometric functions
