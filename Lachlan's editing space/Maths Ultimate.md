@@ -24,7 +24,7 @@ Students develop an understanding of transformations from a graphical and algebr
 	- Determine asymptotes and discontinuities where appropriate (vertical and horizontal asymptotes only)
 	- Determine the number of solutions of an equation by considering appropriate graphs
 	- Solve linear and quadratic inequalities by sketching appropriate graphs
-######
+
 #### MA-T3 Trigonometric Functions and Graphs
 #### MA-C2 Differential Calculus
 
