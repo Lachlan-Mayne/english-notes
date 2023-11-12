@@ -56,6 +56,7 @@ Students develop the use of formal mathematical language and argument to prove t
 - Recognise situations where proof by mathematical induction is not appropriate
 #### ME-T3 Trigonometric Equations
 #### ME-C2 Further Calculus Skills
+- Find derivatives of inverse functions by using the r
 # Calculus
 #calculus
 ## Logarithmic calculus
