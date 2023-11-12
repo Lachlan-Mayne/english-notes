@@ -44,7 +44,8 @@ Horizontal dilation (compression): ![[Pasted image 20231112132808.png|373]]
 The principle focus of this subtopic is to explore the key features of the graphs of trigonometric functions and to understand and use basic transformations to solve trigonometric equations.
 Students develop an understanding of the way that graphs of trigonometric functions change when the functions are altered in a systematic way. This is important in understanding how mathematical models of real-world phenomena can be developed
 ##### Content:
-- Examine and apply transformations to sketch functions of the form $y=kf(a(x+b))+c$, where a, b, c and k are constants, 
+- Examine and apply transformations to sketch functions of the form $y=kf(a(x+b))+c$, where a, b, c and k are constants, in a variety of contexts, where $f(x)$ is one of $\sin{x}, \cos{x}$ or $\tan{x}$, stating the domain and range where appropriate
+	- Use technology or otherwise to examine the effect on the graphs of changing the amplitude (whe)
 #### MA-C2 Differential Calculus
 
 ## Extension
