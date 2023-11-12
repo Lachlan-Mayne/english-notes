@@ -3,6 +3,9 @@ tags:
   - maths
   - mathematics
 ---
+# Tasks
+## Advanced
+## Extension
 # Calculus
 #calculus
 ## Logarithmic calculus
