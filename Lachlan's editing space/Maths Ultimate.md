@@ -67,7 +67,8 @@ C2.1: Differentiation of trigonometric, exponential and logarithmic functions
 - Calculate the derivative of the natural logarithm function $\frac{d}{dx}(\ln{x})=\frac{1}{x}$
 - Establish and use the formula $\frac{d}{dx}(\log_a{x})=\frac{1}{x\ln{a}}$
 C2.2: Rules of differentiation
-- Apply the product, quotient and chain rules to differentiate functions of the form $f(x)g(x), \frac{f(x)}{g(x)}$ and $f(g(x))$ where $f(x)$ and $g(x)$ are any of the functions covered in the scope of this syllabus, for example $xe^x,\tan{x},\frac{1}{x^n},x\sin{x},e^{-x}$
+- Apply the product, quotient and chain rules to differentiate functions of the form $f(x)g(x), \frac{f(x)}{g(x)}$ and $f(g(x))$ where $f(x)$ and $g(x)$ are any of the functions covered in the scope of this syllabus, for example $xe^x,\tan{x},\frac{1}{x^n},x\sin{x},e^{-x}\sin{x}$ and $f(ax+b)$
+	- 
 ## Extension
 ### Term 1
 #### ME-P1 Proof by Mathematical Induction
