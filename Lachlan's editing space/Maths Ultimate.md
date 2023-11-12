@@ -38,7 +38,9 @@ Horizontal dilation (compression): ![[Pasted image 20231112132808.png|373]]
 ##### Outcomes:
 - Uses detailed algebraic and graphical techniques to critically construct, model and evaluate arguments in a range of familiar and unfamiliar contexts
 - Applies the concepts and techniques of periodic functions in the solution of problems involving trigonometric graphs
-- Chooses and uses appropriate 
+- Chooses and uses appropriate technology effectively in a range of contexts, models and applies critical thinking to recognise appropriate times for such use
+- Constructs arguments to prove and justify results and provides reasoning to support conclusions which are appropriate to the context
+##### 
 #### MA-C2 Differential Calculus
 
 ## Extension
