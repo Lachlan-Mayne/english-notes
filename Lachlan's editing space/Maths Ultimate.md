@@ -56,7 +56,8 @@ Students develop the use of formal mathematical language and argument to prove t
 - Recognise situations where proof by mathematical induction is not appropriate
 #### ME-T3 Trigonometric Equations
 #### ME-C2 Further Calculus Skills
-- Find derivatives of inverse functions by using the r
+- Find derivatives of inverse functions by using the relationships $\frac{dy}{dx}=\frac{1}{\frac{dx}{dy}}$
+- Solve problems involving the derivatives of inverse trigonometric functions
 # Calculus
 #calculus
 ## Logarithmic calculus
