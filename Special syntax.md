@@ -5,6 +5,7 @@ tags:
   - guide
   - obsidian
   - markdown
+dg-publish: true
 ---
 By adding this at the top of any pages, it'll make it easier to search for different topics
 ```

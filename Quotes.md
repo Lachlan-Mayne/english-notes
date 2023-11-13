@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 **JOHN DOESN’T GET HUNG IN THE PLAY!!!**
 
 What are the societal expectations within the setting of the witch trials/McCarthyism?
