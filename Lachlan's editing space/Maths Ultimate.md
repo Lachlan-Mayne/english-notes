@@ -104,6 +104,7 @@ Students develop complex algebraic manipulative skills and fluency in applying t
 - Solve trigonometric equations requiring factorising and/or the application of compound angle, double angle formulae or the t-formulae
 - Prove and apply other trigonometric identities, for example $\cos{3x}=4\cos{^3x}-3\cos{x}$
 - Solve trigonometric equations and interpret solutions in context using technology or otherwise
+With t-formulae, sub in asymptotes for tan function
 #### ME-C2 Further Calculus Skills
 - Find derivatives of inverse functions by using the relationships $\frac{dy}{dx}=\frac{1}{\frac{dx}{dy}}$
 - Solve problems involving the derivatives of inverse trigonometric functions
