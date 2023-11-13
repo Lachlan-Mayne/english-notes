@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 Business 2023
 
 Role of operations management

@@ -4,6 +4,7 @@ tags:
   - glossary
   - meanings
   - notes
+dg-publish: true
 ---
 Cost: how much a business pays for a good/service ^cost
 

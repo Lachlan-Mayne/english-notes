@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 **(Chose Crucible on purpose in year 10 when we first studied classic literature. Crouch approves these notes and says I could use the ones I made back then)**
 
 LI:  
