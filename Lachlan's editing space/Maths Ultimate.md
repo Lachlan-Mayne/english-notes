@@ -2,6 +2,8 @@
 tags:
   - maths
   - mathematics
+dg-publish: true
+dg-home: true
 ---
 # Tasks
 ## Advanced
@@ -145,7 +147,7 @@ Combined together, $y=kf(a(x+b))+c$ : Vertical dilation by $k$, horizontal dilat
 #asymptotes
 $y$-intercepts when $x=0$
 $x$-intercepts when $y=0$
-Consider the equation: $$h(x)=\frac{g(x)}{f(x)}$$
+Consider the equation: h(x)=g(x)f(x)
 Vertical asymptotes where denominator $f(x)=0$
 Horizontal asymptotes are found through **limiting behaviour**, $\lim \limits_{x \to \infty} f(x)$, divide throughout $h(x)$ by highest power in $f(x)$. p
 Test if the function is even by subbing in $f(-x)$
