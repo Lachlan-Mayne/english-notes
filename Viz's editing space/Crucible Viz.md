@@ -243,4 +243,4 @@ Paradoxes are helpful for us when trying to understand complicated and contradic
 W.B Yeats' poem "An Irish Airman Foresees His Death" challenges human experiences through exploring anomalies in the airman's motivation which is personalising the soldiers and giving a sense of individuality. Yeats uses technique anaphora to emphasise what the airman is not motivated by. Repetition can be seen in the word "nor" being repeated throughout the poem. These ideals challenged my understanding of soldier's motivation for fighting in wars, as the airman seems to be quite accepting of his fate, thus conflicts with  the status quo. 
 These anomalies encourage paradoxical emotion towards the poems ideas, specifically through the airman's character, a soldier in a war who has nothing to fight for. 
 
-W.B Yeats' has invited me to see the world differently after reading th
+Upon reading the poem for the first time, I was challenged by the lack of attachment that the soldier had towards his situation. His anomalous mindset led me to rethink my understanding on 
