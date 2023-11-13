@@ -1,6 +1,7 @@
 ---
 tags:
   - business
+dg-publish: true
 ---
 Performance Objectives: (how businesses maximise profit)
 - Quality: being right

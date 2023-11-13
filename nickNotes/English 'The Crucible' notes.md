@@ -2,6 +2,7 @@
 tags:
   - crucible
   - english
+dg-publish: true
 ---
 Related text: An Irish Airman foresees his death (poem)
 
