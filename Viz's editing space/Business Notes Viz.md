@@ -379,6 +379,6 @@ b) Is supply chain management important to Casey's business? Justify your answer
 Supply chain management is important to Casey as stock for the business is affected. Casey should prioritise looking for cheaper suppliers to keep costs down and maximise profits.
 
 
+Outsourcing 13/11
 
-
-
+- use of external third party providers to perform business activities for a business. 
