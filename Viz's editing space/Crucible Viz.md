@@ -240,5 +240,5 @@ Why Paradox's?
 Human experience is sometimes complicated. Some things in life pull us in opposite directions. Good texts try to avoid being neat and simplistic. 
 Paradoxes are helpful for us when trying to understand complicated and contradictory feelings. 
 
-W.B Yeats' poem "An Irish Airman Foresees His Death" challenges human experiences through exploring anomalies in the airman's motivation. 
+W.B Yeats' poem "An Irish Airman Foresees His Death" challenges human experiences through exploring anomalies in the airman's motivation. Yeats uses technique anaphora to emphasise what the airman is not motivated by. Repetition can be seen in the word "nor" being repeated throughout the poem. These ideals challenged my understanding of soldier's motivation for fighting in wars, as the airman seems to be quite accepting of his fate, thus conflicts with  the status quo. 
 
