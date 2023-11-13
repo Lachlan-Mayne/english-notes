@@ -327,4 +327,8 @@ Businesses outsource:
 - Legal -> Advice, Representation
 - Call centres
 - Security
-- Marketing -> 
+- Marketing -> Market Research, Advertising, Design
+- HR/Recruitment
+- Sales leads
+- Legal Services
+- Research & Development
