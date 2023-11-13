@@ -319,4 +319,10 @@ The supply chain for a product can be determined by starting with the final prod
 
 ## Outsourcing
 Outsourcing is the use of external, third-party providers to perform business activities for a business.
-Businesses outsour
+Businesses outsource:
+- Labour
+- Raw Materials
+- Production Aspects
+- Finance -> Accounting, Payroll, Management
+- Legal -> Advice, Representation
+- Call centres
