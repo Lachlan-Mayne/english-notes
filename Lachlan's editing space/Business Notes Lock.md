@@ -3,6 +3,7 @@ tags:
   - notes
   - business
   - operations
+dg-publish: true
 ---
 Operations management:
 

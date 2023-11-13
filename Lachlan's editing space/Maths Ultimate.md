@@ -3,7 +3,7 @@ tags:
   - maths
   - mathematics
 dg-publish: true
-dg-home: true
+dg-home: false
 ---
 # Tasks
 ## Advanced

@@ -3,6 +3,7 @@ tags:
   - english
   - crucible
   - notes
+dg-publish: true
 ---
 
 # Texts & Human experiences
