@@ -248,4 +248,4 @@ Upon reading the poem for the first time, I was challenged by the lack of attach
 
 Question:
 Have I properly explained how the anomalies are explored. 
-Do I need to improve the level of first person refelction
+Do I need to improve the level of first person reflection. 
