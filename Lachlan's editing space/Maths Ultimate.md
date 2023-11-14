@@ -124,7 +124,8 @@ Multiply by y to make y' the subject: $y'=y(x\frac{1}{x}+\ln{x})$
 sub in the value for y: $y'=x^x(x\frac{1}{x}+\ln{x})$
 Simplify: $y'=x^x+x^x\ln{x}$
 
-Finding $\frac{dy}{dx}$ maximum and minimum values (extremes), differentiate f(x) then find 
+Finding $\frac{dy}{dx}$ maximum and minimum values (extremes), differentiate f(x) then find gradient function = 0
+$\frac{d^2y}{dx^2}$ 
 # Functions
 #functions
 
