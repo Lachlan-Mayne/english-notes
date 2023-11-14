@@ -125,7 +125,7 @@ sub in the value for y: $y'=x^x(x\frac{1}{x}+\ln{x})$
 Simplify: $y'=x^x+x^x\ln{x}$
 
 Finding $\frac{dy}{dx}$ maximum and minimum values (extremes), differentiate f(x) then find gradient function = 0
-$\frac{d^2y}{dx^2}$ 
+$\frac{d^2y}{dx^2}$ analytical method of solving for maximums and minimums ![[Screenshot 2023-11-14 at 3.28.40 pm.png]]If  
 # Functions
 #functions
 
