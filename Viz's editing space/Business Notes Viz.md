@@ -386,3 +386,11 @@ Supply chain management is important to Casey as stock for the business is affec
 Outsourcing 13/11
 
 - use of external third party providers to perform business activities for a business. 
+
+
+
+Technology 15/11
+- the use of technology leads to the business being able to obtain competitive advantages.
+- businesses can chose between leading edge technology or established technology.
+	- leading edge technology is the most advanced or innovative at any point in time. 
+	- established technology is what is already in in use and is accepted without question, it may not lead to a competitive advantages as
