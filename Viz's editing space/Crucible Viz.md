@@ -1,5 +1,7 @@
 ---
 dg-publish: true
+link: https://jonahshields.notion.site/Crucible-Viz-69e3626ee8f4482680d1692ffb84d1a0
+notionID: 69e3626e-e8f4-4826-80d1-692ffb84d1a0
 ---
 
 **(Chose Crucible on purpose in year 10 when we first studied classic literature. Crouch approves these notes and says I could use the ones I made back then)**
