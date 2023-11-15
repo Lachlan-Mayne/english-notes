@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nickNotes/English 'The Crucible' notes.md",
+                "file": "nickNotes/English Essay.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:tag",
+                "query": "tag:i",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nickNotes/English 'The Crucible' notes.md",
+                "file": "nickNotes/English Essay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nickNotes/English 'The Crucible' notes.md",
+                "file": "nickNotes/English Essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nickNotes/English 'The Crucible' notes.md"
+                "file": "nickNotes/English Essay.md"
               }
             }
           }
@@ -172,10 +173,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bdd21efa13b23bd2",
+  "active": "79ceddee2992cd9f",
   "lastOpenFiles": [
-    "nickNotes/English Essay.md",
+    "Special syntax.md",
     "nickNotes/English 'The Crucible' notes.md",
+    "nickNotes/English Essay.md",
     "conflict-files-obsidian-git.md",
     "nickNotes/English Reflection.md",
     "nickNotes/Untitled 2.md",
@@ -199,7 +201,6 @@
     "pete r/images",
     "Lachlan's editing space/images/Screenshot 2023-11-10 at 12.24.27 pm.png",
     "Lachlan's editing space/images/Screenshot 2023-11-10 at 12.19.02 pm.png",
-    "Special syntax.md",
     "Viz's editing space/Crucible Viz.md",
     "pete r/English.md",
     "Lachlan's editing space/DailyNotes/Nov 09, 2023.md",
