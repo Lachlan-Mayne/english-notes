@@ -415,8 +415,13 @@ Qantas Activities
 2. 4 forms of established technology
 	1. call centres
 	2. Barcodes for baggage
-	3. IT 
+	3. baggage scanning technology
 	4. self check in tech
-	5.
+	4 forms of leading edge technology
+	1. planes used
+	2. bio fuel
+	3. flight planning technology
+3. benefits of using established technology at Qantas is to make the customer experience more consistent between airline brands, such as checking in and security checks not being overly unique to Qantas .
+4. Qantas are using leading edge technology through their desire to use the latest plane models that are the most fuel efficient an
 
 
