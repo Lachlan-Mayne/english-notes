@@ -422,6 +422,6 @@ Qantas Activities
 	2. bio fuel
 	3. flight planning technology
 3. benefits of using established technology at Qantas is to make the customer experience more consistent between airline brands, such as checking in and security checks not being overly unique to Qantas .
-4. Qantas are using leading edge technology through their desire to use the latest plane models that are the most fuel efficient an
+4. Qantas are using leading edge technology through their desire to use the latest plane models that are the most fuel efficient and can fly the longest distances, this is to keep the customer experience during the flight a step ahead of the competition. Almost in the efforts to make the Qantas experience unique.
 
 
