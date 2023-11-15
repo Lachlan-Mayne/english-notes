@@ -411,4 +411,12 @@ Textbook questions pg 133, 4-8
 	4. Information processing technology and information technology (IT)
 
 Qantas Activities
-1. 
+1. Established technology and leading edge technology can be applied to Qantas through their planes being leading edge and their call centres being established technology areas. The differences can be seen through the prioritisation having the best and latest planes while keeping a consistent customer service through their call centres. 
+2. 4 forms of established technology
+	1. call centres
+	2. Barcodes for baggage
+	3. IT 
+	4. self check in tech
+	5.
+
+
