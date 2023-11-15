@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:i",
+                "query": "tag:#irishairman",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,13 +172,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "79ceddee2992cd9f",
+  "active": "bdd21efa13b23bd2",
   "lastOpenFiles": [
+    "nickNotes/English Reflection.md",
+    "nickNotes/English Essay.md",
     "Special syntax.md",
     "nickNotes/English 'The Crucible' notes.md",
-    "nickNotes/English Essay.md",
     "conflict-files-obsidian-git.md",
-    "nickNotes/English Reflection.md",
     "nickNotes/Untitled 2.md",
     "nickNotes/Software.md",
     "nickNotes/Boutta Business.md",
