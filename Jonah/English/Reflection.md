@@ -1,5 +1,5 @@
 ---
-link: https://jonahshields.notion.site/Reflection-a7981f75aa7a4e5ab07be1326efd33ab
-notionID: a7981f75-aa7a-4e5a-b07b-e1326efd33ab
+link: https://jonahshields.notion.site/Reflection-11092fbfcdce445c913be17cb0d0d152
+notionID: 11092fbf-cdce-445c-913b-e17cb0d0d152
 ---
-The poem "An Irish Airman Foresees His Death" by W.B. Yeats explores anomalies in the airman's motivation, personalizing and enhancing the troops' sense of identity while also challenging human experiences. Yeats emphasizes what the airman is not motivated by using repeated anaphora, using the phrase "nor" repeatedly throughout the poem. These principles contradict the status quo since the airman seems content with his fate, which challenges my understanding of why soldiers serve in wars. The airman's persona, a soldier in a conflict who is unbiased toward the war's conclusion, is one way in which these anomalies foster paradoxical emotion toward the poem's ideas.
+The poem "An Irish Airman Foresees His Death" by W.B. Yeats explores anomalies in the airman's motivation, personalising and enhancing the troops' sense of identity while also challenging human experiences. Yeats emphasises what the airman is not motivated by using repeated anaphora, using the phrase "nor" repeatedly throughout the poem. These principles contradict the status quo since the airman seems content with his fate, which challenges my understanding of why soldiers serve in wars. The airman's persona, a soldier in a conflict who is unbiased toward the war's conclusion, is one way in which these anomalies foster paradoxical emotion toward the poem's ideas.
