@@ -386,3 +386,42 @@ Supply chain management is important to Casey as stock for the business is affec
 Outsourcing 13/11
 
 - use of external third party providers to perform business activities for a business. 
+
+
+
+Technology 15/11
+- the use of technology leads to the business being able to obtain competitive advantages.
+- businesses can chose between leading edge technology or established technology.
+	- leading edge technology is the most advanced or innovative at any point in time. 
+	- established technology is what is already in in use and is accepted without question, it may not lead to a competitive advantages as it is commonly used, but if business do not use them, they may be at a disadvantage. 
+
+
+Textbook questions pg 133, 4-8
+4. The alternative term used for "leading edge technology" is known as "cutting edge technology"
+5. Finetech and robo-advisor algorithms are used by businesses to help customers with their financial and investment decisions through algorithms that use the customers risk preferences, volume of investment, etc. 
+6. Benefits of robo-advisors:
+	1. accurate and specific advice,
+	2. available 24hrs 7 days a week
+	3. reduces legal complications from financial advice and make the suggestions more individualised for customers. 
+7. Innovation and technology are related because technology is an aspect of business that is constantly changing over time and will continue to change and adapt. Innovative new ideas can be expressed through the advancement of technology as well. 
+8. 4 forms of established technology
+	1. Flexible management systems (FMS) in regards to the transformation process. 
+	2. Barcoding and Point of Sale (POS) data 
+	3. Computer aided design (CAD)
+	4. Information processing technology and information technology (IT)
+
+Qantas Activities
+1. Established technology and leading edge technology can be applied to Qantas through their planes being leading edge and their call centres being established technology areas. The differences can be seen through the prioritisation having the best and latest planes while keeping a consistent customer service through their call centres. 
+2. 4 forms of established technology
+	1. call centres
+	2. Barcodes for baggage
+	3. baggage scanning technology
+	4. self check in tech
+	4 forms of leading edge technology
+	1. planes used
+	2. bio fuel
+	3. flight planning technology
+3. benefits of using established technology at Qantas is to make the customer experience more consistent between airline brands, such as checking in and security checks not being overly unique to Qantas .
+4. Qantas are using leading edge technology through their desire to use the latest plane models that are the most fuel efficient and can fly the longest distances, this is to keep the customer experience during the flight a step ahead of the competition. Almost in the efforts to make the Qantas experience unique.
+
+

@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "b8e0bb98c25dd5b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "584e07ff949a156d",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nickNotes/English Essay.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nickNotes/English Essay.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nickNotes/English Essay.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -172,13 +184,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bdd21efa13b23bd2",
+  "active": "b8e0bb98c25dd5b4",
   "lastOpenFiles": [
-    "nickNotes/English Reflection.md",
     "nickNotes/English Essay.md",
+    "conflict-files-obsidian-git.md",
+    "Lachlan's editing space/DailyNotes/Nov 16, 2023.md",
+    "Lachlan's editing space/DailyNotes/Nov 15, 2023.md",
+    "Jonah/English/What to Put in the Reflection.md",
+    "Jonah/English/Untitled.md",
+    "Jonah/English/Reflection.md",
+    "Jonah/file.md",
+    "Jonah/Test.md",
+    "Jonah/English",
+    "Jonah",
+    "nickNotes/English Reflection.md",
     "Special syntax.md",
     "nickNotes/English 'The Crucible' notes.md",
-    "conflict-files-obsidian-git.md",
     "nickNotes/Untitled 2.md",
     "nickNotes/Software.md",
     "nickNotes/Boutta Business.md",
@@ -208,21 +229,12 @@
     "Lachlan's editing space/images/Pasted image 20231109204849.png",
     "Lachlan's editing space/chemistry.md",
     "Lachlan's editing space/DailyNotes/Nov 10, 2023.md",
-    "Lachlan's editing space/Excalidraw/Drawing 2023-11-09 11.30.58.excalidraw.md",
-    "Lachlan's editing space/Maths Ultimate.md",
-    "Lachlan's editing space/DailyNotes/Nov 8, 2023.md",
     "reak/obsidian-notes-2024",
     "reak",
     "obsidian-notes-2024",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "Pete r/file.md",
-    "Pete r/Business.md",
-    "Pete r",
-    "Lachlan's editing space/images/landing.md",
-    "Lachlan's editing space/images",
-    "Lachlan's editing space/Excalidraw",
-    "Lachlan's editing space/DailyNotes/Nov 08, 2023.md"
+    "Pete r"
   ]
 }
