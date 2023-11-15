@@ -1,4 +1,4 @@
 ---
-dg-publish: false
+dg-publish: true
 ---
 
