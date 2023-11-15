@@ -72,6 +72,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "4e31f9d617f16949",
+            "type": "leaf",
+            "state": {
+              "type": "screen-garden-user-pane",
+              "state": {}
+            }
           }
         ]
       }
@@ -144,6 +152,14 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "6baf7a6b2f585756",
+            "type": "leaf",
+            "state": {
+              "type": "screen-garden-document-pane",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
@@ -155,6 +171,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian42-brat:BRAT": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -165,6 +183,9 @@
   },
   "active": "44bd358925bfd605",
   "lastOpenFiles": [
+    "Lachlan's editing space/DailyNotes/Nov 16, 2023.md",
+    "Jonah/Test.md",
+    "Jonah/English/Reflection.md",
     "Viz's editing space/Crucible Viz.md",
     "Jonah/English/What to Put in the Reflection.md",
     "Jonah/What to Put in the Reflection.md",
@@ -204,9 +225,6 @@
     "Lachlan's editing space/images/landing.md",
     "Lachlan's editing space/images",
     "shenanigans/obsidian-notes-2024/README.md",
-    "Qantas case study (CSR) vry helpful.md",
-    "nickNotes/Untitled 2.md",
-    "nickNotes/Untitled 1.md",
     "Untitled 2.canvas",
     "Pete r",
     "Lachlan's editing space/Excalidraw",
