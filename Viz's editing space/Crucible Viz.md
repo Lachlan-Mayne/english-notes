@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 **(Chose Crucible on purpose in year 10 when we first studied classic literature. Crouch approves these notes and says I could use the ones I made back then)**
 
 LI:  
@@ -240,4 +244,12 @@ Why Paradox's?
 Human experience is sometimes complicated. Some things in life pull us in opposite directions. Good texts try to avoid being neat and simplistic. 
 Paradoxes are helpful for us when trying to understand complicated and contradictory feelings. 
 
-W.B Yeats' poem "An Irish Airman Foresees His Death" challenged my ideas and values in regards to human experiences. 
+W.B Yeats' poem "An Irish Airman Foresees His Death" challenges human experiences through exploring anomalies in the airman's motivation which is personalising the soldiers and giving a sense of individuality. Yeats uses the technique anaphora to emphasise what the airman is not motivated by. Repetition can be seen in the word "nor" being repeated throughout the poem. These ideals challenged my understanding of soldier's motivation for fighting in wars, as the airman seems to be quite accepting of his fate, thus conflicts with  the status quo. 
+These anomalies encourage paradoxical emotion towards the poems ideas, specifically through the airman's character, a soldier in a war who has nothing to fight for.  The human experiences within the poem are complicated and are explored through paradoxical thinking to shed light on individuality and how motivation can be perceived. 
+
+Upon reading the poem for the first time, I was challenged by the lack of attachment that the soldier had towards his situation. His anomalous mindset led me to rethink my understanding of individuals incentives through contrasting internal and external motivation. I eventually found that the airman seems to be more romantic because he is driven primarily by the impulse within him rather than external factors that could impact his motivation. Through this I am able to sympathise with the airman by seeing that because he is missing the obligation to fight and as a result, has shifted his mindset towards accepting his inevitable fate. Overall, Y.B Yeats' poem has led me to question my own understanding of human experience, challenging my beliefs on where motivation is drawn from and how this could differ from societal norms. 
+
+
+Question:
+Have I properly explained how the anomalies are explored. 
+Do I need to improve the level of first person reflection. 

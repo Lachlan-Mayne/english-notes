@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 Wiles - related to deceit, kind of like persuasion techniques
 
 Known her - slept with her

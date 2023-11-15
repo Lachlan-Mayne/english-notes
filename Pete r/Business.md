@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 ## Operations management:
 
 - Responsible for acquiring the inputs and devising the best production methods so that the value adding occurs
@@ -286,12 +290,12 @@ The supply chain for a product can be determined by starting with the final prod
 - Sourcing is all about acquiring, purchasing or procuring (fancy names  for buying) the inputs needed for the transformation process.
 - “Sources” or the inputs you use, come from suppliers
 - When choosing which sources to use, Supply Chain Managers think about the following:
-![[Screen Shot 2023-11-10 at 12.37.02 pm.png]]
+![[gitshit/Pete r/images/Screen Shot 2023-11-10 at 12.37.02 pm.png]]
 
 ## Global Sourcing:
 - Same as sourcing, but this time on a global scale
 - It's basically buying or sourcing from wherever the suppliers are the best at meeting the sourcing requirements
-![[Screen Shot 2023-11-10 at 12.39.45 pm.png]]
+![[gitshit/Pete r/images/Screen Shot 2023-11-10 at 12.39.45 pm.png]]
 
 ## Challenges of Global Sourcing:
 - **The possible relocation of aspects of operations**
@@ -316,7 +320,19 @@ The supply chain for a product can be determined by starting with the final prod
 - Warehousing is the use of a facility for the storage, protection and, later, distribution of stock
 - Distribution centre (slightly different to a warehouse) not intended for long term storage, instead, strategically located so as to minimise the time it takes to supply stock to retail outlets
 - Materials handling and packaging involves choosing the appropriate methods for the goods or services involved
-- 
 
-
-
+## Outsourcing
+Outsourcing is the use of external, third-party providers to perform business activities for a business.
+Businesses outsource:
+- Labour
+- Raw Materials
+- Production Aspects
+- Finance -> Accounting, Payroll, Management
+- Legal -> Advice, Representation
+- Call centres
+- Security
+- Marketing -> Market Research, Advertising, Design
+- HR/Recruitment
+- Sales leads
+- Legal Services
+- Research & Development

@@ -5,6 +5,7 @@ tags:
   - guide
   - obsidian
   - markdown
+dg-publish: true
 ---
 By adding this at the top of any pages, it'll make it easier to search for different topics
 ```
@@ -39,7 +40,7 @@ flowchart TD
 #tables #diagram 
 
 Here's some text! ^sometext
-[Here's a link to some text!](Special%20syntax.md#^sometext)
+[Here's a link to some text!](gitshit/Special%20syntax.md#^sometext)
 #links #navigation
 
 Below is a checkbox list
