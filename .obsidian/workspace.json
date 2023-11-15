@@ -23,14 +23,11 @@
             "id": "bdd21efa13b23bd2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled 2.canvas",
-                "viewState": {
-                  "x": -436.4827906976743,
-                  "y": -104.5153488372093,
-                  "zoom": -0.03316686393519945
-                }
+                "file": "pete r/Business.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -113,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 2.canvas",
+                "file": "pete r/Business.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 2.canvas",
+                "file": "pete r/Business.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 2.canvas"
+                "file": "pete r/Business.md"
               }
             }
           }
@@ -177,8 +174,14 @@
   },
   "active": "bdd21efa13b23bd2",
   "lastOpenFiles": [
-    "Untitled 3.canvas",
+    "pete r/file.md",
+    "pete r/English.md",
+    "pete r/Business.md",
+    "pete r/images/Screen Shot 2023-11-10 at 12.37.02 pm.png",
+    "pete r/images/Screen Shot 2023-11-10 at 12.39.45 pm.png",
+    "pete r/images/landing.md",
     "Untitled 2.canvas",
+    "Untitled 3.canvas",
     "Untitled.canvas",
     "Special syntax.md",
     "Untitled 1.canvas",
@@ -209,19 +212,14 @@
     "Lachlan's editing space/DailyNotes/Nov 14, 2023.md",
     "Lachlan's editing space/DailyNotes/Nov 13, 2023.md",
     "Lachlan's editing space/DailyNotes/Nov 11, 2023.md",
-    "pete r/images/Screen Shot 2023-11-10 at 12.39.45 pm.png",
-    "pete r/images/Screen Shot 2023-11-10 at 12.37.02 pm.png",
-    "pete r/images/landing.md",
     "pete r/images",
     "Lachlan's editing space/images/Screenshot 2023-11-10 at 12.24.27 pm.png",
     "Lachlan's editing space/images/Screenshot 2023-11-10 at 12.19.02 pm.png",
     "Viz's editing space/Crucible Viz.md",
-    "pete r/English.md",
     "Lachlan's editing space/DailyNotes/Nov 09, 2023.md",
     "shenanigans/obsidian-notes-2024",
     "shenanigans",
     "Lachlan's editing space/images/Pasted image 20231109204849.png",
-    "Lachlan's editing space/chemistry.md",
     "reak/obsidian-notes-2024",
     "reak",
     "obsidian-notes-2024",
