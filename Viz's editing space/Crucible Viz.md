@@ -259,4 +259,4 @@ Have I properly explained how the anomalies are explored.
 Do I need to improve the level of first person reflection. 
 
 First response, 
-Put in the B range because it uses some quotes, techniques, imperative language. There is no mentioning of context, grammatical errors. Good choice of some words, (polarisation, justice system)
+Put in the B range because it uses some quotes, techniques, imperative language. There is no mentioning of context, grammatical errors. Good choice of some words, (polarisation, justice system) 
