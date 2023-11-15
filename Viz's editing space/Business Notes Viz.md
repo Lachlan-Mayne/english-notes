@@ -403,4 +403,11 @@ Textbook questions pg 133, 4-8
 	1. accurate and specific advice,
 	2. available 24hrs 7 days a week
 	3. reduces legal complications from financial advice and make the suggestions more individualised for customers. 
-7. 
+7. Innovation and technology are related because technology is an aspect of business that is constantly changing over time and will continue to change and adapt. Innovative new ideas can be expressed through the advancement of technology as well. 
+8. 4 forms of established technology
+	1. Flexible management systems (FMS) in regards to the transformation process. 
+	2. Barcoding and Point of Sale (POS) data 
+	3. Computer aided design (CAD)
+	4. Information processing technology and information technology (IT)
+
+
