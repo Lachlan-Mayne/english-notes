@@ -396,4 +396,11 @@ Technology 15/11
 	- established technology is what is already in in use and is accepted without question, it may not lead to a competitive advantages as it is commonly used, but if business do not use them, they may be at a disadvantage. 
 
 
-Textbook questions pg 133
+Textbook questions pg 133, 4-8
+4. The alternative term used for "leading edge technology" is known as "cutting edge technology"
+5. Finetech and robo-advisor algorithms are used by businesses to help customers with their financial and investment decisions through algorithms that use the customers risk preferences, volume of investment, etc. 
+6. Benefits of robo-advisors:
+	1. accurate and specific advice,
+	2. available 24hrs 7 days a week
+	3. reduces legal complications from financial advice and make the suggestions more individualised for customers. 
+7. 
