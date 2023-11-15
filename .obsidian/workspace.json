@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nickNotes/Boutta Business.md",
+                "file": "nickNotes/English Essay.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nickNotes/Boutta Business.md",
+                "file": "nickNotes/English Essay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nickNotes/Boutta Business.md",
+                "file": "nickNotes/English Essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nickNotes/Boutta Business.md"
+                "file": "nickNotes/English Essay.md"
               }
             }
           }
@@ -174,6 +174,8 @@
   },
   "active": "bdd21efa13b23bd2",
   "lastOpenFiles": [
+    "nickNotes/English Reflection.md",
+    "nickNotes/Boutta Business.md",
     "Viz's editing space/Business Assignment Viz.md",
     "pete r/Business.md",
     "pete r/file.md",
@@ -187,7 +189,6 @@
     "Special syntax.md",
     "Untitled 1.canvas",
     "nickNotes/English Essay.md",
-    "nickNotes/English Reflection.md",
     "conflict-files-obsidian-git.md",
     "Lachlan's editing space/DailyNotes/Nov 16, 2023.md",
     "Lachlan's editing space/DailyNotes/Nov 15, 2023.md",
@@ -201,7 +202,6 @@
     "nickNotes/English 'The Crucible' notes.md",
     "nickNotes/Untitled 2.md",
     "nickNotes/Software.md",
-    "nickNotes/Boutta Business.md",
     "WeeklySummaries/NovemberSum7.md",
     "WeeklySummaries",
     "Viz's editing space/Science plan.md",
