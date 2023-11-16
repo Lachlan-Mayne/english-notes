@@ -363,5 +363,5 @@ Businesses outsource:
 - Companies won't always use leading edge technology if it's inefficient at meeting customer expectations
 
 1. Describe the difference between leading edge and established technologies
-	1. Most advanced or innovative at any point in time
-2. 
+	1. Leading edge refers to the most advanced or innovative technology at any point in time, whereas established technology is technology that has been developed for a while and is widely used
+2. Identify 4 form of establis
