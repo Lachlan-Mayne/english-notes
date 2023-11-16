@@ -340,6 +340,7 @@ Businesses outsource:
 
 ## Technology:
 - Technology is important for all businesses
-- The use of technology allows businesses to obtain competitive adcantage
+- The use of technology allows businesses to obtain competitive advantage
 - Businesses need to make the decision to use either leading edge technology, established technology, or a combination of both
-- 
+- **Leading edge: most advanced or innovative at any point in time**
+- Established technology is technology that has been 
