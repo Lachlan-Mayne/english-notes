@@ -427,5 +427,8 @@ Qantas Activities
 
 Inventory management
 - Inventory or stock refers to the amount of raw materials, work-in progress and finished goods that a business has on hand at any particular point in time.
-- Holding stock refers to a business keeping stock in storage or available for sale, rather than having to order it or create it as its 
+- Holding stock refers to a business keeping stock in storage or available for sale, rather than having to order it or create it as needed. 
+- There are disadvantages and advantages of holding stock. 
 
+
+A fruit shop can use inventory management methods such as FIFO (first in first out). This can prove to be an advantage for this business because it allows for stock to be managed easier because there won't be a possibility of over stocking as the older stock is distributed once ordered. 
