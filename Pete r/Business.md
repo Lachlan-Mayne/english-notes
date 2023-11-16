@@ -358,6 +358,6 @@ Businesses outsource:
 	- Established
 **- Bio-fuel:**
 	- Leading edge
-- 
 
-**Even if a piece of technology is established, it can still be a leading cause for streamlining production process**
+- **Even if a piece of technology is established, it can still be a leading cause for streamlining production process**
+- Companies won't always use leading edge technology if it's inefficient at meeting customer ee
