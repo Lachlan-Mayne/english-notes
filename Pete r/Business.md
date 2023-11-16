@@ -345,4 +345,6 @@ Businesses outsource:
 - **Leading edge technology: most advanced or innovative at any point in time**
 - Established technology is technology that has been developed and is widely used already
 - They may not offer a competitive advantage, but not using them might be a competitive disadvantage
-- 
+- **Leading edge is about getting ahead, established is about maintaining pace**
+
+##
