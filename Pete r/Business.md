@@ -352,5 +352,8 @@ Businesses outsource:
 	- Established
 - Airbus A350-1000:
 	- Leading edge
+- In-flight entertainment:
+	- Established
+- 
 
-**Even if a business**
+**Even if a piece of technology is established, it can still be a leading cause for streamlining production process**
