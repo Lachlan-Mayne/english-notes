@@ -339,4 +339,7 @@ Businesses outsource:
 - Research & Development
 
 ## Technology:
-
+- Technology is important for all businesses
+- The use of technology allows businesses to obtain competitive adcantage
+- Businesses need to make the decision to use either leading edge technology, established technology, or a combination of both
+- 
