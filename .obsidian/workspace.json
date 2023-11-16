@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "81306ffbbe15b039",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "584e07ff949a156d",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nickNotes/English Essay.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nickNotes/English Essay.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nickNotes/English Essay.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -172,8 +184,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bdd21efa13b23bd2",
+  "active": "81306ffbbe15b039",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "nickNotes/English Essay.md",
     "Viz's editing space/Viz Misc. Notes.md",
     "Lachlan's editing space/images/Pasted image 20231116112304.png",
     "nickNotes/English Reflection.md",
@@ -190,8 +204,6 @@
     "Untitled.canvas",
     "Special syntax.md",
     "Untitled 1.canvas",
-    "nickNotes/English Essay.md",
-    "conflict-files-obsidian-git.md",
     "Lachlan's editing space/DailyNotes/Nov 16, 2023.md",
     "Lachlan's editing space/DailyNotes/Nov 15, 2023.md",
     "Jonah/English/What to Put in the Reflection.md",
