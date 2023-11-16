@@ -109,7 +109,8 @@ Corporate social responsibility (CSR): Involves businesses doing more than just 
 - Performance objectives: quality, speed, dependability, flexibility, customisation, cost
 - New product or service design and development
 - Supply chain management - logistics, e-commerce, global sourcing
-- Outsourcing - advantages and 
+- Outsourcing - advantages and disadvantages
+- Technology
 # Glossary:
 
 Quality: How well designed, made and functional goods are, and the degree of competence 
