@@ -8,6 +8,7 @@ dg-publish: true
 2. Identify - naming
 3. Outline - sketch in general terms
 4. Discuss - issues for and against
+5. How - cause and effect
 
 Performance Objectives: (how businesses maximise profit)
 - Quality: being right
