@@ -16,4 +16,6 @@ Choose strategies that will maximise one of these objectives
 
 #### Technology
 
-Established technology is technology that has
+Established technology is technology that has been developed and is widely used already - it is simply accepted without question
+
+They may not offer competitive advantage (since they're universally used) BUT 
