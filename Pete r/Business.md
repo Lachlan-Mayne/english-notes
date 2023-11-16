@@ -337,4 +337,4 @@ Businesses outsource:
 - Legal Services
 - Research & Development
 
-## Technology
+## Technology:
