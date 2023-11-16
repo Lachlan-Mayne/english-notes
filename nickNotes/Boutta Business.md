@@ -3,6 +3,10 @@ tags:
   - business
 dg-publish: true
 ---
+#### ACTIVITIES 
+1. Describe - characteristics and features
+2. Identify
+
 Performance Objectives: (how businesses maximise profit)
 - Quality: being right
 - Speed: being fast
