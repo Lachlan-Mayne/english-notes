@@ -16,4 +16,4 @@ Choose strategies that will maximise one of these objectives
 
 #### Technology
 
-Established
+Established technology is technology that has
