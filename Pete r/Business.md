@@ -348,11 +348,13 @@ Businesses outsource:
 - **Leading edge is about getting ahead, established is about maintaining pace**
 
 ## Tech in Qantas:
-- Kiosk self-service:
+**- Kiosk self-service:**
 	- Established
-- Airbus A350-1000:
+**- Airbus A350-1000:**
 	- Leading edge
-- In-flight entertainment:
+**- In-flight entertainment:**
+	- Established
+**- Flight tracking:**
 	- Established
 - 
 
