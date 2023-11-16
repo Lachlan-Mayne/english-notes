@@ -425,3 +425,7 @@ Qantas Activities
 4. Qantas are using leading edge technology through their desire to use the latest plane models that are the most fuel efficient and can fly the longest distances, this is to keep the customer experience during the flight a step ahead of the competition. Almost in the efforts to make the Qantas experience unique.
 
 
+Inventory management
+- Inventory or stock refers to the amount of raw materials, work-in progress and finished goods that a business has on hand at any particular point in time.
+- Holding stock refers to a business keeping stock in storage or available for sale, rather than having to order it or create it as its 
+
