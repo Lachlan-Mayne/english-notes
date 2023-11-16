@@ -336,3 +336,5 @@ Businesses outsource:
 - Sales leads
 - Legal Services
 - Research & Development
+
+## Technology:
