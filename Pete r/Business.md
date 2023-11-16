@@ -361,9 +361,3 @@ Businesses outsource:
 
 - **Even if a piece of technology is established, it can still be a leading cause for streamlining production process**
 - Companies won't always use leading edge technology if it's inefficient at meeting customer expectations
-
-1. Describe the difference between leading edge and established technologies
-	1. Leading edge refers to the most advanced or innovative technology at any point in time, whereas established technology is technology that has been developed for a while and is widely used
-2. Identify 4 form of established technologies and 2 forms of leading-edge technologies that are used by QANTAS
-	1. 4 forms of established tech that QANTAS use are their flight tracking on screens, their kiosk self-service, their in-flight entertainment, and providing food in-flight. 2 forms of leading-edge technology they use are their Bio-fuel, and recent models of planes, such as the Airbus A350-1000
-3. Outline the benefit of using establi
