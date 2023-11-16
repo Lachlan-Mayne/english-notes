@@ -16,7 +16,9 @@ Choose strategies that will maximise one of these objectives
 
 ## Technology
 
-##### 
+##### Leading Edge Technology
+
+
 ##### Established Technology
 
 Established technology is technology that has been developed and is widely used already - it is simply accepted without question
