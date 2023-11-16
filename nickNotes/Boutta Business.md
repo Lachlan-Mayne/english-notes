@@ -18,7 +18,7 @@ Choose strategies that will maximise one of these objectives
 
 ##### Leading Edge Technology
 
-An example of leading edge tech in Qantas is the Airbus A350-1000 
+An example of leading edge tech in Qantas is the Airbus A350-1000 and new bio-fuel which is cleaner and better fuel
 ##### Established Technology
 
 Established technology is technology that has been developed and is widely used already - it is simply accepted without question
