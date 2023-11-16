@@ -105,6 +105,11 @@ Legal regulation : following the law inside a business
 
 Corporate social responsibility (CSR): Involves businesses doing more than just complying with the laws and regulations. Also known as the ‘triple bottom line’, CSR places value on financial returns as well as social responsibility and environmental sustainability
 
+# Operations strategies
+- Performance objectives: quality, speed, dependability, flexibility, customisation, cost
+- New product or service design and development
+- Supply chain management - logistics, e-commerce, global sourcing
+- Outsourcing - advantages and 
 # Glossary:
 
 Quality: How well designed, made and functional goods are, and the degree of competence 
