@@ -347,4 +347,5 @@ Businesses outsource:
 - They may not offer a competitive advantage, but not using them might be a competitive disadvantage
 - **Leading edge is about getting ahead, established is about maintaining pace**
 
-##
+## Tech in Qantas:
+- 
