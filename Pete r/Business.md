@@ -360,4 +360,6 @@ Businesses outsource:
 	- Leading edge
 
 - **Even if a piece of technology is established, it can still be a leading cause for streamlining production process**
-- Companies won't always use leading edge technology if it's inefficient at meeting customer ee
+- Companies won't always use leading edge technology if it's inefficient at meeting customer expectations
+
+1. Describe the difference between leading edge and established
