@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "d1b0f020c074b8c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nickNotes/Boutta Business.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0e6b91fa907fc52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "584e07ff949a156d",
             "type": "leaf",
             "state": {
@@ -44,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nickNotes/English 'The Crucible' notes.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nickNotes/English 'The Crucible' notes.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nickNotes/English 'The Crucible' notes.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -189,16 +213,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bdd21efa13b23bd2",
+  "active": "c0e6b91fa907fc52",
   "lastOpenFiles": [
     "nickNotes/Boutta Business.md",
+    "conflict-files-obsidian-git.md",
+    "nickNotes/English 'The Crucible' notes.md",
+    "Lachlan's editing space/DailyNotes/Nov 17, 2023.md",
+    "Jonah/English/Developing an Argument That Answers the Question.md",
     "Lachlan's editing space/DailyNotes/Nov 16, 2023.md",
     "Lachlan's editing space/Business Notes Lock.md",
     "Viz's editing space/Business Assignment Viz.md",
     "Viz's editing space/Business Notes Viz.md",
     "nickNotes/Untitled 2.md",
     "nickNotes/English Essay.md",
-    "conflict-files-obsidian-git.md",
     "Viz's editing space/Viz Misc. Notes.md",
     "Lachlan's editing space/images/Pasted image 20231116112304.png",
     "nickNotes/English Reflection.md",
@@ -221,17 +248,14 @@
     "Jonah/Test.md",
     "Jonah/English",
     "Jonah",
-    "nickNotes/English 'The Crucible' notes.md",
     "nickNotes/Software.md",
     "WeeklySummaries/NovemberSum7.md",
     "WeeklySummaries",
-    "Viz's editing space/Science plan.md",
     "Lachlan's editing space/images/Screenshot 2023-11-14 at 4.08.12 pm.png",
     "Lachlan's editing space/images/Screenshot 2023-11-14 at 3.35.43 pm.png",
     "Lachlan's editing space/images/Screenshot 2023-11-14 at 3.33.49 pm.png",
     "Lachlan's editing space/images/Screenshot 2023-11-14 at 3.28.40 pm.png",
     "Lachlan's editing space/images/Pasted image 20231112132808.png",
-    "Lachlan's editing space/DailyNotes/Nov 14, 2023.md",
     "pete r/images",
     "Lachlan's editing space/images/Screenshot 2023-11-10 at 12.24.27 pm.png",
     "Lachlan's editing space/images/Screenshot 2023-11-10 at 12.19.02 pm.png",
