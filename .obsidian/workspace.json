@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nickNotes/Boutta Business.md",
+                "file": "nickNotes/English 'The Crucible' notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,6 +89,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "fec0dce0fd2805a2",
+            "type": "leaf",
+            "state": {
+              "type": "screen-garden-user-pane",
+              "state": {}
+            }
           }
         ]
       }
@@ -110,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nickNotes/Boutta Business.md",
+                "file": "nickNotes/English 'The Crucible' notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nickNotes/Boutta Business.md",
+                "file": "nickNotes/English 'The Crucible' notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,8 +158,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nickNotes/Boutta Business.md"
+                "file": "nickNotes/English 'The Crucible' notes.md"
               }
+            }
+          },
+          {
+            "id": "20a4d7e43044e385",
+            "type": "leaf",
+            "state": {
+              "type": "screen-garden-document-pane",
+              "state": {}
             }
           }
         ]
@@ -163,6 +179,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -174,8 +191,8 @@
   },
   "active": "bdd21efa13b23bd2",
   "lastOpenFiles": [
-    "Lachlan's editing space/DailyNotes/Nov 16, 2023.md",
     "nickNotes/Boutta Business.md",
+    "Lachlan's editing space/DailyNotes/Nov 16, 2023.md",
     "Lachlan's editing space/Business Notes Lock.md",
     "Viz's editing space/Business Assignment Viz.md",
     "Viz's editing space/Business Notes Viz.md",
