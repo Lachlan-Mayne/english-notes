@@ -33,3 +33,7 @@ Established technology is technology that has been developed and is widely used 
 They may not offer competitive advantage (since they're universally used) BUT not using them might be a competitive DISadvantage. 
 
 An example of established tech at Qantas is the kiosk self service and the wifi/in flight entertainment 
+
+## Inventory Management
+
+##### 3 main metho
