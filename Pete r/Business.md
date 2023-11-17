@@ -367,6 +367,7 @@ Businesses that buy stock need to decide how much to carry in inventories.
 - **LIFO (last-in-first-out)** Stock that has arrived most recently will be sold first
 	- Bulky items; fridges, lounges, non-perishables
 - **FIFO (first-in-first-out)** Stock that has been waiting the longest is sold first
-	- Perish
+	- Perishables; milk, fruit etc
 - **JIT (just-in-time)** Businesses aim to only make enough to meet demand, in time for the demand
+	- 
 These are all ideas that relate to how you deal with the stock you have, thinking about rotating it or arranging like items on a shelf
