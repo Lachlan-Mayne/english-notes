@@ -4,8 +4,13 @@ Some uses of ammonia include:
 - fertiliser
 - refrigerant gas
 - purification of water
+- 
 - manufacturing of various goods such as:
-	- 
+	- plastics
+	- explosives
+	- textiles
+	- pesticides
+	- dyes
 
 
 
