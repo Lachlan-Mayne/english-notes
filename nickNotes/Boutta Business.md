@@ -38,5 +38,6 @@ An example of established tech at Qantas is the kiosk self service and the wifi/
 
 ##### 3 main methods of managing inventory
 - LIFO (last-in-first-out) - stock that has arrived most recently will be sold first
+	- Bulky items; fridges, lounges, non-perishables
 - FIFO (first-in-first-out) - stock that has been waiting the longest is sold first (arrived least recently)
-- JIT
+- JIT (just-in-time) - businesses aim to only make enough to meet demand, in time for the demand
