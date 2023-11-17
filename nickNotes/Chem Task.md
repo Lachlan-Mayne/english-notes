@@ -1,6 +1,11 @@
 Description of the sources and uses of ammonia
 
-Some 
+Some uses of ammonia include:
+- fertiliser
+- refrigerant gas
+- purification of water
+- manufacturing of various goods such as:
+	- 
 
 
 
