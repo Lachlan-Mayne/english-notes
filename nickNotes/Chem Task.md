@@ -1,12 +1,12 @@
 Description of the sources and uses of ammonia
 
-Some uses of ammonia include:
+##### Some uses of ammonia include:
 - fertiliser
 - refrigerant gas
 - purification of water
-- cleaning
-- household cleaning solutions 5-10% ammonia
-- industrial use is 25% ammonia and corrosive
+- cleaning solutions:
+	- household cleaning solutions 5-10% ammonia
+	- industrial use is 25% ammonia and corrosive
 - manufacturing of various goods such as:
 	- plastics
 	- explosives
