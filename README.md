@@ -1,6 +1,6 @@
 ---
-dg-home: false
-dg-publish: false
+dg-home: true
+dg-publish: true
 ---
 
 # Welcome to obsidian!
