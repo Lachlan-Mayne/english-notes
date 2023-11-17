@@ -42,3 +42,4 @@ An example of established tech at Qantas is the kiosk self service and the wifi/
 - FIFO (first-in-first-out) - stock that has been waiting the longest is sold first (arrived least recently)
 	- Perishables (milk, fruit etc)
 - JIT (just-in-time) - businesses aim to only make enough to meet demand, in time for the demand
+	- Customisable
