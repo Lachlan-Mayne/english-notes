@@ -271,4 +271,7 @@ Developing an Argument That Answers the Question
 	4. Examples
 2. Read the question carefully and identify the key word(s)
 	1. Eg. the key word "power"
-3. Look at your research (see above) 
+3. Look at your research (see above) and ask how it can be connected to "power"
+4. Write down arguments/ideas, (not descriptions) about "power" and "research ideas"
+5. Try to encapsulate/summarise into one sentence. 
+6. that becomes the topic sentence
