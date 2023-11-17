@@ -369,5 +369,5 @@ Businesses that buy stock need to decide how much to carry in inventories.
 - **FIFO (first-in-first-out)** Stock that has been waiting the longest is sold first
 	- Perishables; milk, fruit etc
 - **JIT (just-in-time)** Businesses aim to only make enough to meet demand, in time for the demand
-	- 
+	- Customisable items; restaurants, cafe
 These are all ideas that relate to how you deal with the stock you have, thinking about rotating it or arranging like items on a shelf
