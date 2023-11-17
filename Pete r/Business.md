@@ -364,5 +364,6 @@ Businesses outsource:
 
 ## Inventory Management:
 Businesses that buy stock need to decide how much to carry in inventories.
-- LIFO (last-in-first out) Stock that has arrived most recently will be sold first
-- 
+- **LIFO (last-in-first-out)** Stock that has arrived most recently will be sold first
+- **FIFO (first-in-first-out)** Stock that has been waiting the longest is sold first
+- **JIT (just-in-time) BUsinesses aim to only make enough to meet dem
