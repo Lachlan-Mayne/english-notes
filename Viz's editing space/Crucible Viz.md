@@ -258,7 +258,17 @@ Upon reading the poem for the first time, I was challenged by the lack of attach
 
 Question:
 Have I properly explained how the anomalies are explored. 
-Do I need to improve the level of first person reflection. 
+Do I need to improve the level of first person reflection.  
 
 First response, 
 Put in the B range because it uses some quotes, techniques, imperative language. There is no mentioning of context, grammatical errors. Good choice of some words, (polarisation, justice system) 
+
+Developing an Argument That Answers the Question
+1. Research phase: collecting all the evidence into topics. (eg, Tragedy)
+	1. Quotes
+	2. Context
+	3. Techniques
+	4. Examples
+2. Read the question carefully and identify the key word(s)
+	1. Eg. the key word "power"
+3. Look at your research (see above) 
