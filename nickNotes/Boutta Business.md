@@ -37,3 +37,6 @@ An example of established tech at Qantas is the kiosk self service and the wifi/
 ## Inventory Management
 
 ##### 3 main methods of managing inventory
+- LIFO (last-in-first-out) - stock that has arrived 
+- FIFO
+- JIT
