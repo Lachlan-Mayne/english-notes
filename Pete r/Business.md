@@ -363,3 +363,4 @@ Businesses outsource:
 - Companies won't always use leading edge technology if it's inefficient at meeting customer expectations
 
 ## Inventory Management:
+Businesses that b stock need to decide how much to carry in inventories
