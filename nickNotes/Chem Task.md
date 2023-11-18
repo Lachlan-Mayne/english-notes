@@ -1,3 +1,11 @@
+---
+tags:
+  - assignment
+  - chemistry
+dg-publish: false
+---
+
+
 Description of the sources and uses of ammonia
 
 Ammonia is produced in soil from bacterial processes
