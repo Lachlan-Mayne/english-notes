@@ -5,7 +5,10 @@ Ammonia is also produced commercially via the Haber process
 
 ##### Sources of Ammonia:
 
-- decomposition 
+- decompo of organic waste matter
+- forest fires
+- animal and human waste
+- 
 ##### Some uses of ammonia include:
 - fertiliser
 - refrigerant gas
