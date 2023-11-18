@@ -5,7 +5,7 @@ Ammonia is also produced commercially via the Haber process
 
 ##### Sources of Ammonia:
 
-- decompo of organic waste matter
+- decomposition of organic waste matter
 - forest fires
 - animal and human waste
 - 
