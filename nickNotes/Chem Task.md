@@ -1,6 +1,7 @@
 Description of the sources and uses of ammonia
 
 Ammonia is produced in soil from bacterial processes
+Ammonia is also produced commercially via the Haber process
 
 ##### Some uses of ammonia include:
 - fertiliser
