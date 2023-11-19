@@ -140,6 +140,7 @@ $\lim \limits_{h \to 0} \frac{f(x+h)-f(x)}{h}$
 At this point, we must use the concept of sin(small number)÷(small number) = 1 & \[cos(small number) - (small number)] ÷ (small number) = 0:
 =$\lim \limits_{h\to0}\sin\times\frac{1-1}{0}+1\times\cos{x}$
 =$\cos{x}$
+
 # Functions
 #functions
 
