@@ -220,4 +220,5 @@ Whenever there is a power on the bottom of the fraction larger than the top, doi
 
 
 
-# 
+# Proof by Mathematical Induction (PMI)
+For most sequential equations, (such as )
