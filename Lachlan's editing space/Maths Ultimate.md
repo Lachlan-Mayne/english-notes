@@ -227,5 +227,7 @@ Once the base case is proven true, we have to prove that if it works for any num
 (base case proven true)
 Assume true for $n=k$:
 $\therefore1+2+...+k=\frac{k(k+1)}{2}$
+Once the $n$ variable has been swapped with $k$, we must test $n=k+1$:
 Test $n=k+1$:
 $1+2+...+k+(k+1)=\frac{(k+1)((k+1)+1)}{2}$
+This involves rewriting the equation, with an addition problem it involves adding an extra variable on the left, and subbing in $k+1$ for all $k$ on the right. For a division equation, i
