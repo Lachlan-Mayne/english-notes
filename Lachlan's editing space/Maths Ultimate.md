@@ -223,4 +223,4 @@ Whenever there is a power on the bottom of the fraction larger than the top, doi
 # EXT1: Proof by Mathematical Induction (PMI)
 For most sequential equations, such as $1+2+...+n=\frac{n(n+1)}{2}$, they can be proved by PMI. To prove, begin by testing the "base case", which is given in the question (e.g. prove that sequence $h$ is true for integer $n>3$). If there isn't a base case given in the question, just use $n=1$, and write that in the working. 
 
-Once the base case is proven true, 
+Once the base case is proven true, we have to prove that if it works for any number, it'll work for any number plus 1. 
