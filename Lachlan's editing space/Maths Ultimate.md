@@ -131,7 +131,7 @@ If f''(x)=0, it could also be a point of inflection. ![[Screenshot 2023-11-14 at
 ![[Screenshot 2023-11-14 at 4.08.12 pm.png]]
 
 ## Trigonometric calculus
-For problems involving trigonometric variables, most differentiation forms are on the formula sheet. However, the [syllabus]([[)]] mentions 
+For problems involving trigonometric variables, most differentiation forms are on the formula sheet. However, the [syllabus](Maths%20Ultimate#MA-C2%20Differential%20Calculus) mentions using the chain rule to establish derivatives o
 
 # Functions
 #functions
