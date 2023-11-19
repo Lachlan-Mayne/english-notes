@@ -1,7 +1,5 @@
 ---
-tags:
-  - maths
-  - mathematics
+tags: maths,mathematics
 dg-publish: true
 dg-home: false
 ---
