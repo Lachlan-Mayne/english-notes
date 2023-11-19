@@ -124,10 +124,14 @@ Multiply by y to make y' the subject: $y'=y(x\frac{1}{x}+\ln{x})$
 sub in the value for y: $y'=x^x(x\frac{1}{x}+\ln{x})$
 Simplify: $y'=x^x+x^x\ln{x}$
 
-Finding $\frac{dy}{dx}$ maximum and minimum values (extremes), differentiate f(x) then find gradient function = 0
+Finding $\frac{dy}{dx}$ maximum and minimum v
+alues (extremes), differentiate f(x) then find gradient function = 0
 $\frac{d^2y}{dx^2}$ analytical method of solving for maximums and minimums ![[Screenshot 2023-11-14 at 3.28.40 pm.png]]If the second derivative is a positive integer for f'(x)=0, then it is a minimum point, and if the second derivative is a negative integer for f'(x)=0. ![[Screenshot 2023-11-14 at 3.33.49 pm.png]]
 If f''(x)=0, it could also be a point of inflection. ![[Screenshot 2023-11-14 at 3.35.43 pm.png]]
 ![[Screenshot 2023-11-14 at 4.08.12 pm.png]]
+
+## Trigonometric calculus
+For problems involving trigonometric variables, most differentiation forms are on the formula sheet. 
 
 # Functions
 #functions
