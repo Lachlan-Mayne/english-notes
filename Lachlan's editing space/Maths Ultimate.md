@@ -221,4 +221,4 @@ Whenever there is a power on the bottom of the fraction larger than the top, doi
 
 
 # Proof by Mathematical Induction (PMI)
-For most sequential equations, such as $1+2+...+n=\frac{n(n+1)}{2}$, they can be proved by PMI. To prove, begin by testing the "base case", in most scenarios this will 
+For most sequential equations, such as $1+2+...+n=\frac{n(n+1)}{2}$, they can be proved by PMI. To prove, begin by testing the "base case", which is given in the question (e.g. prove that sequence $h$ is true for integer $n>3$). I
