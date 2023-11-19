@@ -132,7 +132,13 @@ If f''(x)=0, it could also be a point of inflection. ![[Screenshot 2023-11-14 at
 
 ## Trigonometric calculus
 For problems involving trigonometric variables, most differentiation forms are on the formula sheet. However, the [syllabus](Maths%20Ultimate#MA-C2%20Differential%20Calculus) mentions using the chain rule to establish derivatives of sin, cos and tan:
-
+Proving $\frac{d}{dx}\sin{x}=\cos{x}$
+$\lim \limits_{h \to 0} \frac{f(x+h)-f(x)}{h}$
+= $\lim \limits_{h \to 0} \frac{\sin{(x+h)}-\sin{x}}{h}$
+= $\lim \limits_{h \to 0} \frac{\sin{x}\cos{h}+\cos{x}\sin{h}-\sin{x}}{h}$
+=$\lim \limits_{h \to 0} \frac{\sin{x}(\cos{h}-1)+\sin{h}\cos{x}}{h}$
+At this point, we must use the concept of 
+=$\lim \limits_{h\to0}$
 
 # Functions
 #functions
