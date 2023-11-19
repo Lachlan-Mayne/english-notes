@@ -111,10 +111,12 @@ Corporate social responsibility (CSR): Involves businesses doing more than just 
 - Supply chain management - logistics, e-commerce, global sourcing
 - Outsourcing - advantages and disadvantages
 - [Technology](Nov%2016,%202023#^140003)
-- Quality management:
-	- Quality Control
-	- Quality Assurance
-	- Quality Improvement
+## Quality management:
+Quality management is the processes undertaken 
+- Quality Control
+Inspections carried out to make sure the process is meeting standards, management intervenes and corrects any 
+- Quality Assurance
+- Quality Improvement
 # Glossary:
 
 Quality: How well designed, made and functional goods are, and the degree of competence 
