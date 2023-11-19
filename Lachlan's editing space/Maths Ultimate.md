@@ -230,4 +230,4 @@ $\therefore1+2+...+k=\frac{k(k+1)}{2}$
 Once the $n$ variable has been swapped with $k$, we must test $n=k+1$:
 Test $n=k+1$:
 $1+2+...+k+(k+1)=\frac{(k+1)((k+1)+1)}{2}$
-This involves rewriting the equation, with an addition problem it involves adding an extra variable on the left, and subbing in $k+1$ for all $k$ on the right. For a division equation, i
+This involves rewriting the equation, with an addition problem it involves adding an extra variable on the left, and subbing in $k+1$ for all $k$ on the right. For a division equation, it would involve swapping all $k$ with $k+1$ on left and right of eqn.
