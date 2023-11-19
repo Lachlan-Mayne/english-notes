@@ -137,8 +137,8 @@ $\lim \limits_{h \to 0} \frac{f(x+h)-f(x)}{h}$
 = $\lim \limits_{h \to 0} \frac{\sin{(x+h)}-\sin{x}}{h}$
 = $\lim \limits_{h \to 0} \frac{\sin{x}\cos{h}+\cos{x}\sin{h}-\sin{x}}{h}$
 =$\lim \limits_{h \to 0} \frac{\sin{x}(\cos{h}-1)+\sin{h}\cos{x}}{h}$
-At this point, we must use the concept of sin(small number)÷small number)
-=$\lim \limits_{h\to0}$
+At this point, we must use the concept of sin(small number)÷(small number) = 0 & \[cos(small number) - (small number)] ÷ (small number) = 0:
+=$\lim \limits_{h\to0}\frac{\sin{x}()}{0}$
 
 # Functions
 #functions
