@@ -226,4 +226,6 @@ For most sequential equations, such as $1+2+...+n=\frac{n(n+1)}{2}$, they can be
 Once the base case is proven true, we have to prove that if it works for any number, it'll work for any number plus 1. This step is known as the inductive assumption/hypothesis. In a worked question, it would look like the following:
 (base case proven true)
 Assume true for $n=k$:
-$\therefore1+2+...+n$
+$\therefore1+2+...+k=\frac{k(k+1)}{2}$
+Test $n=k+1$:
+$1+2+...+k+(k+1)=\frac{(k+1)((k+1)+1)}{2}$
