@@ -60,3 +60,19 @@ Activity
 |**Example**||||||
 
 
+**
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+|- Carrying out inspections at key stages of the transformation process|"Precision Perfected, Quality Assured."|A baker checking on his bread|-Customer satisfaction <br><br>  <br><br>- Check for small errors<br><br>  <br><br>-Reduced Defects<br><br>  <br><br>-good brand image<br><br>  <br><br>-competitive advantage|- time-consuming<br><br>- costly|
+
+
+
+
+
+|   |   |
+|---|---|
+|Involves the use od a system to ensure standards are achieved|Ensuring your products are perfectly made every step of the way|
+
+
+
