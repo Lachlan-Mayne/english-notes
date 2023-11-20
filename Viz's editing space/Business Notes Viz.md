@@ -442,5 +442,8 @@ Quality management at Qantas.
 - quality improvement
 	- Invite staff to participate in brainstorming ideas and suggestions to improve quality, attempts to make quality both central and strategic within Qantas. 
 
+The truck repair business can use quality control and quality assurance. 
+The business could benefit form using quality control through consistent inspections into the processes they use when repairing vehicles. This means that the business can keep the quality consistent for 
+
 
 
