@@ -48,4 +48,4 @@ An example of established tech at Qantas is the kiosk self service and the wifi/
 Quality management at Qantas:
 - Quality control
 - Quality assurance
-- Quality Improv
+- Quality Improvement 
