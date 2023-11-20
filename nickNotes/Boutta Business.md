@@ -52,7 +52,7 @@ Quality management at Qantas:
 
 Activity
 
-|**Definition**|**Slogan**|**Application example**|**Avantages**|**Disadvantages**|
-| - | :- | -: | :-: |-|
+| |**Definition**|**Slogan**|**Application example**|**Avantages**|**Disadvantages**|
+| - | - | - | -|-|-|
 |non-indented|left-indented|right indented|centred|fnjhb|
 
