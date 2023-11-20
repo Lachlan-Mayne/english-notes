@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Viz's editing space/Business Notes Viz.md",
+                "file": "Viz's editing space/Crucible Viz.md",
                 "mode": "source",
                 "source": false
               }
@@ -27,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Viz's editing space/Crucible Viz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Viz's editing space/Crucible Viz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Viz's editing space/Crucible Viz.md"
+              }
             }
           },
           {
@@ -178,7 +181,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e0e6fb34900ef2a8",
+  "active": "964e6e3949828492",
   "lastOpenFiles": [
     "Viz's editing space/Business Notes Viz.md",
     "Viz's editing space/Crucible Viz.md",
