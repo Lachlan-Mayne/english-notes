@@ -49,3 +49,9 @@ Quality management at Qantas:
 - Quality control
 - Quality assurance
 - Quality Improvement 
+
+Activity
+
+|**Title one**|**2nd title**|**Title 3**|**etc**|
+| - | :- | -: | :-: |
+|non-indented|left-indented|right indented|centred|
