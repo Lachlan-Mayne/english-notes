@@ -381,3 +381,12 @@ For many years Qantas has marketed as a high quality, perfect safety record, ful
 
 **Quality improvement:** Qantas invites staff to participate in brainstorming ideas and suggestions to improve quality, attempts to make quality both central and strategic within Qantas
 
+
+|   |   |   |   |   |   |
+|---|---|---|---|---|---|
+||Definition|Slogan/Jingle/catchphrase|Applications example|Advantages|Disadvantages|
+|Quality Control||||||
+|Quality Assurance||||||
+|Quality improvement|Refers to the systematic process of enhancing the efficiency, effectiveness, and consistency of products or services.|Exceeding Expectations with Every Improvement|Outsourcing can reduce costs, allowing them to be reallocated to areas requiring improvement, resulting in higher customer satisfaction from higher quality products|Increased Customer Satisfaction<br><br>  <br><br>Reduced Costs<br><br>  <br><br>Competitive Advantage<br><br>  <br><br>Improved Efficiency|Expensive to implement and to maintain<br><br>  <br><br>Can take a while to successfully be implemented <br><br>  <br><br>Employees may be resistant to change|
+
+
