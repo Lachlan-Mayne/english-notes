@@ -435,4 +435,9 @@ A fruit shop can use inventory management methods such as FIFO (first in first o
 
 Quality management at Qantas.
 
+- quality control
+- quality assurance
+- quality improvement
+
+
 
