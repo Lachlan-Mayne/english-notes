@@ -56,7 +56,7 @@ Activity
 | - | - | - | -|-|-|
 |**Quality Control**|||||
 |**Quality Assurance**||||||
-|**Quality Improvement**||right indented|centred|fnjhb|
-| - | - | - | -|-|-|
+|**Quality Improvement**|||||
+|**Example**||||||
 
 
