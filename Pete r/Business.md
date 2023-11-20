@@ -374,3 +374,5 @@ These are all ideas that relate to how you deal with the stock you have, thinkin
 
 ## Quality management in Qantas:
 For many years Qantas has marketed as a high quality, perfect safety record, full-service airline and commanded premium fares , whereas Jetstar has traded quality for price.
+**Quality control:** Inspections are carried out periodically to make sure the process is meeting standards, management intervenes and takes corrective action to uphold quality
+**Quality assurance:** 
