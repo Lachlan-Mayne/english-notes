@@ -5,13 +5,6 @@ tags:
   - operations
 dg-publish: true
 ---
-
-<h2>Stretch Example</h2>
-<img class="r-stretch" src="http://placekitten.com/200/300">
-<p>Image byline</p>
-
----
-
 Operations management:
 
 - Responsible for acquiring the inputs and devising the best production methods so that the value adding occurs 
