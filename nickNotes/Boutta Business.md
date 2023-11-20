@@ -75,4 +75,6 @@ Activity
 |Involves the use od a system to ensure standards are achieved|Ensuring your products are perfectly made every step of the way|
 
 
-
+**|   |   |
+|---|---|
+|- Make sure all customers expectations are met<br><br>- can result in good word of mouth|- Expensive to train employees for the task<br><br>- time consuming|**
