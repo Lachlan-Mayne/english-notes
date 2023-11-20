@@ -386,6 +386,12 @@ For many years Qantas has marketed as a high quality, perfect safety record, ful
 |---|---|---|---|---|---|
 ||Definition|Slogan/Jingle/catchphrase|Applications example|Advantages|Disadvantages|
 |Quality Control||||||
-|Quality Assurance||||||
+|Quality Assurance|Involves the use of a system to ensure that set standards
+are achieved in production. This is done through measuring
+standards. QA is a proactive approach to quality rather than a reactive
+one
+||Quality is our business! Don't be satisfied with anything less than perfect quality! We're out to make quality happen! Quality, service, and satisfaction are everything to us!
+Anticipate and Elevate
+|||
 |Quality improvement|Refers to the systematic process of enhancing the efficiency, effectiveness, and consistency of products or services.|Exceeding Expectations with Every Improvement|Outsourcing can reduce costs, allowing them to be reallocated to areas requiring improvement, resulting in higher customer satisfaction from higher quality products|Increased Customer Satisfaction<br><br>  <br><br>Reduced Costs<br><br>  <br><br>Competitive Advantage<br><br>  <br><br>Improved Efficiency|Expensive to implement and to maintain<br><br>  <br><br>Can take a while to successfully be implemented <br><br>  <br><br>Employees may be resistant to change|
 
