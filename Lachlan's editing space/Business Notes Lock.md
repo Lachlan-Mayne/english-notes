@@ -141,7 +141,8 @@ The company may keep/gain customers, which would lead into more sales, into more
 Need to adjust their schedules if they cannot deliver on time. Furthermore if Ops are unable to deliver some services they need to clearly communicate to Marketing so they don’t advertise something they cannot deliver on…
 
   
-  
+|Heading 1|Heading 2|
+
 
 Questions:
 
