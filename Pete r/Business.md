@@ -377,7 +377,7 @@ For many years Qantas has marketed as a high quality, perfect safety record, ful
 
 **Quality control:** Inspections are carried out periodically to make sure the process is meeting standards, management intervenes and takes corrective action to uphold quality
 
-**Quality assurance:** Qantas monitors the level of quality ast all stages by measurement against standards. They focus on having good procedures, preventing issues, rather than inspections finding issues. (COVID)
+**Quality assurance:** Qantas monitors the level of quality as all stages by measurement against standards. They focus on having good procedures, preventing issues, rather than inspections finding issues. (COVID)
 
 **Quality improvement:** Qantas invites staff to participate in brainstorming ideas and suggestions to improve quality, attempts to make quality both central and strategic within Qantas
 
@@ -387,6 +387,6 @@ For many years Qantas has marketed as a high quality, perfect safety record, ful
 |---|---|---|---|---|---|
 ||Definition|Slogan|Application example (generic)|Pros|Cons|
 |Quality control|- Carrying out inspections at key stages of the transformation process|"Precision Perfected, Quality Assured."|A baker checking on his bread|-Customer satisfaction <br><br>  <br><br>- Check for small errors<br><br>  <br><br>-Reduced Defects<br><br>  <br><br>-good brand image<br><br>  <br><br>-competitive advantage|- time-consuming<br><br>- costly|
-|Quality Assurances|Involves the use of a system to ensure standards are achieved|Ensuring your products are perfectly made every step of the way|Ensuring the labeling of a product involves the materials|- Make sure all customers expectations are met<br><br>- can result in good word of mouth|- Expensive to train employees for the task<br><br>- time consuming|
+|Quality Assurances|Involves the use of a system to ensure standards are achieved|Ensuring your products are perfectly made every step of the way|Ensuring the labelling of a product involves the materials|- Make sure all customers expectations are met<br><br>- can result in good word of mouth|- Expensive to train employees for the task<br><br>- time consuming|
 |Quality improvement|QI emphasises continuous improvement and total quality management.<br><br>Meaning that over time processes will be made more<br><br>efﬁcient and effective.|inspection at the point of production and check for defects|Qanats Checking planes to prevent any defects|Maintain standards <br><br>Reducing risk <br><br>Being able to consistently give high-quality products<br><br>Increase better outcomes  and efficiency|Time consuming <br><br>Potential resistance form employees<br><br>Potential for an issue to be overlooked<br><br>Not as flexib|
 |Example||||||
