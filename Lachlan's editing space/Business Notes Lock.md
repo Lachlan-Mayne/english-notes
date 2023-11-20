@@ -118,6 +118,8 @@ Inspections carried out to make sure the process is meeting standards, managemen
 - Quality Assurance
 Measuring against standards at many levels of quality. 
 - Quality Improvement
+
+
 # Glossary:
 
 Quality: How well designed, made and functional goods are, and the degree of competence 
@@ -139,9 +141,6 @@ What would be the implications for a business that successfully met quality expe
 The company may keep/gain customers, which would lead into more sales, into more revenue, which would give them increased profits.
 
 Need to adjust their schedules if they cannot deliver on time. Furthermore if Ops are unable to deliver some services they need to clearly communicate to Marketing so they don’t advertise something they cannot deliver on…
-
-  
-|Heading 1|Heading 2|
 
 
 Questions:
