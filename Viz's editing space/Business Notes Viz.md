@@ -436,8 +436,11 @@ A fruit shop can use inventory management methods such as FIFO (first in first o
 Quality management at Qantas.
 
 - quality control
+	- Inspections are carried out at key stages to make sure the process is meeting the specified standards. 
 - quality assurance
+	- Monitor level of quality at all stages by measurement against standards. Focus having good procedures. 
 - quality improvement
+	- Invite staff to participate in brainstorming ideas and suggestions to improve quality, attempts to make quality both central and strategic within Qantas. 
 
 
 
