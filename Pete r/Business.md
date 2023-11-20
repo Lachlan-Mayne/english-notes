@@ -371,3 +371,6 @@ Businesses that buy stock need to decide how much to carry in inventories.
 - **JIT (just-in-time)** Businesses aim to only make enough to meet demand, in time for the demand
 	- Customisable items; restaurants, café's etc
 These are all ideas that relate to how you deal with the stock you have, thinking about rotating it or arranging like items on a shelf
+
+## Quality management in Qantas:
+For many years Qantas has marketed as a high quality, perfect safety record, full-service airline and commanded premium fares , whereas Jetstar has traded quality for price.
