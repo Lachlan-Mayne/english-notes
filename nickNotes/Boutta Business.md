@@ -54,5 +54,9 @@ Activity
 
 | |**Definition**|**Slogan**|**Application example**|**Avantages**|**Disadvantages**|
 | - | - | - | -|-|-|
-|non-indented|left-indented|right indented|centred|fnjhb|
+|**Quality Control**|left-indented|right indented|centred|fnjhb|
+| - | - | - | -|-|-|
+|**Quality Control**|left-indented|right indented|centred|fnjhb|
+| - | - | - | -|-|-|
+
 
