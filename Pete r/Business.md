@@ -380,4 +380,3 @@ For many years Qantas has marketed as a high quality, perfect safety record, ful
 **Quality assurance:** Qantas monitors the level of quality ast all stages by measurement against standards. They focus on having good procedures, preventing issues, rather than inspections finding issues. (COVID)
 
 **Quality improvement:** Qantas invites staff to participate in brainstorming ideas and suggestions to improve quality, attempts to make quality both central and strategic within Qantas
-
