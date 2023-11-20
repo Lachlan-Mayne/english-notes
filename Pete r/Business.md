@@ -373,6 +373,10 @@ Businesses that buy stock need to decide how much to carry in inventories.
 These are all ideas that relate to how you deal with the stock you have, thinking about rotating it or arranging like items on a shelf
 
 ## Quality management in Qantas:
-For many years Qantas has marketed as a high quality, perfect safety record, full-service airline and commanded premium fares , whereas Jetstar has traded quality for price.
+For many years Qantas has marketed as a high quality, perfect safety record, full-service airline and commanded premium fares, whereas Jetstar has traded quality for price.
+
 **Quality control:** Inspections are carried out periodically to make sure the process is meeting standards, management intervenes and takes corrective action to uphold quality
-**Quality assurance:** 
+
+**Quality assurance:** Qantas monitors the level of quality ast all stages by measurement against standards. They focus on having good procedures, preventing issues, rather than inspections finding issues. (COVID)
+
+**Quality im**
