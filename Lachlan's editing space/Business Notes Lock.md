@@ -114,8 +114,9 @@ Corporate social responsibility (CSR): Involves businesses doing more than just 
 ## Quality management:
 Quality management is the processes undertaken 
 - Quality Control
-Inspections carried out to make sure the process is meeting standards, management intervenes and corrects any 
+Inspections carried out to make sure the process is meeting standards, management intervenes and corrects any mistakes in the process
 - Quality Assurance
+Measuring against standards at many levels of quality. 
 - Quality Improvement
 # Glossary:
 
