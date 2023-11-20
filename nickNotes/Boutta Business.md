@@ -54,9 +54,9 @@ Activity
 
 | |**Definition**|**Slogan**|**Application example**|**Avantages**|**Disadvantages**|
 | - | - | - | -|-|-|
-|**Quality Control**|left-indented|right indented|centred|fnjhb|
-| - | - | - | -|-|-|
-|**Quality Control**|left-indented|right indented|centred|fnjhb|
+|**Quality Control**|||||
+|**Quality Assurance**||||||
+|**Quality Improvement**||right indented|centred|fnjhb|
 | - | - | - | -|-|-|
 
 
