@@ -1,39 +1,60 @@
 {
   "main": {
-    "id": "e1110c6d6ca2020b",
+    "id": "75ea967bbac70707",
     "type": "split",
     "children": [
       {
-        "id": "a433b9c2d8e235e3",
+        "id": "0a0e9edef90261de",
         "type": "tabs",
         "children": [
           {
-            "id": "d1b0f020c074b8c9",
+            "id": "44bd358925bfd605",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nickNotes/Boutta Business.md",
+                "file": "Viz's editing space/Crucible Viz.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "964e6e3949828492",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Viz's editing space/Business Notes Viz.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0e6fb34900ef2a8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f78ab1944e13da08",
+    "id": "4d3296266a04e564",
     "type": "split",
     "children": [
       {
-        "id": "3613229297ac400f",
+        "id": "45e29fcb105f0692",
         "type": "tabs",
         "children": [
           {
-            "id": "e6c5c6b044973fd6",
+            "id": "1c327201a0b90a8a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +64,12 @@
             }
           },
           {
-            "id": "79ceddee2992cd9f",
+            "id": "6c6494cbab30f947",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#irishairman",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +79,7 @@
             }
           },
           {
-            "id": "e55556702c5ca32e",
+            "id": "8ab1d7f05e4f3920",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -66,7 +87,7 @@
             }
           },
           {
-            "id": "fec0dce0fd2805a2",
+            "id": "4e31f9d617f16949",
             "type": "leaf",
             "state": {
               "type": "screen-garden-user-pane",
@@ -80,20 +101,20 @@
     "width": 300
   },
   "right": {
-    "id": "515c8c69ed8d261b",
+    "id": "629ba2fcd9d6cfcd",
     "type": "split",
     "children": [
       {
-        "id": "680d79e5fb6fd856",
+        "id": "30c570cd21ff2701",
         "type": "tabs",
         "children": [
           {
-            "id": "79b0cedba1f0ef90",
+            "id": "4eb2537a52d605ce",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nickNotes/Boutta Business.md",
+                "file": "Viz's editing space/Business Notes Viz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,19 +126,19 @@
             }
           },
           {
-            "id": "a7ff3ee2fba9a081",
+            "id": "750a64f1a7cf066a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nickNotes/Boutta Business.md",
+                "file": "Viz's editing space/Business Notes Viz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a878a60c74b0c311",
+            "id": "0a51c46a2a9ce7c6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,24 +149,33 @@
             }
           },
           {
-            "id": "8fd63309cb65030b",
+            "id": "2c0a39e7f70d4b78",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "nickNotes/Boutta Business.md"
+                "file": "Viz's editing space/Business Notes Viz.md"
               }
             }
           },
           {
-            "id": "20a4d7e43044e385",
+            "id": "b609158c9f99163d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "6baf7a6b2f585756",
             "type": "leaf",
             "state": {
               "type": "screen-garden-document-pane",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -154,67 +184,67 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian42-brat:BRAT": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "d1b0f020c074b8c9",
+  "active": "964e6e3949828492",
   "lastOpenFiles": [
-    "Lachlan's editing space/Business Notes Lock.md",
-    "Special syntax.md",
-    "nickNotes/Boutta Business.md",
+    "Viz's editing space/Business Assignment Viz.md",
+    "Viz's editing space/Crucible Viz.md",
+    "conflict-files-obsidian-git.md",
     "nickNotes/Chem Task.md",
-    "nickNotes/English 'The Crucible' notes.md",
-    "nickNotes/Software.md",
-    "nickNotes/English Reflection.md",
-    "nickNotes/English Essay.md",
-    "Lachlan's editing space/English Notes Lachlan.md",
-    "Lachlan's editing space/Maths Ultimate.md",
-    "Lachlan's editing space/chemistry.md",
-    "Lachlan's editing space/DailyNotes/Nov 16, 2023.md",
-    "Lachlan's editing space/DailyNotes/Nov 17, 2023.md",
     "Garden landing page.md",
     "Lachlan's editing space/images/Screenshot 2023-11-17 at 2.57.43 pm.png",
-    "conflict-files-obsidian-git.md",
     "Jonah/English/Developing an Argument That Answers the Question.md",
-    "Viz's editing space/Business Assignment Viz.md",
     "Viz's editing space/Business Notes Viz.md",
+    "Lachlan's editing space/DailyNotes/Nov 17, 2023.md",
     "Viz's editing space/Viz Misc. Notes.md",
+    "Viz's editing space/file.md",
+    "Viz's editing space/Science plan.md",
     "Lachlan's editing space/images/Pasted image 20231116112304.png",
-    "pete r/Business.md",
-    "pete r/file.md",
-    "pete r/English.md",
-    "pete r/images/Screen Shot 2023-11-10 at 12.37.02 pm.png",
-    "pete r/images/Screen Shot 2023-11-10 at 12.39.45 pm.png",
-    "pete r/images/landing.md",
-    "Untitled 2.canvas",
-    "Untitled 3.canvas",
-    "Untitled.canvas",
-    "Untitled 1.canvas",
-    "Lachlan's editing space/DailyNotes/Nov 15, 2023.md",
-    "Jonah/English/What to Put in the Reflection.md",
-    "Jonah/English/Untitled.md",
-    "Jonah/English",
-    "Jonah",
-    "WeeklySummaries",
-    "Lachlan's editing space/images/Screenshot 2023-11-14 at 4.08.12 pm.png",
-    "Lachlan's editing space/images/Screenshot 2023-11-14 at 3.35.43 pm.png",
-    "Lachlan's editing space/images/Screenshot 2023-11-14 at 3.33.49 pm.png",
-    "Lachlan's editing space/images/Screenshot 2023-11-14 at 3.28.40 pm.png",
-    "Lachlan's editing space/images/Pasted image 20231112132808.png",
-    "pete r/images",
-    "Lachlan's editing space/images/Screenshot 2023-11-10 at 12.24.27 pm.png",
-    "shenanigans/obsidian-notes-2024",
-    "shenanigans",
     "reak/obsidian-notes-2024",
     "reak",
-    "obsidian-notes-2024",
-    "Pete r"
+    "nickNotes/English Essay.md",
+    "Lachlan's editing space/images/Screenshot 2023-11-14 at 3.35.43 pm.png",
+    "Lachlan's editing space/images/Screenshot 2023-11-10 at 12.24.27 pm.png",
+    "Lachlan's editing space/images/Pasted image 20231112132808.png",
+    "Lachlan's editing space/images/Pasted image 20231109204849.png",
+    "Jonah/English/What to Put in the Reflection.md",
+    "Jonah/English/Untitled.md",
+    "Lachlan's editing space/DailyNotes/Nov 16, 2023.md",
+    "Jonah/Test.md",
+    "Jonah/English/Reflection.md",
+    "Jonah/What to Put in the Reflection.md",
+    "Jonah/English",
+    "Jonah/Untitled.md",
+    "Lachlan's editing space/DailyNotes/Nov 15, 2023.md",
+    "Jonah/file.md",
+    "Jonah",
+    "Lachlan's editing space/images/Screenshot 2023-11-14 at 4.08.12 pm.png",
+    "Lachlan's editing space/images/Screenshot 2023-11-14 at 3.33.49 pm.png",
+    "Lachlan's editing space/images/Screenshot 2023-11-14 at 3.28.40 pm.png",
+    "Lachlan's editing space/DailyNotes/Nov 14, 2023.md",
+    "Untitled.md",
+    "Lachlan's editing space/DailyNotes/Nov 13, 2023.md",
+    "WeeklySummaries/NovemberSum7.md",
+    "WeeklySummaries",
+    "Untitled 3.canvas",
+    "Look at this live demo!.md",
+    "Pete r/images/Screen Shot 2023-11-10 at 12.39.45 pm.png",
+    "Pete r/images",
+    "Lachlan's editing space/images",
+    "Untitled 2.canvas",
+    "Pete r",
+    "Lachlan's editing space/Excalidraw",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Viz's editing space"
   ]
 }

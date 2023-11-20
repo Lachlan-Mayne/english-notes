@@ -432,3 +432,7 @@ Inventory management
 
 
 A fruit shop can use inventory management methods such as FIFO (first in first out). This can prove to be an advantage for this business because it allows for stock to be managed easier because there won't be a possibility of over stocking as the older stock is distributed once ordered. 
+
+Quality management at Qantas.
+
+
