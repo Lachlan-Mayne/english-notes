@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nickNotes/Boutta Business.md",
+                "file": "nickNotes/English Essay.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nickNotes/Boutta Business.md",
+                "file": "nickNotes/English Essay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nickNotes/Boutta Business.md",
+                "file": "nickNotes/English Essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nickNotes/Boutta Business.md"
+                "file": "nickNotes/English Essay.md"
               }
             }
           },
@@ -175,11 +175,12 @@
   },
   "active": "e0e6fb34900ef2a8",
   "lastOpenFiles": [
-    "nickNotes/Software.md",
     "nickNotes/English Reflection.md",
+    "nickNotes/Software.md",
     "nickNotes/English Essay.md",
     "nickNotes/English 'The Crucible' notes.md",
     "nickNotes/Chem Task.md",
+    "nickNotes/Boutta Business.md",
     "Lachlan's editing space/chemistry.md",
     "conflict-files-obsidian-git.md",
     "Jonah/English/Paragraph 1.md",
@@ -209,7 +210,6 @@
     "Jonah/English",
     "Jonah/Untitled.md",
     "Lachlan's editing space/DailyNotes/Nov 15, 2023.md",
-    "Jonah/file.md",
     "Jonah",
     "Lachlan's editing space/images/Screenshot 2023-11-14 at 4.08.12 pm.png",
     "Lachlan's editing space/images/Screenshot 2023-11-14 at 3.33.49 pm.png",
