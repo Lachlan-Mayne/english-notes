@@ -30,9 +30,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "47272ce8960e35b5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nickNotes/English Reflection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nickNotes/English Reflection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "nickNotes/English Reflection.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,10 +190,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "826c04c2b19226ad",
+  "active": "47272ce8960e35b5",
   "lastOpenFiles": [
-    "Jonah/English/Reflection.md",
     "nickNotes/English Reflection.md",
+    "Jonah/English/Reflection.md",
     "nickNotes/English Essay.md",
     "nickNotes/English 'The Crucible' notes.md",
     "nickNotes/Chem Task.md",
