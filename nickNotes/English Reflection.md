@@ -5,4 +5,4 @@ tags:
   - "#irishairman"
 dg-publish: false
 ---
-An Irish Airman Foresees His Death by W.B. Yeats explores the 
+An Irish Airman Foresees His Death by W.B. Yeats explores the paradox of his motivation for his sacrifice, challenging 
