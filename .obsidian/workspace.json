@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jonah/English/Reflection.md",
+                "file": "nickNotes/English Reflection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jonah/English/Reflection.md",
+                "file": "nickNotes/English Reflection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jonah/English/Reflection.md"
+                "file": "nickNotes/English Reflection.md"
               }
             }
           },
@@ -185,11 +186,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e0e6fb34900ef2a8",
+  "active": "826c04c2b19226ad",
   "lastOpenFiles": [
+    "Jonah/English/Reflection.md",
     "nickNotes/English Reflection.md",
     "nickNotes/English Essay.md",
-    "Jonah/English/Reflection.md",
     "nickNotes/Chem Task.md",
     "nickNotes/English 'The Crucible' notes.md",
     "conflict-files-obsidian-git.md",
