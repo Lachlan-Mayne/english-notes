@@ -273,3 +273,4 @@ Developing an Argument That Answers the Question
 4. Write down arguments/ideas, (not descriptions) about "power" and "research ideas"
 5. Try to encapsulate/summarise into one sentence. 
 6. that becomes the topic sentence
+
