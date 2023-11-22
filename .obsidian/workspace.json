@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nickNotes/English Essay.md",
+                "file": "nickNotes/English Reflection.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nickNotes/English Essay.md",
+                "file": "nickNotes/English Reflection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nickNotes/English Essay.md",
+                "file": "nickNotes/English Reflection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nickNotes/English Essay.md"
+                "file": "nickNotes/English Reflection.md"
               }
             }
           },
@@ -175,8 +175,8 @@
   },
   "active": "e0e6fb34900ef2a8",
   "lastOpenFiles": [
-    "nickNotes/English Reflection.md",
     "nickNotes/English Essay.md",
+    "nickNotes/English Reflection.md",
     "nickNotes/Chem Task.md",
     "nickNotes/English 'The Crucible' notes.md",
     "conflict-files-obsidian-git.md",
