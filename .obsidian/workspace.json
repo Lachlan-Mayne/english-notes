@@ -35,12 +35,16 @@
             "id": "47272ce8960e35b5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "nickNotes/English 'The Crucible' notes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "nickNotes/English Reflection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "nickNotes/English Reflection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "nickNotes/English Reflection.md"
+              }
             }
           },
           {
@@ -190,12 +198,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "47272ce8960e35b5",
+  "active": "826c04c2b19226ad",
   "lastOpenFiles": [
-    "nickNotes/English Reflection.md",
     "Jonah/English/Reflection.md",
-    "nickNotes/English Essay.md",
+    "nickNotes/English Reflection.md",
     "nickNotes/English 'The Crucible' notes.md",
+    "nickNotes/English Essay.md",
     "nickNotes/Chem Task.md",
     "conflict-files-obsidian-git.md",
     "Lachlan's editing space/DailyNotes/Nov 22, 2023.md",
