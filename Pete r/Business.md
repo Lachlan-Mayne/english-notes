@@ -428,5 +428,6 @@ The main costs associated with change are-
 - Change must be planned and managers must be prepared
 
 ## Change Management:
-1. Unfreeze: Prepare the business for change
-2. Change
+1. **Unfreeze:** Prepare the business for change
+2. **Change:** Communicate and implement the new procedures and behaviours
+3. **Refreeze:** Make the change last by managers offering positive reinforcement
