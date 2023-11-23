@@ -78,3 +78,6 @@ Activity
 **|   |   |
 |---|---|
 |- Make sure all customers expectations are met<br><br>- can result in good word of mouth|- Expensive to train employees for the task<br><br>- time consuming|**
+
+
+
