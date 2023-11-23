@@ -476,4 +476,5 @@ Economies of scale
 - Found in capital investments and the improved use of technologies. 
 
 Scanning and learning
-- All businesses can benefit from scanning. The global environment and learning from the best practics 
+- All businesses can benefit from scanning. The global environment and learning from the best practice of businesses around the world. 
+- Growing competition feeds the need for continuously improve - scanning and learning helps businesses to keep up with or even overtake competition. 
