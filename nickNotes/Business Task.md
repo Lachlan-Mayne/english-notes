@@ -22,3 +22,6 @@ Qantas has used many forms of existing technology, including the addition of wif
 
 
 
+https://www.qantasnewsroom.com.au/media-releases/qantas-turns-on-the-cricket-this-summer-at-30000ft-using-wi-fi/
+
+https://www.qantasnewsroom.com.au/media-releases/qantas-aircraft-to-be-powered-by-renewable-biofuel-from-2020/
