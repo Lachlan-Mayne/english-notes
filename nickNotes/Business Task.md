@@ -10,12 +10,17 @@ operations management
 
 #### Executive Summary:
 
+
+
 #### 1. Operations Strategies
 
-
+##### 1.1 
 
 #### 2. Outsourcing
 
 
 
 #### 3. Corporate Social Responsibility
+
+
+
