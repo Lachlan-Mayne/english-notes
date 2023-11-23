@@ -14,4 +14,8 @@ operations management
 
 
 
-#### 2. Outsour
+#### 2. Outsourcing
+
+
+
+#### 3. Corporate Social Responsibility
