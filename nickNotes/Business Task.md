@@ -14,7 +14,10 @@ operations management
 
 #### 1. Operations Strategies
 
+
 ##### 1.1 
+
+
 
 #### 2. Outsourcing
 
