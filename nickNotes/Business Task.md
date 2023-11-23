@@ -20,7 +20,7 @@ Qantas has used many forms of established technology, including the addition of 
 
 #### 3. Corporate Social Responsibility
 
-Corporate Social Responsibility in the Qantas group is highly valued by the company and ensures that the company has its priorities on doing whats ethically right for the environment. Qantas' Sustainability framework is "aligned to our strategic priorities and focuses on three key principles - valuing our planet, enabling our people and connecting customers and communities - to support our vision of driving sustainability to protect the future of travel." (Qantas, Acting Sustainably). In alignment with this Qantas have provided 
+Corporate Social Responsibility in the Qantas group is highly valued by the company and ensures that the company has its priorities on doing whats ethically right for the environment. Qantas' Sustainability framework is "aligned to our strategic priorities and focuses on three key principles - valuing our planet, enabling our people and connecting customers and communities - to support our vision of driving sustainability to protect the future of travel." (Qantas, Acting Sustainably). In alignment with this Qantas have provided a sustainability report for the year document progress made towards their environmental, social and governance targets 
 
 
 https://www.qantasnewsroom.com.au/media-releases/qantas-turns-on-the-cricket-this-summer-at-30000ft-using-wi-fi/
