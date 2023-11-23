@@ -86,8 +86,9 @@ The global web strategy is one in which the business aims to minimise cost acros
 
 |**Pros**|**Cons**|
 
-|<p>- Access to larger markets</p><p>- Newer markets</p><p>- Newer resources</p>|<p>- Job loss to countries with lower pay</p><p></p>|
-
+|<p>- Access to larger markets Newer markets
+Newer resources
+Job loss to countries with lower pay
   
 
 ## **Quality expectations:**
