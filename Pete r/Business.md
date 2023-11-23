@@ -411,3 +411,4 @@ Resistance to change can be classifies as either financial or emotional/psycholo
 - Emotional/psychological
 	- Inertia
 
+## Overcoming financial resistance
