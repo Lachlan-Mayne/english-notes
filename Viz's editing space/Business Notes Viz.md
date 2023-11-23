@@ -450,3 +450,6 @@ Global factors, - global sourcing, economies of scale, scanning and learning, re
 	- globally sourcing inputs, outsourcing. 
 - operations managers need to be mindful of all influences. 
 - they need to acknowledge that global factors could either benefit or hinder their business operations. 
+
+Global sourcing
+- Businesses purchasing suppliers or seri
