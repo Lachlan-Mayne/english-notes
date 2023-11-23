@@ -392,7 +392,14 @@ For many years Qantas has marketed as a high quality, perfect safety record, ful
 |Example||||||
 
 ## Overcoming resistance to change:
-Change is a key influence on operations management, but managing and being responsive to this may come with resistance or hesitation - therefore managers are strategic about it.
+Change is a key influence on operations management, but managing and being responsive to this may come with resistance or hesitation - therefore managers are strategic about it
 
 Change can arise from changes in:
 - Legislation
+- Economic conditions
+- Social expectations
+- Technology
+
+**Change can require major alterations resulting in people needing to learn new skills and/or job losses and job prospects can alter**
+
+Resistance to change can be clas
