@@ -20,6 +20,7 @@ Qantas has used many forms of established technology, including the addition of 
 
 #### 3. Corporate Social Responsibility
 
+Corporate Social Responsibility in the Qantas group is highly valued by the company and ensures the
 
 
 https://www.qantasnewsroom.com.au/media-releases/qantas-turns-on-the-cricket-this-summer-at-30000ft-using-wi-fi/
