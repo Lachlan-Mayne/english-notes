@@ -447,4 +447,5 @@ The truck repair business can use quality control and quality assurance. The bus
 Global factors, - global sourcing, economies of scale, scanning and learning, research and development. 
 - all business will need to consider global factors and the operation strategies will also be affected. 
 - Global operations create opportunity for cost savings
-	- globally sourcing in
+	- globally sourcing inputs, outsourcing. 
+- 
