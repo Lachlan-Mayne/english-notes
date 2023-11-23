@@ -7,4 +7,11 @@ DESCRIPTION
 Explain why corporate social responsibility is a key concern in
 operations management
 
-##### Executive Summary:
+
+#### Executive Summary:
+
+#### 1. Operations Strategies
+
+
+
+#### 2. Outsour
