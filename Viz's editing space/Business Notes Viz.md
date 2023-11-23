@@ -478,3 +478,10 @@ Economies of scale
 Scanning and learning
 - All businesses can benefit from scanning. The global environment and learning from the best practice of businesses around the world. 
 - Growing competition feeds the need for continuously improve - scanning and learning helps businesses to keep up with or even overtake competition. 
+- Diversity of experience helps businesses learn how to handle issues with flexibility and insight. 
+
+Research and development (R&D)
+- innovative companies spend time and money on R&D
+- R&D helps businesses to create leading edge technologies, and to create innovative products and solutions. 
+- government encourages R&D, and may offer taxation incentives and grants. These incentives and grants assist businesses to invest and allocate resources into R&D
+- 
