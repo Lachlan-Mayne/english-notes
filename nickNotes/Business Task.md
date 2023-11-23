@@ -24,6 +24,8 @@ Corporate Social Responsibility in the Qantas group is highly valued by the comp
 
 An example of this being the biofuel that they are using in their aircrafts; this example of leading edge technology greatly follows their Corporate Social Responsibility. Some of their many other initiatives include "10% sustainable aviation fuel (SAF) in fuel mix by 2030, average of 1.5% fuel efficiency improvements to 2030, zero single-use plastics by 2027 and zero general waste to landfill by 2030" (Qantas, Valuing Our Planet). These initiates shows that Qantas care about the environment and their responsibility to care for it as a very influential business in the aviation industry. 
 
+
+
 https://www.qantas.com/au/en/qantas-group/sustainability.html
 
 https://www.qantasnewsroom.com.au/media-releases/qantas-turns-on-the-cricket-this-summer-at-30000ft-using-wi-fi/
