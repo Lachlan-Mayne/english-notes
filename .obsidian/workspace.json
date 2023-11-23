@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nickNotes/Business Task.md",
+                "file": "nickNotes/Boutta Business.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nickNotes/Business Task.md",
+                "file": "nickNotes/Boutta Business.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nickNotes/Business Task.md",
+                "file": "nickNotes/Boutta Business.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nickNotes/Business Task.md"
+                "file": "nickNotes/Boutta Business.md"
               }
             }
           },
@@ -175,8 +175,8 @@
   },
   "active": "826c04c2b19226ad",
   "lastOpenFiles": [
-    "nickNotes/Chem Task.md",
     "nickNotes/Business Task.md",
+    "nickNotes/Chem Task.md",
     "Viz's editing space/Business Assignment Viz.md",
     "nickNotes/Boutta Business.md",
     "nickNotes/English 'The Crucible' notes.md",
