@@ -468,4 +468,12 @@ Global sourcing
 	- different nation standards/regulations
 	- increased risk of fluctuations in foreign currency/exchange rates
 	- language and cultural variations
-- 
+
+Economies of scale
+- Cost advantages gained by producing on a larger scale. Businesses can lower their "per unit" input costs by doing things on a bigger scale. 
+- It is a global factors issue when businesses begin to sell across global markets. 
+- can become a decision based on scale advantages. 
+- Found in capital investments and the improved use of technologies. 
+
+Scanning and learning
+- All businesses can benefit from scanning. The global environment and learning from the best practics 
