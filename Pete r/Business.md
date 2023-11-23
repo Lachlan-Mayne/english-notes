@@ -423,4 +423,7 @@ The main costs associated with change are-
 - Inertia describes a psychological resistance to change
 - People can resist change when they have a feeling of uncertainty or unknowing
 
-## 
+## Strategies to overcome resistance:
+- Successfully managing change is important because change is constant and business processes are always being refined and adapted over time
+- Change must be planned and managers must be prepared
+- 
