@@ -10,7 +10,7 @@
 
 ##### 1.1 Technology
 
-Qantas' use of operations strategies have been shown through their use of leading edge technology and existing technology alike, which have allowed for them to allow longer flights and more comfortable and enjoyable flying for customers. Qantas has utilised renewable  
+Qantas' use of operations strategies have been shown through their use of leading edge technology and existing technology alike, which have allowed for them to allow longer flights and more comfortable and enjoyable flying for customers. In terms of leading 
 
 #### 2. Outsourcing
 
