@@ -133,6 +133,7 @@ Financial costs:
 - Purchasing new equipment
 - Redundancy payments
 - Retraining
+	- Reorganisation of internal hierarchy, staff needing training etc
 - Reorganising plant layout
 Emotional/psychological:
 - Inertia
