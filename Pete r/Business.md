@@ -418,3 +418,9 @@ The main costs associated with change are-
 - Redundancy
 - Re-organising facility layout
 - Transportation costs
+
+## Overcoming psychological resistance
+- Inertia describes a psychological resistance to change
+- People can resist change when they have a feeling of uncertainty or unknowing
+
+## 
