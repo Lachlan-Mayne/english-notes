@@ -15,6 +15,7 @@ operations management
 #### 1. Operations Strategies
 
 
+
 ##### 1.1 
 
 
