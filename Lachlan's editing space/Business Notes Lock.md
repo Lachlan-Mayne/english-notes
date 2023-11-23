@@ -126,7 +126,17 @@ Change can come from:
 - Economic conditions
 - Social expectations
 - Technology
-Change may require major alterations to the way operations are undertaken; people need to learn new skills, possibly lose j
+Change may require **major alterations to the way operations are undertaken**; people need to learn new skills, possibly lose jobs...
+
+Resistance is either **financial** or **emotional/psychological**.
+Financial costs:
+- Purchasing new equipment
+- Redundancy payments
+- Retraining
+- Reorganising plant layout
+Emotional/psychological:
+- Inertia
+
 
 
 # Glossary:

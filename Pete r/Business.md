@@ -402,4 +402,5 @@ Change can arise from changes in:
 
 **Change can require major alterations resulting in people needing to learn new skills and/or job losses and job prospects can alter**
 
-Resistance to change can be clas
+Resistance to change can be classifies as either financial or emotional/psychological
+- Financial:
