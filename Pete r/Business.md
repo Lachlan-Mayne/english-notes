@@ -417,4 +417,4 @@ The main costs associated with change are-
 - Retraining
 - Redundancy
 - Re-organising facility layout
-- Transpo
+- Transportation costs
