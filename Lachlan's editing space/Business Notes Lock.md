@@ -119,6 +119,9 @@ Inspections carried out to make sure the process is meeting standards, managemen
 Measuring against standards at many levels of quality. 
 - Quality Improvement
 
+## Overcoming resistance to change - financial costs, purchasing new equipment, redundancy payments, retraining, reorganising plant layout, inertia
+
+
 
 # Glossary:
 
