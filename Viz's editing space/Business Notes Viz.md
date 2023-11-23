@@ -484,4 +484,5 @@ Research and development (R&D)
 - innovative companies spend time and money on R&D
 - R&D helps businesses to create leading edge technologies, and to create innovative products and solutions. 
 - government encourages R&D, and may offer taxation incentives and grants. These incentives and grants assist businesses to invest and allocate resources into R&D
-- 
+- Central aspect of R&D is understanding what consumers want and assisting to create products that meed their needs
+
