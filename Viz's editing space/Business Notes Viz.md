@@ -444,5 +444,7 @@ Quality management at Qantas.
 
 The truck repair business can use quality control and quality assurance. The business could benefit form using quality control through consistent inspections into the processes they use when repairing vehicles. This means that the business can keep the quality consistent for all their repairs, especially if the inspections can remove defects in the process. The truck repair business could also consider the use of quality assurance, this can be achieved through comparing their results from their services to the national standards for vehicle repair. They could also investigate their competitors to gain insight into what similar companies output and try and aim to improve their own services. This way, the business could gain a competitive advantage thus potentially increasing their market share. 
 
-
-
+Global factors, - global sourcing, economies of scale, scanning and learning, research and development. 
+- all business will need to consider global factors and the operation strategies will also be affected. 
+- Global operations create opportunity for cost savings
+	- globally sourcing in
