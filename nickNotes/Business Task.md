@@ -22,7 +22,10 @@ Qantas has used many forms of established technology, including the addition of 
 
 Corporate Social Responsibility in the Qantas group is highly valued by the company and ensures that the company has its priorities on doing whats ethically right for the environment. Qantas' Sustainability framework is "aligned to our strategic priorities and focuses on three key principles - valuing our planet, enabling our people and connecting customers and communities - to support our vision of driving sustainability to protect the future of travel." (Qantas, Acting Sustainably). In alignment with this Qantas have provided a sustainability report for the year to document progress made towards their "environmental, social and governance targets"(Qantas, Acting Sustainably). They were the second airline to make a goal of net zero by 2050, and they want to commit to sustainability in the future. 
 
-An example of this being the biofuel that they are using in their aircrafts; this example of leading edge technology greatly follows their Corporate Social Responsibility. 
+An example of this being the biofuel that they are using in their aircrafts; this example of leading edge technology greatly follows their Corporate Social Responsibility. Some of their many other initiatives include -10% sustainable aviation fuel (SAF) in fuel mix by 2030,
+- Average of 1.5% fuel efficiency improvements to 2030[*](https://www.qantas.com/au/en/qantas-group/sustainability/our-planet.html#efficiency-disclaimer),
+- Zero single-use plastics by 2027[^](https://www.qantas.com/au/en/qantas-group/sustainability/our-planet.html#plastics-disclaimer), and
+- Zero general waste to landfill by 203
 
 
 https://www.qantasnewsroom.com.au/media-releases/qantas-turns-on-the-cricket-this-summer-at-30000ft-using-wi-fi/
