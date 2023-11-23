@@ -16,7 +16,7 @@ operations management
 
 
 
-##### 1.1 
+##### 1.1 Technology
 
 
 
