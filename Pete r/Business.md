@@ -412,3 +412,6 @@ Resistance to change can be classifies as either financial or emotional/psycholo
 	- Inertia
 
 ## Overcoming financial resistance
+The main costs associated with change are-
+- Purchasing new equipment
+- Retraining
