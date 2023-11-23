@@ -426,4 +426,7 @@ The main costs associated with change are-
 ## Strategies to overcome resistance:
 - Successfully managing change is important because change is constant and business processes are always being refined and adapted over time
 - Change must be planned and managers must be prepared
-- 
+
+## Change Management:
+1. Unfreeze: Prepare the business for change
+2. Change
