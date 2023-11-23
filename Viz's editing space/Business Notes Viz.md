@@ -452,4 +452,20 @@ Global factors, - global sourcing, economies of scale, scanning and learning, re
 - they need to acknowledge that global factors could either benefit or hinder their business operations. 
 
 Global sourcing
-- Businesses purchasing suppliers or seri
+- Businesses purchasing suppliers or services without being constrained by location. 
+	- Most non-core business activities can be outsourced  
+	- time zones can be factored in to make business processes being more efficient because global time zones can help. 
+- benefits
+	- cost advantages
+	- access to new technology
+	- expertise and knowledge
+	- new resources
+	- longer hours of working
+- challenges
+	- possible needs to relocate
+	- increased cost of logistics
+	- storage and distribution centres 
+	- different nation standards/regulations
+	- increased risk of fluctuations in foreign currency/exchange rates
+	- language and cultural variations
+- 
