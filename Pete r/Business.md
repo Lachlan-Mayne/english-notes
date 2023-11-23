@@ -404,3 +404,10 @@ Change can arise from changes in:
 
 Resistance to change can be classifies as either financial or emotional/psychological
 - Financial:
+	- Purchasing new equipment
+	- Redundancy payments
+	- Retraining
+	- Reorganising plant layout
+- Emotional/psychological
+	- Inertia
+
