@@ -8,15 +8,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "826c04c2b19226ad",
+            "id": "964e6e3949828492",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nickNotes/Business Task.md",
+                "file": "Viz's editing space/Business Notes Viz.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "e0e6fb34900ef2a8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -93,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nickNotes/Business Task.md",
+                "file": "Viz's editing space/Business Notes Viz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nickNotes/Business Task.md",
+                "file": "Viz's editing space/Business Notes Viz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nickNotes/Business Task.md"
+                "file": "Viz's editing space/Business Notes Viz.md"
               }
             }
           },
@@ -173,47 +181,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "826c04c2b19226ad",
+  "active": "964e6e3949828492",
   "lastOpenFiles": [
-    "nickNotes/Boutta Business.md",
     "nickNotes/Business Task.md",
-    "nickNotes/Chem Task.md",
-    "nickNotes/English 'The Crucible' notes.md",
-    "nickNotes/English Essay.md",
-    "nickNotes/English Reflection.md",
-    "Jonah/English/Reflection.md",
-    "conflict-files-obsidian-git.md",
-    "Lachlan's editing space/DailyNotes/Nov 22, 2023.md",
     "Viz's editing space/Crucible Viz.md",
-    "Lachlan's editing space/Maths Ultimate.md",
-    "Lachlan's editing space/English Notes Lachlan.md",
-    "Lachlan's editing space/chemistry.md",
-    "Lachlan's editing space/Business Notes Lock.md",
-    "Viz's editing space/Viz Misc. Notes.md",
-    "Viz's editing space/Science plan.md",
-    "Viz's editing space/file.md",
+    "Lachlan's editing space/DailyNotes/Nov 22, 2023.md",
+    "Jonah/English/Paragraph 1.md",
     "Viz's editing space/Business Notes Viz.md",
     "Viz's editing space/Business Assignment Viz.md",
-    "pete r/Business.md",
-    "nickNotes/Software.md",
-    "Jonah/English/Paragraph 1.md",
+    "conflict-files-obsidian-git.md",
+    "nickNotes/Chem Task.md",
     "Garden landing page.md",
     "Lachlan's editing space/images/Screenshot 2023-11-17 at 2.57.43 pm.png",
     "Jonah/English/Developing an Argument That Answers the Question.md",
     "Lachlan's editing space/DailyNotes/Nov 17, 2023.md",
+    "Viz's editing space/Viz Misc. Notes.md",
+    "Viz's editing space/file.md",
+    "Viz's editing space/Science plan.md",
     "Lachlan's editing space/images/Pasted image 20231116112304.png",
     "reak/obsidian-notes-2024",
     "reak",
+    "nickNotes/English Essay.md",
     "Lachlan's editing space/images/Screenshot 2023-11-14 at 3.35.43 pm.png",
     "Lachlan's editing space/images/Screenshot 2023-11-10 at 12.24.27 pm.png",
     "Lachlan's editing space/images/Pasted image 20231112132808.png",
     "Lachlan's editing space/images/Pasted image 20231109204849.png",
     "Jonah/English/What to Put in the Reflection.md",
+    "Jonah/English/Untitled.md",
+    "Lachlan's editing space/DailyNotes/Nov 16, 2023.md",
+    "Jonah/Test.md",
+    "Jonah/English/Reflection.md",
+    "Jonah/What to Put in the Reflection.md",
     "Jonah/English",
+    "Jonah/Untitled.md",
+    "Lachlan's editing space/DailyNotes/Nov 15, 2023.md",
+    "Jonah/file.md",
     "Jonah",
     "Lachlan's editing space/images/Screenshot 2023-11-14 at 4.08.12 pm.png",
     "Lachlan's editing space/images/Screenshot 2023-11-14 at 3.33.49 pm.png",
     "Lachlan's editing space/images/Screenshot 2023-11-14 at 3.28.40 pm.png",
+    "Lachlan's editing space/DailyNotes/Nov 14, 2023.md",
+    "Untitled.md",
     "WeeklySummaries",
     "Untitled 3.canvas",
     "Pete r/images/Screen Shot 2023-11-10 at 12.39.45 pm.png",
