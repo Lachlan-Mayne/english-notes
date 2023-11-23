@@ -120,7 +120,7 @@ Measuring against standards at many levels of quality.
 - Quality Improvement
 
 ## Overcoming resistance to change - financial costs, purchasing new equipment, redundancy payments, retraining, reorganising plant layout, inertia
-
+Change is a key influence on management ops, 
 
 
 # Glossary:
