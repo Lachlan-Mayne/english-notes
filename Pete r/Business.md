@@ -415,3 +415,4 @@ Resistance to change can be classifies as either financial or emotional/psycholo
 The main costs associated with change are-
 - Purchasing new equipment
 - Retraining
+- Redundancy
