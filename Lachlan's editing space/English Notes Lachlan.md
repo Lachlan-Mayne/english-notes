@@ -341,4 +341,4 @@ Example paragraph:
 What anomalies and paradoxes are there in the Crucible?
 T: Paradoxes are an effective method of an author communicating a message with their audience. 
 E: Within storytelling, an author writes a text to convey a meaning towards the audience, often a collective human experience. 
-E: Within the crucible, Arthur Miller writes about a paradoxical historical event, the Salem witch trials. Within a Puritan (christianity-aimed religion) village, the Devil is a major scare to the citizens. The paradox within the Tri
+E: Within the crucible, Arthur Miller writes about a paradoxical historical event, the Salem witch trials. Within a Puritan (christianity-aimed religion) village, the Devil is a major scare to the citizens. The paradox within the Trials that Arthur explores is one around 
