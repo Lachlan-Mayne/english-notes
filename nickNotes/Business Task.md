@@ -2,7 +2,7 @@
 
 #### Executive Summary:
 
-
+This report will explain the operations management at Qantas with reference to their relevant operations strategies and 
 
 #### 1. Operations Strategies
 
