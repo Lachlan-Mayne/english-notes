@@ -332,4 +332,7 @@ Power: The ability to influence the abilities/acts of others//the capacity to ac
 Using the TEEL structure:
 Well structured paragraphs are important because if the information is well organised it is easier to read.
 The TEEL strategy is very helpful for knowing what should be included in a paragraph:
-- 
+- Topic sentence (contains the main idea is usually first in the paragraph)
+- Explain
+- Evidence and example (use references)
+- Link (refer back or sum up main idea) - optional
