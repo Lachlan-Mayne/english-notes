@@ -39,7 +39,9 @@ The optimal conditions for ammonia synthesis via the Haber process requires pres
 
 Le Chateliers Principle states that a system at dynamic equilibrium will change to partially oppose a disturbance. When heat is added or removed from a dynamic equilibrium reaction the forward or reverse reaction will be favoured according to Le Chateliers Principle. The Haber process is an exothermic reaction, this means the forward reaction releases heat. If the 
 
-Iron b
+Iron based catalyst
+High pressure and high temp for a faster rate of reaction
+
 
 Bibliography
 
