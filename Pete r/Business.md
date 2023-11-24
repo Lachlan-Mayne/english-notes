@@ -78,16 +78,18 @@ The network of suppliers a business has chosen on the basis of lowest overall co
 Sourcing is an operations strategy that requires finding the suppliers needed so that production processes can be smooth flowing.  
 
 The global web strategy is one in which the business aims to minimise cost across the range of its suppliers
-  
 
-|**Globalisation in Australian businesses**||
+**Globalisation in Australian businesses**
 
-| :-: | :- |
 
-|**Pros**|**Cons**|
+**Pros**
 
-|<p>- Access to larger markets</p><p>- Newer markets</p><p>- Newer resources</p>|<p>- Job loss to countries with lower pay</p><p></p>|
+Access to larger markets
+Newer markets
+Newer resources
 
+**Cons**
+Job loss to countries with lower pay
   
 
 ## **Quality expectations:**
