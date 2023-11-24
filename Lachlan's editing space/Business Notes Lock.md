@@ -150,7 +150,7 @@ Refers to businesses purchasing supplies or services without being constrained b
 
 | Advantages | Disadvantages |
 | --- | --- |
-| - Cost advantages<br/> - Access to new technology<br/> - Expertise and knowledge<br/> - Labour specialisations/skills<br/> - New resources<br/> - Longer hours of working | Possible need to relocate - Increased cost of logistics - Storage and distribution issues - Different national standards/regulations - Increased risk of fluctuations in foreign currency/exchange rates - Language and cultural variations |
+| - Cost advantages<br/> - Access to new technology<br/> - Expertise and knowledge<br/> - Labour specialisations/skills<br/> - New resources<br/> - Longer hours of working | Possible need to relocate<br/> - Increased cost of logistics<br/> - Storage and distribution issues<br/> - Different national standards/regulations<br/> - Increased risk of fluctuations in foreign currency/exchange rates<br/> - Language and cultural variations |
 
 
 # Glossary:
