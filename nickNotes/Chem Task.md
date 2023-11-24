@@ -37,7 +37,7 @@ N2+3H2 ⇌ 2NH3
 
 The optimal conditions for ammonia synthesis via the Haber process requires pressures around 150–200 atm and temperatures around 450 °C.
 
-When heat is added or removed from a reaction the The Haber process is an exothermic reaction, this means the forward reaction releases heat. 
+When heat is added or removed from a dynamic equilibrium reaction the forward or reverse reaction can be favoured and The Haber process is an exothermic reaction, this means the forward reaction releases heat. 
 
 Bibliography
 
