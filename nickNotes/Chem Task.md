@@ -31,7 +31,7 @@ Ammonia is also produced commercially via the Haber process
 	- pesticides
 	- dyes
 
-
+pressures around 150–200 atm and temperatures around 500 °C
 
 Bibliography
 
