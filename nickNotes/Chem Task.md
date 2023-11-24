@@ -41,6 +41,7 @@ Le Chateliers Principle states that a system at dynamic equilibrium will change 
 
 Iron based catalyst
 High pressure and high temp for a faster rate of reaction
+molar ratio of 1:3 to yield most ammonia in the process
 
 
 Bibliography
