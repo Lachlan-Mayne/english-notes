@@ -147,13 +147,12 @@ Global factors:
 3. Operations management that has been well set up, will allow **businesses to not just respond but be successful in the ever-changing international** business environment
 ### Global sourcing:
 Refers to businesses purchasing supplies or services without being constrained by location. Global sourcing ensures that the outsourcing decision is made with consideration of the global market.
-| Advantages | Disadvantages |
-| ------ | --- |
-| Cost advantages<br/> - Access to new technology<br/> - Expertise and knowledge<br/> - Labour specialisations/skills<br/> - New resources Longer hours of working | Possible need to relocate - Increased cost of logistics - Storage and distribution issues - Different national standards/regulations - Increased risk of fluctuations in foreign currency/exchange rates - Language and cultural variations |
 
-| table                             |     |
-| --------------------------------- | --- |
-| - item1<br/> - item2<br/> - item3 |     |
+| Advantages | Disadvantages |
+| --- | --- |
+| - Cost advantages<br/> - Access to new technology<br/> - Expertise and knowledge<br/> - Labour specialisations/skills<br/> - New resources<br/> - Longer hours of working | Possible need to relocate - Increased cost of logistics - Storage and distribution issues - Different national standards/regulations - Increased risk of fluctuations in foreign currency/exchange rates - Language and cultural variations |
+
+
 # Glossary:
 
 Quality: How well designed, made and functional goods are, and the degree of competence 
