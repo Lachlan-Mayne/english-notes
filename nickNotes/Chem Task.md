@@ -37,7 +37,7 @@ N2+3H2 ⇌ 2NH3
 
 The optimal conditions for ammonia synthesis via the Haber process requires pressures around 150–200 atm and temperatures around 450 °C.
 
-The Haber process is an exothe
+The Haber process is an exothermic reaction, this means that at the start of the equation when the forward reaction is started 
 
 Bibliography
 
