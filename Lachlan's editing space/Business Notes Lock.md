@@ -157,7 +157,9 @@ Global factors at Qantas:
 | **Factor** | **Looks like at Qantas** |
 | -- | -- |
 |Global sourcing|e.g. Asian cabin crews and pilots from NZ have been employed for some routes to take advantage of lower costs|
-|Economies of scale||
+|Economies of scale|One world alliance|
+|Scanning & Learning|Stealing Qatar airways blueprints|
+|Research & Development|Scientists developing biofuel|
 # Glossary:
 
 Quality: How well designed, made and functional goods are, and the degree of competence 
