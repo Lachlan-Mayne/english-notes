@@ -16,7 +16,7 @@ Qantas has used many forms of established technology throughout their time that 
 
 ##### 1.2 Supply Chain Management
 
-Qantas uses their supply chain management to differentiate from their competitors by taking it very seriously and being very transparent about their goals and values. Qantas uses their "Supply Chain Assurance" program which states that "Qantas takes a proactive approach to managing risks in our supply chain. We have established systems and processes to ensure our suppliers (or the partners we work with) prioritise safety and sustainability in the same way we do."(Qantas, Our Governance). This program makes sure that all of Qantas' suppliers comply with their regulations and harbour the same ethical values as they do. They "support over 3,100 suppliers from all around Australia"(Qantas, Our Community) and make sure these suppliers comply with their regulations. 
+Qantas uses their supply chain management to differentiate from their competitors by taking it very seriously and being very transparent about their goals and values. Qantas uses their "Supply Chain Assurance" program which states that "Qantas takes a proactive approach to managing risks in our supply chain. We have established systems and processes to ensure our suppliers (or the partners we work with) prioritise safety and sustainability in the same way we do."(Qantas, Our Governance). This program makes sure that all of Qantas' suppliers comply with their regulations and harbour the same ethical values as they do. They "support over 3,100 suppliers from all around Australia"(Qantas, Our Community) and make sure these suppliers comply with their regulations. Qantas has a plethora of different regulations 
 
 #### 2. Outsourcing
 
