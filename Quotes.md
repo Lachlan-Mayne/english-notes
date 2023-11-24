@@ -33,7 +33,7 @@ I danced for the Devil; I saw him; I wrote in his book; I go back to Jesus; I ki
 |Act 1, pg 15 (physical copy)|“They believed, in short, that they held in their steady hands the candle that would light the world”|Allegory|Narrator (?)|HUAC, witch trials|Connects in saying that capitalists believe they’re doing good|Ties in with the HUAC - covers how the puritans believe they are objectively correct|
 |Act 1, pg37 (physical copy)|“We cannot look to superstition in this. The devil is precise”|Irony|Mr Hale||||
 |Act 1, pg48 (physical copy)|"The devil can never overcome a minister. You know that, do you not?"|Irony//foreshadowing//dramatic irony|Mr hale to Tituba||Power/mentality//tells the audience what's gonna happen without spoiling the play|Shows Mr Hales belief in his own power, somewhat ironic, as the Devil can only be defeated by God|
-||“Because it is my name! Because I cannot have another in my life! Because I lie and sign myself to lies! Because I am not worth the dust on the feet of them that hang! How may I live without my name? I have given you my soul; leave me my name!”||||||
+||“Because it is my name! Because I cannot have another in my life! Because I lie and sign myself to lies! Because I am not worth the dust on the feet of them that hang! How may I live without my name? I have given you my soul; leave me my name!”|repetition (because)|John Proctor to (someone)||||
 ||||||||
 ||||||||
 ||||||||
