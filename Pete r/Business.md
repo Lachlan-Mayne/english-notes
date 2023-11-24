@@ -433,3 +433,4 @@ The main costs associated with change are-
 1. **Unfreeze:** Prepare the business for change
 2. **Change:** Communicate and implement the new procedures and behaviours
 3. **Refreeze:** Make the change last by managers offering positive reinforcement
+
