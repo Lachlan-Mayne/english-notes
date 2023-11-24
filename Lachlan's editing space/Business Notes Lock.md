@@ -141,6 +141,8 @@ Emotional/psychological:
 
 
 ## Global factors - global sourcing, economies of scale, scanning and learning, research and development
+Global factors:
+1. 
 
 # Glossary:
 
