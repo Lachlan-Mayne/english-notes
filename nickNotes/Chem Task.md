@@ -31,7 +31,7 @@ Ammonia is also produced commercially via the Haber process
 	- pesticides
 	- dyes
 
-The optimal conditions for ammonia synthesis via the Haber process requires pressures around 150–200 atm and temperatures around 500 °C
+The optimal conditions for ammonia synthesis via the Haber process requires pressures around 150–250 atm and temperatures around 450-500 °C
 
 N2+3H2 ⇌ 2NH3
 
