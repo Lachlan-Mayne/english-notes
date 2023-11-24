@@ -14,7 +14,9 @@ Qantas' use of operations strategies have been shown through their use of leadin
 
 Qantas has used many forms of established technology throughout their time that many airlines use to stay in the loop of technology that will give them the best chance at success. Established technology is good for staying equal with other airlines in terms of technological advancement so that an airline will be able to stay relevant with all of the changing technology around. An example of existing technology at Qantas is the use of wifi on aircrafts while flying, this has been around for a long time and Qantas wasn't the first to use it but they use it so as not to get overtaken by airline who do use it and for better customer satisfaction. Another example of existing technology is the ability to make hot food on the plane and eat it while flying. This is an example of when the existing technology is essential for the growth of the business, as being able to order food on the aircraft and eat it in the air means that flights would be able to go on for longer and the trips taken by the aircraft would become more efficient with less stopovers. There are still many ways Qantas can make innovations in the amount of food that they can store and the quality of the food but that isn't their main focus in their leading edge technology.
 
-##### 1.2 
+##### 1.2 Supply Chain Management
+
+
 
 #### 2. Outsourcing
 
