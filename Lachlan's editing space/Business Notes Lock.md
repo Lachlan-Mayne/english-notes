@@ -153,9 +153,10 @@ Refers to businesses purchasing supplies or services without being constrained b
 | - Cost advantages<br/> - Access to new technology<br/> - Expertise and knowledge<br/> - Labour specialisations/skills<br/> - New resources<br/> - Longer hours of working | Possible need to relocate<br/> - Increased cost of logistics<br/> - Storage and distribution issues<br/> - Different national standards/regulations<br/> - Increased risk of fluctuations in foreign currency/exchange rates<br/> - Language and cultural variations |
 
 Global factors at Qantas:
+
 | **Factor** | **Looks like at Qantas** |
 | -- | -- |
-|s|s|
+|Global sourcing|e.g. Asian cabin c|
 
 # Glossary:
 
