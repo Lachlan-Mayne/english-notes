@@ -37,7 +37,9 @@ N2+3H2 ⇌ 2NH3
 
 The optimal conditions for ammonia synthesis via the Haber process requires pressures around 150–200 atm and temperatures around 450 °C.
 
-Le Chateliers Principle states that When heat is added or removed from a dynamic equilibrium reaction the forward or reverse reaction will be favoured according to Le Chateliers Principle. The Haber process is an exothermic reaction, this means the forward reaction releases heat. 
+Le Chateliers Principle states that a system at dynamic equil
+
+When heat is added or removed from a dynamic equilibrium reaction the forward or reverse reaction will be favoured according to Le Chateliers Principle. The Haber process is an exothermic reaction, this means the forward reaction releases heat. 
 
 Bibliography
 
