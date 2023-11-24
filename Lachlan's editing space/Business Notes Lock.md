@@ -140,6 +140,8 @@ Emotional/psychological:
 
 
 
+## Global factors - global sourcing, economies of scale, scanning and learning, research and development
+
 # Glossary:
 
 Quality: How well designed, made and functional goods are, and the degree of competence 
