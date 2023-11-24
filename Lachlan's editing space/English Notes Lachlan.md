@@ -336,3 +336,7 @@ The TEEL strategy is very helpful for knowing what should be included in a parag
 - Explain
 - Evidence and example (use references)
 - Link (refer back or sum up main idea) - optional
+
+Example paragraph:
+What anomalies and paradoxes are there in the Crucible?
+T: Paradoxes are an effective method of an author communicating a message with their audience. Within *The Crucible*, 
