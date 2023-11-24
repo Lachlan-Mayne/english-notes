@@ -2,7 +2,7 @@
 
 #### Executive Summary:
 
-This report will explain the operations management at Qantas with reference to their relevant operations strategies and 
+This report will explain the operations management at Qantas with reference to their relevant operations strategies such as Technology and Supply chain management. It will asses the advantages and disadvantages of outsourcing 
 
 #### 1. Operations Strategies
 
