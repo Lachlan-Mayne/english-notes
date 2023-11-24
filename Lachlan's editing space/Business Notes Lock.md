@@ -5,7 +5,7 @@ tags:
   - operations
 dg-publish: true
 ---
-Operations management:
+# Operations management:
 
 - Responsible for acquiring the inputs and devising the best production methods so that the value adding occurs 
 - The strategic role of operations management in business is to play a part in ensuring that the goals of the organisation are met.   
@@ -151,6 +151,7 @@ Refers to businesses purchasing supplies or services without being constrained b
 | Advantages | Disadvantages |
 | --- | --- |
 | - Cost advantages<br/> - Access to new technology<br/> - Expertise and knowledge<br/> - Labour specialisations/skills<br/> - New resources<br/> - Longer hours of working | Possible need to relocate<br/> - Increased cost of logistics<br/> - Storage and distribution issues<br/> - Different national standards/regulations<br/> - Increased risk of fluctuations in foreign currency/exchange rates<br/> - Language and cultural variations |
+
 
 
 # Glossary:
