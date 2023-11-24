@@ -160,6 +160,7 @@ Global factors at Qantas:
 |Economies of scale|One world alliance|
 |Scanning & Learning|Stealing Qatar airways blueprints|
 |Research & Development|Scientists developing biofuel|
+
 # Glossary:
 
 Quality: How well designed, made and functional goods are, and the degree of competence 
