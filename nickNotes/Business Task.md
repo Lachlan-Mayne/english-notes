@@ -6,7 +6,7 @@ This report will explain the operations management at Qantas with reference to t
 
 #### 1. Operations Strategies
 
-
+Through their effective use of operations strategies Qantas
 
 ##### 1.1 Technology
 
