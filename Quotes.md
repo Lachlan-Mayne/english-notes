@@ -43,7 +43,7 @@ I danced for the Devil; I saw him; I wrote in his book; I go back to Jesus; I ki
 
   
   
-  
+
 
 |**McCarthyism**|**The Crucible**|
 | :- | :- |
