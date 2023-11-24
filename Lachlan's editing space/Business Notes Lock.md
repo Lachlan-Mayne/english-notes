@@ -146,7 +146,10 @@ Global factors:
 2. Global operations can offer **cost-savings for operations managers** when they consider the most suitable sourcing options and advantages of locating their operations around the world.
 3. Operations management that has been well set up, will allow **businesses to not just respond but be successful in the ever-changing international** business environment
 ### Global sourcing:
-Refers to businesses purchasing supp
+Refers to businesses purchasing supplies or services without being constrained by location. Global sourcing ensures that the outsourcing decision is made with consideration of the global market.
+|Advantages|Disadvantages|
+|---|---|
+|||
 # Glossary:
 
 Quality: How well designed, made and functional goods are, and the degree of competence 
