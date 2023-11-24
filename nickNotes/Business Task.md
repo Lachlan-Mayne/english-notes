@@ -20,7 +20,7 @@ Qantas uses their supply chain management to differentiate from their competitor
 
 #### 2. Outsourcing
 
-Outsourcing is the act of agreeing to make another third party company responsible for a part of your supply chain. There are advantages and disadvantages of using outsourcing in a business and most of the time it is a way to cut costs or utilise a certain skillset that you require. The advantages of outsourcing
+Outsourcing is the act of agreeing to make another third party company responsible for a part of your supply chain. There are advantages and disadvantages of using outsourcing in a business and most of the time it is a way to cut costs or utilise a certain skillset that you require. Some of the main advantages of outsourcing is the need for certain skillsets that the business might not already possess or is a 
 
 #### 3. Corporate Social Responsibility
 
