@@ -149,7 +149,7 @@ Global factors:
 Refers to businesses purchasing supplies or services without being constrained by location. Global sourcing ensures that the outsourcing decision is made with consideration of the global market.
 |Advantages|Disadvantages|
 |---|---|
-|Cost advantages Access to new technology Expertise and knowledge Labour specialisations/skills New resources Longer hours of working|Possible need to relocate - Increased cost of logistics - Sto|
+|- Cost advantages<br/> - Access to new technology<br/> - Expertise and knowledge<br/> Labour specialisations/skills New resources Longer hours of working|Possible need to relocate - Increased cost of logistics - Storage and distribution issues - Different national standards/regulations - Increased risk of fluctuations in foreign currency/exchange rates - Language and cultural variations|
 # Glossary:
 
 Quality: How well designed, made and functional goods are, and the degree of competence 
