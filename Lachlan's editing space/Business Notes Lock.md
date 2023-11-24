@@ -142,7 +142,9 @@ Emotional/psychological:
 
 ## Global factors - global sourcing, economies of scale, scanning and learning, research and development
 Global factors:
-1. 
+1. Pretty much all businesses are influenced by global factors, which in turn will impact their operations
+2. Global operations can offer cost-savings for operations managers when they consider the most suitable sourcing options and advantages of locating their operations around the world.
+3. Operations management that has been well set up, will allow businesses to not just respond but be successful in the ever-changing i
 
 # Glossary:
 
