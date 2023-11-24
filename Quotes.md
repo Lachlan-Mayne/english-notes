@@ -32,7 +32,7 @@ I danced for the Devil; I saw him; I wrote in his book; I go back to Jesus; I ki
 ||“He have his goodness now”||Goody proctor (?)||||
 |Act 1, pg 15 (physical copy)|“They believed, in short, that they held in their steady hands the candle that would light the world”|Allegory|Narrator (?)|HUAC, witch trials|Connects in saying that capitalists believe they’re doing good|Ties in with the HUAC - covers how the puritans believe they are objectively correct|
 |Act 1, pg37 (physical copy)|“We cannot look to superstition in this. The devil is precise”|Irony|Mr Hale||||
-|Act 1, pg48 (physical copy)|"The devil can never overcome a minister. You know that, do you not?"|Irony|Mr hale to Tituba|||Shows Mr Hales belief in his own power, somewh|
+|Act 1, pg48 (physical copy)|"The devil can never overcome a minister. You know that, do you not?"|Irony|Mr hale to Tituba||Power/mentality|Shows Mr Hales belief in his own power, somewhat ironic, as the Devil can only be defeated by God|
 ||||||||
 ||||||||
 ||||||||
