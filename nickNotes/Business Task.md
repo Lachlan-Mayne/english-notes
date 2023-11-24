@@ -16,7 +16,7 @@ Qantas has used many forms of established technology throughout their time that 
 
 ##### 1.2 Supply Chain Management
 
-Qantas uses their supply chain management to differentiate from their competitors by t
+Qantas uses their supply chain management to differentiate from their competitors by taking it very seriously and being very transparent about their goals and values. 
 
 #### 2. Outsourcing
 
