@@ -248,7 +248,7 @@ Language features:
 
 # Resources:
 
-# [Court Records and other useful stuff](https://salem.lib.virginia.edu/home.html)
+[Court Records and other useful stuff](https://salem.lib.virginia.edu/home.html)
 
 [“Common Module Cheat Sheet - Advanced”](https://hsc.one/courses/english-advanced-hsc/assets/common-mod-cheat-sheet.pdf)
 
@@ -327,3 +327,9 @@ Lynching: public killing of an individual who has not received any due process
 
 Power: The ability to influence the abilities/acts of others//the capacity to act in a certain way
 
+
+# Essay writing
+Using the TEEL structure:
+Well structured paragraphs are important because if the information is well organised it is easier to read.
+The TEEL strategy is very helpful for knowing what should be included in a paragraph:
+- 
