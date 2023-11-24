@@ -20,7 +20,7 @@ Qantas uses their supply chain management to differentiate from their competitor
 
 #### 2. Outsourcing
 
-
+Outsourcing is the 
 
 #### 3. Corporate Social Responsibility
 
