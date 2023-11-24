@@ -6,7 +6,7 @@ This report will explain the operations management at Qantas with reference to t
 
 #### 1. Operations Strategies
 
-Through their effective use of operations strategies Qantas
+Through their effective use of operations strategies, Qantas has shown that they are able to sustain a competitive advantage as a result. This is seen through multiple examples of leading edge and ex
 
 ##### 1.1 Technology
 
