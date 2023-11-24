@@ -274,3 +274,9 @@ Developing an Argument That Answers the Question
 5. Try to encapsulate/summarise into one sentence. 
 6. that becomes the topic sentence
 
+- refer to the essay as cohesive. 
+	- intro - basic answer to the question, big argument, human experience. 
+	- topic sentences - relates back to question and argument using the specific issue.
+		- repeat 3-4 times
+		- evidence, elaboration which all links back to topic sentence. 
+		- avoid story telling and description words (shows, explores, displays, etc.)
