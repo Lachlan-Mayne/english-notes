@@ -329,7 +329,7 @@ Power: The ability to influence the abilities/acts of others//the capacity to ac
 
 
 # Essay writing
-Using the TEEL structure:
+## Using the TEEL structure:
 Well structured paragraphs are important because if the information is well organised it is easier to read.
 The TEEL strategy is very helpful for knowing what should be included in a paragraph:
 - Topic sentence (contains the main idea is usually first in the paragraph)
