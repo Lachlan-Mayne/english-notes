@@ -57,8 +57,10 @@ History of the process (food shortages)
 - collision theory favours higher temp for higher kinetic energy therefore they are contradictory
 - overcome activation energy barrier
 - more kE --> overcome EA
-- 400-500 degrees celsius 
-- 
+- 400-500 degrees celsius is a midpoint for collision theory and LCP
+- products = 1:3 molar ratio
+- a reactant in excess will push forward reaction
+- decrease product 
 
 Websites used:
 
