@@ -48,6 +48,8 @@ History of the process (food shortages)
 - P inversely proportionate to Volume
 - Pressure/volume - gases
 - Up pressure/ Down volume - favours forward direction increase yeild of ammonia
+- 4 mols or right 2 mols on left
+- energy intensive (costly, dangerous), not feesable on industrial level
 - 
 
 Websites used:
