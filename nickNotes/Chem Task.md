@@ -60,7 +60,9 @@ History of the process (food shortages)
 - 400-500 degrees celsius is a midpoint for collision theory and LCP
 - products = 1:3 molar ratio
 - a reactant in excess will push forward reaction
-- decrease product 
+- decrease product push forward reaction 
+- isolate the diatomic nitrogen in the air (78%) through liquification
+- get
 
 Websites used:
 
