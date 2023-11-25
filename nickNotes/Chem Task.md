@@ -61,8 +61,11 @@ History of the process (food shortages)
 - products = 1:3 molar ratio
 - a reactant in excess will push forward reaction
 - decrease product push forward reaction 
-- isolate the diatomic nitrogen in the air (78%) through liquification
-- get
+- isolate the diatomic nitrogen in the air (78%) through liquefaction
+- get hydrogen from methane 
+- dont do excess products
+- catalyst!! - Fe: d orbitals, empty/unparied to make lo
+- 
 
 Websites used:
 
