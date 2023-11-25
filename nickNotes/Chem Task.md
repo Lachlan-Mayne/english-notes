@@ -49,7 +49,9 @@ History of the process (food shortages)
 - Pressure/volume - gases
 - Up pressure/ Down volume - favours forward direction increase yeild of ammonia
 - 4 mols or right 2 mols on left
-- energy intensive (costly, dangerous), not feesable on industrial level
+- energy intensive (costly, dangerous), not feasible on industrial level
+- 200 kPa is the most optimal for feasible use
+- Exothermic in the forward di
 - 
 
 Websites used:
