@@ -43,7 +43,9 @@ The next condition for this process is pressure/volume changes. When pressure is
 
 The concentration of the process is also a very important factor to consider because, according to Le Chatelier's Principle, having an excess amount of reactants would favour the forward reaction therefore making more products. And the opposite is true when you add more products, then the backwards reaction would be favoured and you would end up with having more products. Because of the difficulty of getting N2 and H2 from their sources, Industrial Chemists still use a 1:3 molar ratio of nitrogen and hydrogen (talk about the ways to obtain these gases). This is also because, if the reaction were to contain more reactants, then the reaction would not completely react and waste excess hydrogen and nitrogen in the process. 
 
-Adding a catalyst to an equilibrium reaction is a way to increase the reaction rate. For the Haber Process, the catalyst that is mainly used is iron (Fe) to increase the reaction rate of nitrogen and hydrogen. Iron is used because it is very cheap and it works well in the Haber process. In Industrial Chemistry, the Haber Process is done on a very big scale so having a cheap catalyst that works well is very useful to perform on this scale. Another reason iron is favoured as a catalyst is that the process occurs at high temperatures and scales that iron is able to be used at. This may also be a reason for the lower temperature and pressure for 
+Adding a catalyst to an equilibrium reaction is a way to increase the reaction rate. For the Haber Process, the catalyst that is mainly used is iron (Fe) to increase the reaction rate of nitrogen and hydrogen. Iron is used because it is very cheap and it works well in the Haber process. In Industrial Chemistry, the Haber Process is done on a very big scale so having a cheap catalyst that works well is very useful to perform on this scale. Another reason iron is favoured as a catalyst is that the process occurs at high temperatures and scales that iron is able to be used at. 
+
+There are many reasons why the optimal conditions for the synthesis of ammonia 
 
 History of the process (food shortages)
 
