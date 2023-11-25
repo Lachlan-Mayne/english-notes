@@ -63,8 +63,8 @@ History of the process (food shortages)
 - decrease product push forward reaction 
 - isolate the diatomic nitrogen in the air (78%) through liquefaction
 - get hydrogen from methane 
-- dont do excess products
-- catalyst!! - Fe: d orbitals, empty/unparied to make lo
+- don't do excess products because they want to keep 
+- catalyst!! - Fe: d orbitals, empty/unpaired to make lots of bonds in the iron catalyst and rearrange bonds with the nitrogen and hydrogen
 - 
 
 Websites used:
