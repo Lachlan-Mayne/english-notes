@@ -54,7 +54,10 @@ History of the process (food shortages)
 - Exothermic in the forward direction
 - LCP: lower temp favours exothermic because it releases heat
 - collision theory -> particles to collide, sufficient energy
-- collision theory favours higher temp for higher kinetic energy
+- collision theory favours higher temp for higher kinetic energy therefore they are contradictory
+- overcome activation energy barrier
+- more kE --> overcome EA
+- 400-500 degrees celsius 
 - 
 
 Websites used:
