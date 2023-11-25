@@ -33,7 +33,7 @@ Ammonia is also produced commercially via the Haber process
 
 The equation for the Haber process:
 
-N2+3H2 ⇌ 2NH3
+N2(g)+3H2(g) ⇌ 2NH3(g)
 
 (Website name) states that the optimal conditions for ammonia synthesis via the Haber process requires pressures around 150–200 atm and temperatures around 450 °C. An iron based catalyst is used and the molar ratio for nitrogen and hydrogen is 1:3 respectively. 
 
@@ -41,7 +41,7 @@ Le Chateliers Principle states that a system at dynamic equilibrium will change 
 
 The next condition for this process is pressure/volume changes. When pressure is increased, volume is decreased as if you decrease the volume of a system then the air inside of it will become more and more compressed. Pressure change causes an initial change in concentration for the entire reaction because the particles are being compressed into a smaller system. Pressure increase causes an equilibrium reaction to favour the side which has less gaseous moles so as to oppose the initial increase in pressure. This also happens vice versa when the pressure is decreased and the reaction favours the side with more gaseous moles to increase the concentration and oppose the decrease in pressure. When pressure is increased in the Haber process equilibrium reaction, according to Le Chateliers Principle, the concentration of the entire system will be increased. This means the reaction will oppose the disturbance and favour the reaction that produces less gaseous moles, in this case being the ammonia with it having 2 moles of NH3 for 4 moles of N2 and H2 combined. This increase in pressure will cause the yield of ammonia to be much higher. While increasing pressure can be done for a much higher yield, the initial increase in concentration is also done for a higher reaction rate. Increasing the pressure of the system means the initial concentration of the entire system will be much higher. A change in concentration means there are more particles present in the system close together. This means that more particles have a chance of colliding with each other and progressing the reaction quicker. The reaction progresses quicker initially, but as time goes on the system will become less concentrated and the reaction will eventually reach equilibrium again. Because of the reaction rate increase and the yield increase, the optimal condition for pressure is 200 atm which is very high and would achieve both these things. 
 
-The concentration of the process is also a very important factor to consider because, according to Le Chatelier's Principle, having an excess amount of reactants would favour the forward reaction therefore making more products. And the opposite is true when you add more products, then the backwards reaction would be favoured and 
+The concentration of the process is also a very important factor to consider because, according to Le Chatelier's Principle, having an excess amount of reactants would favour the forward reaction therefore making more products. And the opposite is true when you add more products, then the backwards reaction would be favoured and you would end up with having more products. Because of the 
 
 History of the process (food shortages)
 
