@@ -52,7 +52,10 @@ History of the process (food shortages)
 - energy intensive (costly, dangerous), not feasible on industrial level
 - 200 kPa is the most optimal for feasible use
 - Exothermic in the forward direction
-- LCP: lower temp favours exothermic because 
+- LCP: lower temp favours exothermic because it releases heat
+- collision theory -> particles to collide, sufficient energy
+- collision theory favours higher temp for higher kinetic energy
+- 
 
 Websites used:
 
