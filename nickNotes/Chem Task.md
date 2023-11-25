@@ -45,7 +45,7 @@ The concentration of the process is also a very important factor to consider bec
 
 Adding a catalyst to an equilibrium reaction is a way to increase the reaction rate. For the Haber Process, the catalyst that is mainly used is iron (Fe) to increase the reaction rate of nitrogen and hydrogen. Iron is used because it is very cheap and it works well in the Haber process. In Industrial Chemistry, the Haber Process is done on a very big scale so having a cheap catalyst that works well is very useful to perform on this scale. Another reason iron is favoured as a catalyst is that the process occurs at high temperatures and scales that iron is able to be used at. 
 
-There are many reasons why the optimal conditions for the synthesis of ammonia 
+There are many reasons why the optimal conditions for the synthesis of ammonia are these values, but if they are vastly changed in any way, they may make the entire reaction inefficient as a result. These values have been experimented and used for a very long time and 
 
 History of the process (food shortages)
 
