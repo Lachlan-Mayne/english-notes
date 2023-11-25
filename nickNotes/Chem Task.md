@@ -45,7 +45,10 @@ The concentration of the process is also a very important factor to consider
 
 History of the process (food shortages)
 
-
+- P inversely proportionate to Volume
+- Pressure/volume - gases
+- Up pressure/ Down volume - favours forward direction increase yeild of ammonia
+- 
 
 Websites used:
 
