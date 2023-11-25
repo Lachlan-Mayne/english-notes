@@ -43,6 +43,10 @@ The next condition for this process is pressure/volume changes. When pressure is
 
 The concentration of the process is also a very important factor to consider
 
+History of the process (food shortages)
+
+
+
 Websites used:
 
 https://www.health.ny.gov/environmental/emergency/chemical_terrorism/ammonia_tech.htm#:~:text=In%20the%20environment%2C%20ammonia%20is,plants%2C%20animals%20and%20animal%20wastes.
