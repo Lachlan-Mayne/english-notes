@@ -11,6 +11,10 @@ dg-publish: true
 ### reflection paragraph:
 "The sun will move on, and I will simply watch." The widower in the country is a compelling 
 
+Hand in a 250-300 word reflection on one of the human experiences in your related text. Use the following
+questions to scaffold your reflection.
+1. What anomalies, inconsistencies and/or paradoxes are explored in your related text?
+2. How has this text invited you to see the world differently?
 ## Texts Definition:
 
 Texts are a vehicle through which we share experiences. Texts are shaped by experiences and they shape experiences. It’s through texts that we encounter and understand human experiences. This is, therefore, a study of the way texts share or represent experiences.
