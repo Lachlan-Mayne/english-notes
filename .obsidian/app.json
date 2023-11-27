@@ -1,4 +1,11 @@
 {
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "among/Lachlan's editing space/images"
+  "attachmentFolderPath": "among/Lachlan's editing space/images",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": true,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
