@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nickNotes/English Reflection.md",
+                "file": "nickNotes/English 'The Crucible' notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jonah/English/Reflection.md",
+                "file": "nickNotes/English 'The Crucible' notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jonah/English/Reflection.md",
+                "file": "nickNotes/English 'The Crucible' notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jonah/English/Reflection.md"
+                "file": "nickNotes/English 'The Crucible' notes.md"
               }
             }
           },
@@ -186,8 +185,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "769235d646a2ccc7",
+  "active": "52f06ae3acef6838",
   "lastOpenFiles": [
+    "nickNotes/English Essay.md",
     "nickNotes/English Reflection.md",
     "Jonah/English/Reflection.md",
     "nickNotes/Chem Task.md",
@@ -202,7 +202,6 @@
     "Quotes.md",
     "nickNotes/English 'The Crucible' notes.md",
     "Viz's editing space/Business Assignment Viz.md",
-    "nickNotes/English Essay.md",
     "conflict-files-obsidian-git.md",
     "Lachlan's editing space/DailyNotes/Nov 22, 2023.md",
     "Viz's editing space/Crucible Viz.md",
