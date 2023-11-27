@@ -9,7 +9,7 @@ dg-publish: true
 # Texts & Human experiences
 
 ### reflection paragraph:
-"The sun will move on, and I will simply watch. 
+"The sun will move on, and I will simply watch." 
 
 ## Texts Definition:
 
