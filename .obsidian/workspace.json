@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jonah/English/Reflection.md",
+                "file": "nickNotes/Chem Task.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jonah/English/Reflection.md",
+                "file": "nickNotes/Chem Task.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jonah/English/Reflection.md"
+                "file": "nickNotes/Chem Task.md"
               }
             }
           },
@@ -198,12 +198,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "769235d646a2ccc7",
+  "active": "2e1ca431cae23622",
   "lastOpenFiles": [
     "nickNotes/English Reflection.md",
+    "Jonah/English/Reflection.md",
     "nickNotes/English Essay.md",
     "nickNotes/Chem Task.md",
-    "Jonah/English/Reflection.md",
     "nickNotes/English 'The Crucible' notes.md",
     "Special syntax.md",
     "Lachlan's editing space/chemistry.md",
