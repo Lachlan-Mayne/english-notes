@@ -14,7 +14,7 @@ dg-publish: true
 
 The individual human experience of grief is explored throughout Les Murrays poem *Widower in the Country*. An anomaly is something that differs from the expected, for example a puppy being pink from a black breeding chain. Powerful literature explores a main anomaly through its media form, with the anomaly in the poem *Widower in the country* by Les Murray being the fact that the widower himself doesn't end up leaving his bed, he simply plans out his melancholy day. The title of the poem describes the context for the character Les writes about, with which he has a physical connection to the role. His father was a widower, so Les had first hand experience at seeing the impact losing someone so important had on his fathers life. 
 
-
+This text invites
 
 
 
