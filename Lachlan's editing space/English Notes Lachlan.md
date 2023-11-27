@@ -9,7 +9,8 @@ dg-publish: true
 # Texts & Human experiences
 
 ### reflection paragraph:
-"The sun will move on, and I will simply watch." The widower in the country is a compelling 
+"The sun will move on, and I will simply watch." The widower in the country is a poem about the human experience of grief that almost all of it 
+
 
 Hand in a 250-300 word reflection on one of the human experiences in your related text. Use the following
 questions to scaffold your reflection.
