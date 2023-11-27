@@ -12,7 +12,7 @@ dg-publish: true
 "The sun will move on, and I will simply watch." The widower in the country is a poem about the human experience of grief that almost all of its audience can relate to. As pretty much everyone in the world has experienced some form of grief,  
 
 
-An anomaly is something that differs from the expected, for example a puppy being pink from a black breeding chain. Powerful literature explores a main anomaly through its media form, with the anomaly in the poem *Widower in the country* by Les Murray being the fact that the widower himself doesn't end up leaving his bed, he simply plans out his melancholy day. 
+The human experience of grief is An anomaly is something that differs from the expected, for example a puppy being pink from a black breeding chain. Powerful literature explores a main anomaly through its media form, with the anomaly in the poem *Widower in the country* by Les Murray being the fact that the widower himself doesn't end up leaving his bed, he simply plans out his melancholy day. 
 
 
 
