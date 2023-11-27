@@ -17,6 +17,7 @@ The individual human experience of grief is explored throughout Les Murrays poem
 
 
 
+
 Hand in a 250-300 word reflection on one of the human experiences in your related text. Use the following
 questions to scaffold your reflection.
 1. What anomalies, inconsistencies and/or paradoxes are explored in your related text?
