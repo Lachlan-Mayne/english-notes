@@ -29,6 +29,9 @@ Ammonia is also produced commercially via the Haber process
 	- pesticides
 	- dyes
 
+![[Pasted image 20231128173619.png]]
+
+
 ### Description of the Haber Process and its importance
 
 The equation for the Haber process:
