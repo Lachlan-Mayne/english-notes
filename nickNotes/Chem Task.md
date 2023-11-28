@@ -45,11 +45,11 @@ Adding a catalyst to an equilibrium reaction is a way to increase the reaction r
 
 ![[Screen Shot 2023-11-28 at 11.02.10 am.png]]
 
-There are many reasons why the optimal conditions for the synthesis of ammonia are these values, but if they are vastly changed in any way, they may make the entire reaction inefficient as a result. The optimal conditions for the synthesis of am
+There are many reasons why the optimal conditions for the synthesis of ammonia are these values, but if they are vastly changed in any way, they may make the entire reaction inefficient as a result. The optimal conditions for the synthesis of ammonia is very energy intensive, costly and dangerous, so on an industrial level it is not feasible. 
+There are many reasons why the optimal conditions for the synthesis of ammonia are these values, but if they are vastly changed in any way, they may make the entire reaction inefficient as a result. The optimal conditions for the synthesis of ammonia is very energy intensive, costly and dangerous, so on an industrial level it is not feasible. 
 
 History of the process (food shortages)
 
-- energy intensive (costly, dangerous), not feasible on industrial level
 - 200 kPa is the most optimal for feasible use
 - Exothermic in the forward direction
 - LCP: lower temp favours exothermic because it releases heat
