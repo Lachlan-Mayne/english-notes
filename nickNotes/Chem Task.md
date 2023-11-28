@@ -45,13 +45,11 @@ Adding a catalyst to an equilibrium reaction is a way to increase the reaction r
 
 ![[Screen Shot 2023-11-28 at 11.02.10 am.png]]
 
-There are many reasons why the optimal conditions for the synthesis of ammonia are these values, but if they are vastly changed in any way, they may make the entire reaction inefficient as a result. The optimal conditions for the synthesis of ammonia is very energy intensive, costly and dangerous, so on an industrial level it is not feasible. 200 kPa is the most optimal for feasible use
+There are many reasons why the optimal conditions for the synthesis of ammonia are these values, but if they are vastly changed in any way, they may make the entire reaction inefficient as a result. The optimal conditions for the synthesis of ammonia is very energy intensive, costly and dangerous, so on an industrial level it is not feasible. 200 kPa is the most optimal for feasible use. Also noting that a lot of Le Chatelier's Principle 
 
 - 400-500 degrees celsius is a midpoint for collision theory and LCP
 - isolate the diatomic nitrogen in the air (78%) through liquefaction
 - get hydrogen from methane 
-- don't do excess products because they don't want to waste 
-- catalyst!! - Fe: d orbitals, empty/unpaired to make lots of bonds in the iron catalyst and rearrange bonds with the nitrogen and hydrogen speeding up the reaction process
 - talk about how some of Le Chatelier's Principle isn't feasible for industrial chemistry
 
 Websites used:
