@@ -232,5 +232,5 @@ This involves rewriting the equation, with an addition problem it involves addin
 
 # Vectors
 $\vec{ab}$ involves a length (magnitude), direction is the direction
-
+$\abs{\abs{\vec{ab}}}$
 ![[Screenshot 2023-11-28 at 2.32.59 pm.png]]
