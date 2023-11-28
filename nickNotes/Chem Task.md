@@ -47,9 +47,6 @@ Adding a catalyst to an equilibrium reaction is a way to increase the reaction r
 
 There are many reasons why the optimal conditions for the synthesis of ammonia are these values, but if they are vastly changed in any way, they may make the entire reaction inefficient as a result. The optimal conditions for the synthesis of ammonia is very energy intensive, costly and dangerous, so on an industrial level it is not feasible. 200 kPa is the most optimal for feasible use
 
-- LCP: lower temp favours exothermic because it releases heat
-- collision theory -> particles to collide, sufficient energy
-- collision theory favours higher temp for higher kinetic energy therefore they are contradictory
 - overcome activation energy barrier
 - more kE --> overcome EA
 - 400-500 degrees celsius is a midpoint for collision theory and LCP
