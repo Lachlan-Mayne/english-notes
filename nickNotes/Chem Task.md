@@ -67,6 +67,23 @@ Adding a catalyst to an equilibrium reaction is a way to increase the reaction r
 
 There are many reasons why the optimal conditions for the synthesis of ammonia are these values, but if they are vastly changed in any way, they may make the entire reaction inefficient as a result. The optimal conditions for the synthesis of ammonia is very energy intensive, costly and dangerous, so on an industrial level it is not feasible. 200 kPa is the most optimal for feasible use. Also noting that a lot of Le Chatelier's Principle is not feasible for industrial chemistry.
 
+Clark, J. (2020). _The Effect of a Catalyst on Rate of Reaction_. [online] Chemistry LibreTexts. Available at: https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Supplemental_Modules_and_Websites_(Inorganic_Chemistry)/Catalysis/The_Effect_of_a_Catalyst_on_Rate_of_Reaction [Accessed 28 Nov. 2023].
+
+clark, J. (2015). _Iron_. [online] Chemguide.co.uk. Available at: https://www.chemguide.co.uk/inorganic/transition/iron.html [Accessed 28 Nov. 2023].
+
+clark, jim (2013). _The Haber Process_. [online] Chemistry LibreTexts. Available at: https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Equilibria/Le_Chateliers_Principle/The_Haber_Process [Accessed 28 Nov. 2023].
+
+Lawson, P. and Lower, S. (2013). _The Collision Theory_. [online] Chemistry LibreTexts. Available at: https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/06%3A_Modeling_Reaction_Kinetics/6.01%3A_Collision_Theory/6.1.06%3A_The_Collision_Theory#:~:text=Collision%20theory%20states%20that%20for [Accessed 28 Nov. 2023].
+
+PubChem (2019). _Ammonia_. [online] Nih.gov. Available at: https://pubchem.ncbi.nlm.nih.gov/compound/ammonia [Accessed 28 Nov. 2023].
+
+Study Mind. (n.d.). _Conditions of the Haber Process (GCSE Chemistry)_. [online] Available at: https://studymind.co.uk/notes/conditions-of-the-haber-process/#:~:text=The%20Haber%20process%20is%20a [Accessed 28 Nov. 2023].
+
+US EPA (2019). _Aquatic Life Criteria - Ammonia | US EPA_. [online] US EPA. Available at: https://www.epa.gov/wqc/aquatic-life-criteria-ammonia [Accessed 28 Nov. 2023].
+
+www.health.ny.gov. (2004). _The Facts About Ammonia_. [online] Available at: https://www.health.ny.gov/environmental/emergency/chemical_terrorism/ammonia_tech.htm#:~:text=In%20the%20environment%2C%20ammonia%20is [Accessed 28 Nov. 2023].
+
+Ziemke, T. (2022). _The Haber Process_. [online] ChemTalk. Available at: https://chemistrytalk.org/haber-process/ [Accessed 28 Nov. 2023].
 
 Websites used:
 
