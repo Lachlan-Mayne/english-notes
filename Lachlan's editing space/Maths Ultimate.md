@@ -232,5 +232,6 @@ This involves rewriting the equation, with an addition problem it involves addin
 
 # Vectors
 $\vec{ab}$ involves a length (magnitude), direction is the direction
-$||\vec{ab}||$ 
+$||\vec{ab}||$ signifies the length which equals $\sqrt{a^2+b^2}$
+	$M=\sqrt{x_1^}$
 ![[Screenshot 2023-11-28 at 2.32.59 pm.png]]
