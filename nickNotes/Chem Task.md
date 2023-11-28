@@ -72,7 +72,7 @@ Websites used:
 
 https://www.health.ny.gov/environmental/emergency/chemical_terrorism/ammonia_tech.htm#:~:text=In%20the%20environment%2C%20ammonia%20is,plants%2C%20animals%20and%20animal%20wastes
 
-National Center for Biotechnology Information (2023). PubChem Compound Summary for CID 222, Ammonia. Retrieved November 28, 2023 from [https://pubchem.ncbi.nlm.nih.gov/compound/Ammonia](https://pubchem.ncbi.nlm.nih.gov/compound/Ammonia)
+https://pubchem.ncbi.nlm.nih.gov/compound/Ammonia
 
 https://www.epa.gov/wqc/aquatic-life-criteria-ammonia
 
