@@ -38,6 +38,7 @@ N2(g)+3H2(g) ⇌ 2NH3(g)
 
 
 The Haber Process is a very important process as it introduced an extremely efficient way of producing ammonia that is essential for our society. Every single year the Haber process produces 500 million tons of fertiliser that helps feed 40% of the world's population. The Haber Process is also extremely important in theoretical chemistry as it is a very good example used to explain Le Chateliers Principle and teach equilibrium reactions. 
+
 ### Description if the optimal conditions for the synthesis of ammonis through the Haber Process
 
 The optimal conditions for ammonia synthesis via the Haber process requires pressures around 150–200 atm and temperatures around 450 °C. An iron based catalyst is used and the molar ratio for nitrogen and hydrogen is 1:3 respectively. In Industrial Chemistry the optimal conditions are not able to be met because they are not feasible for the reaction, so the pressure that they use is 2 atm. 
@@ -57,6 +58,7 @@ Le Chateliers Principle states that a system at dynamic equilibrium will change 
 
 ![[Pasted image 20231128172440.png|607]]
 
+
 ### Explanation of the effect of changing Volume and/or  pressure on the Haber Process
 
 The next condition for this process is pressure/volume changes. Pressure and volume are inversely proportionate, so when pressure is increased, volume is decreased and if you decrease the volume of a system then the air inside of it will become more and more compressed. Pressure change causes an initial change in concentration for the entire reaction because the particles are being compressed into a smaller system. Pressure/volume change can only change the initial concentration if the reaction is gaseous. Pressure increase causes an equilibrium reaction to favour the side which has less gaseous moles so as to oppose the initial increase in pressure. This also happens vice versa when the pressure is decreased and the reaction favours the side with more gaseous moles to increase the concentration and oppose the decrease in pressure. When pressure is increased in the Haber process equilibrium reaction, according to Le Chateliers Principle, the concentration of the entire system will be increased. This means the reaction will oppose the disturbance and favour the reaction that produces less gaseous moles, in this case being the ammonia with it having 2 moles of NH3 for 4 moles of N2 and H2 combined. This increase in pressure will cause the yield of ammonia to be much higher. While increasing pressure can be done for a much higher yield, the initial increase in concentration is also done for a higher reaction rate. Increasing the pressure of the system means the initial concentration of the entire system will be much higher. A change in concentration means there are more particles present in the system close together. This means that more particles have a chance of colliding with each other and progressing the reaction quicker. The reaction progresses quicker initially, but as time goes on the system will become less concentrated and the reaction will eventually reach equilibrium again. Because of the reaction rate increase and the yield increase, the optimal condition for pressure is 200 atm which is very high and would achieve both these things. 
@@ -64,11 +66,13 @@ The next condition for this process is pressure/volume changes. Pressure and vol
 
 ![[Pasted image 20231128172507.png|607]]
 
+
 ### Explanation of the effect of changing the concentration on the Haber Process
 
 The concentration of the process is also a very important factor to consider because, according to Le Chatelier's Principle, having an excess amount of reactants would favour the forward reaction therefore making more products. And the opposite is true when you add more products, then the backwards reaction would be favoured and you would end up with having more products. Having an excess of either products or reactants would push the reaction in the opposite direction. Because of the difficulty of getting N2 and H2 from their sources, Industrial Chemists still use a 1:3 molar ratio for the nitrogen and hydrogen reactants (talk about the ways to obtain these gases). This is also because, if the reaction were to contain more reactants, then the reaction would not completely react and waste excess hydrogen and nitrogen in the process. Nitrogen is sourced from the air around us and Hydrogen is sourced from mainly natural gas, methane. 
 
 ![[Pasted image 20231128172349.png]]
+
 
 ### Explanation of the effect of adding a catalyst on the Haber Process
 
