@@ -47,10 +47,7 @@ Adding a catalyst to an equilibrium reaction is a way to increase the reaction r
 
 There are many reasons why the optimal conditions for the synthesis of ammonia are these values, but if they are vastly changed in any way, they may make the entire reaction inefficient as a result. The optimal conditions for the synthesis of ammonia is very energy intensive, costly and dangerous, so on an industrial level it is not feasible. 200 kPa is the most optimal for feasible use
 
-- overcome activation energy barrier
-- more kE --> overcome EA
 - 400-500 degrees celsius is a midpoint for collision theory and LCP
-- decrease product push forward reaction 
 - isolate the diatomic nitrogen in the air (78%) through liquefaction
 - get hydrogen from methane 
 - don't do excess products because they don't want to waste 
