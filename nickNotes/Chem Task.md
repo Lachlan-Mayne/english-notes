@@ -41,8 +41,8 @@ N2(g)+3H2(g) ⇌ 2NH3(g)
 The optimal conditions for ammonia synthesis via the Haber process requires pressures around 150–200 atm and temperatures around 450 °C. An iron based catalyst is used and the molar ratio for nitrogen and hydrogen is 1:3 respectively. In Industrial Chemistry the optimal conditions are not able to be met because they are not feasible for the reaction, so the pressure that they use is 2 atm. 
 
 
-![[Pasted image 20231128144120.png]]
-![[Screen Shot 2023-11-28 at 2.41.48 pm.png]]
+![[Pasted image 20231128144120.png|607]]
+![[Screen Shot 2023-11-28 at 2.41.48 pm.png|607]]
 
 
 ### Explanation of the effect of changing the temperature on the Haber Process
