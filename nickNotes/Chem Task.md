@@ -42,6 +42,7 @@ The optimal conditions for ammonia synthesis via the Haber process requires pres
 
 
 ![[Pasted image 20231128144120.png|607]]
+
 ![[Screen Shot 2023-11-28 at 2.41.48 pm.png|607]]
 
 
@@ -62,7 +63,7 @@ The concentration of the process is also a very important factor to consider bec
 Adding a catalyst to an equilibrium reaction is a way to increase the reaction rate. For the Haber Process, the catalyst that is mainly used is iron (Fe) to increase the reaction rate of nitrogen and hydrogen. The catalyst for the Haber Process isn't just iron, it has a bit of potassium hydroxide added to it. Iron is used because it is very cheap and it works well in the Haber process. In Industrial Chemistry, the Haber Process is done on a very big scale so having a cheap catalyst that works well is very useful to perform on this scale. Another reason iron is favoured as a catalyst is that the process occurs at high temperatures and scales that iron is able to be used at. Another reason is that iron is able to exchange bonds with the nitrogen and hydrogen in the reaction, speeding up the rate of reaction. Without the iron catalyst the reaction would move so slow that the reaction doesn't happen in a realistic amount of time to mass produce, the addition of a catalyst makes it so that a dynamic equilibrium can be set up fairly quickly. Le Chatelier's Principle does not apply to a catalyst because it does not affect the direction of the equilibrium in any way. 
 
 
-![[Screen Shot 2023-11-28 at 11.02.10 am.png]]
+![[Screen Shot 2023-11-28 at 11.02.10 am.png|607]]
 
 
 There are many reasons why the optimal conditions for the synthesis of ammonia are these values, but if they are vastly changed in any way, they may make the entire reaction inefficient as a result. The optimal conditions for the synthesis of ammonia is very energy intensive, costly and dangerous, so on an industrial level it is not feasible. 200 kPa is the most optimal for feasible use. Also noting that a lot of Le Chatelier's Principle is not feasible for industrial chemistry.
