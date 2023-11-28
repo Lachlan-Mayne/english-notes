@@ -234,5 +234,6 @@ This involves rewriting the equation, with an addition problem it involves addin
 $\vec{ab}$ involves a length (magnitude), direction is the direction
 $||\vec{ab}||$ signifies the length which equals $\sqrt{a^2+b^2}$
 	$M=\sqrt{(x_1)^2+(y_1)^2}$
-Points have a location, vectors have a vector
 ![[Screenshot 2023-11-28 at 2.40.21 pm.png]]
+Points have a location, vectors have a vector
+$||\vec{a}||=1$ - normal vector
