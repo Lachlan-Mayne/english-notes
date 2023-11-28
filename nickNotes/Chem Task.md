@@ -36,12 +36,16 @@ The equation for the Haber process:
 
 N2(g)+3H2(g) ⇌ 2NH3(g)
 
+### Description if the optimal conditions for the synthesis of ammonis through the Haber Process
 
 The optimal conditions for ammonia synthesis via the Haber process requires pressures around 150–200 atm and temperatures around 450 °C. An iron based catalyst is used and the molar ratio for nitrogen and hydrogen is 1:3 respectively. In Industrial Chemistry the optimal conditions are not able to be met because they are not feasible for the reaction, so the pressure that they use is 2 atm. 
 
 
 ![[Pasted image 20231128144120.png]]
 ![[Screen Shot 2023-11-28 at 2.41.48 pm.png]]
+
+
+
 
 Le Chateliers Principle states that a system at dynamic equilibrium will change to partially oppose a disturbance. When heat is added or removed from a dynamic equilibrium reaction the forward or reverse reaction will be favoured according to Le Chateliers Principle. The Haber process is an exothermic reaction in the forward direction, this means the forward reaction releases heat. If the temperature of the reaction is increased then the backwards reaction would be favoured to decrease heat, producing more nitrogen and hydrogen. If the temperature of the reaction is decreased then the forward reaction would be favoured to oppose the decrease in heat and create more heat, producing more ammonia. An increase in temperature not only leads to a favouring of a certain side of the reaction, but also leads to an increase in the rate of reaction. "Collision theory states that for a chemical reaction to occur, the reacting particles must collide with one another". When the systems temperature increases and more heat is present, the particles in the system will become more agitated and move around the system quicker. Because the particles are moving around the system quicker they have many more chances to collide with one another and cause the reaction to occur, therefore speeding up the rate of reaction. While Increasing the temperature may not be beneficial for the yield of ammonia, the reason the optimal temperature is 450°C is because the reaction rate will increase.
 
