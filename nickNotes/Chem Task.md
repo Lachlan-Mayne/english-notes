@@ -94,6 +94,8 @@ clark, J. (2015). _Iron_. Chemguide.co.uk. https://www.chemguide.co.uk/inorganic
 
 clark, jim. (2013, October 2). _The Haber Process_. Chemistry LibreTexts; LibreTexts. https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Equilibria/Le_Chateliers_Principle/The_Haber_Process
 
+_Haber’s Process for the Manufacture of Ammonia & Its Uses_. (n.d.). BYJUS. Retrieved November 28, 2023, from https://byjus.com/chemistry/haber-process/#:~:text=Today%2C%20the%20Haber%20process%20is
+
 _Conditions of the Haber Process (GCSE Chemistry)_. (n.d.). Study Mind. Retrieved November 28, 2023, from https://studymind.co.uk/notes/conditions-of-the-haber-process/#:~:text=The%20Haber%20process%20is%20a
 
 Lawson, P., & Lower, S. (2013, October 2). _The Collision Theory_. Chemistry LibreTexts. https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/06%3A_Modeling_Reaction_Kinetics/6.01%3A_Collision_Theory/6.1.06%3A_The_Collision_Theory#:~:text=Collision%20theory%20states%20that%20for
@@ -105,3 +107,4 @@ _The Facts About Ammonia_. (2004, July 28). Www.health.ny.gov. https://www.healt
 US EPA. (2019, March 13). _Aquatic Life Criteria - Ammonia | US EPA_. US EPA. https://www.epa.gov/wqc/aquatic-life-criteria-ammonia
 
 Ziemke, T. (2022, October 2). _The Haber Process_. ChemTalk. https://chemistrytalk.org/haber-process/
+
