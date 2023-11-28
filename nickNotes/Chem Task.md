@@ -37,7 +37,7 @@ The equation for the Haber process:
 N2(g)+3H2(g) ⇌ 2NH3(g)
 
 
-The Haber Process is a very important process as it introduced an extremely efficient way of producing ammonia that is essential for our society. Every single year the Haber process produces 500 million tons of fertiliser that helps feed 40% of the world's population. The Haber Process is also extremely important in theoretical chemistry as it introduces a  
+The Haber Process is a very important process as it introduced an extremely efficient way of producing ammonia that is essential for our society. Every single year the Haber process produces 500 million tons of fertiliser that helps feed 40% of the world's population. The Haber Process is also extremely important in theoretical chemistry as it is a very good example used to explain Le Chateliers Principle and teach equilibrium reactions. 
 ### Description if the optimal conditions for the synthesis of ammonis through the Haber Process
 
 The optimal conditions for ammonia synthesis via the Haber process requires pressures around 150–200 atm and temperatures around 450 °C. An iron based catalyst is used and the molar ratio for nitrogen and hydrogen is 1:3 respectively. In Industrial Chemistry the optimal conditions are not able to be met because they are not feasible for the reaction, so the pressure that they use is 2 atm. 
