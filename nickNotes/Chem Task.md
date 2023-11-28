@@ -4,7 +4,7 @@ tags:
   - chemistry
 dg-publish: false
 ---
-Description of the sources and uses of ammonia
+### Description of the sources and uses of ammonia
 
 Ammonia is produced in soil from bacterial processes
 Ammonia is also produced commercially via the Haber process
@@ -29,13 +29,15 @@ Ammonia is also produced commercially via the Haber process
 	- pesticides
 	- dyes
 
+### Description of the Haber Process and its importance
+
 The equation for the Haber process:
 
 
 N2(g)+3H2(g) ⇌ 2NH3(g)
 
 
-(Website name) states that the optimal conditions for ammonia synthesis via the Haber process requires pressures around 150–200 atm and temperatures around 450 °C. An iron based catalyst is used and the molar ratio for nitrogen and hydrogen is 1:3 respectively. In Industrial Chemistry the optimal conditions are not able to be met because they are not feasible for the reaction, so the pressure that they use is 2 atm. 
+The optimal conditions for ammonia synthesis via the Haber process requires pressures around 150–200 atm and temperatures around 450 °C. An iron based catalyst is used and the molar ratio for nitrogen and hydrogen is 1:3 respectively. In Industrial Chemistry the optimal conditions are not able to be met because they are not feasible for the reaction, so the pressure that they use is 2 atm. 
 
 
 ![[Pasted image 20231128144120.png]]
