@@ -1,5 +1,3 @@
-
-Chem Task
 ### Description of the sources and uses of ammonia
 
 Ammonia is produced in soil from bacterial processes
@@ -26,7 +24,6 @@ Ammonia is also produced commercially via the Haber process
 	- dyes
 
 ![[Pasted image 20231128173619.png]]
-
 
 ### Description of the Haber Process and its importance
 
