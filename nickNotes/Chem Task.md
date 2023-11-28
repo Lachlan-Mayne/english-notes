@@ -1,6 +1,6 @@
 <div align="center"> <h1>Haber Process</h1> </div>
 <div align="center"> Written by 36776536</div>
-<div style="half-page-break-after: always;"></div>### Description of the sources and uses of ammonia
+### Description of the sources and uses of ammonia
 
 Ammonia is produced in soil from bacterial processes
 Ammonia is also produced commercially via the Haber process
