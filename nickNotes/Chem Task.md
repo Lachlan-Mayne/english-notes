@@ -59,16 +59,18 @@ There are many reasons why the optimal conditions for the synthesis of ammonia a
 
 Websites used:
 
-https://www.health.ny.gov/environmental/emergency/chemical_terrorism/ammonia_tech.htm#:~:text=In%20the%20environment%2C%20ammonia%20is,plants%2C%20animals%20and%20animal%20wastes.
+https://www.health.ny.gov/environmental/emergency/chemical_terrorism/ammonia_tech.htm#:~:text=In%20the%20environment%2C%20ammonia%20is,plants%2C%20animals%20and%20animal%20wastes
 
 https://pubchem.ncbi.nlm.nih.gov/compound/Ammonia
 
 https://www.epa.gov/wqc/aquatic-life-criteria-ammonia
 
-https://studymind.co.uk/notes/conditions-of-the-haber-process/#:~:text=The%20Haber%20process%20is%20a,maximize%20the%20yield%20of%20ammonia.
+https://studymind.co.uk/notes/conditions-of-the-haber-process/#:~:text=The%20Haber%20process%20is%20a,maximize%20the%20yield%20of%20ammonia
 
-https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/06%3A_Modeling_Reaction_Kinetics/6.01%3A_Collision_Theory/6.1.06%3A_The_Collision_Theory#:~:text=Collision%20theory%20states%20that%20for,particles%20often%20collide%20without%20reacting.
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/06%3A_Modeling_Reaction_Kinetics/6.01%3A_Collision_Theory/6.1.06%3A_The_Collision_Theory#:~:text=Collision%20theory%20states%20that%20for,particles%20often%20collide%20without%20reacting
 
 https://www.chemguide.co.uk/inorganic/transition/iron.html
 
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Equilibria/Le_Chateliers_Principle/The_Haber_Process
+
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Supplemental_Modules_and_Websites_(Inorganic_Chemistry)/Catalysis/The_Effect_of_a_Catalyst_on_Rate_of_Reaction
