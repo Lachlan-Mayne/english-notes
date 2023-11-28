@@ -52,6 +52,7 @@ Le Chateliers Principle states that a system at dynamic equilibrium will change 
 
 
 ![[Pasted image 20231128172539.png|607]]
+
 ![[Pasted image 20231128172440.png|607]]
 
 ### Explanation of the effect of changing Volume and/or  pressure on the Haber Process
