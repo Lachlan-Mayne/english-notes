@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-
+git
 **(Chose Crucible on purpose in year 10 when we first studied classic literature. Crouch approves these notes and says I could use the ones I made back then)**
 
 LI:  
@@ -249,14 +249,34 @@ These anomalies encourage paradoxical emotion towards the poems ideas, specifica
 
 Upon reading the poem for the first time, I was challenged by the lack of attachment that the soldier had towards his situation. His anomalous mindset led me to rethink my understanding of individuals incentives through contrasting internal and external motivation. I eventually found that the airman seems to be more romantic because he is driven primarily by the impulse within him rather than external factors that could impact his motivation. Through this I am able to sympathise with the airman by seeing that because he is missing the obligation to fight and as a result, has shifted his mindset towards accepting his inevitable fate. Overall, Y.B Yeats' poem has led me to question my own understanding of human experience, challenging my beliefs on where motivation is drawn from and how this could differ from societal norms. 
 
-W.B Yeats' poem "An Irish Airman Foresees His Death" challenges human experiences through exploring anomalies in the airman's motivation which is personalising the soldiers and giving a sense of individuality. Yeats uses repetitive anaphora to emphasise what the airman is not motivated by through the word "nor" being repeated throughout the poem. These ideals challenged my understanding of soldier's motivation for fighting in wars, as the airman is quite accepting of his fate, thus conflicts with the status quo. These anomalies encourage paradoxical emotion towards the poems ideas, specifically through the airman's character, a soldier in a war who is impartial towards the outcome of the war. The human experiences within the poem are complicated and are explored through paradoxical thinking to shed light on individuality and how motivation can be perceived.
+W.B Yeats' poem "An Irish Airman Foresees His Death" challenges human experiences through exploring anomalies in the airman's motivation which is personalising the soldiers and giving a sense of individuality. Yeats uses repetitive anaphora to emphasise what the airman is not motivated by through the word "nor" being repeated throughout the poem. These ideals challenged my understanding of soldier's motivation for fighting in wars, as the airman is quite accepting of his fate, thus conflicting with the status quo. These anomalies encourage paradoxical emotion towards the poems ideas, specifically through the airman's character, a soldier in a war who is impartial towards the outcome of the war. The human experiences within the poem are complicated and are explored through paradoxical thinking to shed light on individuality and how motivation can be perceived.
 
-Upon reading the poem for the first time, I was challenged by the lack of attachment that the soldier had towards his situation. His anomalous mindset led me to rethink my understanding of individuals incentives through contrasting internal and external motivation. I found the airman to appear more romantic because he is driven primarily by the impulse within him rather than external factors that could impact his motivation. Through this I am able to sympathise with the airman by seeing that because he is missing the obligation to fight and as a result, has shifted his mindset towards accepting his inevitable fate. Overall, Y.B Yeats' poem has led me to question my own understanding of human experience and encouraged me to see the world differently, challenging my beliefs on where motivation is drawn from and how this could differ from societal norms.
+Upon reading the poem for the first time, my view on the world was challenged by the lack of attachment that the soldier had towards his situation. His anomalous mindset led me to rethink my understanding of individuals incentives, through contrasting internal and external motivation. I found the airman to appear more romantic because he is driven primarily by the impulse within him rather than external factors that could impact his motivation. Through this I am able to sympathise with the airman by seeing that he is missing the obligation to fight and as a result, has shifted his mindset towards accepting his inevitable fate, in contrast to my prior understanding of a soldiers mentality.  Overall, Y.B Yeats' poem has led me to question my own understanding of human experience and encouraged me to see the world differently, challenging my beliefs on where motivation is drawn from and how this could differ from societal norms.
 
 
 Question:
 Have I properly explained how the anomalies are explored. 
-Do I need to improve the level of first person reflection. 
+Do I need to improve the level of first person reflection.  
 
 First response, 
 Put in the B range because it uses some quotes, techniques, imperative language. There is no mentioning of context, grammatical errors. Good choice of some words, (polarisation, justice system) 
+
+Developing an Argument That Answers the Question
+1. Research phase: collecting all the evidence into topics. (eg, Tragedy)
+	1. Quotes
+	2. Context
+	3. Techniques
+	4. Examples
+2. Read the question carefully and identify the key word(s)
+	1. Eg. the key word "power"
+3. Look at your research (see above) and ask how it can be connected to "power"
+4. Write down arguments/ideas, (not descriptions) about "power" and "research ideas"
+5. Try to encapsulate/summarise into one sentence. 
+6. that becomes the topic sentence
+
+- refer to the essay as cohesive. 
+	- intro - basic answer to the question, big argument, human experience. 
+	- topic sentences - relates back to question and argument using the specific issue.
+		- repeat 3-4 times
+		- evidence, elaboration which all links back to topic sentence. 
+		- avoid story telling and description words (shows, explores, displays, etc.)

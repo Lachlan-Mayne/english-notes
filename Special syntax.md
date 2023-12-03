@@ -37,6 +37,10 @@ flowchart TD
 |**Title one**|**2nd title**|**Title 3**|**etc**|
 | - | :- | -: | :-: |
 |non-indented|left-indented|right indented|centred|
+
+|heading 1|Heading 2|
+|---|---|
+|<ul> <li>First item</li> <li>Second Item</li> </ul>|<ol> <li>Item 1 </li> <li>Item 2</li> </ol>|
 #tables #diagram 
 
 Here's some text! ^sometext

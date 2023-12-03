@@ -1,5 +1,5 @@
 ---
-dg-home: true
+dg-home: false
 dg-publish: true
 ---
 

@@ -76,6 +76,7 @@ The Crucible characters care too much about how other people see them
 
 Paradox
 
+
 Another key idea that you need to explore in both texts is the concept of paradox. In real life and in texts we expect things to work together in a logical way and make sense. So we expect cause and effect and we like it when things are predictable and consistent.
 Elizabeth is a person that never lies, but then she comes into a court and lies.
 When things contradict each other and do not easily blend together we refer to them as a paradox.
@@ -119,4 +120,7 @@ In **balance** with this life, this death."
 This is called the chiastic structure. It creates a balance and symmetry.
 
 The resolution of the poem is that his life and death in this moment of the war make his life meaningful. When he compares the human experience of war and death in war, everything else in his life and his future seems to be a waste of breath. Paradoxically, war, which is about death, allows him to appreciate and accept the value of his life.
+
+The confessing of his sins is the moment he loses power
+
 

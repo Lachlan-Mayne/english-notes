@@ -78,16 +78,18 @@ The network of suppliers a business has chosen on the basis of lowest overall co
 Sourcing is an operations strategy that requires finding the suppliers needed so that production processes can be smooth flowing.  
 
 The global web strategy is one in which the business aims to minimise cost across the range of its suppliers
-  
 
-|**Globalisation in Australian businesses**||
+**Globalisation in Australian businesses**
 
-| :-: | :- |
 
-|**Pros**|**Cons**|
+**Pros**
 
-|<p>- Access to larger markets</p><p>- Newer markets</p><p>- Newer resources</p>|<p>- Job loss to countries with lower pay</p><p></p>|
+Access to larger markets
+Newer markets
+Newer resources
 
+**Cons**
+Job loss to countries with lower pay
   
 
 ## **Quality expectations:**
@@ -361,3 +363,79 @@ Businesses outsource:
 
 - **Even if a piece of technology is established, it can still be a leading cause for streamlining production process**
 - Companies won't always use leading edge technology if it's inefficient at meeting customer expectations
+
+## Inventory Management:
+Businesses that buy stock need to decide how much to carry in inventories.
+- **LIFO (last-in-first-out)** Stock that has arrived most recently will be sold first
+	- Bulky items; fridges, lounges, non-perishables
+- **FIFO (first-in-first-out)** Stock that has been waiting the longest is sold first
+	- Perishables; milk, fruit etc
+- **JIT (just-in-time)** Businesses aim to only make enough to meet demand, in time for the demand
+	- Customisable items; restaurants, café's etc
+These are all ideas that relate to how you deal with the stock you have, thinking about rotating it or arranging like items on a shelf
+
+## Quality management in Qantas:
+For many years Qantas has marketed as a high quality, perfect safety record, full-service airline and commanded premium fares, whereas Jetstar has traded quality for price.
+
+**Quality control:** Inspections are carried out periodically to make sure the process is meeting standards, management intervenes and takes corrective action to uphold quality
+
+**Quality assurance:** Qantas monitors the level of quality as all stages by measurement against standards. They focus on having good procedures, preventing issues, rather than inspections finding issues. (COVID)
+
+**Quality improvement:** Qantas invites staff to participate in brainstorming ideas and suggestions to improve quality, attempts to make quality both central and strategic within Qantas
+
+
+
+|   |   |   |   |   |   |
+|---|---|---|---|---|---|
+||Definition|Slogan|Application example (generic)|Pros|Cons|
+|Quality control|- Carrying out inspections at key stages of the transformation process|"Precision Perfected, Quality Assured."|A baker checking on his bread|-Customer satisfaction <br><br>  <br><br>- Check for small errors<br><br>  <br><br>-Reduced Defects<br><br>  <br><br>-good brand image<br><br>  <br><br>-competitive advantage|- time-consuming<br><br>- costly|
+|Quality Assurances|Involves the use of a system to ensure standards are achieved|Ensuring your products are perfectly made every step of the way|Ensuring the labelling of a product involves the materials|- Make sure all customers expectations are met<br><br>- can result in good word of mouth|- Expensive to train employees for the task<br><br>- time consuming|
+|Quality improvement|QI emphasises continuous improvement and total quality management.<br><br>Meaning that over time processes will be made more<br><br>efﬁcient and effective.|inspection at the point of production and check for defects|Qanats Checking planes to prevent any defects|Maintain standards <br><br>Reducing risk <br><br>Being able to consistently give high-quality products<br><br>Increase better outcomes  and efficiency|Time consuming <br><br>Potential resistance form employees<br><br>Potential for an issue to be overlooked<br><br>Not as flexib|
+|Example||||||
+
+## Overcoming resistance to change:
+Change is a key influence on operations management, but managing and being responsive to this may come with resistance or hesitation - therefore managers are strategic about it
+
+Change can arise from changes in:
+- Legislation
+- Economic conditions
+- Social expectations
+- Technology
+
+**Change can require major alterations resulting in people needing to learn new skills and/or job losses and job prospects can alter**
+
+Resistance to change can be classifies as either financial or emotional/psychological
+- Financial:
+	- Purchasing new equipment
+	- Redundancy payments
+	- Retraining
+	- Reorganising plant layout
+- Emotional/psychological
+	- Inertia
+
+## Overcoming financial resistance
+The main costs associated with change are-
+- Purchasing new equipment
+- Retraining
+- Redundancy
+- Re-organising facility layout
+- Transportation costs
+
+## Overcoming psychological resistance
+- Inertia describes a psychological resistance to change
+- People can resist change when they have a feeling of uncertainty or unknowing
+
+## Strategies to overcome resistance:
+- Successfully managing change is important because change is constant and business processes are always being refined and adapted over time
+- Change must be planned and managers must be prepared
+
+## Change Management:
+1. **Unfreeze:** Prepare the business for change
+2. **Change:** Communicate and implement the new procedures and behaviours
+3. **Refreeze:** Make the change last by managers offering positive reinforcement
+
+## Global Factors:
+1. Pretty much all businesses are influenced by global factors
+2. Global operations can offer cost-savings for operations managers when they consider the most suitable sourcing options and advantages of locating their operations around the world
+3. Operations management that has been well set up, will allow businesses to benefit
+

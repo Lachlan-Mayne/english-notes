@@ -8,8 +8,22 @@ dg-publish: true
 
 # Texts & Human experiences
 
-  
+### reflection paragraph:
+"The sun will move on, and I will simply watch." The widower in the country is a poem about the human experience of grief that almost all of its audience can relate to. As pretty much everyone in the world has experienced some form of grief,  
 
+
+The individual human experience of grief is explored throughout Les Murrays poem *Widower in the Country*. An anomaly is something that differs from the expected, for example a puppy being pink from a black breeding chain. Powerful literature explores a main anomaly through its media form, with the anomaly in the poem Murray's poem being the fact that the widower himself doesn't end up leaving his bed, he simply plans out his melancholy day. The title of the poem describes the context for the character Les writes about, with which he has a physical connection to the role. His father was a widower, so Les had first hand experience at seeing the impact losing someone so important had on his fathers life. 
+
+This text invited me to see how profound of an impact grief can have on people, with the main character seemingly being stuck towards the end of his grief, but definitely the most potent part of grief: depression/acceptance. By showing me how majorly impacted the widower feels by this loss, it makes me appreciate the fact that I haven't experienced anywhere near a similar degree of grief in my life. The text has expanded my views around how people's lives are affected by those around them, teaching me about how valuable the current moment in time really is to us, and everyone around us. Perhaps this text is inviting us, the audience, to realise that time is precious, and we should be grateful for every second we have with those we love alive around us.
+
+The individual human experience of grief is explored throughout Les Murrays poem _Widower in the Country_ by his use of anomalies. Powerful literature explores main anomalies through its media form, the anomaly in Murrays poem being the fact that the widower himself doesn't end up leaving his bed, and simply plans out his melancholy day. The title of the poem describes the context for the character Les writes about, a role he has physical connection to. As his father was a widower, Les had first hand experience seeing the impact that losing a loved one had on his father’s life. Les himself was married until his death in 2019, so he himself was never a widower, but by seeing the impact that grief had on his fathers life he writes a compelling piece of poetry about grief, and how dangerous it can be if left untreated.
+
+This text allowed me to perceive the profound impact grief can have on people by means of the main character, a person seemingly stuck towards the end and yet most potent moments of his grief, depression and acceptance. By displaying the characters’ retaliation and actions towards their loss as well as the impact they felt, I am able to appreciate the fact that I haven’t experienced anywhere near a similar degree of grief in my life. Furthermore, through exploring the impacts of grief, Les has invited me to see the world differently in the fact that everyone around us is important for every minute of our days. We should be appreciative of what and who we have today, and focus on the now rather than the past or future.
+
+Hand in a 250-300 word reflection on one of the human experiences in your related text. Use the following
+questions to scaffold your reflection.
+1. What anomalies, inconsistencies and/or paradoxes are explored in your related text?
+2. How has this text invited you to see the world differently?
 ## Texts Definition:
 
 Texts are a vehicle through which we share experiences. Texts are shaped by experiences and they shape experiences. It’s through texts that we encounter and understand human experiences. This is, therefore, a study of the way texts share or represent experiences.
@@ -248,7 +262,7 @@ Language features:
 
 # Resources:
 
-# [Court Records and other useful stuff](https://salem.lib.virginia.edu/home.html)
+[Court Records and other useful stuff](https://salem.lib.virginia.edu/home.html)
 
 [“Common Module Cheat Sheet - Advanced”](https://hsc.one/courses/english-advanced-hsc/assets/common-mod-cheat-sheet.pdf)
 
@@ -326,4 +340,21 @@ Farce: comedic element tied in with dramatic-ness // absurd situation
 Lynching: public killing of an individual who has not received any due process
 
 Power: The ability to influence the abilities/acts of others//the capacity to act in a certain way
+
+
+# Essay writing
+## Using the TEEL structure:
+Well structured paragraphs are important because if the information is well organised it is easier to read.
+The TEEL strategy is very helpful for knowing what should be included in a paragraph:
+- Topic sentence (contains the main idea is usually first in the paragraph)
+- Explain
+- Evidence and example (use references)
+- Link (refer back or sum up main idea) - optional
+
+Example paragraph:
+What anomalies and paradoxes are there in the Crucible?
+T: Paradoxes are an effective method of an author communicating a message with their audience. 
+E: Within storytelling, an author writes a text to convey a meaning towards the audience, often a collective human experience. 
+E: Within the crucible, Arthur Miller writes about a paradoxical historical event, the Salem witch trials. Within a Puritan (christianity-aimed religion) village, the Devil is a major scare to the citizens. The paradox within the Trials that Arthur explores is one around how a Puritan village leads themselves to turn against each other, involving the human experience of power, and how it can corrupt people. Reverend Hale believes he is immune to the Devil, yet ends up becoming worried only with keeping his own power, and his reputation over the other villagers.
+L: By exploring how paradoxical the witch trials were, Arthur Miller writes an effective text explaining how power can corrupt.
 

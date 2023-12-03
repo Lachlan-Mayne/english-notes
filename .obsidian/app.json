@@ -1,4 +1,13 @@
 {
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "among/Lachlan's editing space/images"
+  "attachmentFolderPath": "among/Lachlan's editing space/images",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "newFileLocation": "folder",
+  "newFileFolderPath": "nickNotes/images"
 }
