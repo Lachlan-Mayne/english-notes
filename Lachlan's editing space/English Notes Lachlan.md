@@ -380,6 +380,18 @@ L: By exploring how paradoxical the witch trials were, Arthur Miller writes an e
 | Timestamp | Quote/scene description |
 | ---- | ---- |
 | 00:40 |  |
-|  |  |
+| 2:25 |  |
+| 10:00 |  |
+| 11:00 |  |
+| 14:00 |  |
+| 17:30 |  |
+| 20:30 |  |
+| 25:00 |  |
+| 28:00 |  |
+| 29:30 |  |
+| 32:00 |  |
+| 34:30 |  |
+| 36:30 |  |
+| 37:00 |  |
 |  |  |
 Deal twins stop Truman in the same spot to show the ad to audience
