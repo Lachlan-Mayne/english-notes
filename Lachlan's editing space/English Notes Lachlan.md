@@ -387,8 +387,8 @@ L: By exploring how paradoxical the witch trials were, Arthur Miller writes an e
 | 17:30 | Product placement confuses Truman, day 10910 |
 | 20:30 | Disco involving non scripted love interest being taken off stage |
 | 25:00 | First reality break (this and above both involve the "How's it going to end" badge) |
-| 28:00 |  |
-| 29:30 |  |
+| 28:00 | Car radio bugs and transmits camera crew radio into Trumans car |
+| 29:30 | Tracked shot/dolly shot in turnstile door |
 | 32:00 |  |
 | 34:30 |  |
 | 36:30 |  |
@@ -410,4 +410,4 @@ L: By exploring how paradoxical the witch trials were, Arthur Miller writes an e
 | 1:18:50 | "Hero shot" of Truman sailing onto the water, using the boat santa maria (boat used by christopher columbus in his travels) |
 | 1:22:10 | Truman asks the camera crew to try harder to stop him |
 Deal twins stop Truman in the same spot to show the ad to audience
-Throughout the sailing scene, the stereotypical hero's journey is faced, through 
+Throughout the sailing scene, the stereotypical hero's journey is faced, through challenges such as the weather effects being used against Truman
