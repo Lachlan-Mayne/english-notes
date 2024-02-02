@@ -416,3 +416,5 @@ L: By exploring how paradoxical the witch trials were, Arthur Miller writes an e
 | 1:30:30 | Trumans last hurrah, goodbye to the whole world and bows |
 Deal twins stop Truman in the same spot to show the ad to audience
 Throughout the sailing scene, the stereotypical hero's journey is faced, through challenges such as the weather effects being used against Truman
+
+Talk about the political mindsets o
