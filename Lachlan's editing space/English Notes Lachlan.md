@@ -392,10 +392,10 @@ L: By exploring how paradoxical the witch trials were, Arthur Miller writes an e
 | 32:00 | Backstage seen through "elevator" |
 | 34:30 | Sunset wide shot |
 | 36:30 | "brainwashing" television, subtly telling Truman what to think |
-| 37:00 | Crossed fingers in marriage kiss photo,  |
-| 40:30 |  |
-| 45:30 |  |
-| 48:30 |  |
+| 37:00 | Crossed fingers in marriage kiss photo, saying the marriage has no meaning |
+| 40:30 | Travel agency is full of anti travel propoganda |
+| 45:30 | Misquotes early bird gets the worm and rolling stone gets no moss |
+| 48:30 | Spontan |
 | 49:30 |  |
 | 51:20 |  |
 | 52:00 |  |
