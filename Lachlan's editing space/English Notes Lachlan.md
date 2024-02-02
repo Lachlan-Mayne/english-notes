@@ -418,3 +418,4 @@ Deal twins stop Truman in the same spot to show the ad to audience
 Throughout the sailing scene, the stereotypical hero's journey is faced, through challenges such as the weather effects being used against Truman
 
 Talk about the political mindsets of the show (imperialist?)
+All life came from the ocean -> new life through the ocean (maybe)
