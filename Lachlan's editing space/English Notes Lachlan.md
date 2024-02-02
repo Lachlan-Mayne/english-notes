@@ -380,7 +380,7 @@ L: By exploring how paradoxical the witch trials were, Arthur Miller writes an e
 | Timestamp | Quote/scene description |
 | ---- | ---- |
 | 00:40 | "Theres nothing fake about Truman himself" |
-| 2:25 |  |
+| 2:25 | Movie starts at day 10,909 |
 | 10:00 |  |
 | 11:00 |  |
 | 14:00 |  |
@@ -404,4 +404,5 @@ L: By exploring how paradoxical the witch trials were, Arthur Miller writes an e
 | 59:20 |  |
 | 1:00:10 |  |
 | 1:02:40 |  |
+| around 1:05:00 or something | Truman escapes surveillance at night |
 Deal twins stop Truman in the same spot to show the ad to audience
