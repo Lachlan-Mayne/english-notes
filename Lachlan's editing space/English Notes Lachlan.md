@@ -395,10 +395,10 @@ L: By exploring how paradoxical the witch trials were, Arthur Miller writes an e
 | 37:00 | Crossed fingers in marriage kiss photo, saying the marriage has no meaning |
 | 40:30 | Travel agency is full of anti travel propoganda |
 | 45:30 | Misquotes early bird gets the worm and rolling stone gets no moss |
-| 48:30 | Spontan |
-| 49:30 |  |
-| 51:20 |  |
-| 52:00 |  |
+| 48:30 | Spontaneous forest fire |
+| 49:30 | Power plant "fault" - random policeman knows who he is<br>- Surround forest is planted, all trees are in rows |
+| 51:20 | Product placement confusing Truman |
+| 52:00 | "DO SOMETHING" from his wife |
 | 54:40 |  |
 | 56:10 |  |
 | 59:20 |  |
