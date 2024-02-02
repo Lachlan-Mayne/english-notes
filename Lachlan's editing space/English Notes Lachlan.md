@@ -409,5 +409,6 @@ L: By exploring how paradoxical the witch trials were, Arthur Miller writes an e
 | 1:18:00 | Truman found on water in sailboat |
 | 1:18:50 | "Hero shot" of Truman sailing onto the water, using the boat santa maria (boat used by christopher columbus in his travels) |
 | 1:22:10 | Truman asks the camera crew to try harder to stop him |
+| 1:25:20 |  |
 Deal twins stop Truman in the same spot to show the ad to audience
 Throughout the sailing scene, the stereotypical hero's journey is faced, through challenges such as the weather effects being used against Truman
