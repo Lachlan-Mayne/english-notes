@@ -382,7 +382,7 @@ L: By exploring how paradoxical the witch trials were, Arthur Miller writes an e
 | 00:40 | "Theres nothing fake about Truman himself" |
 | 2:25 | Movie starts at day 10,909 |
 | 10:00 | "You can't get any further away before you start coming back!" (in reference to Fiji) |
-| 11:00 |  |
+| 11:00 | Dark lighting with trauma flashback, followed by isolated rain -> storm |
 | 14:00 |  |
 | 17:30 |  |
 | 20:30 |  |
