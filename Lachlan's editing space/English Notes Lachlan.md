@@ -265,7 +265,9 @@ Language features:
 
 Thesis: language of the question and Miller's purpose
 Topic sentence: need to be clear and connect to your thesis (so therefore must be answering the question)
-Conceptual understanding? Know the rubric - understand the complexities of human experie
+Conceptual understanding? Know the rubric - understand the complexities of human experiences - motivations, emotions, qualities, inconsistencies, paradoxes, anomalies, collective, individual...
+
+
 # Resources:
 
 [Court Records and other useful stuff](https://salem.lib.virginia.edu/home.html)
