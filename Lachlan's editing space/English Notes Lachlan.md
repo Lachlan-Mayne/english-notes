@@ -383,8 +383,8 @@ L: By exploring how paradoxical the witch trials were, Arthur Miller writes an e
 | 2:25 | Movie starts at day 10,909 |
 | 10:00 | "You can't get any further away before you start coming back!" (in reference to Fiji) |
 | 11:00 | Dark lighting with trauma flashback, followed by isolated rain -> storm |
-| 14:00 |  |
-| 17:30 |  |
+| 14:00 | first dad scene |
+| 17:30 | Product placement confuses Truman, day 10910 |
 | 20:30 |  |
 | 25:00 |  |
 | 28:00 |  |
