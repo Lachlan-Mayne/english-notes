@@ -271,7 +271,10 @@ Essay should work with only the topic sentences, they state the case then body f
 Analysis should be detailed, short and frequent quotes with regular analysis of form and features
 Insightful = perceptive, conceptual + informed
 
-Majority of essays need to be 800-1000 words: Practise. Argument cannot be sustained in 2
+Majority of essays need to be 800-1000 words: Practise. Argument cannot be sustained in 2-3 pages. This marking was done generously. 
+Muscles need to be trained to write 3 hours straight
+
+
 # Resources:
 
 [Court Records and other useful stuff](https://salem.lib.virginia.edu/home.html)
