@@ -260,6 +260,8 @@ Language features:
 - Crucible
 - Colours: black, white and red
 
+## Post exam slide show T1 2024
+3 elements in the question: *how effectively* does The Crucible and one related text *tell stories*
 # Resources:
 
 [Court Records and other useful stuff](https://salem.lib.virginia.edu/home.html)
