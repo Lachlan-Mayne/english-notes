@@ -261,7 +261,11 @@ Language features:
 - Colours: black, white and red
 
 ## Post exam slide show T1 2024
-3 elements in the question: *how effectively* does The Crucible and one related text *tell stories*
+3 elements in the question: *how effectively* does The Crucible and one related text *tell stories* to *communicate challenging experiences*?
+
+Thesis: language of the question and Miller's purpose
+Topic sentence: need to be clear and connect to your thesis (so therefore must be answering the question)
+
 # Resources:
 
 [Court Records and other useful stuff](https://salem.lib.virginia.edu/home.html)
