@@ -379,7 +379,7 @@ L: By exploring how paradoxical the witch trials were, Arthur Miller writes an e
 ## Interesting scenes/quotes
 | Timestamp | Quote/scene description |
 | ---- | ---- |
-| 00:40 | "Theres nothing " |
+| 00:40 | "Theres nothing fake about Truman himself" |
 | 2:25 |  |
 | 10:00 |  |
 | 11:00 |  |
