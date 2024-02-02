@@ -413,5 +413,6 @@ L: By exploring how paradoxical the witch trials were, Arthur Miller writes an e
 |  | This whole area is just good shots to discuss, medium shot of his hand on the wall, wide shot of the boat against the wall |
 | 1:27:30 | Fisheye shot of Truman approaching the stairs |
 | 1:28:10 | Creator talks to Truman, visually symbolised as God.<br>The door is very symbolic of a new start, there is no visuals past the dark frame |
+| 1:30:30 | Trumans last hurrah, goodbye to the whole world and bows |
 Deal twins stop Truman in the same spot to show the ad to audience
 Throughout the sailing scene, the stereotypical hero's journey is faced, through challenges such as the weather effects being used against Truman
