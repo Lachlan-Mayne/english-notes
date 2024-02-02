@@ -3,6 +3,7 @@ tags:
   - notes
   - business
   - operations
+  - finance
 dg-publish: true
 ---
 # Operations management:
@@ -167,6 +168,8 @@ Quality: How well designed, made and functional goods are, and the degree of com
 
   
 
+# Finance
+
 # Goofy writing space:
 
 What is the relationship between quality and price?
@@ -191,3 +194,4 @@ Questions:
 2. Improvement: the act of increasing the quality of a good or service
 3. How would you monitor the performance of a retailer? Support your answer with reference to relevant examples
 	1. I would look at their cashflow, determine what spending is required and what is unnecessary. Then, look into their customer
+
