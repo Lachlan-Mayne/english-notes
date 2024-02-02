@@ -411,5 +411,7 @@ L: By exploring how paradoxical the witch trials were, Arthur Miller writes an e
 | 1:22:10 | Truman asks the camera crew to try harder to stop him |
 | 1:25:20 | The wall is in shot, Truman hits it in 20 seconds |
 |  | This whole area is just good shots to discuss, medium shot of his hand on the wall, wide shot of the boat against the wall |
+| 1:27:30 | Fisheye shot of Truman approaching the stairs |
+| 1:28:10 | Creator talks to Truman, visually symbolised as God |
 Deal twins stop Truman in the same spot to show the ad to audience
 Throughout the sailing scene, the stereotypical hero's journey is faced, through challenges such as the weather effects being used against Truman
