@@ -170,6 +170,8 @@ Quality: How well designed, made and functional goods are, and the degree of com
 
 # Finance
 
+# Exam T1 2024
+Report/Essay response to a question non-tied to a business
 # Goofy writing space:
 
 What is the relationship between quality and price?
