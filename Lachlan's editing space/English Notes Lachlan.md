@@ -274,6 +274,7 @@ Insightful = perceptive, conceptual + informed
 Majority of essays need to be 800-1000 words: Practise. Argument cannot be sustained in 2-3 pages. This marking was done generously. 
 Muscles need to be trained to write 3 hours straight
 
+Choose to rewrite either introduction or body paragraph on The Crucible and email wimble for feedback.
 
 # Resources:
 
