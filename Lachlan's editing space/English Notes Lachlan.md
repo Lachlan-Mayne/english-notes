@@ -376,4 +376,5 @@ L: By exploring how paradoxical the witch trials were, Arthur Miller writes an e
 
 
 # Truman Show
-
+## Interesting scenes/quotes
+| Timest | |
