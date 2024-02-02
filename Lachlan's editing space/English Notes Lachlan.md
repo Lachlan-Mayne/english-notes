@@ -407,5 +407,5 @@ L: By exploring how paradoxical the witch trials were, Arthur Miller writes an e
 | around 1:05:00 or something | Truman escapes surveillance at night |
 | 1:13:40 | Truman is noticed as escaped, day 10,913 |
 | 1:18:00 | Truman found on water in sailboat |
-| 1:18:50 | "Hero shot" of Truman sailing onto the water |
+| 1:18:50 | "Hero shot" of Truman sailing onto the water, using the boat santa maria (boat used by christopher columbus in his travels) |
 Deal twins stop Truman in the same spot to show the ad to audience
