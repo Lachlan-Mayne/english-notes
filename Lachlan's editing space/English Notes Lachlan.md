@@ -406,4 +406,5 @@ L: By exploring how paradoxical the witch trials were, Arthur Miller writes an e
 | 1:02:40 |  |
 | around 1:05:00 or something | Truman escapes surveillance at night |
 | 1:13:40 | Truman is noticed as escaped, day 10,913 |
+| 1:18:00 | Truman found on water in sailboat |
 Deal twins stop Truman in the same spot to show the ad to audience
