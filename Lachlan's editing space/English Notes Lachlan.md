@@ -379,7 +379,7 @@ L: By exploring how paradoxical the witch trials were, Arthur Miller writes an e
 ## Interesting scenes/quotes
 | Timestamp | Quote/scene description |
 | ---- | ---- |
-| 00:40 |  |
+| 00:40 | "Theres nothing " |
 | 2:25 |  |
 | 10:00 |  |
 | 11:00 |  |
@@ -393,5 +393,15 @@ L: By exploring how paradoxical the witch trials were, Arthur Miller writes an e
 | 34:30 |  |
 | 36:30 |  |
 | 37:00 |  |
-|  |  |
+| 40:30 |  |
+| 45:30 |  |
+| 48:30 |  |
+| 49:30 |  |
+| 51:20 |  |
+| 52:00 |  |
+| 54:40 |  |
+| 56:10 |  |
+| 59:20 |  |
+| 1:00:10 |  |
+| 1:02:40 |  |
 Deal twins stop Truman in the same spot to show the ad to audience
