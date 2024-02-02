@@ -269,7 +269,7 @@ Conceptual understanding? Know the rubric - understand the complexities of human
 
 Essay should work with only the topic sentences, they state the case then body filler argues it.
 Analysis should be detailed, short and frequent quotes with regular analysis of form and features
-Insightful = perceptive, concept
+Insightful = perceptive, conceptual + informed
 # Resources:
 
 [Court Records and other useful stuff](https://salem.lib.virginia.edu/home.html)
