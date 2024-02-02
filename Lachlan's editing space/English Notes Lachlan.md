@@ -385,8 +385,8 @@ L: By exploring how paradoxical the witch trials were, Arthur Miller writes an e
 | 11:00 | Dark lighting with trauma flashback, followed by isolated rain -> storm |
 | 14:00 | first dad scene |
 | 17:30 | Product placement confuses Truman, day 10910 |
-| 20:30 |  |
-| 25:00 |  |
+| 20:30 | Disco involving non scripted love interest being taken off stage |
+| 25:00 | First reality break (this and above both involve the "How's it going to end" badge) |
 | 28:00 |  |
 | 29:30 |  |
 | 32:00 |  |
