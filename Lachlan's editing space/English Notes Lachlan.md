@@ -377,4 +377,9 @@ L: By exploring how paradoxical the witch trials were, Arthur Miller writes an e
 
 # Truman Show
 ## Interesting scenes/quotes
-| Timest | |
+| Timestamp | Quote/scene description |
+| ---- | ---- |
+| 00:40 |  |
+|  |  |
+|  |  |
+Deal twins stop Truman in the same spot to show the ad to audience
