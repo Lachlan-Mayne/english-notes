@@ -389,10 +389,10 @@ L: By exploring how paradoxical the witch trials were, Arthur Miller writes an e
 | 25:00 | First reality break (this and above both involve the "How's it going to end" badge) |
 | 28:00 | Car radio bugs and transmits camera crew radio into Trumans car |
 | 29:30 | Tracked shot/dolly shot in turnstile door |
-| 32:00 |  |
-| 34:30 |  |
-| 36:30 |  |
-| 37:00 |  |
+| 32:00 | Backstage seen through "elevator" |
+| 34:30 | Sunset wide shot |
+| 36:30 | "brainwashing" television, subtly telling Truman what to think |
+| 37:00 | Crossed fingers in marriage kiss photo,  |
 | 40:30 |  |
 | 45:30 |  |
 | 48:30 |  |
