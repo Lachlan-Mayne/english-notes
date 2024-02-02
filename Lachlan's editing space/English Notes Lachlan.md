@@ -399,11 +399,11 @@ L: By exploring how paradoxical the witch trials were, Arthur Miller writes an e
 | 49:30 | Power plant "fault" - random policeman knows who he is<br>- Surround forest is planted, all trees are in rows |
 | 51:20 | Product placement confusing Truman |
 | 52:00 | "DO SOMETHING" from his wife |
-| 54:40 |  |
-| 56:10 |  |
-| 59:20 |  |
-| 1:00:10 |  |
-| 1:02:40 |  |
+| 54:40 | Director shot, showing his mate is being fed voice lines |
+| 56:10 | His dad returns on the bridge |
+| 59:20 | 30th year of show (roughly) |
+| 1:00:10 | Mentions of previous intruders onto the show |
+| 1:02:40 | Authorial intrusion? Mention of product placement |
 | around 1:05:00 or something | Truman escapes surveillance at night |
 | 1:13:40 | Truman is noticed as escaped, day 10,913 |
 | 1:18:00 | Truman found on water in sailboat |
