@@ -419,3 +419,5 @@ Throughout the sailing scene, the stereotypical hero's journey is faced, through
 
 Talk about the political mindsets of the show (imperialist?)
 All life came from the ocean -> new life through the ocean (maybe)
+
+## Module B: Close study of literature
