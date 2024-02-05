@@ -427,3 +427,4 @@ Cameras being hidden on scene, but shown to the audience
 A twist on dramatic irony where the cast knows what's happening but Truman doesn't -- every single thing in Trumans world has been thought about, set design, costumes etc
 
 
+
