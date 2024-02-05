@@ -421,6 +421,7 @@ Talk about the political mindsets of the show (imperialist?)
 All life came from the ocean -> new life through the ocean (maybe)
 
 ## Module B: Close study of literature
+
 ### What makes the Truman show distinctive?
 Cameras being hidden on scene, but shown to the audience
 A twist on dramatic irony where the cast knows what's happening but Truman doesn't
