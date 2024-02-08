@@ -438,4 +438,4 @@ All of these sentences have the shared idea of truth
 
 Overall throughout the movie Truman goes on the **Hero's Journey - quest for truth** 
 - Truman is manipulated throughout the film to make Truman do what they want him to do
-- Phones 
+- Phones akin to drugs, social media a fake world almost like how Truman is in a fake world
