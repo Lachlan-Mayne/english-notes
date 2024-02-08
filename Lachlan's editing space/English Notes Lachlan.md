@@ -428,3 +428,8 @@ A twist on dramatic irony where the cast knows what's happening but Truman doesn
 
 
 
+
+## Truman Discussion
+This **film** is a **simulation** that manipulates **truth**
+The Truman show is about **true/fake human relationships**
+The Truman show is a **superficial journey** for 
