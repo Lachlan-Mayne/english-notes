@@ -432,4 +432,8 @@ A twist on dramatic irony where the cast knows what's happening but Truman doesn
 ## Truman Discussion
 This **film** is a **simulation** that manipulates **truth**
 The Truman show is about **true/fake human relationships**
-The Truman show is a **superficial journey** for 
+The Truman show is a **superficial journey** for **entertainment** that is **fake**
+
+All of these sentences have the shared idea of truth
+
+Overall throughout the movie Truman goes on the **Hero's Journey - quest for truth** 
