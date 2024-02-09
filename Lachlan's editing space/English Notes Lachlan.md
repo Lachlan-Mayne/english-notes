@@ -443,4 +443,4 @@ Overall throughout the movie Truman goes on the **Hero's Journey - quest for tru
 
 
 # Module C: The craft of writing
-Students appreciate, examine and analyse at least two challenging short prescribed texts as well as texts from their own wide reading, as models and stimulus for the development of their own wide reading
+Students appreciate, examine and analyse at least two challenging short prescribed texts as well as texts from their own wide reading, as models and stimulus for the development of their own ideas and written expression.
