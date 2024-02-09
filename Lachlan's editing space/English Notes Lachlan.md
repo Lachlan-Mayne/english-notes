@@ -441,6 +441,7 @@ Overall throughout the movie Truman goes on the **Hero's Journey - quest for tru
 - Phones akin to drugs, social media a fake world almost like how Truman is in a fake world
 
 
+Don't structure the video essay like an essay, structure it like a persuasive clearly set out text
 
 # Module C: The craft of writing
-Students appreciate, examine and analyse at least two challenging short prescribed texts as well as texts from their own wide reading, as models and stimulus for the development of their own ideas and written expression.
+Students appreciate, examine and analyse at least two challenging short prescribed texts as well as texts from their own wide reading, as models and stimulus for the development of their own ideas and written expression. 
