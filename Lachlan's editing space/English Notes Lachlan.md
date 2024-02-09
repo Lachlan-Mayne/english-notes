@@ -443,3 +443,4 @@ Overall throughout the movie Truman goes on the **Hero's Journey - quest for tru
 
 
 # Module C: The craft of writing
+Students appreciate, examine and analyse at least
