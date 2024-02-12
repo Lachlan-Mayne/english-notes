@@ -5,3 +5,6 @@ dg-publish: false
 
 ## The Truman Show
 - Bridge is a metaphor for being trapped
+- Flashbacks used to provide backstory for fear
+- Trauma from his dad dying in the past while on the beach
+- 
