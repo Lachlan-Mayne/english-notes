@@ -452,6 +452,6 @@ Surfer poem starts with calm - then turns around into a warning, go home swimmer
 ### **Describe**: what have we done in these lessons?
 Throughout the lessons on the Surfer by Judith Wright, we have explored the meanings behind the poem, including personification techniques around the sea, how it acts as muscles, as a wolf. 
 ### **Disclose**: declare your conceptual understanding of the relationship between the ocean and humans as represented in *The Surfer*
-The relationship between ocean and humans in the surfer is that humans are weak, yet can go into the sea, and work either with it or against it. By working with the ocean, 
+The relationship between ocean and humans in the surfer is that humans are weak, yet can go into the sea, and work either with it or against it. By working with the ocean, a surfer becomes one with it, muscular, fluent, liquid.
 ### **Decide**: how do you feel about this approach?
-This approach was unique, 
+This approach was unique, at first the multiple read throughs of the poem were a bit irritating, although after extending the poem I can see why we read through the poem multiple times initially.
