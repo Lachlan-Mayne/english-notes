@@ -464,4 +464,6 @@ This approach was unique, at first the multiple read throughs of the poem were a
 - Surfer leaves on a wave
 - Sun sets below the horizon
 
+- Beach now looks grey and devoid of life
+- Waves keep falling against the rocks, breaking them from its force
 - 
