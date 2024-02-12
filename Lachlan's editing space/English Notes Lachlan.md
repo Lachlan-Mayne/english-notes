@@ -448,3 +448,7 @@ Students appreciate, examine and analyse at least two challenging short prescrib
 
 Surfer poem starts with calm - then turns around into a warning, go home swimmer
 
+## 3D reflection for Surfer poem
+### **Describe**: what have we done in these lessons?
+
+### **Disclose**: declare your conceptual understanding of the relationship between the ocean and humans as represented in *The Surfer*
