@@ -450,5 +450,9 @@ Surfer poem starts with calm - then turns around into a warning, go home swimmer
 
 ## 3D reflection for Surfer poem
 ### **Describe**: what have we done in these lessons?
+Throughout the lessons on the Surfer by Judith Wright, we have explored the meanings behind the poem, including personification techniques around 
+
 
 ### **Disclose**: declare your conceptual understanding of the relationship between the ocean and humans as represented in *The Surfer*
+
+### **Decide**: how do you feel about this approach?
