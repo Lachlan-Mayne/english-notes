@@ -454,7 +454,7 @@ Throughout the lessons on the Surfer by Judith Wright, we have explored the mean
 
 
 ### **Disclose**: declare your conceptual understanding of the relationship between the ocean and humans as represented in *The Surfer*
-The descripti
+The relationship between ocean and humans in the surfer is that humans are weak, yet can go into the sea, and work either with it or against it. By working with the ocean, 
 
 
 
