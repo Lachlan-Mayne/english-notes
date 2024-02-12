@@ -466,4 +466,6 @@ This approach was unique, at first the multiple read throughs of the poem were a
 
 - Beach now looks grey and devoid of life
 - Waves keep falling against the rocks, breaking them from its force
-- 
+- Ocean is compared to a hungry wolf
+
+The surfer needs to leave so that he doesn't drown from the lack of visibility, or from the tides being dangerous later at night.
