@@ -447,3 +447,4 @@ Don't structure the video essay like an essay, structure it like a persuasive cl
 Students appreciate, examine and analyse at least two challenging short prescribed texts as well as texts from their own wide reading, as models and stimulus for the development of their own ideas and written expression. 
 
 Surfer poem starts with calm - then turns around into a warning, go home swimmer
+
