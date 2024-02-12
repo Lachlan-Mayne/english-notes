@@ -455,3 +455,15 @@ Throughout the lessons on the Surfer by Judith Wright, we have explored the mean
 The relationship between ocean and humans in the surfer is that humans are weak, yet can go into the sea, and work either with it or against it. By working with the ocean, a surfer becomes one with it, muscular, fluent, liquid.
 ### **Decide**: how do you feel about this approach?
 This approach was unique, at first the multiple read throughs of the poem were a bit irritating, although after extending the poem I can see why we read through the poem multiple times initially.
+## Stanza summary for Surfer poem
+- Surfer going into the ocean
+- Water is cold and salty
+- He is loving the experience
+
+- Sunset comes
+- Surfer leaves on a wave
+- Sun sets below the horizon
+
+- Beach now looks grey and devoid of life
+- Waves keep falling against the rocks, breaking them from its force
+- 
