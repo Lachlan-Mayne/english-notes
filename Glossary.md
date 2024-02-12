@@ -31,3 +31,8 @@ Farce: comedic element tied in with dramatic-ness // absurd situation
 Lynching: public killing of an individual who has not received any due process
 
 Power: The ability to influence the abilities/acts of others//the capacity to act in a certain way
+
+
+# NESA TERMS
+#nesa
+Voice: the composers voice, 
