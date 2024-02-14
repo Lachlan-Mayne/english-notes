@@ -6,6 +6,7 @@ Data science is a new field of study, combining:
 - exploratory data analysis & visualisation
 - Data extraction, cleaning & transformation
 - Machine learning & artificial intelligence
+
 Types of data used include:
 - Individual performance
 - Team performance
@@ -21,4 +22,6 @@ Probability 0.5 heads
 $P(x=2)=\frac{5!}{2!(5-2)!}\times(\frac{1}{2})^2$ unfinished line, teacher skipping
 
 In sport, the probability of winning is unknown, so an estimation is calculated, which is known as *maximum likelihood estimation*.
-Example: hawks won 1/5 past games, therefore MLE is $p=\frac{x}{n}$
+Example: hawks won 1/5 past games, therefore MLE is $p=\frac{x}{n}=\frac{1}{5}=0.2$
+
+We want to choose $p$ that maximises the function $$
