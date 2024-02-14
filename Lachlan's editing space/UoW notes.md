@@ -40,5 +40,6 @@ Ability scores aren't constant, they can change throughout the season
 - `Rugbyleagueratings.com`
 - Microsoft Xbox live (trueskill ranking system)
 
+Duckworth-Lewis method is a way of determining who has won a game of cricket if the game is cancelled due to rain. It is calculated by combined resources over overs remaining, and has a somewhat exponentially decreasing graph
 
 
