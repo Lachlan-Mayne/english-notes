@@ -15,8 +15,9 @@ Types of data used include:
 It involves binomial probability:
 If we have a number of $n$ events with only two possible outcomes, governed by a probability $p$, we say that a random number $x$ has a Binomial distribution
 
-Example:
+Unfinished Example:
 Flipping a coin 5 times
 Probability 0.5 heads
+$P(x=2)=\frac{5!}{2!(5-2)!}\times(\frac{1}{2})^2$ unfinished line, teacher skipping
 
-$P(x=2)=\frac{5!}{2!(5-2)!}$
+In sport, the probability of winning is unknown, so 
