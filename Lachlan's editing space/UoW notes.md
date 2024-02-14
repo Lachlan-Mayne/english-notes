@@ -38,4 +38,7 @@ Ability scores aren't constant, they can change throughout the season
 - Universal Tennis Rating (UTR)
 - English premier league: `alt-3.uk`
 - `Rugbyleagueratings.com`
-- Microsoft Xbox live
+- Microsoft Xbox live (trueskill ranking system)
+
+
+
