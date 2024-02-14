@@ -34,4 +34,8 @@ Flaw with this method:
 Ability scores:
 Imagine the probability of $p_{i,j}$ of team $i$ beating team $j$ depends on the relative abilities of the two teams, $a_i$ and $a_j$
 Ability scores aren't constant, they can change throughout the season
-Ability scores were originally invented for the Elo system in chess (Zermelo 1928, )
+- Ability scores were originally invented for the Elo system in chess (Zermelo 1928, Elo 1978)
+- Universal Tennis Rating (UTR)
+- English premier league: `alt-3.uk`
+- `Rugbyleagueratings.com`
+- Microsoft Xbox live
