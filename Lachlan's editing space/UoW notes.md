@@ -51,5 +51,5 @@ New degree launched in 2020
 - Mathematics: calculus, vectors, matrices, optimisation
 - Statistical modelling and forecasting
 - Machine Learning algorithms
-More info on the uow course finder page
-courses.uow.edu.au
+More info on the [uow course finder page](courses.uow.edu.au/courses/2024/3036?year=2024)
+
