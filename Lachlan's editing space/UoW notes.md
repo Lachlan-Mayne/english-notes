@@ -24,4 +24,6 @@ $P(x=2)=\frac{5!}{2!(5-2)!}\times(\frac{1}{2})^2$ unfinished line, teacher skipp
 In sport, the probability of winning is unknown, so an estimation is calculated, which is known as *maximum likelihood estimation*.
 Example: hawks won 1/5 past games, therefore MLE is $p=\frac{x}{n}=\frac{1}{5}=0.2$
 
-We want to choose $p$ that maximises the function $$
+We want to choose $p$ that maximises the function $\binom{5}{1}p^1(1-p)^4$
+MLE can be done using calculus, e.g. with logs to calculate
+$\ln$
