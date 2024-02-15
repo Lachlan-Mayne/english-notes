@@ -70,7 +70,7 @@ Ransomware:
 - The function of ransomware is to cause damage to data or electronic devices and gain an advantage by disrupting services
 - In this case, it requests a ransom to be paid in order to restore access to data, in other words, to fix a problem that it has created
 
-
+Returning to the definition, a cybersecurity expert wil
 
 ## Why do cybersecurity?
 ## Information gathering
