@@ -205,4 +205,7 @@ Goals:
 - **Encrypt** and **Authenticate** HTTP content
 ### Setting up TLS
 1. Say hello (handshake)
-2. 
+2. Who are you?
+3. What encryption, signature, and authentication?
+4. Let's generate shared secret keys
+5. 
