@@ -189,4 +189,5 @@ Around the same time, RSA was developed:
 - efficient implementation
 - security
 	- good with sufficient length of keys
+
 ## Case study
