@@ -66,7 +66,8 @@ Cybersecurity can be considered as a collection of systems, tools, processes, pr
 Example:
 Ransomware:
 - finds their way to a computer, encrypt all the relevant data and ask for a ransom to send the key needed to decrypt the data
-- The function of ransomware is to cause damage to data or electronic devices and gain an advantage by disrupting se
+- The function of ransomware is to cause damage to data or electronic devices and gain an advantage by disrupting services
+
 ## Why do cybersecurity?
 ## Information gathering
 ## Capture the flag (CTF)
