@@ -157,6 +157,9 @@ Movie/media feeds (recommendation engines)
 ## What is cryptography?
 It starts from information transmission - making information sent private/hidden. 
 
-Many types, for example transformative cryptogr
+Many types, for example transformative cryptography:
+- plaintext <=> ciphertext
+Conceal information:
+- encryption
 
 ## Case study
