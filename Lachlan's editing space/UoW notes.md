@@ -96,3 +96,8 @@ Active defense:
 - IPS
 
 ## Capture the flag (CTF)
+Cybersecurity is related to how you can find the weakness of the system. It is like the game called CTF - Capture the Flag
+
+Your task is to **Find the flag** with format (xxx-xxx-xxx-xxx):
+Guideline:
+- https.documents.uow.edu.au/
