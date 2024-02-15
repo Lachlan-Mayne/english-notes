@@ -108,3 +108,7 @@ https://www.hacking-lab.com
 # Uncover hidden mysteries in data
 Business analytics: What is it?
 "Business analytics refers to a broad use of various quantitative techniques such as statistics, data mining, optimisation tools, and simulation supported by the query and reporting mechanism to assist decision makers in making more informed decisions."
+There are 3 main types of modern business analysis:
+- Statistics
+- Business intelligence/information systems
+- Model
