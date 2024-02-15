@@ -70,7 +70,8 @@ Ransomware:
 - The function of ransomware is to cause damage to data or electronic devices and gain an advantage by disrupting services
 - In this case, it requests a ransom to be paid in order to restore access to data, in other words, to fix a problem that it has created
 
-Returning to the definition, a cybersecurity expert will need to have knowledge of coding, problem solving, fundamental knowledge of IT/computer systems
+Returning to the definition, a cybersecurity expert will need to have knowledge of coding, problem solving, fundamental knowledge of IT/computer systems, researching skills
+
 
 ## Why do cybersecurity?
 
