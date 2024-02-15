@@ -121,3 +121,7 @@ It covers different industries:
 - utilities
 Some examples of business analytics: customer transaction behaviour, supply chain, forecasting, spending optimisation, collection prediction, churn, fraud detection, bad debt prediction, cross-sell/upsell, loss estimation, risk analysis, segmentation, money laundering, anomaly detection.
 
+## Data mining vs Machine learning
+Data mining is the use of machine learning to investigate and analyse extensive datasets to identify information and patterns and to predict behaviours in ways that are not feasible using traditional statistical approaches.
+
+Machine learning is algorithms that lear
