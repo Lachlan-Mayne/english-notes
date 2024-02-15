@@ -175,5 +175,8 @@ Ciphertext:
 - XTLR IXTLR EXFHG LJNXXSR
 Plaintext:
 - EASY PEASY LEMON SQUEEZY
-
+### Modern cryptography
+Symmetric-key cryptography:
+- Same key to encrypt and decrypt
+- 
 ## Case study
