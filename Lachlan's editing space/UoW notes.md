@@ -111,4 +111,4 @@ Business analytics: What is it?
 There are 3 main types of modern business analysis:
 - Statistics
 - Business intelligence/information systems
-- Model
+- Modeling and optimisation
