@@ -145,3 +145,6 @@ Statistical analysis begins with data. Deciding what data are needed and how to 
 **Veracity** - uncertainty in the data: missing values, inconsistencies in units of measure, lack of reliability of responses
 
 
+
+## Real world examples
+Mapping urban floods in real time: hashtags/video data analysed on social media to find footage/photos of floods
