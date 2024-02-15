@@ -150,3 +150,4 @@ Statistical analysis begins with data. Deciding what data are needed and how to 
 Mapping urban floods in real time: hashtags/video data analysed on social media to find footage/photos of floods
 Movie/media feeds (recommendation engines)
 [5 examples of data analytics](https://www.mentionlytics.com/blog/5-real-world-examples-of-how-brands-are-using-big-data-analytics)
+[Bad example of analytics](reddit.com/shittyaskscience/comments/19gv2e/why_exactly_does_increased_sales_in_ice_cream)
