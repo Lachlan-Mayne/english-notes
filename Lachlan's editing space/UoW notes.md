@@ -63,6 +63,7 @@ With a house, security involves locks, security cameras, reinforcements etc. A v
 
 Definition:
 Cybersecurity can be considered as a collection of systems, tools, processes, practices, concepts and strategies that are used to prevent and protect the cyber space from unauthorized interaction by agents with elements of the space and to maintain and preserve the confidentiality, integrity, availability and other properties of the space and its protected resources (Le, N.T and Hoang, DB. 2017)
+
 Example:
 Ransomware:
 - finds their way to a computer, encrypt all the relevant data and ask for a ransom to send the key needed to decrypt the data
