@@ -148,3 +148,6 @@ Statistical analysis begins with data. Deciding what data are needed and how to 
 
 ## Real world examples
 Mapping urban floods in real time: hashtags/video data analysed on social media to find footage/photos of floods
+Movie/media feeds (recommendation engines)
+
+https://www.mentionlytics.com/blog/5-real-world-examples-of-how-brands-are-using-big-data-analytics
