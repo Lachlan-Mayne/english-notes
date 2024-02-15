@@ -56,7 +56,9 @@ More info on the [uow course finder page](courses.uow.edu.au/courses/2024/3036?y
 
 # Recent cybersecurity trends on the internet
 ## What is cybersecurity?
+Online/offline, digital securing of data/information
 
+With a house, security 
 ## Why do cybersecurity?
 ## Information gathering
 ## Capture the flag (CTF)
