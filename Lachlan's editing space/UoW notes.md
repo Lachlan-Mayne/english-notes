@@ -158,8 +158,14 @@ Movie/media feeds (recommendation engines)
 It starts from information transmission - making information sent private/hidden. 
 
 Many types, for example transformative cryptography:
-- plaintext <=> ciphertext
+- plaintext <=> cipher-text
 Conceal information:
 - encryption
+Check message:
+- Source
+- Integrity
+- Hash function
+- Digital signature
+
 
 ## Case study
