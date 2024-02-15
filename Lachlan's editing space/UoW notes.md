@@ -67,7 +67,9 @@ Example:
 Ransomware:
 - finds their way to a computer, encrypt all the relevant data and ask for a ransom to send the key needed to decrypt the data
 - The function of ransomware is to cause damage to data or electronic devices and gain an advantage by disrupting services
-- 
+- In this case, it requests a ransom to be paid in order to restore access to data, in other words, to fix a problem that it has created
+
+
 
 ## Why do cybersecurity?
 ## Information gathering
