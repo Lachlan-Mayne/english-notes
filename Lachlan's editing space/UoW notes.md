@@ -203,3 +203,6 @@ Motivation:
 Goals:
 - Create end-to-end secure communication between browser and web server.
 - **Encrypt** and **Authenticate** HTTP content
+### Setting up TLS
+1. Say hello (handshake)
+2. 
