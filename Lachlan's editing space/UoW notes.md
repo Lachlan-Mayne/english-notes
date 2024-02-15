@@ -60,6 +60,9 @@ Online/offline, digital securing of data/information
 Username/password are used to protect a computers software.  
 
 With a house, security involves locks, security cameras, reinforcements etc. A variety of approaches is used to protect a house, smart/analog devices. 
+
+Definition:
+Cybersecurity can be considered as a collection of systems, tools, processes, practices, concepts and strategies that are used to prevent and protect the cyber space from unauthorized interaction by agents with elements of the space and to maintain and preserve the confidentiality, integrity, availability and other pro
 ## Why do cybersecurity?
 ## Information gathering
 ## Capture the flag (CTF)
