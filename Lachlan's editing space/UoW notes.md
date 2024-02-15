@@ -88,5 +88,10 @@ Active:
 The way to defend against each:
 Passive defense:
 - Limit public information
-- Modify server 
+- Modify server error messages
+Active defense:
+- Disable unused ports
+- Firewall
+- Honeypots
+- IPS
 ## Capture the flag (CTF)
