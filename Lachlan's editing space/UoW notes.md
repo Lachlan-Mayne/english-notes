@@ -100,4 +100,7 @@ Cybersecurity is related to how you can find the weakness of the system. It is l
 
 Your task is to **Find the flag** with format (xxx-xxx-xxx-xxx):
 Guideline:
-- https.documents.uow.edu.au/
+- https.documents.uow.edu.au/~ngoctl/DD/flag0.html
+- You will see the picture Mr Janitor
+- Hint 1: view the html source code of the page
+- Hint 2: find the flag with the above format from the source
