@@ -106,3 +106,5 @@ Guideline:
 - Hint 2: find the flag with the above format from the source
 https://www.hacking-lab.com
 # Uncover hidden mysteries in data
+Business analytics: What is it?
+"Business analytics refers to a broad use of various quantitative techniques such as statistics, data mining, optimisation tools, and simulation supported by the query and reporting mechanism to assist decision makers in making more informed decisions."
