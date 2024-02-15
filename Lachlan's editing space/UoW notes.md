@@ -126,3 +126,6 @@ Some examples of business analytics: customer transaction behaviour, supply chai
 
 **Machine learning** is algorithms that learn directly from data and make predictions or decisions based on that data. Automatically explore data based on the data mining process's own findings.
 
+## The 3 categories of business analytics
+What has happened - Descriptive analytics: tracks key performance indicators to understand the present state of a business
+What could happen - Pre
