@@ -182,5 +182,6 @@ Asymmetric-Key cryptography:
 - Aka public-key cryptography
 - Public key to encrypt
 - Private key to decrypt
+Public key cryptography came from 1976, by Whitfield Diffie and Martin Hellman
 
 ## Case study
