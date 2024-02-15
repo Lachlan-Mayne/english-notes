@@ -112,3 +112,11 @@ There are 3 main types of modern business analysis:
 - Statistics
 - Business intelligence/information systems
 - Modeling and optimisation
+
+It covers different industries:
+- retail
+- banking
+- government
+- insurance
+- utilities
+Some examples of business analytics: customer transaction behaviour
