@@ -172,6 +172,8 @@ Classic cipher (caeser):
 - Substitution
 	- A->T, B->U, C->V ...
 Ciphertext:
-- XTLR
+- XTLR IXTLR EXFHG LJNXXSR
+Plaintext:
+- EASY PEASY LEMON SQUEEZY
 
 ## Case study
