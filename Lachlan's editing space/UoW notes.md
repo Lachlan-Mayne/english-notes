@@ -104,3 +104,4 @@ Guideline:
 - You will see the picture Mr Janitor
 - Hint 1: view the html source code of the page
 - Hint 2: find the flag with the above format from the source
+https://www.hacking-lab.com
