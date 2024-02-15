@@ -193,4 +193,4 @@ Around the same time, RSA was developed:
 Secure multi-party computation
 Two parties input certain data, a black box compares them and outputs the comparison
 ## Case study
-What's happening in the browser?
+What's happening in the browser? With a URL such as `https://www.uow.edu.au`, the s in https  
