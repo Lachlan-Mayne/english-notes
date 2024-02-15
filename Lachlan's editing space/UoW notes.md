@@ -74,5 +74,19 @@ Returning to the definition, a cybersecurity expert will need to have knowledge 
 ## Why do cybersecurity?
 interests in security/computer systems/consulting
 ## Information gathering
-
+Gathering information can lead to finding a weakness. There are two main methods of gathering: 
+Passive:
+- google
+- shodan
+- robtex
+- netcraft
+Active:
+- Nmap
+- Zenmap
+- Spatar
+- Scanner
+The way to defend against each:
+Passive defense:
+- Limit public information
+- Modify server 
 ## Capture the flag (CTF)
