@@ -57,7 +57,7 @@ More info on the [uow course finder page](courses.uow.edu.au/courses/2024/3036?y
 # Recent cybersecurity trends on the internet
 ## What is cybersecurity?
 Online/offline, digital securing of data/information
-
+Username/password are used to protect a computers software.  
 
 With a house, security involves locks, security cameras, reinforcements etc. A variety of approaches is used to protect a house, smart/analog devices. 
 ## Why do cybersecurity?
