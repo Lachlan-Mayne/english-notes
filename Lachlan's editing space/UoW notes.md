@@ -202,4 +202,4 @@ Motivation:
 - Prevent various attacks
 Goals:
 - Create end-to-end secure communication between browser and web server.
-- **Encrypt()
+- **Encrypt** and **Authenticate** HTTP content
