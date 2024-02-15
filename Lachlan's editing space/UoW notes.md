@@ -128,4 +128,7 @@ Some examples of business analytics: customer transaction behaviour, supply chai
 
 ## The 3 categories of business analytics
 What has happened - Descriptive analytics: tracks key performance indicators to understand the present state of a business
-What could happen - Pre
+What could happen - Predictive analytics: analyses trend data to assess the likelihood of future outcomes
+What should happen - Prescriptive analytics: uses past performance to generate recommendations about how to handle similar situations in future
+
+## Big data
