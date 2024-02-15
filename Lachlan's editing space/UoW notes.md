@@ -94,4 +94,5 @@ Active defense:
 - Firewall
 - Honeypots
 - IPS
+
 ## Capture the flag (CTF)
