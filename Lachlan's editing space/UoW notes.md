@@ -78,7 +78,7 @@ Gathering information can lead to finding a weakness. There are two main methods
 Passive:
 - google
 - shodan
-- robtex
+- robtex (domain lookup & info)
 - netcraft
 Active:
 - Nmap
