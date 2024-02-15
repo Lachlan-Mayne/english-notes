@@ -168,6 +168,8 @@ Check message:
 - Digital signature
 
 ### Brief history of cryptography
-
+Classic cipher (caeser):
+- Substitution
+	- A->T, B->U, C->V ...
 
 ## Case study
