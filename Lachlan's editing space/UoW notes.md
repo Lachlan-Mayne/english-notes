@@ -209,3 +209,5 @@ Goals:
 3. What encryption, signature, and authentication?
 4. Let's generate shared secret keys
 
+Public keys have a certificate, verifying that the public key is true and correct
+Public key infrastructure (PKI)
