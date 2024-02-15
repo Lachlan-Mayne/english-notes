@@ -53,3 +53,5 @@ New degree launched in 2020
 - Machine Learning algorithms
 More info on the [uow course finder page](courses.uow.edu.au/courses/2024/3036?year=2024)
 
+
+# Recent cybersecurity trends on the internet
