@@ -132,3 +132,8 @@ What could happen - Predictive analytics: analyses trend data to assess the like
 What should happen - Prescriptive analytics: uses past performance to generate recommendations about how to handle similar situations in future
 
 ## Big data
+**Big data** refers to the deep and broad collections of data that arise from the ongoing collection of data through organic distributed processes.
+
+Think about how many of your everyday activities generate data about yourself and what you do.
+
+Statistical analysis begins with data. Deciding what data are needed and how to obtain them are an essential part of business ana
