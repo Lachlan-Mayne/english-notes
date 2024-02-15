@@ -171,5 +171,7 @@ Check message:
 Classic cipher (caeser):
 - Substitution
 	- A->T, B->U, C->V ...
+Ciphertext:
+- XTLR
 
 ## Case study
