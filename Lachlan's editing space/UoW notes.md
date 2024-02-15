@@ -136,4 +136,9 @@ What should happen - Prescriptive analytics: uses past performance to generate r
 
 Think about how many of your everyday activities generate data about yourself and what you do.
 
-Statistical analysis begins with data. Deciding what data are needed and how to obtain them are an essential part of business ana
+Statistical analysis begins with data. Deciding what data are needed and how to obtain them are an essential part of business analytics
+
+### Big data: Four V's
+**Volume** - data is generated, captured and stored from numerous available sources, quickly building datasets.
+**Velocity** - everyday activities result in the production of data that are automatically stored in real time
+**Variety** - automatic data capture
