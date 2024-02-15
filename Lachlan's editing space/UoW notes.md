@@ -167,5 +167,7 @@ Check message:
 - Hash function
 - Digital signature
 
+### Brief history of cryptography
+
 
 ## Case study
