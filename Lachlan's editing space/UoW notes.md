@@ -141,4 +141,7 @@ Statistical analysis begins with data. Deciding what data are needed and how to 
 ### Big data: Four V's
 **Volume** - data is generated, captured and stored from numerous available sources, quickly building datasets.
 **Velocity** - everyday activities result in the production of data that are automatically stored in real time
-**Variety** - automatic data capture
+**Variety** - automatic data capture from so many sources means that datasets are both broad (cover numerous issues) and deep (provide great detail)
+**Veracity** - uncertainty in the data: missing values, inconsistencies in units of measure, lack of reliability of responses
+
+
