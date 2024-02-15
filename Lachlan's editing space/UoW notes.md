@@ -183,5 +183,10 @@ Asymmetric-Key cryptography:
 - Public key to encrypt
 - Private key to decrypt
 Public key cryptography came from 1976, by Whitfield Diffie and Martin Hellman
-
+Around the same time, RSA was developed:
+- public key encryption standard
+- simple construction
+- efficient implementation
+- security
+	- good with sufficient length of keys
 ## Case study
