@@ -58,7 +58,7 @@ More info on the [uow course finder page](courses.uow.edu.au/courses/2024/3036?y
 ## What is cybersecurity?
 Online/offline, digital securing of data/information
 
-With a house, security 
+With a house, security involves locks, security cameras, reinforcements etc. 
 ## Why do cybersecurity?
 ## Information gathering
 ## Capture the flag (CTF)
