@@ -156,4 +156,7 @@ Movie/media feeds (recommendation engines)
 # Introduction to cryptography
 ## What is cryptography?
 It starts from information transmission - making information sent private/hidden. 
+
+Many types, for example transformative cryptogr
+
 ## Case study
