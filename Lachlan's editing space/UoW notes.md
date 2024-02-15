@@ -119,4 +119,5 @@ It covers different industries:
 - government
 - insurance
 - utilities
-Some examples of business analytics: customer transaction behaviour
+Some examples of business analytics: customer transaction behaviour, supply chain, forecasting, spending optimisation, collection prediction, churn, fraud detection, bad debt prediction, cross-sell/upsell, loss estimation, risk analysis, segmentation, money laundering, anomaly detection.
+
