@@ -178,5 +178,9 @@ Plaintext:
 ### Modern cryptography
 Symmetric-key cryptography:
 - Same key to encrypt and decrypt
-- 
+Asymmetric-Key cryptography:
+- Aka public-key cryptography
+- Public key to encrypt
+- Private key to decrypt
+
 ## Case study
