@@ -191,5 +191,5 @@ Around the same time, RSA was developed:
 	- good with sufficient length of keys
 ### Beyond encryption and signatures
 Secure multi-party computation
-
+Two parties input certain data, a black box compares g
 ## Case study
