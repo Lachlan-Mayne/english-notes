@@ -483,7 +483,7 @@ The surfer needs to leave so that he doesn't drown from the lack of visibility, 
 ## My rewrite of the poem
 As I cast off into the blue;
 climbing against the waves, drifting through the spume,
-(grinning, as the cold water stabs my face)
+(grinning, as the cold water sprays my face)
 my skin, glistening under the salt water
 pushing against the waves, I take my board further out
 deeper than ever before, prepared to face the new waves
