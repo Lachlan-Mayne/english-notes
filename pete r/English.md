@@ -11,4 +11,5 @@ dg-publish: false
 - Meta: a thing about a thing (a movie about a movie, book about a book)
 - Peter Weir (director) introduces meta-commentary
 - Flashbacks are incorporated through symbolism (jumper)
-- Days running has a subtle reference to be
+- Days running has a subtle reference to being in a prison
+- 
