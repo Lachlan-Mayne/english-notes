@@ -489,4 +489,5 @@ pushing against the waves, I take my board further out
 deeper than ever before, prepared to face the new waves
 
 the sun falls beyond the horizon
-I s
+I start to turn back, paddling to the shore
+catching one last wave to carry me closer
