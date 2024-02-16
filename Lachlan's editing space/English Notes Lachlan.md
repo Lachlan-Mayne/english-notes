@@ -495,12 +495,13 @@ First stanza focuses entirely on the surfer, while the second stanza is a warnin
 ## Explain the following
 Stanza 1:
 i) Muscle of arm thrust down long muscle of water;
-This line is the poet talking about the surfer contending/pushing against the ocean, muscle for muscle by personifying the ocean, yet saying they are as 1
+This line is the poet talking about the surfer contending/pushing against the ocean, muscle for muscle by personifying the ocean, yet saying they are as 1 because they both are muscles.
 Stanza 2:
 ii) Turn home, the sun goes down; swimmer, turn home
 iii) Last leaf of gold vanishes from the sea-curve
 Stanza 3:
-iv) For on the sand the grey-wolf
+iv) For on the sand the grey-wolf sea lies, snarling,
+v) one of your own choosing
 ## My rewrite of the poem
 As I cast off into the blue;
 climbing against the waves, drifting through the spume,
