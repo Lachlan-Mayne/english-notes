@@ -13,4 +13,5 @@ dg-publish: false
 - Flashbacks are incorporated through symbolism (jumper)
 - Days running has a subtle reference to being in a prison
 - Call to adventure, meeting of goddess is when he meets Sylvia (where his obsession with Fiji starts)
+- Truman starts finding out more when he doesn't show up for work (breaking out of the status quo)
 - 
