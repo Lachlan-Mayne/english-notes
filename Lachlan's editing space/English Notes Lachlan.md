@@ -498,6 +498,7 @@ i) Muscle of arm thrust down long muscle of water;
 This line is the poet talking about the surfer contending/pushing against the ocean, muscle for muscle by personifying the ocean, yet saying they are as 1 because they both are muscles.
 Stanza 2:
 ii) Turn home, the sun goes down; swimmer, turn home
+The ocean/narrator is imploring the surfer to head back, mentioning how the sun has set and the swimmer, not even the surfer anymore, should turn back, turn home
 iii) Last leaf of gold vanishes from the sea-curve
 Stanza 3:
 iv) For on the sand the grey-wolf sea lies, snarling,
