@@ -486,7 +486,11 @@ The surfer needs to leave so that he doesn't drown from the lack of visibility, 
 	2. Find a key image from each stanza that represents the changing relationship between the surfer and the ocean
 	
 	3. Why do you think it's appropriate to compare the sea to a grey-wolf? In what ways are they similar?
-5. What does this poem suggest to us about the relationship between the sea a 
+5. What does this poem suggest to us about the relationship between the sea and the surfer?
+Throughout the poem the ocean is shown as a strong relationship with the surfer, ie nothing else matters
+6. Does knowing that Judith Wright is an Australian poet who was a passionate and active environmentalist add to your understanding of what the poem might be expressing?
+She's providing a warni
+7. 
 ## My rewrite of the poem
 As I cast off into the blue;
 climbing against the waves, drifting through the spume,
