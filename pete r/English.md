@@ -9,4 +9,4 @@ dg-publish: false
 - Trauma from his dad dying in the past while on the beach
 - Multiple levels: Truman level (his normal life), and people watching him (security guards, audience etc)
 - Meta: a thing about a thing (a movie about a movie, book about a book)
-- Peter Weir (director) introduces metacommentary
+- Peter Weir (director) introduces meta-commentary
