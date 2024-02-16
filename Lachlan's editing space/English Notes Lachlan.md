@@ -484,8 +484,9 @@ The surfer needs to leave so that he doesn't drown from the lack of visibility, 
 	I've circled 8 types of imagery, personally I find the line with "and sea crouches on sand, fawning and mouthing" to be the easiest to understand with a powerful meaning behind it: the ocean is hungry, waiting for prey to eat up
 	Other people got 16 instances of imagery
 	2. Find a key image from each stanza that represents the changing relationship between the surfer and the ocean
-	Throughout the poem the ocean is shown as a strong relationship with the surfer
+	
 	3. Why do you think it's appropriate to compare the sea to a grey-wolf? In what ways are they similar?
+5. What does this poem suggest to us about the relationship between the sea a 
 ## My rewrite of the poem
 As I cast off into the blue;
 climbing against the waves, drifting through the spume,
