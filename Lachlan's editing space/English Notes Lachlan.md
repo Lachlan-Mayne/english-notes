@@ -494,9 +494,13 @@ She's providing both a positive and a negative message on the ocean in one poem 
 First stanza focuses entirely on the surfer, while the second stanza is a warning/push to send the surfer home, and the third stanza wraps it up explaining why the warning was given. 
 ## Explain the following
 Stanza 1:
-Muscle of arm thrust down long muscle of water;
+i) Muscle of arm thrust down long muscle of water;
+This line is the poet talking about the surfer contending/pushing against the ocean, muscle for muscle by personifying the ocean, yet saying they are as 1
 Stanza 2:
-Turn home, the sun goes down; swimmer
+ii) Turn home, the sun goes down; swimmer, turn home
+iii) Last leaf of gold vanishes from the sea-curve
+Stanza 3:
+iv) For on the sand the grey-wolf
 ## My rewrite of the poem
 As I cast off into the blue;
 climbing against the waves, drifting through the spume,
