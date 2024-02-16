@@ -7,4 +7,5 @@ dg-publish: false
 - Bridge is a metaphor for being trapped
 - Flashbacks used to provide backstory for fear
 - Trauma from his dad dying in the past while on the beach
+- Multiple levels: Truman level (his normal life), and people watching him (security guards, audience etc)
 - 
