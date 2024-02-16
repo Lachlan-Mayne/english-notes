@@ -12,4 +12,5 @@ dg-publish: false
 - Peter Weir (director) introduces meta-commentary
 - Flashbacks are incorporated through symbolism (jumper)
 - Days running has a subtle reference to being in a prison
-- Call to adventure, meeting of goddess is when he meets 
+- Call to adventure, meeting of goddess is when he meets Sylvia (where his obsession with Fiji starts)
+- 
