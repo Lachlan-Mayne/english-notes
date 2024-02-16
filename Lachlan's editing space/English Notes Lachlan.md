@@ -471,7 +471,11 @@ This approach was unique, at first the multiple read throughs of the poem were a
 - Waves keep falling against the rocks, breaking them from its force
 - Ocean is compared to a hungry wolf
 
-2. 
+2. Why does the surfer need to go home?
 The surfer needs to leave so that he doesn't drown from the lack of visibility, or from the tides being dangerous later at night.
 - "For on the sand the grey wolf lies" - come back, because the wolf lies on the sand
+3. Voice (go over NESA definition)
+	1. Whose perspective are we reading?
+		
+	2. How can you tell? 
 
