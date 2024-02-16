@@ -469,3 +469,5 @@ This approach was unique, at first the multiple read throughs of the poem were a
 - Ocean is compared to a hungry wolf
 
 The surfer needs to leave so that he doesn't drown from the lack of visibility, or from the tides being dangerous later at night.
+- "For on the sand the grey wolf lies" - come back, because the wolf lies on the sand
+
