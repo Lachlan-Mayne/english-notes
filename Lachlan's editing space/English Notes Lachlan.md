@@ -476,8 +476,9 @@ The surfer needs to leave so that he doesn't drown from the lack of visibility, 
 - "For on the sand the grey wolf lies" - come back, because the wolf lies on the sand
 3. Voice (go over NESA definition)
 	1. Whose perspective are we reading?
-		
+	3rd person
 	2. How can you tell? 
+	The language techniques used, referencing to the surfer as "him" and not "me" or "myself"
 
 ## My rewrite of the poem
 As I cast off into the blue;
