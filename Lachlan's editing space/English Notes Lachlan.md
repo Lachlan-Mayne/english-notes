@@ -500,7 +500,7 @@ Stanza 2:
 ii) Turn home, the sun goes down; swimmer, turn home
 The ocean/narrator is imploring the surfer to head back, mentioning how the sun has set and the swimmer, not even the surfer anymore, should turn back, turn home
 iii) Last leaf of gold vanishes from the sea-curve
-This uses imagery to compare the sun to a gold leaf, saying that the sun is gold/wealth, and the wealth has left the sea, further asking the swimmer to head 
+This uses imagery to compare the sun to a gold leaf, saying that the sun is gold/wealth, and the wealth has left the sea, further asking the swimmer to head back, there is no wealth there for him anymore
 Stanza 3:
 iv) For on the sand the grey-wolf sea lies, snarling,
 v) one of your own choosing
