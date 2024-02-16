@@ -481,7 +481,7 @@ The surfer needs to leave so that he doesn't drown from the lack of visibility, 
 	The language techniques used, referencing to the surfer as "him" and not "me" or "myself"
 4. Imagery
 	1. There are a range of distinctive images in this poem. How many can you identify? Which image do you think is the most powerful? Why?
-
+	I've circled 8 types of imagery, 
 	1. Find a key image from each stanza that represents the changing relationship between the surfer and the ocean
 	2. Why do you think it's appropriate to compare the sea to a grey-wolf? In what ways are they similar?
 ## My rewrite of the poem
