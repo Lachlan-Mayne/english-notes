@@ -10,4 +10,5 @@ dg-publish: false
 - Multiple levels: Truman level (his normal life), and people watching him (security guards, audience etc)
 - Meta: a thing about a thing (a movie about a movie, book about a book)
 - Peter Weir (director) introduces meta-commentary
-- Flashbacks are used 
+- Flashbacks are incorporated through symbolism (jumper)
+- 
