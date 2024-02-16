@@ -479,7 +479,8 @@ The surfer needs to leave so that he doesn't drown from the lack of visibility, 
 	3rd person
 	2. How can you tell? 
 	The language techniques used, referencing to the surfer as "him" and not "me" or "myself"
-
+4. Imagery
+	1. There are a range of distinc
 ## My rewrite of the poem
 As I cast off into the blue;
 climbing against the waves, drifting through the spume,
