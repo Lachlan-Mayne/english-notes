@@ -490,7 +490,8 @@ The surfer needs to leave so that he doesn't drown from the lack of visibility, 
 Throughout the poem the ocean is shown as a strong relationship with the surfer, ie nothing else matters
 6. Does knowing that Judith Wright is an Australian poet who was a passionate and active environmentalist add to your understanding of what the poem might be expressing?
 She's providing both a positive and a negative message on the ocean in one poem -- almost saying to respect the ocean
-7. Write a 20 line analysis of the poem
+7. Write a 20 line analysis of the poem. Begin with what you think is the main idea or theme. Be sure to include the impact of voice and imagery in your analysis. You may also include content, context, structure, title and tone.
+
 ## My rewrite of the poem
 As I cast off into the blue;
 climbing against the waves, drifting through the spume,
