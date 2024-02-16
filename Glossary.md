@@ -37,4 +37,4 @@ Power: The ability to influence the abilities/acts of others//the capacity to ac
 #nesa
 Voice: the composers voice, speaking consciousness/authorial voice behind characters, narrators and personas in a text. 
 
-Imagery: The use of
+Imagery: The use of figurative language to represent objects, actions or ideas
