@@ -489,7 +489,7 @@ The surfer needs to leave so that he doesn't drown from the lack of visibility, 
 5. What does this poem suggest to us about the relationship between the sea and the surfer?
 Throughout the poem the ocean is shown as a strong relationship with the surfer, ie nothing else matters
 6. Does knowing that Judith Wright is an Australian poet who was a passionate and active environmentalist add to your understanding of what the poem might be expressing?
-She's providing both a positive and a negative message on the ocean in one poem
+She's providing both a positive and a negative message on the ocean in one poem -- almost saying to respect the ocean
 7. 
 ## My rewrite of the poem
 As I cast off into the blue;
