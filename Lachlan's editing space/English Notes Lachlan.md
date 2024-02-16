@@ -492,7 +492,11 @@ Throughout the poem the ocean is shown as a strong relationship with the surfer,
 She's providing both a positive and a negative message on the ocean in one poem -- almost saying to respect the ocean
 7. Write a 20 line analysis of the poem. Begin with what you think is the main idea or theme. Be sure to include the impact of voice and imagery in your analysis. You may also include content, context, structure, title and tone.
 First stanza focuses entirely on the surfer, while the second stanza is a warning/push to send the surfer home, and the third stanza wraps it up explaining why the warning was given. 
-
+## Explain the following
+Stanza 1:
+Muscle of arm thrust down long muscle of water;
+Stanza 2:
+Turn home, the sun goes down; swimmer
 ## My rewrite of the poem
 As I cast off into the blue;
 climbing against the waves, drifting through the spume,
