@@ -35,5 +35,5 @@ Power: The ability to influence the abilities/acts of others//the capacity to ac
 
 # NESA TERMS
 #nesa
-Voice: the composers voice, speaking consciousness/authorial voice behind characters, narrators and personas in a text. In speaking, voice is description of the oral production of text.
+Voice: the composers voice, speaking consciousness/authorial voice behind characters, narrators and personas in a text. 
 

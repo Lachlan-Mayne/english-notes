@@ -448,6 +448,8 @@ Students appreciate, examine and analyse at least two challenging short prescrib
 
 Surfer poem starts with calm - then turns around into a warning, go home swimmer
 
+[The poem](https://allpoetry.com/The-Surfer)
+
 ## 3D reflection for Surfer poem
 ### **Describe**: what have we done in these lessons?
 Throughout the lessons on the Surfer by Judith Wright, we have explored the meanings behind the poem, including personification techniques around the sea, how it acts as muscles, as a wolf. 
@@ -456,6 +458,7 @@ The relationship between ocean and humans in the surfer is that humans are weak,
 ### **Decide**: how do you feel about this approach?
 This approach was unique, at first the multiple read throughs of the poem were a bit irritating, although after extending the poem I can see why we read through the poem multiple times initially.
 ## Stanza summary for Surfer poem
+1. Write 3 dot points to summarise each stanza
 - Surfer going into the ocean
 - Water is cold and salty
 - He is loving the experience
@@ -468,4 +471,17 @@ This approach was unique, at first the multiple read throughs of the poem were a
 - Waves keep falling against the rocks, breaking them from its force
 - Ocean is compared to a hungry wolf
 
+2. Why does the surfer need to go home?
 The surfer needs to leave so that he doesn't drown from the lack of visibility, or from the tides being dangerous later at night.
+- "For on the sand the grey wolf lies" - come back, because the wolf lies on the sand
+3. Voice (go over NESA definition)
+	1. Whose perspective are we reading?
+	3rd person
+	2. How can you tell? 
+	The language techniques used, referencing to the surfer as "him" and not "me" or "myself"
+
+## My rewrite of the poem
+As I cast off into the blue;
+climbing against the waves, drifting through the spume,
+(grinning, as the cold water stabs my face)
+my tanned skin, glistening under the salt water
