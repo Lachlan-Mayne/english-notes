@@ -479,3 +479,6 @@ The surfer needs to leave so that he doesn't drown from the lack of visibility, 
 		
 	2. How can you tell? 
 
+## My rewrite of the poem
+As I cast off into the blue;
+climbing against the waves, drifting through the 
