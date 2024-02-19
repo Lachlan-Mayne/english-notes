@@ -30,3 +30,6 @@ $2$HNO$_{3(aq)}$+Ba(OH)$_{2(aq)}\rightarrow$Ba(NO$_3$)$_{2(aq)}$ +$2$H$_2$O$_{aq
 
 6.2.1 pg154
 0.100mol/L Ba(OH)$_2$ and 75mL of 0.0500mol/L H$_2$SO$_4$
+1. Write an equation:
+Ba(OH)$_2$+H$_2$
+2. 
