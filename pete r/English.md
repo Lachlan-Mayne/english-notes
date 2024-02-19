@@ -17,7 +17,9 @@ dg-publish: false
 - Crossing fingers on the wedding day to symbolise the fake love
 - Truman escalates to a point where only intervention from others can save him
 - The artificial world breaks down more and more
-- Characters:
+- Police officer calls him by name which causes him to realise it's fake
+- 
+
 ### **Characters:**
 
 - **Truman Burbank:** Unwitting star of a reality show, seeking answers to his seemingly perfect life.
