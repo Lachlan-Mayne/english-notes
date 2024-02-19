@@ -43,4 +43,4 @@ $=0.0375$
 $=37.5$mL
 
 sodium hydroxide secondary standard
-sodium hydrogen phthalate primary standard
+potassium hydrogen phthalate primary standard
