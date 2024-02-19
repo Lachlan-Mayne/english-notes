@@ -38,3 +38,6 @@ $=0.00375$
 3. Find moles of unknown (Ba(OH)$_2$)
 $=0.00375$
 4. Find volume of Ba(OH)$_2$
+$=\frac{0.00375}{0.1}$
+$=0.0375$
+$=37.5$mL
