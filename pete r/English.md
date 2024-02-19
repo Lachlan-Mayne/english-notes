@@ -18,6 +18,8 @@ dg-publish: false
 - Truman escalates to a point where only intervention from others can save him
 - The artificial world breaks down more and more
 - Police officer calls him by name which causes him to realise it's fake
+- Through scene with Marlon he is being fed lines
+- "Last thing I would ever do to you is lie to you" - Irony used as he is being fed lines
 - 
 
 ### **Characters:**
