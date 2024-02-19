@@ -530,7 +530,12 @@ Throwing my head into this invisible net's base, I try one last time to escape, 
 
 ### Questions on group work
 1. Who's point of view dominates this artwork?
-The birds 
-3. What role do the other characters serve in adding meaning to the artwork?
+The birds point of view
+2. What role do the other characters serve in adding meaning to the artwork?
 They provide alternative meanings and voices to the morality of killing an innocent bird
 3. Think of one word to represent each character
+- Scientist:
+- Elderly man contemplating the skull
+- young couple ignoring the pump
+- young man watching intently
+- 
