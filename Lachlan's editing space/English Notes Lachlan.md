@@ -539,5 +539,5 @@ They provide alternative voices to the morality of killing an innocent bird
 - young couple ignoring the pump: oblivious
 - young man watching intently: intrigued
 - horrified girls: humane
-- father who comforts girls: 
+- father who comforts girls: apprehensive
 - bird itself: pure
