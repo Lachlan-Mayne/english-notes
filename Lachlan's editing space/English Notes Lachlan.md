@@ -516,3 +516,7 @@ deeper than ever before, prepared to face the new waves
 the sun falls beyond the horizon
 I start to turn back, paddling to the shore
 catching one last wave to carry me closer
+
+## An experiment on a bird in the air pump
+**The point of view of the bird**:
+Pressure. Building, 
