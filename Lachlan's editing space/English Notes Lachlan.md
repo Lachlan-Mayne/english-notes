@@ -522,4 +522,5 @@ catching one last wave to carry me closer
 Pressure. Subtracting, crushing, aching inside my head. My feathers, ruffling in the breeze pulling, *escaping* from beneath me. 
 A weak cry emits from my beak, the intruders outside looking on with interest. They poke, they stare. Some of them are sad, crying over what the old one is doing with the pump. 
 
-My neck starts to give out, my lungs burning as the air is stolen from my body. My tongue starts to burn, water being 
+My neck starts to give out, my lungs burning as the air is stolen from my body. My tongue starts to burn, water being turned to steam, my eyes blurring.
+
