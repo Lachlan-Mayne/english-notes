@@ -25,4 +25,5 @@ What volume of a 0.200mol/L solution of barium hydroxide (BA(OH)$_2$) would neut
 1. Write an equation:
 $2$HNO$_{3(aq)}$+Ba(OH)$_{2(aq)}\rightarrow$Ba(NO$_3$)$_{2(aq)}$ +$2$H$_2$O$_{aq}$
 2. Find moles of known (HNO$_3$) = C\*v = 0.15\*0.15
-3. Find moles of unknown (Ba())
+3. Find moles of unknown (Ba(OH)$_2$) = (0.15\*0.15)÷2
+4. Calculate volume of Ba(OH)$_2$ = $\frac{(0.15\times0.15}{}$
