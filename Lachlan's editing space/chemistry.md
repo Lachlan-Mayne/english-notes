@@ -33,5 +33,8 @@ $2$HNO$_{3(aq)}$+Ba(OH)$_{2(aq)}\rightarrow$Ba(NO$_3$)$_{2(aq)}$ +$2$H$_2$O$_{aq
 1. Write an equation:
 Ba(OH)$_2$+H$_2$SO$_4\rightarrow$BaSO$_4$+$2$H$_2$O
 2. Find moles of known (H$_2$SO$_4$)
-$$=0.05\times
-3. 
+$=0.05\times0.075$
+$=0.00375$
+3. Find moles of unknown (Ba(OH)$_2$)
+$=0.00375$
+4. Find volume of Ba(OH)$_2$
