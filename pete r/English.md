@@ -23,7 +23,7 @@ dg-publish: false
 - Peter Weir is saying that even if someone knows everything is not real it can still feel moving and real (through scene of Truman's dad coming back)
 - Films create a sense of empathy for a character
 - "We accept the reality of the world at which we are presented" - Christof
-- "Seahaven is the way the world should be" 
+- "Seahaven is the way the world should be" - Christo
 
 ### **Characters:**
 
