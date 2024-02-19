@@ -20,7 +20,7 @@ dg-publish: false
 - Police officer calls him by name which causes him to realise it's fake
 - Through scene with Marlon he is being fed lines
 - "Last thing I would ever do to you is lie to you" - Irony used as he is being fed lines
-- 
+- Peter Weir is saying that even if someone knows everything is not real it can still feel moving and re
 
 ### **Characters:**
 
