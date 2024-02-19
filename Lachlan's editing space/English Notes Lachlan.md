@@ -519,5 +519,5 @@ catching one last wave to carry me closer
 
 ## An experiment on a bird in the air pump
 **The point of view of the bird**:
-Pressure. Building, crushing, aching inside my head. My feathers, ruffling in the breeze pushing, *invading* from beneath me. 
+Pressure. Subtracting, crushing, aching inside my head. My feathers, ruffling in the breeze pulling, *escaping* from beneath me. 
 A weak cry emits from my beak, the intruders outside looking on with interest. They poke, they stare. Some of them are sad, crying over what the old one is doing with the pump. 
