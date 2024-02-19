@@ -239,5 +239,11 @@ Points have a location, vectors have a vector
 $||\vec{a}||=1$ - normal vector
 Alternatively, $\hat{\textasciitilde{a}}$ 
 
+  $$f(n) =
+\begin{cases}
+n/2,  & \text{if $n$ is even} \\
+3n+1, & \text{if $n$ is odd}
+\end{cases}$$
+
 $\vec{a}*\vec{b}=[x_1*x_2]+[y_1*y_2]$
 ![[Screenshot 2023-11-28 at 2.58.29 pm.png]]
