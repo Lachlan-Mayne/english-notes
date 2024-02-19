@@ -526,4 +526,4 @@ My neck starts to give out, my lungs burning as the air is stolen from my body. 
 
 Throwing myself away from the pump, I hit a wall. Again, trying to escape, I hit a wall. Walls everywhere, surrounding, trapping, like a net, holding me near this danger. 
 
-Throwing my head into the g
+Throwing my head into this invisible net's base, I try one last time to escape, before my body begins convulsing, and I can't stop it, and I can't make it stop, and I can't...
