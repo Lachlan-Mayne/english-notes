@@ -237,6 +237,6 @@ $||\vec{ab}||$ signifies the length which equals $\sqrt{a^2+b^2}$
 ![[Screenshot 2023-11-28 at 2.40.21 pm.png]]
 Points have a location, vectors have a vector
 $||\vec{a}||=1$ - normal vector
-Alternatively, 
+Alternatively, $\hat$
 $\vec{a}*\vec{b}=[x_1*x_2]+[y_1*y_2]$
 ![[Screenshot 2023-11-28 at 2.58.29 pm.png]]
