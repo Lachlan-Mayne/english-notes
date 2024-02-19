@@ -15,3 +15,6 @@ dg-publish: false
 - Call to adventure, meeting of goddess is when he meets Sylvia (where his obsession with Fiji starts)
 - Truman starts finding out more when he doesn't show up for work (breaking out of the status quo)
 - Crossing fingers on the wedding day to symbolise the fake love
+- Truman escalates to a point where only intervention from others can save him
+- The artificial world breaks down more and more
+- 
