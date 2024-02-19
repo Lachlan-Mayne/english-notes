@@ -492,6 +492,7 @@ Throughout the poem the ocean is shown as a strong relationship with the surfer,
 She's providing both a positive and a negative message on the ocean in one poem -- almost saying to respect the ocean
 7. Write a 20 line analysis of the poem. Begin with what you think is the main idea or theme. Be sure to include the impact of voice and imagery in your analysis. You may also include content, context, structure, title and tone.
 First stanza focuses entirely on the surfer, while the second stanza is a warning/push to send the surfer home, and the third stanza wraps it up explaining why the warning was given. The main theme in my opinion would be the idea of working alongside or appreciating nature, while still respecting the dangers it can hold. The author (Judith Wright) chose to almost provide a voice to nature, with lines such as "turn home swimmer" seeming to be from the point of view of either a seagull, or the land warning the swimmer.
+The punctuation in the poem is brief, yet it provides a flow to the story, almost how the ocean has a flow that the surfer can work along with. 
 ## Explain the following
 Stanza 1:
 i) Muscle of arm thrust down long muscle of water;
