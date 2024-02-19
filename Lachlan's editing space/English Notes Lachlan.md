@@ -524,4 +524,6 @@ A weak cry emits from my beak, the intruders outside looking on with interest. T
 
 My neck starts to give out, my lungs burning as the air is stolen from my body. My tongue starts to burn, water being turned to steam, my eyes blurring.
 
-Throwing myself away from the pump, I hit a wall. Again, trying to escape, I hit a wall. Walls everywhere, surrounding, trapping, 
+Throwing myself away from the pump, I hit a wall. Again, trying to escape, I hit a wall. Walls everywhere, surrounding, trapping, like a net, holding me near this danger. 
+
+Throwing my head into the g
