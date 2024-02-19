@@ -534,10 +534,10 @@ The birds point of view
 2. What role do the other characters serve in adding meaning to the artwork?
 They provide alternative meanings and voices to the morality of killing an innocent bird
 3. Think of one word to represent each character
-- Scientist: curious
+- Scientist: observant
 - Elderly man contemplating the skull: worried
 - young couple ignoring the pump: oblivious
-- young man watching intently: 
+- young man watching intently: intrigued
 - horrified girls: humane
 - father who comforts girls: 
 - bird itself: pure
