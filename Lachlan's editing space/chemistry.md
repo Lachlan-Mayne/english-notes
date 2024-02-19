@@ -28,4 +28,5 @@ $2$HNO$_{3(aq)}$+Ba(OH)$_{2(aq)}\rightarrow$Ba(NO$_3$)$_{2(aq)}$ +$2$H$_2$O$_{aq
 3. Find moles of unknown (Ba(OH)$_2$) = (0.15\*0.15)÷2
 4. Calculate volume of Ba(OH)$_2$ = $\frac{(0.15\times0.15)}{2\times0.200}=0.056$L = 56mL
 
-6.2.1
+6.2.1 pg154
+0.100mol/L Ba(OH)$_2$ and 75mL of 0.0500mol/L H$_2$SO$_4$
