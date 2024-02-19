@@ -237,7 +237,7 @@ $||\vec{ab}||$ signifies the length which equals $\sqrt{a^2+b^2}$
 ![[Screenshot 2023-11-28 at 2.40.21 pm.png]]
 Points have a location, vectors have a vector
 $||\vec{a}||=1$ - normal vector
-Alternatively, $\hat{\underline{a}}$ represents 
+Alternatively, $\hat{\underline{a}}$ represents $\frac{1}{|\vec{a}|}\times{\vec{a}}$
 
   $$f(n) =
 \begin{cases}
