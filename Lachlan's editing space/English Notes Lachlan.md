@@ -532,7 +532,7 @@ Throwing my head into this invisible net's base, I try one last time to escape, 
 1. Who's point of view dominates this artwork?
 The birds point of view
 2. What role do the other characters serve in adding meaning to the artwork?
-They provide alternative meanings and voices to the morality of killing an innocent bird
+They provide alternative voices to the morality of killing an innocent bird
 3. Think of one word to represent each character
 - Scientist: observant
 - Elderly man contemplating the skull: worried
