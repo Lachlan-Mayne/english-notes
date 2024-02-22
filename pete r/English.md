@@ -73,3 +73,7 @@ dg-publish: false
 
 - The days running counter draws a similarity to people stuck in prison
 
+## Fake Things:
+- City
+- People
+- Weather
