@@ -25,7 +25,6 @@ dg-publish: false
 - "We accept the reality of the world at which we are presented" - Christof
 - "Seahaven is the way the world should be" - Christof to Sylvia in interview
 - Christof is arguing that Truman is living in a world he wants to be in
-- 
 
 ### **Characters:**
 
@@ -68,3 +67,5 @@ dg-publish: false
 ### Symbols
 
 - The days running counter draws a similarity to people stuck in prison
+
+
