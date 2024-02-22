@@ -5,6 +5,9 @@ dg-publish: false
 
 ## The Truman Show
 - Truman talking about going on adventures to the mirror
+- Irony of wanting to be an adventurer as he is locked up in a world
+- He eventually does what the closest thing to being an explorer and takes a ship
+- Boat is called "Santa Maria" an
 - Bridge is a metaphor for being trapped
 - Flashbacks used to provide backstory for fear
 - Trauma from his dad dying in the past while on the beach
