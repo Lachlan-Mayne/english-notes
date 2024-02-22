@@ -4,6 +4,7 @@ dg-publish: false
 ## **Term 1 2024**
 
 ## The Truman Show
+- Truman talking about going on adventures to the mirror
 - Bridge is a metaphor for being trapped
 - Flashbacks used to provide backstory for fear
 - Trauma from his dad dying in the past while on the beach
