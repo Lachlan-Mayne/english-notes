@@ -31,7 +31,7 @@ dg-publish: false
 - Christof is arguing that Truman is living in a world he wants to be in
 - Even though Truman was real, Christof was manipulating things to a point where it appears fake
 - Family living the "American dream"
-- 
+- The media inside of Seahaven is controlled by Christof to 
 
 ### **Characters:**
 
