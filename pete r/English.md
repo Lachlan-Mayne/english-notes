@@ -33,7 +33,8 @@ dg-publish: false
 - Family living the "American dream"
 - The media inside of Seahaven is controlled by Christof to talk more directly to Truman
 - METACOMMENTARY
-- "Who needs Europe newspaper" further reinforcing
+- "Who needs Europe newspaper" further reinforcing the media control that Christof has over the rest of them all
+- 
 
 ### **Characters:**
 
