@@ -34,7 +34,7 @@ dg-publish: false
 - The media inside of Seahaven is controlled by Christof to talk more directly to Truman
 - METACOMMENTARY
 - "Who needs Europe newspaper" further reinforcing the media control that Christof has over Truman and Seahaven
-- 
+- Truman's mother psychologically manipulating 
 
 ### **Characters:**
 
