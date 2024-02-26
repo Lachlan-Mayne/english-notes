@@ -450,8 +450,9 @@ There are 2 levels of assumptions in the truman show: kristoff (truman director)
 - What is the main argument **in each video** essay?
 The entire movie has been so carefully put together that Jim Carrey should deserve an award, and the movie should be recognised by more people
 - What are TWO techniques or examples referred to that are sophisticated or especially interesting?
-
+The hidden cameras constantly mentioned within the film, almost a 4th wall
 - What are TWO new ideas about TTS as a whole that you got from the videos?
+
 - What are TWO new concepts or terms that you need to research?
 - What are TWO video essay techniques that you found helpful (that the videos utilised)?
 - What references were made to cultural assumptions'?
