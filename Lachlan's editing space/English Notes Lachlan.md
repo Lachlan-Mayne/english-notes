@@ -446,6 +446,15 @@ Don't structure the video essay like an essay, structure it like a persuasive cl
 ## Video essays
 Aim for 4-5 minutes in length, think of it as a normal essay with added layers of visual detail. We will be marked on the essay, not as much so the visual part. Aim to make it almost exactly 5 minutes. 
 There are 2 levels of assumptions in the truman show: kristoff (truman director) and peter wier (film director).
+### "Why the truman show is a wonderful movie"
+- What is the main argument **in each video** essay?
+The entire movie has been so carefully put together that Jim Carrey should deserve an award, and the movie should be recognised by more people
+- What are TWO techniques or examples referred to that are sophisticated or especially interesting?
+
+- What are TWO new ideas about TTS as a whole that you got from the videos?
+- What are TWO new concepts or terms that you need to research?
+- What are TWO video essay techniques that you found helpful (that the videos utilised)?
+- What references were made to cultural assumptions'?
 # Module C: The craft of writing
 Students appreciate, examine and analyse at least two challenging short prescribed texts as well as texts from their own wide reading, as models and stimulus for the development of their own ideas and written expression. 
 
