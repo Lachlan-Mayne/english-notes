@@ -83,3 +83,7 @@ dg-publish: false
 - City
 - People
 - Weather
+
+## Flashback Scene:
+- Lots of cuts between Truman and Olivia
+- 
