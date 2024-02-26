@@ -446,7 +446,6 @@ Don't structure the video essay like an essay, structure it like a persuasive cl
 ## Video essays
 Aim for 4-5 minutes in length, think of it as a normal essay with added layers of visual detail. We will be marked on the essay, not as much so the visual part. Aim to make it almost exactly 5 minutes. 
 There are 2 levels of assumptions in the truman show: kristoff (truman director) and peter wier (film director).
--
 # Module C: The craft of writing
 Students appreciate, examine and analyse at least two challenging short prescribed texts as well as texts from their own wide reading, as models and stimulus for the development of their own ideas and written expression. 
 
