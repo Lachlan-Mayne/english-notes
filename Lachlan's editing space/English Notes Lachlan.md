@@ -460,6 +460,7 @@ The camera lens point of view
 Ubiquitous 
 - What are TWO video essay techniques that you found helpful (that the videos utilised)?
 Classical music in the background: can add focus to the authors words
+A mix of video and text screens throughout the presentation
 - What references were made to cultural assumptions'?
 The style of the town Truman lives in
 The housing dynamic where Truman works and his wife cooks
