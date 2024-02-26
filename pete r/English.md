@@ -85,5 +85,8 @@ dg-publish: false
 - Weather
 
 ## Flashback Scene:
-- Lots of cuts between Truman and Olivia
+- Lots of cuts between Truman and Sylvia
+- Forced entry from Meryl
+- Shows progression between Meryl and Truman
+- Truman still has feelings for Sylvia when he sees her at the dance
 - 
