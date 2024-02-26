@@ -451,15 +451,16 @@ There are 2 levels of assumptions in the truman show: kristoff (truman director)
 The entire movie has been so carefully put together that Jim Carrey should deserve an award, and the movie should be recognised by more people
 - What are TWO techniques or examples referred to that are sophisticated or especially interesting?
 The hidden cameras constantly mentioned within the film, almost a 4th wall break (the whole movie is a 4th wall break regardless)
-
+Truman acts very "TV-like" due to growing up with TV personas his whole life
 - What are TWO new ideas about TTS as a whole that you got from the videos?
 It is similar to other movies at the time, so perhaps something was going on in society at the time
+
 - What are TWO new concepts or terms that you need to research?
 The camera lens point of view
 - What are TWO video essay techniques that you found helpful (that the videos utilised)?
 Classical music in the background: can add focus to the authors words
 - What references were made to cultural assumptions'?
-
+The style of the town Truman lives in
 # Module C: The craft of writing
 Students appreciate, examine and analyse at least two challenging short prescribed texts as well as texts from their own wide reading, as models and stimulus for the development of their own ideas and written expression. 
 
