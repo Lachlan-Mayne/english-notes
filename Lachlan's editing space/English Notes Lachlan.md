@@ -454,9 +454,10 @@ The hidden cameras constantly mentioned within the film, almost a 4th wall break
 Truman acts very "TV-like" due to growing up with TV personas his whole life
 - What are TWO new ideas about TTS as a whole that you got from the videos?
 It is similar to other movies at the time, so perhaps something was going on in society at the time
-
+Truman is unable to distinguish the reality of the show from the reality he goes into
 - What are TWO new concepts or terms that you need to research?
 The camera lens point of view
+Ubiquitous 
 - What are TWO video essay techniques that you found helpful (that the videos utilised)?
 Classical music in the background: can add focus to the authors words
 - What references were made to cultural assumptions'?
