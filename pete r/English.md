@@ -89,4 +89,5 @@ dg-publish: false
 - Forced entry from Meryl
 - Shows progression between Meryl and Truman
 - Truman still has feelings for Sylvia when he sees her at the dance
-- Crew trying to force there to be minimal romantic connection between Truman and others by removing her 
+- Crew trying to force there to be minimal romantic connection between Truman and others by removing her from the dance
+- Sylvia is forced to make Truman do something spontaneous with her as otherwise it's too easy to remove her from the show, a connection with 
