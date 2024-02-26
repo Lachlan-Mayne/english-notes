@@ -462,6 +462,7 @@ Ubiquitous
 Classical music in the background: can add focus to the authors words
 - What references were made to cultural assumptions'?
 The style of the town Truman lives in
+The housing dynamic where Truman works and his wife cooks
 # Module C: The craft of writing
 Students appreciate, examine and analyse at least two challenging short prescribed texts as well as texts from their own wide reading, as models and stimulus for the development of their own ideas and written expression. 
 
