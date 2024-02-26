@@ -37,7 +37,7 @@ dg-publish: false
 - Truman's mother psychologically manipulating her son into thinking that he's just going through grief "I don't blame you"
 - Retro style of Truman show
 - Call to adventure: "Come and find me"
-- ''
+- 
 
 ### **Characters:**
 
