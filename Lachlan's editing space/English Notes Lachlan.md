@@ -465,7 +465,8 @@ A mix of video and text screens throughout the presentation
 The style of the town Truman lives in
 The housing dynamic where Truman works and his wife cooks
 ## Cultural assumptions
-
+Something that society normally perceives as being true, "this is the case"
+NESA definition: Beliefs or attitudes about such things as gender, religion, youth, age, disability, sexuality, social class and work *that are taken for granted as being part of the fabric of the social p*
 # Module C: The craft of writing
 Students appreciate, examine and analyse at least two challenging short prescribed texts as well as texts from their own wide reading, as models and stimulus for the development of their own ideas and written expression. 
 
