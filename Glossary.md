@@ -38,3 +38,5 @@ Power: The ability to influence the abilities/acts of others//the capacity to ac
 Voice: the composers voice, speaking consciousness/authorial voice behind characters, narrators and personas in a text. 
 
 Imagery: The use of figurative language to represent objects, actions or ideas
+
+Cultural assumptions: Beliefs or attitudes about such things as gender, religion, youth, age, disability, sexuality, social class and work *that are taken for granted as being part of the fabric of the social practices of a particular culture*. Cultural assumptions underlie cultural expressions in texts and may also be embedded in texts in various ways.
