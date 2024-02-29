@@ -482,7 +482,10 @@ Christof: He could leave at any time. If his was more than just a vague ambition
 ### Truman's assumptions
 Truman makes assumptions about how dangerous the outside world and the ocean is. His assumptions are supported by media in his world.
 He is blocked by media:
-- 
+- This could happen to you at travel agent
+- Sunken boat in water at ferry
+- "Show me the way to go home" tv show
+### Normal lives: 
 # Module C: The craft of writing
 Students appreciate, examine and analyse at least two challenging short prescribed texts as well as texts from their own wide reading, as models and stimulus for the development of their own ideas and written expression. 
 
