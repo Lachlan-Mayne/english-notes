@@ -523,26 +523,15 @@ The film is saying that the outside world is evil, and that living a lie is good
 - What does the film assume is most important in life?
 Living a fulfilling life: that is a life where you have a good job and a nuclear family
 - What important decisions does Truman make?
-The ending part (sailing onto the ocean)
-- What do these decisions tell us about what the filmmakers
-think is right and wrong?
-2. Does the scene assume anything about what it means to be a man
-or a woman or how men and women should relate?
-3. Does the scene assume traditional male and female roles? (eg.
-Men should be strong, take the lead, earn income for the family;
-women should be focused more on the home.)
-4. Does the scene assume that the traditional and established ways
-are best or that we need to change more and embrace new ways of
-doing things?
-5. Does the scene assume there is a God or that religion matters or
-does it assume that God and religion are not relevant to the
-character’s life.
-6. Does the scene have younger or older people in it? Who is better?
-Does it assume it is better to be young or old? Do the young people
-and old people fight? Who wins? Who is right? Would the film be
-different if Christof was younger than Truman?
-7. Does the scene have any sexual aspect (romance, marriage, love,
-lust)? What is considered ‘normal’ sexuality? Does it assume all
+The ending part (sailing onto the ocean), following his wife to work, being distrustful of the world he is now in
+- What do these decisions tell us about what the filmmakers think is right and wrong?
+
+2. Does the scene assume anything about what it means to be a man or a woman or how men and women should relate?
+3. Does the scene assume traditional male and female roles? (eg. Men should be strong, take the lead, earn income for the family; women should be focused more on the home.)
+4. Does the scene assume that the traditional and established ways are best or that we need to change more and embrace new ways of doing things?
+5. Does the scene assume there is a God or that religion matters or does it assume that God and religion are not relevant to the character’s life.
+6. Does the scene have younger or older people in it? Who is better? Does it assume it is better to be young or old? Do the young people and old people fight? Who wins? Who is right? Would the film be different if Christof was younger than Truman?
+7. Does the scene have any sexual aspect (romance, marriage, love, lust)? What is considered ‘normal’ sexuality? Does it assume all
 sexuality is good or only one kind?
 8. Are the people in the scene mostly lower class, middle class or rich?
 Does the film present this class as normal or as wrong in some way?
