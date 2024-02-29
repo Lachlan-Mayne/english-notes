@@ -486,7 +486,7 @@ He is blocked by media:
 - Sunken boat in water at ferry
 - "Show me the way to go home" tv show
 ### Normal lives: assumptions/advertisers
-Lots of friends, school, good grades, lots of out of school activities
+Lots of friends, school, good grades, lots of out of school activities, have a job (Maccas/fast food)
 
 # Module C: The craft of writing
 Students appreciate, examine and analyse at least two challenging short prescribed texts as well as texts from their own wide reading, as models and stimulus for the development of their own ideas and written expression. 
