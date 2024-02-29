@@ -38,6 +38,9 @@ dg-publish: false
 - Retro style of Truman show
 - Call to adventure: "Come and find me"
 - "Rubber reality" genre
+- Him sticking his hand out at the traffic without any lashing out from drivers which would be unnatural
+- When he suspects things are off he immediately goes to Marlon
+- He's exploring the world he's in more than he naturally would (breaking out of the status quo)
 - 
 
 ### **Characters:**
