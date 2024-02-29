@@ -531,7 +531,9 @@ The film makers think that it is right to follow their world that has been creat
 3. Does the scene assume traditional male and female roles? (eg. Men should be strong, take the lead, earn income for the family; women should be focused more on the home.)
 
 4. Does the scene assume that the traditional and established ways are best or that we need to change more and embrace new ways of doing things?
+
 5. Does the scene assume there is a God or that religion matters or does it assume that God and religion are not relevant to the character’s life.
+
 6. Does the scene have younger or older people in it? Who is better? Does it assume it is better to be young or old? Do the young people and old people fight? Who wins? Who is right? Would the film be different if Christof was younger than Truman?
 
 7. Does the scene have any sexual aspect (romance, marriage, love, lust)? What is considered ‘normal’ sexuality? Does it assume all sexuality is good or only one kind?
