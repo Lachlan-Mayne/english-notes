@@ -467,6 +467,8 @@ The housing dynamic where Truman works and his wife cooks
 ## Cultural assumptions
 Something that society normally perceives as being true, "this is the case"
 NESA definition: Beliefs or attitudes about such things as gender, religion, youth, age, disability, sexuality, social class and work *that are taken for granted as being part of the fabric of the social practices of a particular culture*. Cultural assumptions underlie cultural expressions in texts and may also be embedded in texts in various ways.
+
+Only Trua
 ### [Platos cave](https://en.wikipedia.org/wiki/Allegory_of_the_cave)
 If you were born inside a box, would you ever consider a world outside it that is more real? Plato asked this in the allegory of the cave. Imagine a group of people chained facing a wall, they only see shadows from light, so they believe that shadows are real. 
 The world as we perceive it comprises of imperfections. (video from 8 bit philosophy)
@@ -474,8 +476,9 @@ The world as we perceive it comprises of imperfections. (video from 8 bit philos
 One of Christof's final statements to Truman: "There is no more truth out there than there is in the world I created for you. The same lies, the same deceit. But in my world, you have nothing to fear." 
 This was written before social media. It also includes a cultural assumption that the world is full of lies.
 
-Christof: He could leave at any time. If his was more than just a vague ambitio
+Christof: He could leave at any time. If his was more than just a vague ambition, if he was absolutely determined to discover the truth, there's no way we could prevent him. I think what distresses you, really, caller, is that ultimately Truman prefers his cell, as you call it.
 
+"We accept the reality of the world with which we're presented. It's as simple as that."
 # Module C: The craft of writing
 Students appreciate, examine and analyse at least two challenging short prescribed texts as well as texts from their own wide reading, as models and stimulus for the development of their own ideas and written expression. 
 
