@@ -503,7 +503,10 @@ The town is created to represent the **American Dream**. Wealthy, middle class s
 Christof even refers to it as a "normal life".
 
 All the families are wearing clean, conservative pressed and ironed clothes. 
-Lauren/Sylvia
+
+Lauren/Sylvia: Look at what you've done to him!
+
+Christof: I have given Truman the chance to lead a normal life. The world, the place you live in, is the sick place.
 # Module C: The craft of writing
 Students appreciate, examine and analyse at least two challenging short prescribed texts as well as texts from their own wide reading, as models and stimulus for the development of their own ideas and written expression. 
 
