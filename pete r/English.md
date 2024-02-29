@@ -46,6 +46,7 @@ dg-publish: false
 - Truman circling certain things, eventually breaking out
 - Fake photo album
 - Retro TV show
+- Irony of the travel agent having posters to try and deter people from using their service
 - 
 
 ### **Characters:**
