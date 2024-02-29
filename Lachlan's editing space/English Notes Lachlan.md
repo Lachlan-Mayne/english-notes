@@ -535,7 +535,7 @@ It assumes that a man should take the lead and a woman should follow along, trus
 4. Does the scene assume that the traditional and established ways are best or that we need to change more and embrace new ways of doing things?
 It doesn't encourage any new ideas, so it follows traditional mindsets
 5. Does the scene assume there is a God or that religion matters or does it assume that God and religion are not relevant to the character’s life.
-
+The scene makes no mention of religion
 6. Does the scene have younger or older people in it? Who is better? Does it assume it is better to be young or old? Do the young people and old people fight? Who wins? Who is right? Would the film be different if Christof was younger than Truman?
 
 7. Does the scene have any sexual aspect (romance, marriage, love, lust)? What is considered ‘normal’ sexuality? Does it assume all sexuality is good or only one kind?
