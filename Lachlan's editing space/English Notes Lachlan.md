@@ -531,14 +531,9 @@ The ending part (sailing onto the ocean), following his wife to work, being dist
 4. Does the scene assume that the traditional and established ways are best or that we need to change more and embrace new ways of doing things?
 5. Does the scene assume there is a God or that religion matters or does it assume that God and religion are not relevant to the character’s life.
 6. Does the scene have younger or older people in it? Who is better? Does it assume it is better to be young or old? Do the young people and old people fight? Who wins? Who is right? Would the film be different if Christof was younger than Truman?
-7. Does the scene have any sexual aspect (romance, marriage, love, lust)? What is considered ‘normal’ sexuality? Does it assume all
-sexuality is good or only one kind?
-8. Are the people in the scene mostly lower class, middle class or rich?
-Does the film present this class as normal or as wrong in some way?
-Are people struggling to stay in a class or move up or down in class?
-9. Our society assumes that our work / career is extremely important
-to our identity and our happiness in life. Does the film follow this
-assumption?
+7. Does the scene have any sexual aspect (romance, marriage, love, lust)? What is considered ‘normal’ sexuality? Does it assume all sexuality is good or only one kind?
+8. Are the people in the scene mostly lower class, middle class or rich? Does the film present this class as normal or as wrong in some way? Are people struggling to stay in a class or move up or down in class?
+9. Our society assumes that our work / career is extremely important to our identity and our happiness in life. Does the film follow this assumption?
 
 # Module C: The craft of writing
 Students appreciate, examine and analyse at least two challenging short prescribed texts as well as texts from their own wide reading, as models and stimulus for the development of their own ideas and written expression. 
