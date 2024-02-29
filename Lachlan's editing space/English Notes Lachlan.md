@@ -486,7 +486,7 @@ He is blocked by media:
 - Sunken boat in water at ferry
 - "Show me the way to go home" tv show
 ### Normal lives: assumptions/advertisers
-Lots of friends, school, good grades, lots of out of school activities, have a job (Maccas/fast food)
+Lots of friends, school, good grades, lots of out of school activities, have a job (Maccas/fast food) \[stable income]
 Advertisers:
 - Job
 - Friends
