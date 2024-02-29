@@ -44,7 +44,8 @@ dg-publish: false
 - Cameras constantly trying to locate him (erratic) when he's being more spontaneous
 - Truman circling certain things, eventually breaking out
 - Fake photo album
-- Retro TV show 
+- Retro TV show
+- 
 
 ### **Characters:**
 
