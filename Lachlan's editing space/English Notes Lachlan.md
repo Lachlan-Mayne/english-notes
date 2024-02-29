@@ -497,6 +497,7 @@ Advertisers:
 - Cars
 - Easy
 - Middle class
+- YOU NEED MORE
 # Module C: The craft of writing
 Students appreciate, examine and analyse at least two challenging short prescribed texts as well as texts from their own wide reading, as models and stimulus for the development of their own ideas and written expression. 
 
