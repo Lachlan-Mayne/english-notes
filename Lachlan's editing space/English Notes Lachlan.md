@@ -468,7 +468,7 @@ The housing dynamic where Truman works and his wife cooks
 Something that society normally perceives as being true, "this is the case"
 NESA definition: Beliefs or attitudes about such things as gender, religion, youth, age, disability, sexuality, social class and work *that are taken for granted as being part of the fabric of the social practices of a particular culture*. Cultural assumptions underlie cultural expressions in texts and may also be embedded in texts in various ways.
 
-Only Trua
+Only Truman appears to notice how artificial the world is. His whole world is built on cultural assumptions, it's been built so that Truman will enjoy it (safe and happy) and the directors can make money. 
 ### [Platos cave](https://en.wikipedia.org/wiki/Allegory_of_the_cave)
 If you were born inside a box, would you ever consider a world outside it that is more real? Plato asked this in the allegory of the cave. Imagine a group of people chained facing a wall, they only see shadows from light, so they believe that shadows are real. 
 The world as we perceive it comprises of imperfections. (video from 8 bit philosophy)
