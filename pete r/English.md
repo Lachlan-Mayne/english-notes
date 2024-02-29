@@ -50,8 +50,8 @@ dg-publish: false
 ### **Characters:**
 
 - **Truman Burbank:** Unwitting star of a reality show, seeking answers to his seemingly perfect life.
-- **Marlin:** Truman's best friend, unknowingly part of the fabricated world.
-- **Merrill:** Truman's wife, unknowingly part of the fabricated world.
+- **Marln:** Truman's best friend, unknowingly part of the fabricated world.
+- **Meryl:** Truman's wife, unknowingly part of the fabricated world.
 - **Truman's Dad:** A figure from Truman's past, possibly fabricated to influence his choices.
 
 ### **Plot:**
