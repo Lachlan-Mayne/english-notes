@@ -43,6 +43,7 @@ dg-publish: false
 - He's exploring the world he's in more than he naturally would (breaking out of the status quo)
 - Cameras constantly trying to locate him (erratic) when he's being more spontaneous
 - Truman circling certain things, eventually breaking out
+- Fake photo album
 - 
 
 ### **Characters:**
