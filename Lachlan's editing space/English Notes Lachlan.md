@@ -512,7 +512,10 @@ Christof: I have given Truman the chance to lead a normal life. The world, the p
 Are deconstructed through the more and more intrusive product placement. Usually **product placement** is supposed to be **subtle** so that we are not aware we are being targeted for advertising.
 Weird starts using more obvious and silly techniques like fast zooms, exaggerated facial expressions (sentence unfinished)
 ### Assessment task:
-Think about any 
+Think about any cultural assumptions embedded in the idea and scene you have chosen. Remember that the cultural assumptions that Christof has in the world of Seahaven, are not the cultural assumptions that Weir necessarily supports.
+
+Example:
+In this scene, the underlying cultural assumption that the ideal, normal life should include marriage, a nice house and a steady, responsible job i
 # Module C: The craft of writing
 Students appreciate, examine and analyse at least two challenging short prescribed texts as well as texts from their own wide reading, as models and stimulus for the development of their own ideas and written expression. 
 
