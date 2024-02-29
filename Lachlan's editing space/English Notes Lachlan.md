@@ -507,6 +507,9 @@ All the families are wearing clean, conservative pressed and ironed clothes.
 Lauren/Sylvia: Look at what you've done to him!
 
 Christof: I have given Truman the chance to lead a normal life. The world, the place you live in, is the sick place.
+
+#### Consumerism and materialism
+Are deconstructed through the more and more intrusive product placement. Usually **product plaecment** is supposed to be **subtle** so that we are not awar
 # Module C: The craft of writing
 Students appreciate, examine and analyse at least two challenging short prescribed texts as well as texts from their own wide reading, as models and stimulus for the development of their own ideas and written expression. 
 
