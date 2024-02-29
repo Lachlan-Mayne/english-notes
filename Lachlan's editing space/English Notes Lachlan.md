@@ -531,9 +531,9 @@ Chosen scene: Roundabout crazy
 2. Does the scene assume anything about what it means to be a man or a woman or how men and women should relate?
 Yes, it assumes that a woman should listen to her husband and offer advice, not do anything actively to try and stop him. 
 3. Does the scene assume traditional male and female roles? (eg. Men should be strong, take the lead, earn income for the family; women should be focused more on the home.)
-
+It assumes that a man should take the lead and a woman should follow along, trusting the man to keep them safe
 4. Does the scene assume that the traditional and established ways are best or that we need to change more and embrace new ways of doing things?
-
+It doesn't encourage any new ideas, so it follows traditional mindsets
 5. Does the scene assume there is a God or that religion matters or does it assume that God and religion are not relevant to the character’s life.
 
 6. Does the scene have younger or older people in it? Who is better? Does it assume it is better to be young or old? Do the young people and old people fight? Who wins? Who is right? Would the film be different if Christof was younger than Truman?
