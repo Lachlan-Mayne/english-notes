@@ -479,6 +479,10 @@ This was written before social media. It also includes a cultural assumption tha
 Christof: He could leave at any time. If his was more than just a vague ambition, if he was absolutely determined to discover the truth, there's no way we could prevent him. I think what distresses you, really, caller, is that ultimately Truman prefers his cell, as you call it.
 
 "We accept the reality of the world with which we're presented. It's as simple as that."
+### Truman's assumptions
+Truman makes assumptions about how dangerous the outside world and the ocean is. His assumptions are supported by media in his world.
+He is blocked by media:
+- 
 # Module C: The craft of writing
 Students appreciate, examine and analyse at least two challenging short prescribed texts as well as texts from their own wide reading, as models and stimulus for the development of their own ideas and written expression. 
 
