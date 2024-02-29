@@ -19,6 +19,7 @@ dg-publish: false
 - Call to adventure, meeting of goddess is when he meets Sylvia (where his obsession with Fiji starts)
 - Truman starts finding out more when he doesn't show up for work (breaking out of the status quo)
 - Crossing fingers on the wedding day to symbolise the fake love
+- "I'll cross my f"
 - Truman escalates to a point where only intervention from others can save him
 - The artificial world breaks down more and more
 - Police officer calls him by name which causes him to realise it's fake
@@ -45,7 +46,6 @@ dg-publish: false
 - Truman circling certain things, eventually breaking out
 - Fake photo album
 - Retro TV show
-- 
 
 ### **Characters:**
 
