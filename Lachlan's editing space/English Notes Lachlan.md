@@ -502,7 +502,8 @@ Advertisers:
 The town is created to represent the **American Dream**. Wealthy, middle class suburban life with the blonde wife and children. The white picket fences are symbolic. Also, the retro **fifties** aesthetic. The film has many stereotypes to show this "normal life".
 Christof even refers to it as a "normal life".
 
-
+All the families are wearing clean, conservative pressed and ironed clothes. 
+Lauren/Sylvia
 # Module C: The craft of writing
 Students appreciate, examine and analyse at least two challenging short prescribed texts as well as texts from their own wide reading, as models and stimulus for the development of their own ideas and written expression. 
 
