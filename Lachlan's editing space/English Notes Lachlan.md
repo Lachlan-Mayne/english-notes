@@ -470,7 +470,8 @@ NESA definition: Beliefs or attitudes about such things as gender, religion, you
 ### [Platos cave](https://en.wikipedia.org/wiki/Allegory_of_the_cave)
 If you were born inside a box, would you ever consider a world outside it that is more real? Plato asked this in the allegory of the cave. Imagine a group of people chained facing a wall, they only see shadows from light, so they believe that shadows are real. 
 The world as we perceive it comprises of imperfections. (video from 8 bit philosophy)
-### Christofs
+### Christof's last statement
+One of Christofs final statements to Truman: "There is no more truth out there than there is in the world I created for you. The same lies, the same deceit. But in my world, you have nothing to fear."
 # Module C: The craft of writing
 Students appreciate, examine and analyse at least two challenging short prescribed texts as well as texts from their own wide reading, as models and stimulus for the development of their own ideas and written expression. 
 
