@@ -509,7 +509,8 @@ Lauren/Sylvia: Look at what you've done to him!
 Christof: I have given Truman the chance to lead a normal life. The world, the place you live in, is the sick place.
 
 #### Consumerism and materialism
-Are deconstructed through the more and more intrusive product placement. Usually **product plaecment** is supposed to be **subtle** so that we are not awar
+Are deconstructed through the more and more intrusive product placement. Usually **product placement** is supposed to be **subtle** so that we are not aware we are being targeted for advertising.
+Weird starts using more obvious and silly techniques like fast zooms, exaggerated facial expressions (sentence unfinished)
 # Module C: The craft of writing
 Students appreciate, examine and analyse at least two challenging short prescribed texts as well as texts from their own wide reading, as models and stimulus for the development of their own ideas and written expression. 
 
