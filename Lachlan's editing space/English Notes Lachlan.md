@@ -498,6 +498,8 @@ Advertisers:
 - Easy
 - Middle class
 - YOU NEED MORE
+### Seahaven assumptions
+The town is created to represent the **American Dream**. Wealthy, middle class suburban life with the blonde wife and children
 # Module C: The craft of writing
 Students appreciate, examine and analyse at least two challenging short prescribed texts as well as texts from their own wide reading, as models and stimulus for the development of their own ideas and written expression. 
 
