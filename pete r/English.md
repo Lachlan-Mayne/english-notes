@@ -39,6 +39,7 @@ dg-publish: false
 - Call to adventure: "Come and find me"
 - "Rubber reality" genre
 - Control of traffic without any lashing out from drivers which would be unnatural
+- When he suspects things are off he immediately goes to Marlon
 - 
 
 ### **Characters:**
