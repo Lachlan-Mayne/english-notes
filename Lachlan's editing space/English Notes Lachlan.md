@@ -516,6 +516,18 @@ Think about any cultural assumptions embedded in the idea and scene you have cho
 
 Example:
 In this scene, the underlying cultural assumption that the ideal, normal life should include marriage, a nice house and a steady, responsible job is reinforced through the clean, bright lit views we have of Seahaven and Truman's role within it. (para unfinished)
+### Assumptions worksheet
+1. Think of the overall plot of the film. What is the film saying is good
+and evil?
+The film is saying that the outside world is evil, and that living a lie is good
+- What does the film assume is most important in life?
+- What important decisions does Truman make?
+- What do these decisions tell us about what the filmmakers
+think is right and wrong?
+2. Does the scene assume anything about what it means to be a man
+or a woman or how men and women should relate?
+
+
 # Module C: The craft of writing
 Students appreciate, examine and analyse at least two challenging short prescribed texts as well as texts from their own wide reading, as models and stimulus for the development of their own ideas and written expression. 
 
