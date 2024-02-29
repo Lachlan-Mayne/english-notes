@@ -529,7 +529,7 @@ The film makers think that it is right to follow their world that has been creat
 
 Chosen scene: Roundabout crazy
 2. Does the scene assume anything about what it means to be a man or a woman or how men and women should relate?
-Yes, it assumes that a woman 
+Yes, it assumes that a woman should listen to her husband and offer advice, not do anything actively to try and stop him. 
 3. Does the scene assume traditional male and female roles? (eg. Men should be strong, take the lead, earn income for the family; women should be focused more on the home.)
 
 4. Does the scene assume that the traditional and established ways are best or that we need to change more and embrace new ways of doing things?
