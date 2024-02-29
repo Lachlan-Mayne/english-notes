@@ -526,8 +526,10 @@ Living a fulfilling life: that is a life where you have a good job and a nuclear
 The ending part (sailing onto the ocean), following his wife to work, being distrustful of the world he is now in
 - What do these decisions tell us about what the filmmakers think is right and wrong?
 The film makers think that it is right to follow their world that has been created for Truman, yet Truman disagrees and tries to escape it.
-2. Does the scene assume anything about what it means to be a man or a woman or how men and women should relate?
 
+Chosen scene: Roundabout crazy
+2. Does the scene assume anything about what it means to be a man or a woman or how men and women should relate?
+Yes, it assumes that a woman 
 3. Does the scene assume traditional male and female roles? (eg. Men should be strong, take the lead, earn income for the family; women should be focused more on the home.)
 
 4. Does the scene assume that the traditional and established ways are best or that we need to change more and embrace new ways of doing things?
