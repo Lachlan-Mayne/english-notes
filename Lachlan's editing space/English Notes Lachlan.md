@@ -442,7 +442,10 @@ Overall throughout the movie Truman goes on the **Hero's Journey - quest for tru
 
 Don't structure the video essay like an essay, structure it like a persuasive clearly set out text
 ### Storm scene
-
+Biblical allusions:
+- Watching everything
+- Caring for his child
+- 
 ### Good afternoon, evening and night
 Truman's practice of saying this is repeated three times in the film. Each time there is a change in him.
 Watch them again (first just after the first bathroom scene, second just after the second bathroom scene and third just before he exits at the end)
