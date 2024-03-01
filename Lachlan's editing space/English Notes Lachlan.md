@@ -445,12 +445,14 @@ Don't structure the video essay like an essay, structure it like a persuasive cl
 ### Good afternoon, evening and night
 Truman's practice of saying this is repeated three times in the film. Each time there is a change in him.
 Watch them again (first just after the first bathroom scene, second just after the second bathroom scene and third just before he exits at the end)
-Make notes on the chan
+
+Make notes on the changes - look carefully at body language, film techniques, use of colour, Truman's level of awareness of his reality, who says it, etc.
 First:
 - Truman is happy
 - World is very bright
 - Camera shot is of Truman knees up
-body language, film techniques, use of colour, trumans level of awareness of society
+	- Zooms in as he says it
+- 
 ### Role of Sylvia
 ## Video essays
 Aim for 4-5 minutes in length, think of it as a normal essay with added layers of visual detail. We will be marked on the essay, not as much so the visual part. Aim to make it almost exactly 5 minutes. 
