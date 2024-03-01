@@ -49,6 +49,7 @@ dg-publish: false
 - Irony of the travel agent having posters to try and deter people from using their service
 - All cars end up on the road in synchrony
 - "It's unprofessional" quote from Meryl 
+- Truman's life becomes a soap opera (bringing back of the father with amnesia)
 - 
 
 ### **Characters:**
