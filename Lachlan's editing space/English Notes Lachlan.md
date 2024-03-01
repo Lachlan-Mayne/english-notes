@@ -458,7 +458,9 @@ Second:
 	- entertaining who he knows is watching
 - World is still somewhat bright
 - Same postures and laugh from the start
-- 
+- Vignette still present
+Third:
+
 ### Role of Sylvia
 ## Video essays
 Aim for 4-5 minutes in length, think of it as a normal essay with added layers of visual detail. We will be marked on the essay, not as much so the visual part. Aim to make it almost exactly 5 minutes. 
