@@ -449,7 +449,8 @@ Biblical allusions:
 - Santa maria boat - chris columbus boat
 - holy wrath
 - angelic music during the storm
-- 
+- Truman almost "walks on water" around the edge of the dome
+	- proceeds to walk on a staircase to heaven (walking on the "sky")
 ### Good afternoon, evening and night
 Truman's practice of saying this is repeated three times in the film. Each time there is a change in him.
 Watch them again (first just after the first bathroom scene, second just after the second bathroom scene and third just before he exits at the end)
