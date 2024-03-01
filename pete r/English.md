@@ -50,7 +50,8 @@ dg-publish: false
 - All cars end up on the road in synchrony
 - "It's unprofessional" quote from Meryl 
 - Truman's life becomes a soap opera (bringing back of the father with amnesia)
-- Constant rem
+- Constant reminders that the film is fake from the shots to the other director crew
+- 
 
 ### **Characters:**
 
