@@ -445,6 +445,8 @@ Don't structure the video essay like an essay, structure it like a persuasive cl
 Biblical allusions:
 - Watching everything
 - Caring for his child
+- Planning what happens to him
+- Santa maria boat - chris columbus boat
 - 
 ### Good afternoon, evening and night
 Truman's practice of saying this is repeated three times in the film. Each time there is a change in him.
