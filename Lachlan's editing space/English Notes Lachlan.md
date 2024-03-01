@@ -448,7 +448,7 @@ Biblical allusions:
 - Planning what happens to him
 - Santa maria boat - chris columbus boat
 - holy wrath
-- 
+- angelic music during the storm
 ### Good afternoon, evening and night
 Truman's practice of saying this is repeated three times in the film. Each time there is a change in him.
 Watch them again (first just after the first bathroom scene, second just after the second bathroom scene and third just before he exits at the end)
