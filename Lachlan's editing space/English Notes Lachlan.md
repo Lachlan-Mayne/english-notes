@@ -447,6 +447,7 @@ Biblical allusions:
 - Caring for his child
 - Planning what happens to him
 - Santa maria boat - chris columbus boat
+- holy wrath
 - 
 ### Good afternoon, evening and night
 Truman's practice of saying this is repeated three times in the film. Each time there is a change in him.
