@@ -453,6 +453,7 @@ First:
 - Camera shot is of Truman knees up
 	- Zooms in as he says it
 - Vignette as it zooms into Truman, subtly hiding the background to focus on Truman more
+Second:
 - 
 ### Role of Sylvia
 ## Video essays
