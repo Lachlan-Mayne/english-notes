@@ -452,7 +452,7 @@ First:
 - World is very bright
 - Camera shot is of Truman knees up
 	- Zooms in as he says it
-- 
+- Vignet
 ### Role of Sylvia
 ## Video essays
 Aim for 4-5 minutes in length, think of it as a normal essay with added layers of visual detail. We will be marked on the essay, not as much so the visual part. Aim to make it almost exactly 5 minutes. 
