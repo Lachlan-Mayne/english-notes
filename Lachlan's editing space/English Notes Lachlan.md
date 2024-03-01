@@ -443,6 +443,7 @@ Overall throughout the movie Truman goes on the **Hero's Journey - quest for tru
 Don't structure the video essay like an essay, structure it like a persuasive clearly set out text
 ### Storm scene
 Biblical allusions:
+- Christof made it day from night (changes the sun)
 - Watching everything
 - Caring for his child
 - Planning what happens to him
