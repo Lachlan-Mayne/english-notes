@@ -428,7 +428,7 @@ A twist on dramatic irony where the cast knows what's happening but Truman doesn
 
 
 
-## Truman Discussion
+## Truman Discussion/scene analysis
 This **film** is a **simulation** that manipulates **truth**
 The Truman show is about **true/fake human relationships**
 The Truman show is a **superficial journey** for **entertainment** that is **fake**
@@ -441,7 +441,13 @@ Overall throughout the movie Truman goes on the **Hero's Journey - quest for tru
 
 
 Don't structure the video essay like an essay, structure it like a persuasive clearly set out text
-### 
+### Storm scene
+### Good afternoon, evening and night
+Truman's practice of saying this is repeated three times in the film. Each time there is a change in him.
+Watch them again
+
+body language, film techniques, use of colour, trumans level of awareness of society
+### Role of Sylvia
 ## Video essays
 Aim for 4-5 minutes in length, think of it as a normal essay with added layers of visual detail. We will be marked on the essay, not as much so the visual part. Aim to make it almost exactly 5 minutes. 
 There are 2 levels of assumptions in the truman show: kristoff (truman director) and peter wier (film director).
