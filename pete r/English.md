@@ -54,6 +54,7 @@ dg-publish: false
 - "I have given Truman the chance to lead a normal life" - Christof
 - "Ultimately, Truman prefers his "cell" as you call it" - Christof
 - Truman becomes more sensitised to the structured life as he is becoming more aware with what's happening to him
+- Christof tries to incorporate a new love interest in an attempt to keep Truman in Seahaven
 - 
 
 ### **Characters:**
