@@ -60,7 +60,8 @@ dg-publish: false
 - Peter Weir doesn't actually show Truman crossing the threshold even though it plays such a major part of his life
 - Christof starts talking to Truman directly even though he knows he won't get a response
 - Christof realises he can't stop him with the actors as they don't have the qualifications
-- Christof doesn't take Truman's determination to escape from his world and he has to take more and more drastic actions to even give him a believe
+- Christof doesn't take Truman's determination to escape from his world and he has to take more and more drastic actions to make Truman turn back
+- "Is thatth"
 
 ### **Characters:**
 
