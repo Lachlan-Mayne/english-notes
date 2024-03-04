@@ -64,7 +64,8 @@ dg-publish: false
 - Christof doesn't take Truman's determination to escape from his world and he has to take more and more drastic actions to make Truman turn back
 - "Is that the best you can do? You're gonna have to kill me!" - Talking directly to Christof, breaking the 4th wall
 - Figurehead of ship is an eagle: symbolising freedom
-- Odysseus symbolism (tying t)
+- Odysseus symbolism (tying himself to the ship)
+- 
 
 ### **Characters:**
 
