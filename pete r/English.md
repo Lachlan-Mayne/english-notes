@@ -67,6 +67,8 @@ dg-publish: false
 - Odysseus symbolism (tying himself to the ship)
 - Truman lying lifeless on the ship is symbolic of being a new person when he comes back
 - Jesus symbolism: walking on water
+- "Was nothing real? You were real"
+- 
 
 ### **Characters:**
 
