@@ -65,6 +65,7 @@ dg-publish: false
 - "Is that the best you can do? You're gonna have to kill me!" - Talking directly to Christof, breaking the 4th wall
 - Figurehead of ship is an eagle: symbolising freedom
 - Odysseus symbolism (tying himself to the ship)
+- Truman lying lifeless on the ship is symbolic of being a new person when he comes back
 - 
 
 ### **Characters:**
