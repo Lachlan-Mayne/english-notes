@@ -56,7 +56,8 @@ dg-publish: false
 - Truman becomes more sensitised to the structured life as he is becoming more aware with what's happening to him
 - Christof tries to incorporate a new love interest in an attempt to keep Truman in Seahaven
 - When Truman starts his proper escape plan the tone shifts to a more serious setting
-- More fake aspects are shown (moon being used as a spo)
+- More fake aspects are shown (moon being used as a spotlight)
+- 
 
 ### **Characters:**
 
