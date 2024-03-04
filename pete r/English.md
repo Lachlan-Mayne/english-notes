@@ -58,7 +58,9 @@ dg-publish: false
 - When Truman starts his proper escape plan the tone shifts to a more serious setting
 - More fake aspects are shown (moon being used as a spotlight)
 - Peter Weir doesn't actually show Truman crossing the threshold even though it plays such a major part of his life
-- Christof starts talking to Truman directly 
+- Christof starts talking to Truman directly even though he knows he won't get a response
+- Christof realises he can't stop him with the actors as they don't have the qualifications
+- Christof doesn't take Tr
 
 ### **Characters:**
 
