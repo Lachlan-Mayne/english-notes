@@ -66,7 +66,7 @@ dg-publish: false
 - Figurehead of ship is an eagle: symbolising freedom
 - Odysseus symbolism (tying himself to the ship)
 - Truman lying lifeless on the ship is symbolic of being a new person when he comes back
-- 
+-  
 
 ### **Characters:**
 
