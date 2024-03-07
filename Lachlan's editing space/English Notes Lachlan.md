@@ -487,7 +487,7 @@ Message:
 - Outside world has people concerned about the morality of the show
 - Truman shouldn't trust everyone in his life
 
-Often at times, not everyone around you wants what is best for you, or what is the right thing for you. 
+Often at times, not everyone around you wants what is best for you, or what is the right thing for you. In the Truman show, 
 
 
 ## Video essays
