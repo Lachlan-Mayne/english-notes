@@ -376,43 +376,43 @@ L: By exploring how paradoxical the witch trials were, Arthur Miller writes an e
 
 # Truman Show
 ## Interesting scenes/quotes
-| Timestamp                   | Quote/scene description                                                                                                                   |
-| --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 00:40                       | "Theres nothing fake about Truman himself"                                                                                                |
-| 2:25                        | Movie starts at day 10,909                                                                                                                |
-| 10:00                       | "You can't get any further away before you start coming back!" (in reference to Fiji)                                                     |
-| 11:00                       | Dark lighting with trauma flashback, followed by isolated rain -> storm                                                                   |
-| 14:00                       | first dad scene                                                                                                                           |
-| 17:30                       | Product placement confuses Truman, day 10910                                                                                              |
-| 20:30                       | Disco involving non scripted love interest being taken off stage                                                                          |
-| 25:00                       | First reality break (this and above both involve the "How's it going to end" badge)                                                       |
-| 28:00                       | Car radio bugs and transmits camera crew radio into Trumans car                                                                           |
-| 29:30                       | Tracked shot/dolly shot in turnstile door                                                                                                 |
-| 32:00                       | Backstage seen through "elevator"                                                                                                         |
-| 34:30                       | Sunset wide shot                                                                                                                          |
-| 36:30                       | "brainwashing" television, subtly telling Truman what to think                                                                            |
-| 37:00                       | Crossed fingers in marriage kiss photo, saying the marriage has no meaning                                                                |
-| 40:30                       | Travel agency is full of anti travel propoganda                                                                                           |
-| 45:30                       | Misquotes early bird gets the worm and rolling stone gets no moss                                                                         |
-| 48:30                       | Spontaneous forest fire                                                                                                                   |
-| 49:30                       | Power plant "fault" - random policeman knows who he is<br>- Surround forest is planted, all trees are in rows                             |
-| 51:20                       | Product placement confusing Truman                                                                                                        |
-| 52:00                       | "DO SOMETHING" from his wife                                                                                                              |
-| 54:40                       | Director shot, showing his mate is being fed voice lines                                                                                  |
-| 56:10                       | His dad returns on the bridge                                                                                                             |
-| 59:20                       | 30th year of show (roughly)                                                                                                               |
-| 1:00:10                     | Mentions of previous intruders onto the show                                                                                              |
-| 1:02:40                     | Authorial intrusion? Mention of product placement                                                                                         |
-| around 1:05:00 or something | Truman escapes surveillance at night                                                                                                      |
-| 1:13:40                     | Truman is noticed as escaped, day 10,913                                                                                                  |
-| 1:18:00                     | Truman found on water in sailboat                                                                                                         |
-| 1:18:50                     | "Hero shot" of Truman sailing onto the water, using the boat santa maria (boat used by christopher columbus in his travels)               |
-| 1:22:10                     | Truman asks the camera crew to try harder to stop him                                                                                     |
-| 1:25:20                     | The wall is in shot, Truman hits it in 20 seconds                                                                                         |
-|                             | This whole area is just good shots to discuss, medium shot of his hand on the wall, wide shot of the boat against the wall                |
-| 1:27:30                     | Fisheye shot of Truman approaching the stairs                                                                                             |
-| 1:28:10                     | Creator talks to Truman, visually symbolised as God.<br>The door is very symbolic of a new start, there is no visuals past the dark frame |
-| 1:30:30                     | Trumans last hurrah, goodbye to the whole world and bows                                                                                  |
+| Timestamp      | Quote/scene description                                                                                                                   |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 00:40          | "Theres nothing fake about Truman himself"                                                                                                |
+| 2:25           | Movie starts at day 10,909                                                                                                                |
+| 10:00          | "You can't get any further away before you start coming back!" (in reference to Fiji)                                                     |
+| 11:00          | Dark lighting with trauma flashback, followed by isolated rain -> storm                                                                   |
+| 14:00          | first dad scene                                                                                                                           |
+| 17:30          | Product placement confuses Truman, day 10910                                                                                              |
+| 20:30          | Disco involving non scripted love interest being taken off stage                                                                          |
+| 25:00          | First reality break (this and above both involve the "How's it going to end" badge)                                                       |
+| 28:00          | Car radio bugs and transmits camera crew radio into Trumans car                                                                           |
+| 29:30          | Tracked shot/dolly shot in turnstile door                                                                                                 |
+| 32:00          | Backstage seen through "elevator"                                                                                                         |
+| 34:30          | Sunset wide shot                                                                                                                          |
+| 36:30          | "brainwashing" television, subtly telling Truman what to think                                                                            |
+| 37:00          | Crossed fingers in marriage kiss photo, saying the marriage has no meaning                                                                |
+| 40:30          | Travel agency is full of anti travel propoganda                                                                                           |
+| 45:30          | Misquotes early bird gets the worm and rolling stone gets no moss                                                                         |
+| 48:30          | Spontaneous forest fire                                                                                                                   |
+| 49:30          | Power plant "fault" - random policeman knows who he is<br>- Surround forest is planted, all trees are in rows                             |
+| 51:20          | Product placement confusing Truman                                                                                                        |
+| 52:00          | "DO SOMETHING" from his wife                                                                                                              |
+| 54:40          | Director shot, showing his mate is being fed voice lines                                                                                  |
+| 56:10          | His dad returns on the bridge                                                                                                             |
+| 59:20          | 30th year of show (roughly)                                                                                                               |
+| 1:00:10        | Mentions of previous intruders onto the show                                                                                              |
+| 1:02:40        | Authorial intrusion? Mention of product placement                                                                                         |
+| around 1:05:00 | Truman escapes surveillance at night                                                                                                      |
+| 1:13:40        | Truman is noticed as escaped, day 10,913                                                                                                  |
+| 1:18:00        | Truman found on water in sailboat                                                                                                         |
+| 1:18:50        | "Hero shot" of Truman sailing onto the water, using the boat santa maria (boat used by christopher columbus in his travels)               |
+| 1:22:10        | Truman asks the camera crew to try harder to stop him                                                                                     |
+| 1:25:20        | The wall is in shot, Truman hits it in 20 seconds                                                                                         |
+|                | This whole area is just good shots to discuss, medium shot of his hand on the wall, wide shot of the boat against the wall                |
+| 1:27:30        | Fisheye shot of Truman approaching the stairs                                                                                             |
+| 1:28:10        | Creator talks to Truman, visually symbolised as God.<br>The door is very symbolic of a new start, there is no visuals past the dark frame |
+| 1:30:30        | Trumans last hurrah, goodbye to the whole world and bows                                                                                  |
 Deal twins stop Truman in the same spot to show the ad to audience
 Throughout the sailing scene, the stereotypical hero's journey is faced, through challenges such as the weather effects being used against Truman
 
