@@ -487,7 +487,7 @@ Message:
 - Outside world has people concerned about the morality of the show
 - Truman shouldn't trust everyone in his life
 
-The world Truman lives in is built upon misinformation, yet no one in his world wants him to figure that out. 
+Often at times, not everyone around you wants what is best for you, or what is the right thing for you. 
 
 
 ## Video essays
