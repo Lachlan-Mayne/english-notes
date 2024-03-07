@@ -487,7 +487,7 @@ Message:
 - Outside world has people concerned about the morality of the show
 - Truman shouldn't trust everyone in his life
 
-Often at times, not everyone around you wants what is best for you, or what is the right thing for you. In the Truman show, there are multiple o
+Often at times, not everyone around you wants what is best for you, or what is the right thing for you. In the Truman show, there are multiple occurrences of actors breaking onto the set, and trying to inform him that his life isn't real. By showing how few people out of everyone in his life want what is right for him, The Truman Show demonstrates that not everyone wants what is best for you
 
 
 ## Video essays
