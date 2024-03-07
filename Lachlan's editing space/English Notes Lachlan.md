@@ -484,7 +484,8 @@ Message:
 - He should be happy with what he has
 Another time someone broke onto set was by parachuting from the top of the dome, as well as another person getting into one of his gifts on an earlier Christmas episode. 
 Message:
-- 
+- Outside world has people concerned about the morality of the show
+- Truman shouldn't trust everyone in his life
 ## Video essays
 Aim for 4-5 minutes in length, think of it as a normal essay with added layers of visual detail. We will be marked on the essay, not as much so the visual part. Aim to make it almost exactly 5 minutes. 
 There are 2 levels of assumptions in the truman show: kristoff (truman director) and peter wier (film director).
