@@ -490,7 +490,7 @@ Message:
 Often at times, not everyone around you wants what is best for you, or what is the right thing for you. In the Truman show, there are multiple occurrences of actors breaking onto the set, and trying to inform him that his life isn't real. By showing how few people out of everyone in his life want what is right for him, The Truman Show demonstrates that not everyone wants what is best for you, or what is right for you. 
 
 
-## Video essays
+## Video essays/analytical paragraphs
 Aim for 4-5 minutes in length, think of it as a normal essay with added layers of visual detail. We will be marked on the essay, not as much so the visual part. Aim to make it almost exactly 5 minutes. 
 There are 2 levels of assumptions in the truman show: kristoff (truman director) and peter wier (film director).
 ### "Why the truman show is a wonderful movie"
@@ -511,6 +511,8 @@ A mix of video and text screens throughout the presentation
 - What references were made to cultural assumptions'?
 The style of the town Truman lives in
 The housing dynamic where Truman works and his wife cooks
+### Writing analytical paragraphs
+
 ## Cultural assumptions
 Something that society normally perceives as being true, "this is the case"
 NESA definition: Beliefs or attitudes about such things as gender, religion, youth, age, disability, sexuality, social class and work *that are taken for granted as being part of the fabric of the social practices of a particular culture*. Cultural assumptions underlie cultural expressions in texts and may also be embedded in texts in various ways.
