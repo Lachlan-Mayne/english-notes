@@ -592,6 +592,10 @@ The scene makes no mention of religion
 8. Are the people in the scene mostly lower class, middle class or rich? Does the film present this class as normal or as wrong in some way? Are people struggling to stay in a class or move up or down in class?
 
 9. Our society assumes that our work / career is extremely important to our identity and our happiness in life. Does the film follow this assumption?
+## HSC questions
+### 2020 HSC
+In what ways does *The Truman Show* invite questions about resistance and acceptance?
+In your respo
 # Module C: The craft of writing
 Students appreciate, examine and analyse at least two challenging short prescribed texts as well as texts from their own wide reading, as models and stimulus for the development of their own ideas and written expression. 
 
