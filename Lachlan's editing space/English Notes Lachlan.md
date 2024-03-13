@@ -595,7 +595,7 @@ The scene makes no mention of religion
 ## HSC questions
 ### 2020 HSC
 In what ways does *The Truman Show* invite questions about resistance and acceptance?
-In your respo
+In your response, make close reference to your prescribed text.
 # Module C: The craft of writing
 Students appreciate, examine and analyse at least two challenging short prescribed texts as well as texts from their own wide reading, as models and stimulus for the development of their own ideas and written expression. 
 
