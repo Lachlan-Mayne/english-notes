@@ -68,6 +68,7 @@ dg-publish: false
 - Truman lying lifeless on the ship is symbolic of being a new person when he comes back
 - Jesus symbolism: walking on water
 - "Was nothing real? You were real"
+- "While the world he inhabits is in some aspects.. counterfeit, there's nothing fake about Truman himself"
 - 
 
 ### **Characters:**
