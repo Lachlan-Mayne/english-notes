@@ -127,4 +127,6 @@ dg-publish: false
 - Sylvia is forced to make Truman do something spontaneous with her as otherwise it's too easy to remove her from the show, and thus removing all possibility of a connection with him
 - Sarcasm with Sylvia to show interest
 - Love triangle between Sylvia, Meryl, and Truman
-- 
+
+Individual can’t break free (the media always controls to some extent)
+
