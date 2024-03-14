@@ -130,3 +130,8 @@ dg-publish: false
 
 Individual can’t break free (the media always controls to some extent)
 
+## Good thesis:
+- Can be argued against
+- High modality words/trigger words
+- 
+
