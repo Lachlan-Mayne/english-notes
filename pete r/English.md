@@ -133,5 +133,10 @@ Individual can’t break free (the media always controls to some extent)
 ## Good thesis:
 - Can be argued against
 - High modality words/trigger words
+- Statement of what you are arguing
+- A single sentence
+- Must cover a lot of information from the film
+- Must be able to prove it from the film
+- A statement you could say to someone in public
 - 
 
