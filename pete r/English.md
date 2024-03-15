@@ -139,5 +139,8 @@ Individual can’t break free (the media always controls to some extent)
 - Must cover a lot of information from the film
 - Must be able to prove it from the film
 - A statement you could say to someone in public
-- 
+
+
+## Thesis:
+The human desire for finding the truth can surpass those who oppose it.
 
