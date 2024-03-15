@@ -142,5 +142,5 @@ Individual can’t break free (the media always controls to some extent)
 
 
 ## Thesis:
-The human desire for finding the truth can surpass those who oppose it.
+The human desire for finding the truth will surpass those who oppose it.
 
