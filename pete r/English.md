@@ -145,4 +145,6 @@ Individual can’t break free (the media always controls to some extent)
 The human desire for finding the truth will surpass those who oppose it.
 
 ## Cultural Assumptions:
-- 
+- Can tell the difference between a theme and an assumption
+- Can detect when Weir is drawing attention and challenging our assumptions
+- Can detect when Weir is just taking things forgranted. I do not use the 
