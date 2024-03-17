@@ -147,4 +147,8 @@ The human desire for finding the truth will surpass those who oppose it.
 ## Cultural Assumptions:
 - Can tell the difference between a theme and an assumption
 - Can detect when Weir is drawing attention and challenging our assumptions
-- Can detect when Weir is just taking things forgranted. I do not use the 
+- Can detect when Weir is just taking things for granted. I do not use the word "challenging"
+- Can write a brief comment on a cultural assumption
+- Can use language that reflects less certainty
+- Use the phrase "cultural assumption"
+- 
