@@ -151,4 +151,4 @@ The human desire for finding the truth will surpass those who oppose it.
 - Can write a brief comment on a cultural assumption
 - Can use language that reflects less certainty
 - Use the phrase "cultural assumption"
-- 
+- Only humans have culture (animals don't)
