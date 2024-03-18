@@ -152,4 +152,4 @@ The human desire for finding the truth will surpass those who oppose it.
 - Can use language that reflects less certainty
 - Use the phrase "cultural assumption"
 - Only humans have culture (animals don't)
-- Cultural assumptions are beliefs or attitudes about such things as gender, religion, youth, age, di
+- Cultural assumptions are beliefs or attitudes about such things as gender, religion, youth, age, disability, sexuality, social class and work that are taken for granted as being part of the fabric of the social practices of a particular culture
