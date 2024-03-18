@@ -154,4 +154,5 @@ The human desire for finding the truth will surpass those who oppose it.
 - Only humans have culture (animals don't)
 - Cultural assumptions are beliefs or attitudes about such things as gender, religion, youth, age, disability, sexuality, social class and work that are taken for granted as being part of the fabric of the social practices of a particular culture
 - Cultural assumptions underlie cultural expressions in texts and may also be embedded in texts in various ways
+- Milton and paradise lost
 - 
