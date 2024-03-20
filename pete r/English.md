@@ -156,4 +156,7 @@ The human desire for finding the truth will surpass those who oppose it.
 - Cultural assumptions underlie cultural expressions in texts and may also be embedded in texts in various ways
 - Milton and paradise lost
 - Taken for granted
+- Men are providers
+- Women tend to stay home and be housewives more often
+- Men shouldn't be scared
 - 
