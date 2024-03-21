@@ -159,4 +159,6 @@ The human desire for finding the truth will surpass those who oppose it.
 - Men are providers
 - Women tend to stay home and be housewives more often
 - Men shouldn't be scared
+
+## Cultural Assumptions Test:
 - 
