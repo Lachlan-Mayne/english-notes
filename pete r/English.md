@@ -163,4 +163,4 @@ The human desire for finding the truth will surpass those who oppose it.
 ## Cultural Assumptions Test:
 - Peter Weir is assuming that Truman will remember exactly how she looks
 - Truman likes women (he's not gay)
-- Men will initiate conversation with women
+- Men will initiate a conversation with women
