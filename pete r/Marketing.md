@@ -9,4 +9,4 @@ Focused on the production of G&S and was popular from 1820s to 1920s.
 The attitude towards marketing at the time was explained by a common catchphrase "If we make it, they will buy it."
 
 **Selling Approach:**
-Following WW1, technology went through another boom and production increased beyond demand. Different brands of goods became available where there used to be monopllies, so each business ha
+Following WW1, technology went through another boom and production increased beyond demand. Different brands of goods became available where there used to be monopolies, so each business had to persuade consumers to buy their product over competitors. The needs of the consumers were still not researched or taken into consideration when developing the product.
