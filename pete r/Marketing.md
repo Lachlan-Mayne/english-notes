@@ -1,0 +1,1 @@
+Marketing involves identifying consumer wants and developing goods and services to satisfy those wants
