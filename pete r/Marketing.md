@@ -15,4 +15,5 @@ Following WW1, technology went through another boom and production increased bey
 Following WW2, marketing more as we know it today started to surface. The customer was placed at the centre of marketing and production activities and businesses were finally researching the needs of the consumer and catering for them. For the first time, it was common for households to have disposable income, which allowed them to purchase to these G&S. "Customer first, product second."
 
 **Marketing Approach Stage 2:**
-This approach is evolving; different aspects of a business are showcased in order to gain consumer support. For example, CSR is one area where 
+This approach is evolving; different aspects of a business are showcased in order to gain consumer support. For example, CSR is one area where consumers may engage if it is environmentally friendly. Customer orientation, after-sales being offered is part of the product marketing.
+Relationship marketing aims to develop a long-term relationship with customers through market
