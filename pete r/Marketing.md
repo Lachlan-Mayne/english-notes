@@ -21,3 +21,4 @@ Relationship marketing aims to develop a long-term relationship with customers t
 1. QANTAS uses the "frequent flyer" points system to provide incentives for customers when using their product or service more.
 2. Marketing approach (appealing to the emotional side of customers)
 
+## Types of markets:
