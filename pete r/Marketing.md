@@ -22,3 +22,4 @@ Relationship marketing aims to develop a long-term relationship with customers t
 2. Marketing approach (appealing to the emotional side of customers)
 
 ## Types of markets:
+**A market is a group of people or orga**
