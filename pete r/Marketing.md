@@ -32,9 +32,12 @@ Relationship marketing aims to develop a long-term relationship with customers t
 - In the primary sector
 - Raw materials
 - Agricultural resources
+- Sell to industrial markets
 
 **Industrial Markets:**
-- 
+- Where production of G&S happens
+- Secondary sector
+- E.g. Wheat from resource market made into bread in industrial markets
 
 **Intermediate Markets:**
 - 
