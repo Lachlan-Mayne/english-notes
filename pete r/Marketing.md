@@ -41,7 +41,8 @@ Relationship marketing aims to develop a long-term relationship with customers t
 
 **Intermediate Markets:**
 - Purchasers of finished goods from wholesalers to individuals
-- E.g. Business buying from another business to sell to individuals
+- E.g. A business buying from another business to sell to individuals
+- Selling to someone who will sell it to end user
 
 **Mass Markets:**
 - 
@@ -49,6 +50,7 @@ Relationship marketing aims to develop a long-term relationship with customers t
 **Consumer Markets:**
 - Purchased to sell directly to consumers
 - Woolworths
+- Selling directly to end user
 
 **Niche Markets:**
 - 
