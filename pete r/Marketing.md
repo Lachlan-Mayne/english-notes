@@ -19,4 +19,5 @@ This approach is evolving; different aspects of a business are showcased in orde
 Relationship marketing aims to develop a long-term relationship with customers through marketing strategies such as loyalty programs.
 
 1. QANTAS uses the "frequent flyer" points system to provide incentives for customers when using their product or service more.
-2. 
+2. Marketing approach (appealing to the emotional side of customers)
+
