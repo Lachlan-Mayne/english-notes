@@ -22,4 +22,8 @@ Relationship marketing aims to develop a long-term relationship with customers t
 2. Marketing approach (appealing to the emotional side of customers)
 
 ## Types of markets:
-**A market is a group of people or orga**
+**A market is a group of people or organisations which:**
+- Need or want a product
+- Have the money to buy the product
+- Are willing to spend their money on the product
+- Are socially and legally authorised to purchase the product
