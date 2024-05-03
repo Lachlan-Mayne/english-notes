@@ -40,6 +40,8 @@ Relationship marketing aims to develop a long-term relationship with customers t
 - E.g. Wheat from resource market made into bread in industrial markets
 
 **Intermediate Markets:**
+- Purchasers of finished goods to sell onto wholesalers
+- E.g. buying 
 - 
 
 **Mass Markets:**
