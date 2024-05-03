@@ -27,3 +27,14 @@ Relationship marketing aims to develop a long-term relationship with customers t
 - Have the money to buy the product
 - Are willing to spend their money on the product
 - Are socially and legally authorised to purchase the product
+
+**Resource Markets:**
+
+
+**Industrial Markets:**
+
+
+Intermediate Markets
+
+
+Mass
