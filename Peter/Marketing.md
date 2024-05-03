@@ -55,4 +55,10 @@ Relationship marketing aims to develop a long-term relationship with customers t
 
 **Niche Markets:**
 - Trying to sell to an exclusive customer base
-- 
+
+## Influences of Marketing:
+Factors influencing customer choice:
+- Psychologi
+Consumer laws:
+
+Ethics:
