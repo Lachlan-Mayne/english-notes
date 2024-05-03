@@ -67,7 +67,8 @@ Relationship marketing aims to develop a long-term relationship with customers t
 	- Governments use economic policies to influence the level of economic activty
 	- Depending on the prevailing economic conditions, the government will put in place policies that expand or contract the level of economic activity
 - Sociocultural
-	- 
+	- Exerted by other people and groups that affect customer behaviour
+	- Social class, culture and subculture, family and ro
 
 **Consumer laws:**
 
