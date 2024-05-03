@@ -64,7 +64,7 @@ Relationship marketing aims to develop a long-term relationship with customers t
 - Economic
 	- Influences business's capacity to compete and a customer's willingness and ability to spend
 - Government
-	- Governments use economic policies to influence the level of economic activty
+	- Governments use economic policies to influence the level of economic activity
 	- Depending on the prevailing economic conditions, the government will put in place policies that expand or contract the level of economic activity
 - Sociocultural
 	- Exerted by other people and groups that affect customer behaviour
@@ -73,7 +73,7 @@ Relationship marketing aims to develop a long-term relationship with customers t
 
 **PEGS and QANTAS:**
 - Qantas responded to a desire to save money through their implementation of Jetstar
-- For consumers motivated by comfort, safety, and
+- For consumers motivated by comfort, safety, and reliability, Qantas play up their reputation as one of the safest airlines
 
 **Consumer laws:**
 
