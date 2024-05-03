@@ -55,4 +55,4 @@ Relationship marketing aims to develop a long-term relationship with customers t
 
 **Niche Markets:**
 - Trying to sell to an exclusive customer base
-- Limited group
+- 
