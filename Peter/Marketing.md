@@ -57,8 +57,17 @@ Relationship marketing aims to develop a long-term relationship with customers t
 - Trying to sell to an exclusive customer base
 
 ## Influences of Marketing:
-Factors influencing customer choice:
-- Psychologi
-Consumer laws:
+**Factors influencing customer choice:**
+- Psychological
+	- 
+- Economic
+	- 
+- Government
+	- 
+- Sociocultural
+	- 
 
-Ethics:
+**Consumer laws:**
+
+
+**Ethics:**
