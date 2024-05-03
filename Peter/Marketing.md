@@ -59,7 +59,8 @@ Relationship marketing aims to develop a long-term relationship with customers t
 ## Influences of Marketing:
 **Factors influencing customer choice:**
 - Psychological
-	- 
+	- Internal characteristics of an individual that influence their behaviour
+	- Motivation, perception, learning, beliefs and attitude, lifestyle
 - Economic
 	- 
 - Government
