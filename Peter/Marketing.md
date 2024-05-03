@@ -64,7 +64,8 @@ Relationship marketing aims to develop a long-term relationship with customers t
 - Economic
 	- Influences business's capacity to compete and a customer's willingness and ability to spend
 - Government
-	- Governments use economic policies to influence the level of economic a
+	- Governments use economic policies to influence the level of economic activty
+	- Depending on the prevailing economic conditions, the government will put in place policies that expand or contract the level of economic activity
 - Sociocultural
 	- 
 
