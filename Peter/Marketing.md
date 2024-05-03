@@ -71,7 +71,9 @@ Relationship marketing aims to develop a long-term relationship with customers t
 	- Social class, culture and subculture, family and roles, or peer groups
 	- Socioeconomic influences the type quality, and quantity of products a customer buys. People from a high socioeconomic status background, for example, are usually willing to buy products that are perceived to be prestigious
 
-**PEGS and QANTAS**
+**PEGS and QANTAS:**
+- Qantas responded to a desire to save money through their implementation of Jetstar
+- For consumers motivated by comfort, safety, and
 
 **Consumer laws:**
 
