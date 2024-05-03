@@ -76,7 +76,7 @@ Relationship marketing aims to develop a long-term relationship with customers t
 - For consumers motivated by comfort, safety, and reliability, Qantas play up their reputation as one of the safest airlines
 - Qantas recognises that consumers are affected by economic activity changes, and they act accordingly to maintain their customer base
 - Qantas put marketing strategies on hold during COVID, however when trans-tasman bubble opened, they immediately were on it
-- 
+- When flights
 
 **Consumer laws:**
 
