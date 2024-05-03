@@ -74,6 +74,7 @@ Relationship marketing aims to develop a long-term relationship with customers t
 **PEGS and QANTAS:**
 - Qantas responded to a desire to save money through their implementation of Jetstar
 - For consumers motivated by comfort, safety, and reliability, Qantas play up their reputation as one of the safest airlines
+- Qantas recognises that consumers are affected by economic activity changes, and they act accordingly to maintain th
 
 **Consumer laws:**
 
