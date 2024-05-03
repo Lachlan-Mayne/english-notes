@@ -29,12 +29,21 @@ Relationship marketing aims to develop a long-term relationship with customers t
 - Are socially and legally authorised to purchase the product
 
 **Resource Markets:**
-
+- In the primary sector
+- Raw materials
+- Agricultural resources
 
 **Industrial Markets:**
+- 
 
+**Intermediate Markets:**
+- 
 
-Intermediate Markets
+**Mass Markets:**
+- 
 
+**Consumer Markets:**
+- 
 
-Mass
+**Niche Markets:**
+- 
