@@ -45,7 +45,8 @@ Relationship marketing aims to develop a long-term relationship with customers t
 - Selling to someone who will sell it to end user
 
 **Mass Markets:**
-- 
+- Aim to sell to the larger population
+- Selling to anyone who would buy it
 
 **Consumer Markets:**
 - Purchased to sell directly to consumers
@@ -53,4 +54,5 @@ Relationship marketing aims to develop a long-term relationship with customers t
 - Selling directly to end user
 
 **Niche Markets:**
-- 
+- Trying to sell to an exclusive customer base
+- Limited group
