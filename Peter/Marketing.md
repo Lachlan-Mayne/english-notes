@@ -62,7 +62,7 @@ Relationship marketing aims to develop a long-term relationship with customers t
 	- Internal characteristics of an individual that influence their behaviour
 	- Motivation, perception, learning, beliefs and attitude, lifestyle, personality and self-concept
 - Economic
-	- 
+	- Influences businesses capacity to compete and a customer's willingness and ability to spend
 - Government
 	- 
 - Sociocultural
