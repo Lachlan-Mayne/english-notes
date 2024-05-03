@@ -78,7 +78,8 @@ Relationship marketing aims to develop a long-term relationship with customers t
 - Qantas put marketing strategies on hold during COVID, however when trans-tasman bubble opened, they immediately were on it
 - When flights resumed they had sales to encourage people to resume flying
 - Qantas uses leverage of socioeconomic status by branding Qantas/Jetstar accordingly (Qantas more prestigious and older, Jetstar more down to earth and younger audience)
-- Qantas partnering with influencers 
+- Qantas partnering with influencers to increase their brand strength
+- 
 
 **Consumer laws:**
 
