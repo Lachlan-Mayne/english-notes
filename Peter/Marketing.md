@@ -68,7 +68,8 @@ Relationship marketing aims to develop a long-term relationship with customers t
 	- Depending on the prevailing economic conditions, the government will put in place policies that expand or contract the level of economic activity
 - Sociocultural
 	- Exerted by other people and groups that affect customer behaviour
-	- Social class, culture and subculture, family and ro
+	- Social class, culture and subculture, family and roles, or peer groups
+	- Socioeconomic influences the type quality, and quantity of products a customer buys. People from a high socioeconomic status background, for example, are usually willing to buy products that are perceived
 
 **Consumer laws:**
 
