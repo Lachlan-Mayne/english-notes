@@ -17,3 +17,4 @@ Following WW2, marketing more as we know it today started to surface. The custom
 **Marketing Approach Stage 2:**
 This approach is evolving; different aspects of a business are showcased in order to gain consumer support. For example, CSR is one area where consumers may engage if it is environmentally friendly. Customer orientation, after-sales being offered is part of the product marketing.
 Relationship marketing aims to develop a long-term relationship with customers through marketing strategies such as loyalty programs
+
