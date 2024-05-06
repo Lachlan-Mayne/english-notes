@@ -110,11 +110,15 @@ Relationship marketing aims to develop a long-term relationship with customers t
 - A product is of acceptable quality if it is fit for the purpose for which it is being sold, acceptable in appearance and finish, free from defects, safe, and durable
 - A warranty is a promise by the business to repair or replace faulty products
 
-Deceptive and Misleading Advertising:
-- Bait and swtich
+**Deceptive and Misleading Advertising:**
+- Bait and switch
 - Country of origin
-- Packagin
-- Special of
+- Packaging
+- Special offer
+- Dishonest advertising
+- Tests and surveys
+- Before and after advertisements
+- Fine print
 
 ## **Ethics:**
 - 
