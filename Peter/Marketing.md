@@ -127,7 +127,7 @@ Relationship marketing aims to develop a long-term relationship with customers t
 - There is often an overuse of sexual themes connotations to sell products
 - Stereotypical images of males and females
 - Men using power tools, women cooking or cleaning
-- Product placement
+- Product placement includes advertising through film or media using their brand to gain exposure
 
 **Analyse (implications) the response of marketing managers to factors influencing customer choice (PEGS) for one business (Qantas):**
 Economic policies set by the government can aﬀect the level of economic activity and, changing the potential demand for Qantas services.
