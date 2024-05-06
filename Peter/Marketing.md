@@ -82,9 +82,11 @@ Relationship marketing aims to develop a long-term relationship with customers t
 
 **Consumer laws:**
 - A single, national consumer law (ALC) 2011
+- ACL applies in the sme way to allAutra
 - Competition and consumer act 2010; has 2 major purposes:
 	- Protecting consumers
-	- 
+	- Protecting and ensuring competition is fair
+- 
 
 **Ethics:**
 
