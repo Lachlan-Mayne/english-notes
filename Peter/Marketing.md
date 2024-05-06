@@ -85,3 +85,6 @@ Relationship marketing aims to develop a long-term relationship with customers t
 
 
 **Ethics:**
+
+
+**Analyse (implications) the response of marketing managers to factors influencing customer choice (PEGS) for one business (Qantas):**
