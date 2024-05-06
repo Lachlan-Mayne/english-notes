@@ -80,7 +80,7 @@ Relationship marketing aims to develop a long-term relationship with customers t
 - Qantas uses leverage of socioeconomic status by branding Qantas/Jetstar accordingly (Qantas more prestigious and older, Jetstar more down to earth and younger audience)
 - Qantas partnering with influencers to increase their brand strength
 
-**Consumer laws:**
+## **Consumer laws:**
 - A single, national consumer law (ALC) 2011:
 	- Enforced by the ACCC
 	- Mirror protections in the ASIC act enforced by ASIC
@@ -110,7 +110,13 @@ Relationship marketing aims to develop a long-term relationship with customers t
 - A product is of acceptable quality if it is fit for the purpose for which it is being sold, acceptable in appearance and finish, free from defects, safe, and durable
 - A warranty is a promise by the business to repair or replace faulty products
 
-**Ethics:**
+Deceptive and Misleading Advertising:
+- Bait and swtich
+- Country of origin
+- Packagin
+- Special of
+
+## **Ethics:**
 - 
 
 **Analyse (implications) the response of marketing managers to factors influencing customer choice (PEGS) for one business (Qantas):**
