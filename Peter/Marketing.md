@@ -91,11 +91,12 @@ Relationship marketing aims to develop a long-term relationship with customers t
 	- Protecting and ensuring competition is fair
 - Breaches of consumer laws can result in the ACCC taking legal action against the business or individual concerned
 
-Price Discrimination:
+**Price Discrimination:**
 - A business setting different prices for a product in different markets
 - Can be for multiple reasons, sometimes valid:
-	- MArkets are geographically separated, such as city and country prices
-	- Product dif
+	- Markets are geographically separated, such as city and country prices
+	- Product differentiation within the one market, for example different electricity prices for domestic and business users
+- Can't give favourable treatment to one market for no reason
 
 **Ethics:**
 
