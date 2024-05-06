@@ -81,7 +81,8 @@ Relationship marketing aims to develop a long-term relationship with customers t
 - Qantas partnering with influencers to increase their brand strength
 
 **Consumer laws:**
-- A single, national consumer law (ALC) 2011
+- A single, national consumer law (ALC) 2011:
+	- E
 - ACL applies in the same way to all Australian consumers and businesses regardless of where the business operates or where consumers shop
 - Competition and consumer act 2010; has 2 major purposes:
 	- Protecting consumers
