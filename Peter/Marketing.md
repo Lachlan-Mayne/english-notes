@@ -107,7 +107,7 @@ Relationship marketing aims to develop a long-term relationship with customers t
 - The unspoken and unwritten terms of a contract
 - Are assumed to exist regardless of whether they were especially mentioned or written into a contract
 - The most important implied term relating to customer purchase refers to the products acceptable quality
-- A product is of acceptable quality if it is fit for the purpose for which it is being sold, accpetable in appearance and finish, free from defect
+- A product is of acceptable quality if it is fit for the purpose for which it is being sold, acceptable in appearance and finish, free from defects, safe, and durable
 
 **Ethics:**
 
