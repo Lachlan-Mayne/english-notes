@@ -97,7 +97,8 @@ Relationship marketing aims to develop a long-term relationship with customers t
 	- Markets are geographically separated, such as city and country prices
 	- Product differentiation within the one market, for example different electricity prices for domestic and business users
 - Can't give favourable treatment to one market for no reason
-- Example: 
+- Example: UBER
+	- Uber uses route-based pricing, which charges custo
 
 **Ethics:**
 
