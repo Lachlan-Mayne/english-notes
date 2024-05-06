@@ -89,6 +89,7 @@ Relationship marketing aims to develop a long-term relationship with customers t
 - Competition and consumer act 2010; has 2 major purposes:
 	- Protecting consumers
 	- Protecting and ensuring competition is fair
+- Breaches of consumer laws can result in the ACCC taking legal action against the business or individual concerned
 - 
 
 **Ethics:**
