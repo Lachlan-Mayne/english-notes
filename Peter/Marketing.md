@@ -92,6 +92,10 @@ Relationship marketing aims to develop a long-term relationship with customers t
 - Breaches of consumer laws can result in the ACCC taking legal action against the business or individual concerned
 
 Price Discrimination:
+- A business setting different prices for a product in different markets
+- Can be for multiple reasons, sometimes valid:
+	- MArkets are geographically separated, such as city and country prices
+	- Product dif
 
 **Ethics:**
 
