@@ -103,6 +103,10 @@ Relationship marketing aims to develop a long-term relationship with customers t
 	- One of the biggest predictors of customer price sensitivity to a surge is how much battery they have left on their phone
 	- Uber knows when is users phone batteries are running low because the app switches into power-saving mode
 
+**Implied Conditions:**
+- The unspoken and unwritten terms of a contract
+- Are assumed to exist reg
+
 **Ethics:**
 
 
