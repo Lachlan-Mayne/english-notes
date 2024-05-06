@@ -79,10 +79,12 @@ Relationship marketing aims to develop a long-term relationship with customers t
 - When flights resumed they had sales to encourage people to resume flying
 - Qantas uses leverage of socioeconomic status by branding Qantas/Jetstar accordingly (Qantas more prestigious and older, Jetstar more down to earth and younger audience)
 - Qantas partnering with influencers to increase their brand strength
-- 
 
 **Consumer laws:**
-
+- A single, national consumer law (ALC) 2011
+- Competition and consumer act 2010; has 2 major purposes:
+	- Protecting consumers
+	- 
 
 **Ethics:**
 
