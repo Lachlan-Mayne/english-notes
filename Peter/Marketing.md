@@ -98,8 +98,10 @@ Relationship marketing aims to develop a long-term relationship with customers t
 	- Product differentiation within the one market, for example different electricity prices for domestic and business users
 - Can't give favourable treatment to one market for no reason
 - Example: UBER
-	- Uber uses route-based pricing, which charges customers based on what it predicts they're willing to pay. An algorithm uses data and predicts the top price a user would be willing to pay
-	- One of the biggest p
+	- Uber uses route-based pricing, which charges customers based on what it predicts they're willing to pay
+	- An algorithm uses data and predicts the top price a user would be willing to pay
+	- One of the biggest predictors of customer price sensitivity to a surge is how much battery they have left on their phone
+	- Uber knows when is users phone batteries are running low because the app switches into power-saving mode
 
 **Ethics:**
 
