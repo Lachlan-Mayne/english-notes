@@ -82,7 +82,9 @@ Relationship marketing aims to develop a long-term relationship with customers t
 
 **Consumer laws:**
 - A single, national consumer law (ALC) 2011:
-	- E
+	- Enforced by the ACCC
+	- Mirror protections in the ASIC act enforced by ASIC
+	- Applied by the state and territory consumer agencies as state and territory laws
 - ACL applies in the same way to all Australian consumers and businesses regardless of where the business operates or where consumers shop
 - Competition and consumer act 2010; has 2 major purposes:
 	- Protecting consumers
