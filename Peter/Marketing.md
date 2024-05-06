@@ -109,6 +109,10 @@ Relationship marketing aims to develop a long-term relationship with customers t
 - The most important implied term relating to customer purchase refers to the products acceptable quality
 - A product is of acceptable quality if it is fit for the purpose for which it is being sold, acceptable in appearance and finish, free from defects, safe, and durable
 
+**Warranties:**
+- A warranty is a promise by the business to repair or replace faulty products
+- 
+
 **Ethics:**
 
 
