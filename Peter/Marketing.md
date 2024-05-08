@@ -147,4 +147,7 @@ Qantas now has to:
 - Pay millions in fines for colluding with other businesses to fix fuel charges
 - Pay $2M for misleading customers in regards to refund capabilities
 
-**What are some examples where Qantas have not been e**
+**What are some examples where Qantas have not been ethical in their marketing?:**
+
+
+**What are the impactso n Qantas of the business being influenced **
