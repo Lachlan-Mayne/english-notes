@@ -131,4 +131,6 @@ Relationship marketing aims to develop a long-term relationship with customers t
 
 **Analyse (implications) the response of marketing managers to factors influencing customer choice (PEGS) for one business (Qantas):**
 Economic policies set by the government can aﬀect the level of economic activity and, changing the potential demand for Qantas services. Qantas must ensure that they adhere to the Competition and Consumer Act. This government law protects consumers from undesirable business practices for example the regulation of misleading advertising and regulates practices that restrict competition such as price fixing.
-Qantas 
+Qantas now has to:
+- Disclose all costs to customers including all previously hidden levies
+- Pay $2M in fines 
