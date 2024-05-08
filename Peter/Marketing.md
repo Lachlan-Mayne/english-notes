@@ -149,6 +149,7 @@ Qantas now has to:
 
 **What are some examples where Qantas have not been ethical in their marketing?**
 - Hiding charges and levies for some of their flights
-- Colluding with other airlines to fix fuel surcha
+- Colluding with other airlines to fix fuel surcharges
+- Misleading customers with regards to refund rights during delays or cancellations on customer flights
 
 **What are the impacts on Qantas of the business being influenced by ethics in their marketing?**
