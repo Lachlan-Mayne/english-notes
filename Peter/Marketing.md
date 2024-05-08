@@ -133,4 +133,5 @@ Relationship marketing aims to develop a long-term relationship with customers t
 Economic policies set by the government can aﬀect the level of economic activity and, changing the potential demand for Qantas services. Qantas must ensure that they adhere to the Competition and Consumer Act. This government law protects consumers from undesirable business practices for example the regulation of misleading advertising and regulates practices that restrict competition such as price fixing.
 Qantas now has to:
 - Disclose all costs to customers including all previously hidden levies
-- Pay $2M in fines for colluding with other
+- Pay millions in fines for colluding with other businesses to fix fuel charges
+- Pay $2M for misleading advertising 
