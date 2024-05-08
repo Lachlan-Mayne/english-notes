@@ -131,6 +131,8 @@ Relationship marketing aims to develop a long-term relationship with customers t
 **Exaggerated claims:**
 - Puffery is a term used to describe over-exaggeration in marketing, that promotes unreasonable expectations for the customers
 - Puffery is not prohibited by the ACL
+**Products that may damage health:**
+- All consumer products supplied must be safe and meet consumer guarantes
 
 **Analyse the response of marketing managers to factors influencing customer choice (PEGS) for Qantas:**
 Economic policies set by the government can aﬀect the level of economic activity and, changing the potential demand for Qantas services. Qantas must ensure that they adhere to the Competition and Consumer Act. This government law protects consumers from undesirable business practices for example the regulation of misleading advertising and regulates practices that restrict competition such as price fixing.
