@@ -153,3 +153,4 @@ Qantas now has to:
 - Misleading customers with regards to refund rights during delays or cancellations on customer flights
 
 **What are the impacts on Qantas of the business being influenced by ethics in their marketing?**
+- Qantas needing to act ethically enhances their brand image as reliable
