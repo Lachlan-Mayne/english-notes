@@ -146,3 +146,5 @@ Qantas now has to:
 - Disclose all costs to customers including all previously hidden levies
 - Pay millions in fines for colluding with other businesses to fix fuel charges
 - Pay $2M for misleading customers in regards to refund capabilities
+
+**What are some examples where Qantas have not been e**
