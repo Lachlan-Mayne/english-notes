@@ -148,6 +148,7 @@ Qantas now has to:
 - Pay $2M for misleading customers in regards to refund capabilities
 
 **What are some examples where Qantas have not been ethical in their marketing?**
-
+- Hiding charges and levies for some of their flights
+- Colluding with other airlines to fix fuel surcha
 
 **What are the impacts on Qantas of the business being influenced by ethics in their marketing?**
