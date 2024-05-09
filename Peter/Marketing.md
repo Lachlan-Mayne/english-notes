@@ -154,3 +154,4 @@ Qantas now has to:
 
 **What are the impacts on Qantas of the business being influenced by ethics in their marketing?**
 - Qantas needing to act ethically enhances their brand image as reliable
+- This increases sales, maximising profit
