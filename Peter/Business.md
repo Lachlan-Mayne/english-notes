@@ -463,4 +463,6 @@ The main costs associated with change are-
 - Analysing and interpreting data
 
 **Establishing Market Objectives:**
-- 
+- Increasing market share
+- Expanding product range
+- Maximising customer service
