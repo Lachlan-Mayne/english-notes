@@ -441,8 +441,10 @@ The main costs associated with change are-
 
 ## Marketing Processes:
 **SMEIDI:**
-- Situational analysis
-- Market research
-- Establishing marketing objectives Identify target markets
-- Develop marketing strategies
-- Implementation, monitoring and controlling
+- **S**ituational analysis
+- **M**arket research
+- **E**stablishing marketing objectives 
+- **I**dentify target markets
+- **D**evelop marketing strategies
+- **I**mplementation, monitoring and controlling
+
