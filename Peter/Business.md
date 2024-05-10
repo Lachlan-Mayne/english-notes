@@ -461,3 +461,6 @@ The main costs associated with change are-
 - Determining information needs
 - Collecting data from primary and secondary sources
 - Analysing and interpreting data
+
+**Establishing Market Objectives:**
+- 
