@@ -468,4 +468,5 @@ The main costs associated with change are-
 - Maximising customer service
 
 **Identifying Target Markets:**
-- A target market is a group of consumers for whom a particular product has been de
+- A target market is a group of consumers for whom a particular product has been developed
+- The business hopes that these people will buy the product when it is made available in the marketplace
