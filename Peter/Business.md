@@ -448,3 +448,4 @@ The main costs associated with change are-
 - **D**evelop marketing strategies
 - **I**mplementation, monitoring and controlling
 
+Situational Anal
