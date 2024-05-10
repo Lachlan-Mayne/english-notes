@@ -440,5 +440,9 @@ The main costs associated with change are-
 3. Operations management that has been well set up, will allow businesses to benefit financially
 
 ## Marketing Processes:
-
-
+**SMEIDI:**
+- Situational analysis
+- Market research
+- Establishing marketing objectives Identify target markets
+- Develop marketing strategies
+- Implementation, monitoring and controlling
