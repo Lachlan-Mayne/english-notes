@@ -484,4 +484,4 @@ The main costs associated with change are-
 - Implementation is the process of putting the marketing strategies into operation
 - Monitoring is checking and observing the actual progress of the marketing plan
 - Controlling uses the info collected in the monitoring stage and controls the plan
-- Here, the marketing department compare the actual results with the results that the business had previously pa
+- Here, the marketing department compare the actual results with the results that the business had previously planned to achieve
