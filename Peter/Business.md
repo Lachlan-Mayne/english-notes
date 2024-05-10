@@ -466,3 +466,6 @@ The main costs associated with change are-
 - Increasing market share
 - Expanding product range
 - Maximising customer service
+
+**Identifying Target Markets:**
+- A target market is a group of consumers for whom a particular product has been de
