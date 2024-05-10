@@ -472,10 +472,13 @@ The main costs associated with change are-
 - The business hopes that these people will buy the product when it is made available in the marketplace
 - Target markets are used so marketing strategies can be directed, allowing businesses to better satisfy customers wants and needs
 
-Developing Marketing Strategies:
+**Developing Marketing Strategies:**
 - Once the strategic goals of a business have been set and the organisation has established specific market objectives, the business must develop appropriate marketing strategies
 - The marketing mix refers to the 4 ps:
 	- Product
 	- Price
 	- Promotion
-	- 
+	- Place
+
+**Implementation, Monitoring and Controlling:**
+- Implementation is the process of putting the marketing strategies into operation
