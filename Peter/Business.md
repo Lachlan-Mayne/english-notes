@@ -451,4 +451,8 @@ The main costs associated with change are-
 **Situational Analysis:**
 - To develop a clear understanding of both the external and internal environments, a SWOT analysis should be conducted
 - A SWOT analysis involves the identification and analysis of the internal strengths and weaknesses, and the opportunities in, and threats from the external environment
-
+- Product life cycle:
+	- Introduction
+	- Growth
+	- Maturity
+	- Decli
