@@ -435,7 +435,7 @@ The main costs associated with change are-
 3. **Refreeze:** Make the change last by managers offering positive reinforcement
 
 ## Global Factors:
-1. Pretty much all businesses are influenced by global factors
+1. Almost all businesses are influenced by global factors
 2. Global operations can offer cost-savings for operations managers when they consider the most suitable sourcing options and advantages of locating their operations around the world
-3. Operations management that has been well set up, will allow businesses to benefit
+3. Operations management that has been well set up, will allow businesses to benefit financially
 
