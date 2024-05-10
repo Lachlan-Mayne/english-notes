@@ -450,4 +450,5 @@ The main costs associated with change are-
 
 **Situational Analysis:**
 - To develop a clear understanding of both the external and internal environments, a SWOT analysis should be conducted
-- A SOT analysis involves the identification and analysis of the internal strengths and weakns
+- A SWOT analysis involves the identification and analysis of the internal strengths and weaknesses, and the opportunities in, and threats from the external environment
+
