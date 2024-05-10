@@ -439,3 +439,6 @@ The main costs associated with change are-
 2. Global operations can offer cost-savings for operations managers when they consider the most suitable sourcing options and advantages of locating their operations around the world
 3. Operations management that has been well set up, will allow businesses to benefit financially
 
+## Marketing Processes:
+
+
