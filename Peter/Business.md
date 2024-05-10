@@ -470,3 +470,4 @@ The main costs associated with change are-
 **Identifying Target Markets:**
 - A target market is a group of consumers for whom a particular product has been developed
 - The business hopes that these people will buy the product when it is made available in the marketplace
+- Target markets are used so marketing strategies can be directed, allowing businesses to better satisfy customers wants and needs
