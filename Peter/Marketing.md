@@ -182,4 +182,7 @@ Qantas now has to:
 	- Products or services that are environmentally friendly
 - Gives positive implications
 - Taronga zoo differentiate themselves based on social and ethical values
-- 
+- Four points of differentiation are:
+	- Customer service
+	- Environmental concerns
+	- Convne
