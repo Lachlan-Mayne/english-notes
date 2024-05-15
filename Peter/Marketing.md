@@ -181,4 +181,4 @@ Qantas now has to:
 	- Better value for money
 	- Products or services that are environmentally friendly
 - Gives positive implications
-- 
+- Taronga zoo differentiate themselves based on social and ethical values
