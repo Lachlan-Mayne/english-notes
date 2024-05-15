@@ -170,3 +170,6 @@ Qantas now has to:
 - Qantas customise the marketing mix for specific market segments to refine the product, set appropriate prices, determine the sales location, and focus promotions more effectively
 - Altering differing customer needs and willingness through cheaper flights through Jetstar
 - Jetstar offers both domestic and international flights
+
+**Product Differentiation:**
+- The process of developing and promoting differences between the business's 
