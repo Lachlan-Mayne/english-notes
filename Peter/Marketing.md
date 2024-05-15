@@ -157,4 +157,6 @@ Qantas now has to:
 - This increases sales, maximising profit
 
 ## Marketing Strategies:
+- Strategies are the actions that a business takes to achieve specific goals
+- Marketing strategies are therefore the actions aimed at achieving marketing goals
 - 
