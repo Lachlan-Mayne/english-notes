@@ -185,4 +185,6 @@ Qantas now has to:
 - Four points of differentiation are:
 	- Customer service
 	- Environmental concerns
-	- Convne
+	- Convenience
+	- Social and ethical issues
+- 
