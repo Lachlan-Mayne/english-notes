@@ -159,4 +159,7 @@ Qantas now has to:
 ## Marketing Strategies:
 - Strategies are the actions that a business takes to achieve specific goals
 - Marketing strategies are therefore the actions aimed at achieving marketing goals
-- 
+
+**Market Segmentation:**
+- Division of the total market for a product into smaller segments
+- This is usually done according to certain characteristics of customers
