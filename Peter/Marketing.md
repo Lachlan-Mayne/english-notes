@@ -179,4 +179,5 @@ Qantas now has to:
 	- Greater convenience
 	- More features
 	- Better value for money
-	- Products or services that are environmentally frie
+	- Products or services that are environmentally friendly
+- 
