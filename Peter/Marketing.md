@@ -172,4 +172,11 @@ Qantas now has to:
 - Jetstar offers both domestic and international flights
 
 **Product Differentiation:**
-- The process of developing and promoting differences between the business's 
+- The process of developing and promoting differences between the business's products or services and those of its competitors
+- Differences could be:
+	- Changes to packaging
+	- Offering top-quality service
+	- Greater convenience
+	- More features
+	- Better value for money
+	- Products or services that are environmentally frie
