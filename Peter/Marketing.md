@@ -167,4 +167,5 @@ Qantas now has to:
 	- Geographic
 	- Psychographic
 	- Behavioural
-- 
+- Qantas customise the marketing mix for specific market segments to refine the product, set appropriate prices, determine the sales location, and focus promotions more effectively
+- Altering different 
