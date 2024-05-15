@@ -162,4 +162,9 @@ Qantas now has to:
 
 **Market Segmentation:**
 - Division of the total market for a product into smaller segments
-- This is usually done according to certain characteristics of customers
+- This is usually done according to certain characteristics of customers:
+	- Demographic
+	- Geographic
+	- Psychographic
+	- Behavioural
+- 
