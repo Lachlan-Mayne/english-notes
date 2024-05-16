@@ -187,4 +187,5 @@ Qantas now has to:
 	- Environmental concerns
 	- Convenience
 	- Social and ethical issues
-- 
+
+**Positioning:**
