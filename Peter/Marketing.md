@@ -229,4 +229,4 @@ Qantas now has to:
 - Expiration
 - Country of origin
 **Qantas Product Strategies:**
-- 
+- Frequent flyer scheme used to 
