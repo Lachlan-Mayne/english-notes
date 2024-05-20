@@ -206,4 +206,5 @@ Qantas now has to:
 	- **Identify** products they like
 	- **Evaluate** quality of products
 	- Reduce **perceived risk**
-	- 
+	- Gain **psychological reward**
+- 
