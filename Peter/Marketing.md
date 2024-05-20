@@ -205,6 +205,6 @@ Qantas now has to:
 - Brands help consumers:
 	- **Identify** products they like
 	- **Evaluate** quality of products
-	- Reduce **perceived risk**
-	- Gain **psychological reward**
+	- **Perceived risk** reduce 
+	- **Psychological reward** gained
 - 
