@@ -222,4 +222,8 @@ Qantas now has to:
 	- Divides product into convenient units
 	- Assists with the display of product
 	- Makes transportation of product easier
-	- 
+**Labelling:**
+- A label is the part of the package that contains information
+- Can be for marketing but also legal reasons
+- Nutritional value
+- 
