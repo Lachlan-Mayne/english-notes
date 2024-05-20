@@ -208,4 +208,8 @@ Qantas now has to:
 	- **Perceived risk** reduce 
 	- **Psychological reward** gained
 - Impacts of branding:
-	- 
+	- Gain repeat sales
+	- Introduce new products
+	- Promotional activities increase
+	- Encourage customer loyalty
+- 
