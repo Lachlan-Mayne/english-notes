@@ -226,4 +226,5 @@ Qantas now has to:
 - A label is the part of the package that contains information
 - Can be for marketing but also legal reasons
 - Nutritional value
+- Expiration
 - 
