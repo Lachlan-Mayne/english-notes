@@ -191,4 +191,6 @@ Qantas now has to:
 **Positioning:**
 - For business
 - For leisure
-- 
+- Dual brand strategy
+
+## Product:
