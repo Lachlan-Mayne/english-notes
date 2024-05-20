@@ -195,11 +195,10 @@ Qantas now has to:
 - Dual brand strategy
 
 ## Product:
-
 **Branding:**
 - A brand is a name, term, symbol, design or combination that identifies a specific product and distinguishes it from competition
 - Qantas masterbrand (spirit of Australia variation, flying kangaroo)
 - Brands are usually classified according to who owns them
 - When a manufacturer owns a brand name it is referred to as a manufacturers brand or national brand
 - A private or house brand is one that is owned by a retailer or wholesaler. These products are often cheaper because the retailer or wholesaler can buy at lower costs
-- Generic brands are products with no brand name at all. Car
+- Generic brands are products with no brand name at all. Carrying only the name of the product in plain packaging; these generic brand shave been available in supermarkets since the mid 1970s
