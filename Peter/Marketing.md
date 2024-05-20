@@ -202,3 +202,8 @@ Qantas now has to:
 - When a manufacturer owns a brand name it is referred to as a manufacturers brand or national brand
 - A private or house brand is one that is owned by a retailer or wholesaler. These products are often cheaper because the retailer or wholesaler can buy at lower costs
 - Generic brands are products with no brand name at all. Carrying only the name of the product in plain packaging; these generic brand shave been available in supermarkets since the mid 1970s
+- Brands help consumers:
+	- **Identify** products they like
+	- **Evaluate** quality of products
+	- Reduce **perceived risk**
+	- 
