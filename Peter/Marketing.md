@@ -212,4 +212,7 @@ Qantas now has to:
 	- Introduce new products
 	- Promotional activities increase
 	- Encourage customer loyalty
-- 
+**Packaging:**
+- Involves the development of a container and graphic design
+- Packaging is sometimes just as important as the product itself
+- Packaging also:
