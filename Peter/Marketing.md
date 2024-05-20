@@ -199,4 +199,5 @@ Qantas now has to:
 **Branding:**
 - A brand is a name, term, symbol, design or combination that identifies a specific product and distinguishes it from competition
 - Qantas masterbrand (spirit of Australia variation, flying kangaroo)
-- 
+- Brands are usually classified according to who owns them
+- When a manufacturer owns a brand name it is referred to as a man
