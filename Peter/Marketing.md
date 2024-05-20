@@ -189,7 +189,7 @@ Qantas now has to:
 	- Social and ethical issues
 
 **Positioning:**
-- Refers to the technique in which marketers try to crea
+- Refers to the technique in which marketers try to create an image or identify a product to identify a product compared with the image of competitive products
 - For business
 - For leisure
 - Dual brand strategy
@@ -198,4 +198,4 @@ Qantas now has to:
 
 **Branding:**
 - A brand is a name, term, symbol, design or combination that identifies a specific product and distinguishes it from competition
-- 
+- Qantas masterbrand (spirit of )
