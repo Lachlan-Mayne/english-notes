@@ -228,3 +228,5 @@ Qantas now has to:
 - Nutritional value
 - Expiration
 - Country of origin
+**Qantas Product Strategies:**
+- 
