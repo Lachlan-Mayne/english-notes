@@ -207,4 +207,5 @@ Qantas now has to:
 	- **Evaluate** quality of products
 	- **Perceived risk** reduce 
 	- **Psychological reward** gained
-- 
+- Impacts of branding:
+	- 
