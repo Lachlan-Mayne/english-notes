@@ -230,4 +230,4 @@ Qantas now has to:
 - Country of origin
 **Qantas Product Strategies:**
 - Frequent flyer scheme used with >13million customers to enhance their retention and benefit loyalty with customers who choose to fly with them more often. Members accumulate points through flying with Qantas and can redeem these for upgrades to the goods or services they purchase or to outright buy higher levels initially.
-- Qantas uses their branding as their primary source of packaging, as they sell a service, not a good. This allows them to appeal more to their consumer base
+- Qantas uses their branding as their primary source of packaging, as they sell a service, not a good. This allows them to appeal more to their consumer base of Australians due to the nature of their use of showing the proudly Australian airline.
