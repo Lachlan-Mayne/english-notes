@@ -229,4 +229,5 @@ Qantas now has to:
 - Expiration
 - Country of origin
 **Qantas Product Strategies:**
-- Frequent flyer scheme used with >13million customers to enhance their retention and benefit loyalty 
+- Frequent flyer scheme used with >13million customers to enhance their retention and benefit loyalty with customers who choose to fly with them more often
+- 
