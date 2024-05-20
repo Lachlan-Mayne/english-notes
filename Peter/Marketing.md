@@ -189,8 +189,12 @@ Qantas now has to:
 	- Social and ethical issues
 
 **Positioning:**
+- 
 - For business
 - For leisure
 - Dual brand strategy
 
 ## Product:
+
+**Branding:**
+A brand is a name, term, 
