@@ -189,3 +189,6 @@ Qantas now has to:
 	- Social and ethical issues
 
 **Positioning:**
+- For business
+- For leisure
+- 
