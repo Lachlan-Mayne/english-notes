@@ -216,3 +216,10 @@ Qantas now has to:
 - Involves the development of a container and graphic design
 - Packaging is sometimes just as important as the product itself
 - Packaging also:
+	- Preserves the product
+	- Protects product from damage
+	- Attracts attention
+	- Divides product into convenient units
+	- Assists with the display of product
+	- Makes transportation of product easier
+	- 
