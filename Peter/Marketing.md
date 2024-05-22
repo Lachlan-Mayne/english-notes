@@ -253,7 +253,8 @@ Qantas now has to:
 
 **Price Skimming:**
 - Business charges the highest possible price for the product during the introduction of its life cycle
-- Some consumer
+- Some consumers are willing to pay this
+- Objective is to recover the costs of research and development as quickly as possible
 
 **Price Penetration:**
 
