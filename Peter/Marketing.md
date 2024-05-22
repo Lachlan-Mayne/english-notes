@@ -233,3 +233,5 @@ Qantas now has to:
 - Qantas uses their branding as their primary source of packaging, as they sell a service, not a good. This allows them to appeal more to their consumer base of Australians due to the nature of their use of showing the proudly Australian airline.
 
 ## Pricing Strategies:
+- Price refers to the amount of money a customer pays when purchasing a good or service
+- Costs, however are expenses incurred by a business in production
