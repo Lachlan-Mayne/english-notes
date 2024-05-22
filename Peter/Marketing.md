@@ -235,3 +235,12 @@ Qantas now has to:
 ## Pricing Strategies:
 - Price refers to the amount of money a customer pays when purchasing a good or service
 - Costs, however are expenses incurred by a business in production
+
+**Cost-Based Pricing:**
+- 
+
+**Market-Based Pricing:**
+- 
+
+**Competition-Based Marketing:**
+- 
