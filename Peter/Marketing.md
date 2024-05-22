@@ -239,7 +239,8 @@ Qantas now has to:
 **Cost-Based Pricing:**
 - Also known as "mark-up pricing"
 - Simplest of the 3 pricing methods
-- Determining the costs of making a good or service, with a
+- Determining the costs of making a good or service, with a small markup to obtain a profit on each
+- 
 
 **Market-Based Pricing:**
 - 
