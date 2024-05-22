@@ -257,7 +257,8 @@ Qantas now has to:
 - Objective is to recover the costs of research and development as quickly as possible
 
 **Price Penetration:**
-
+- Business charges the lowest possible price for a product in order to attract attention
+- Objective is to sell a large number of products during the early 
 
 **Loss Leader:**
 
