@@ -243,7 +243,9 @@ Qantas now has to:
 - E.g $100 watch at 60% markup will be priced at $160 to make profit
 
 **Market-Based Pricing:**
-- 
+- Price is set according to supply and demand
+- When demand is greater than supply, businesses increase price due to the higher demand
+- When supply exceeds 
 
 **Competition-Based Marketing:**
 - 
