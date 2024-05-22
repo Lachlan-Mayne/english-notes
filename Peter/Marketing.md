@@ -248,4 +248,5 @@ Qantas now has to:
 - When supply exceeds demand, prices can be lowered due to consumers being able to buy a product more freely
 
 **Competition-Based Marketing:**
+- Competition based covers costs of the product, and is the comparable to other competitors prices
 - 
