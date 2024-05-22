@@ -237,7 +237,9 @@ Qantas now has to:
 - Costs, however are expenses incurred by a business in production
 
 **Cost-Based Pricing:**
-- 
+- Also known as "mark-up pricing"
+- Simplest of the 3 pricing methods
+- Determining the costs of making a good or service, with a
 
 **Market-Based Pricing:**
 - 
