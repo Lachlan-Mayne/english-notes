@@ -245,7 +245,7 @@ Qantas now has to:
 **Market-Based Pricing:**
 - Price is set according to supply and demand
 - When demand is greater than supply, businesses increase price due to the higher demand
-- When supply exceeds 
+- When supply exceeds demand, prices can be lowered due to consumers being able to buy a product more freely
 
 **Competition-Based Marketing:**
 - 
