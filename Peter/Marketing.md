@@ -249,4 +249,5 @@ Qantas now has to:
 
 **Competition-Based Marketing:**
 - Competition based covers costs of the product, and is the comparable to other competitors prices
+- Most commonly used in high competition for similar product markets such as petrol stations
 - 
