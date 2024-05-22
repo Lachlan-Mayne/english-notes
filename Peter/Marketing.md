@@ -265,4 +265,6 @@ Qantas now has to:
 - Psychology is that once the consumers are in the store, they will usually buy other products and spend more than what attracted them to begin with
 
 **Price Points:**
+- Businesses sell products only at certain predetermined prices to increase their customer base
+- Mainly used by retailers, especially clothing
 - 
