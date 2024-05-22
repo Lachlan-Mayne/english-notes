@@ -262,7 +262,7 @@ Qantas now has to:
 
 **Loss Leader:**
 - A product is sold at below cost price - no profit is being made on its sale, instead they are just covering costs or losing money on it
-- Psychology is th
+- Psychology is that once the consumers are in the store, they will usually buy other products and spend more than what attracted them to begin with
 
 **Price Points:**
 - 
