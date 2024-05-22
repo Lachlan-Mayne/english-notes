@@ -240,7 +240,7 @@ Qantas now has to:
 - Also known as "mark-up pricing"
 - Simplest of the 3 pricing methods
 - Determining the costs of making a good or service, with a small markup to obtain a profit on each
-- 
+- E.g $100 watch at 60% markup will be priced at $160 to make profit
 
 **Market-Based Pricing:**
 - 
