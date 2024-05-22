@@ -258,7 +258,7 @@ Qantas now has to:
 
 **Price Penetration:**
 - Business charges the lowest possible price for a product in order to attract attention
-- Objective is to sell a large number of products during the early 
+- Objective is to sell a large number of products during the early stages of the product life cycle and thus discourage competitors from entering the market or from taking market share from existing businesses
 
 **Loss Leader:**
 
