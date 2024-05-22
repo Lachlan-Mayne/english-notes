@@ -261,6 +261,8 @@ Qantas now has to:
 - Objective is to sell a large number of products during the early stages of the product life cycle and thus discourage competitors from entering the market or from taking market share from existing businesses
 
 **Loss Leader:**
-
+- A product is sold at below cost price - no profit is being made on its sale, instead they are just covering costs or losing money on it
+- Psychology is th
 
 **Price Points:**
+- 
