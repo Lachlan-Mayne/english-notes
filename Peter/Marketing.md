@@ -252,7 +252,8 @@ Qantas now has to:
 - Most commonly used in high competition for similar product markets such as petrol stations
 
 **Price Skimming:**
-
+- Business charges the highest possible price for the product during the introduction of its life cycle
+- Some consumer
 
 **Price Penetration:**
 
