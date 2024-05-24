@@ -295,6 +295,8 @@ Qantas now has to:
 ## Communication Process:
 - Marketing manager need to be able to communicate clearly, efficiently, and succinctly to their target market
 - Miscommunication may mean lost sales
-- A channel is any method used for carryi
+- A channel is any method used for carrying a message
+- Noise is any interference or distraction that affects any or all stages int eh communication process
+- An opinion leader is a person who influences others
 
 
