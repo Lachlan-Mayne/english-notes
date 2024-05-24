@@ -271,5 +271,10 @@ Qantas now has to:
 ## Promotion Mix:
 - Promotion describes the methods used by a business to inform, persuade, and remind a target market about its products
 **Advertising:**
-
-**Personal Sel**
+- 
+**Personal Selling and Relationship Marketing:**
+- 
+**Sales Promotion:**
+- 
+**Publicity and Public Relations:**
+- 
