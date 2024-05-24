@@ -268,6 +268,8 @@ Qantas now has to:
 - Businesses sell products only at certain predetermined prices to increase their customer base
 - Mainly used by retailers, especially clothing (S, M, L, XL)
 
-## Promotion:
+## Promotion Mix:
 - Promotion describes the methods used by a business to inform, persuade, and remind a target market about its products
-- 
+**Advertising:**
+
+**Personal Sel**
