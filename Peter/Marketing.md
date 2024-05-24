@@ -275,7 +275,7 @@ Qantas now has to:
 - Successful advertising = increased sales = profit
 
 **Personal Selling and Relationship Marketing:**
-- 
+- Personal slling
 
 **Sales Promotion:**
 - 
