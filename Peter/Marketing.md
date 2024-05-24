@@ -298,6 +298,11 @@ Qantas now has to:
 - A channel is any method used for carrying a message
 - Noise is any interference or distraction that affects any or all stages int eh communication process
 - An opinion leader is a person who influences others
-- Word of mouth 
+- **Word of mouth is the ideal form of promotion due to:**
+	- Influence on consumers
+	- Free cost
+	- Genuine - targeted and efficient
+	- Targets relevant market
+- 
 
 
