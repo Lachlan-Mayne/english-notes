@@ -292,6 +292,9 @@ Qantas now has to:
 - Public relations are those activities aimed at creating and maintaining favourable relations between a business and its customers
 - Most businesses use publicity and public relations as a means of increasing sales and therefore, profits
 
-**
+## Communication Process:
+- Marketing manager need to be able to communicate clearly, efficiently, and succinctly to their target market
+- Miscommunication may mean lost sales
+- A channel is any method used for carryi
 
 
