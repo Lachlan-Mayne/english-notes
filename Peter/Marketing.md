@@ -275,12 +275,21 @@ Qantas now has to:
 - Successful advertising = increased sales = profit
 
 **Personal Selling and Relationship Marketing:**
-- Personal slling
+- Personal selling refers to the activities of a salesperson directed to a customer in an attempt to make a sale
+- Businesses looking to giver customer a personal treatment for finding the best thing for the business and the customer
+- Keep customer engaged so they spend more
 
 **Sales Promotion:**
-- 
+- Involves the use of activities or materials as a direct incentive to attract customers
+- Aims to:
+	- Entice new customers
+	- Encourage trial purchase of a new product
+	- Increase sales to existing customers and repeat purchases
+- Sales promotion techniques are used primarily to increase the effectiveness of other promotion activities, especially advertising
 
 **Publicity and Public Relations:**
-- 
+- Publicity is any free news story about a businesses products
+- Public relations are those activities aimed at creating and maintaining favourable relations between a business and its customers
+- Most businesses use publicity and public relations as a means of increasing sales and therefore, profits
 
 
