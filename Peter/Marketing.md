@@ -267,4 +267,4 @@ Qantas now has to:
 **Price Points:**
 - Businesses sell products only at certain predetermined prices to increase their customer base
 - Mainly used by retailers, especially clothing (S, M, L, XL)
-- 
+
