@@ -292,4 +292,6 @@ Qantas now has to:
 - Public relations are those activities aimed at creating and maintaining favourable relations between a business and its customers
 - Most businesses use publicity and public relations as a means of increasing sales and therefore, profits
 
+**
+
 
