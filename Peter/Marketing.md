@@ -324,7 +324,7 @@ Qantas now has to:
 	- Using only a moderate number of all the possible outlets
 - **Exclusive distribution:**
 	- Only one retail outlet is used for a large geographic area
-- Physical distribution
+- **Physical distribution:**
 	- Activities involved in the actual moving of products from the producer to the consumer through the channels of distribution:
 		- Transport
 		- Warehousing
