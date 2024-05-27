@@ -329,3 +329,10 @@ Qantas now has to:
 		- Transport
 		- Warehousing
 		- Inventory
+
+## Extended Marketing Mix:
+**Marketing of services:**
+- People
+- Process
+- Physical Evidence
+
