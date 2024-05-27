@@ -339,8 +339,10 @@ Qantas now has to:
 **People:**
 -  Refers to the quality of interaction between the customer and those who deliver the service
 Processes:
-- q
+- 
 Physical Evidence:
 - Physical evidence refers to the environment in which the service will be delivered and any materials needed to carry out the service
 - Unlike tangible goods, it is service for a service business's marketing services to provide customers with a "try before you buy" sample unless a free trial is offered
+
+## E-Marketing:
 - 
