@@ -315,5 +315,4 @@ Qantas now has to:
 	- Producer -> Retailer -> Customer (Bulky or perishable goods e.g furniture or fruit)
 	- Producer -> Wholesaler -> Retailer -> Customer (Most consumer goods)
 	- Producer -> Agent -> Wholesaler -> Retailer -> Customer (Inexpensive frequently used products, particularly if there are no sales reps)
-**Channel Choice:
-**
+**Channel Choice:**
