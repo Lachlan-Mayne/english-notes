@@ -312,5 +312,6 @@ Qantas now has to:
 - Usually involves a number of intermediaries such as wholesaler, broker, agent or retailer
 - **Traditional Distribution Channels:**
 	- Producer -> Customer (Most services use)
-	- Producer -> Retailer -> Custome
-	- 
+	- Producer -> Retailer -> Customer (Bulky or perishable goods e.g furniture or fruit)
+	- Producer -> Wholesaler -> Retailer -> Customer (Most consumer goods)
+	- Producer -> Agnet
