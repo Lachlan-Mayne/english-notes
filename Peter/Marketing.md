@@ -336,4 +336,6 @@ Qantas now has to:
 - Process
 - Physical Evidence
 - As services are performed by people, it is essential that the business use appropriately recruited, qualified and trained employees
-- The **people** element refers to the quality of interaction between the customer and those who deliver the service
+**People:**
+-  Refers to the quality of interaction between the customer and those who deliver the service
+
