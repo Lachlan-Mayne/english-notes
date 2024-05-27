@@ -305,6 +305,7 @@ Qantas now has to:
 	- Targets relevant market
 
 ## Place/Distribution:
-- Activ
+- Activities that make the products available to customers when and where they want to purchase them
 
-
+**Distribution Channels:**
+- 
