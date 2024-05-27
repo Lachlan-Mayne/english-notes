@@ -342,4 +342,5 @@ Processes:
 - q
 Physical Evidence:
 - Physical evidence refers to the environment in which the service will be delivered and any materials needed to carry out the service
-- Unlike tangible goods, it is service for a service business's marketing services top
+- Unlike tangible goods, it is service for a service business's marketing services to provide customers with a "try before you buy" sample unless a free trial is offered
+- 
