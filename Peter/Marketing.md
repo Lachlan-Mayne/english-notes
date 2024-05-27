@@ -303,6 +303,8 @@ Qantas now has to:
 	- Free cost
 	- Genuine - targeted and efficient
 	- Targets relevant market
-- 
+
+## Place/Distribution:
+- Activ
 
 
