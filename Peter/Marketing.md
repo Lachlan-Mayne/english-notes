@@ -335,4 +335,4 @@ Qantas now has to:
 - People
 - Process
 - Physical Evidence
-
+- As services are performed by people, it is essential that the business use appropriately recruited, qualified and trained employees
