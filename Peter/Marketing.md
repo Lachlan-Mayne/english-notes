@@ -309,4 +309,8 @@ Qantas now has to:
 
 **Distribution Channels:**
 - Channels of distribution or marketing channels are the routes taken to get the product from the business to the customer
-- Usually involves a number of intermediaries such 
+- Usually involves a number of intermediaries such as wholesaler, broker, agent or retailer
+- **Traditional Distribution Channels:**
+	- Producer -> Customer (Most services use)
+	- Producer -> Retailer -> Custome
+	- 
