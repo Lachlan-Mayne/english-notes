@@ -315,4 +315,9 @@ Qantas now has to:
 	- Producer -> Retailer -> Customer (Bulky or perishable goods e.g furniture or fruit)
 	- Producer -> Wholesaler -> Retailer -> Customer (Most consumer goods)
 	- Producer -> Agent -> Wholesaler -> Retailer -> Customer (Inexpensive frequently used products, particularly if there are no sales reps)
+
 **Channel Choice:**
+- Market coverage refers to the number of outlets businesses chooses for its product
+- Intensive distribution:
+	- Saturating the market with their product, it is available in all or most of the possible outlets
+- 
