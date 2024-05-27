@@ -308,4 +308,5 @@ Qantas now has to:
 - Activities that make the products available to customers when and where they want to purchase them
 
 **Distribution Channels:**
-- 
+- Channels of distribution or marketing channels are the routes taken to get the product from the business to the customer
+- Usually involves a number of intermediaries such 
