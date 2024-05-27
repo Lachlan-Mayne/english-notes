@@ -338,4 +338,8 @@ Qantas now has to:
 - As services are performed by people, it is essential that the business use appropriately recruited, qualified and trained employees
 **People:**
 -  Refers to the quality of interaction between the customer and those who deliver the service
-
+Processes:
+- q
+Physical Evidence:
+- Physical evidence refers to the environment in which the service will be delivered and any materials needed to carry out the service
+- Unlike tangible goods, it is service for a service business's marketing services top
