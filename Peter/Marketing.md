@@ -314,4 +314,5 @@ Qantas now has to:
 	- Producer -> Customer (Most services use)
 	- Producer -> Retailer -> Customer (Bulky or perishable goods e.g furniture or fruit)
 	- Producer -> Wholesaler -> Retailer -> Customer (Most consumer goods)
-	- Producer -> Agnet
+	- Producer -> Agent -> Wholesaler -> Retailer -> Customer (Inexpensive frequently used products, particularly if there are no sales reps)
+- 
