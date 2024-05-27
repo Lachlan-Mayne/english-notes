@@ -345,4 +345,4 @@ Physical Evidence:
 - Unlike tangible goods, it is service for a service business's marketing services to provide customers with a "try before you buy" sample unless a free trial is offered
 
 ## E-Marketing:
-- 
+- E-marketing is the practice of using the internet to perform marketing activities
