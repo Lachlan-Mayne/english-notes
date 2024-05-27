@@ -318,6 +318,10 @@ Qantas now has to:
 
 **Channel Choice:**
 - Market coverage refers to the number of outlets businesses chooses for its product
-- Intensive distribution:
+- **Intensive distribution:**
 	- Saturating the market with their product, it is available in all or most of the possible outlets
+- **Selective distribution:**
+	- Using only a moderate number of all the possible outlets
+- **Exclusive distribution:**
+	- Only one retail outlet is used for a large geographic area
 - 
