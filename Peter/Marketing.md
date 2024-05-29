@@ -359,6 +359,6 @@ Physical Evidence:
 	- Same product meets everyones wants
 - **Customisation:**
 	- Either modify the existing marketing mix, or develop a new one
-	- Assumes the way the product is used and 
+	- Assumes the way the product is used and the needs it satisfies in different countries is different
 - **Global Pricing:**
 - **Competitive Positioning:**
