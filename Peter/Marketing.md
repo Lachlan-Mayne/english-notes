@@ -355,7 +355,9 @@ Physical Evidence:
 	- Successful brand can be linked to new products being introduced into the market
 - **Standardisation:**
 	- A standardised approach assumes that the way the product is used and the needs is satisfies are the same across the world
-	- 
+	- Economies of scale
+	- Same product meets everyones wants
 - **Customisation:**
+	- 
 - **Global Pricing:**
 - **Competitive Positioning:**
