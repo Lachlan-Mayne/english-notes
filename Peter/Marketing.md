@@ -350,6 +350,7 @@ Physical Evidence:
 ## Global Marketing:
 - **Global Branding:**
 	- The worldwide use of a name, term, symbol or logo identify the seller's products
+	- Can be cost effective because one a
 - **Standardisation:**
 - **Customisation:**
 - **Global Pricing:**
