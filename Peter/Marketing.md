@@ -358,6 +358,6 @@ Physical Evidence:
 	- Economies of scale
 	- Same product meets everyones wants
 - **Customisation:**
-	- 
+	- Either modify the existing marketing mix, or develop a new o
 - **Global Pricing:**
 - **Competitive Positioning:**
