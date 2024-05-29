@@ -366,7 +366,10 @@ Physical Evidence:
 - **Global Pricing:**
 	- Global pricing is how businesses coordinate their pricing policy across different countries
 	- Global businesses can implement:
-		- Customised
-		- Mixed-customised
-		- Standard worldwide price
+		- **Customised:**
+			- Consumers in different countries are charged different prices for the same product
+		- **Mixed-customised:**
+			- 
+		- **Standard worldwide price:**
+			- 
 - **Competitive Positioning:**
