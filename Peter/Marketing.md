@@ -364,4 +364,9 @@ Physical Evidence:
 	- Assumes the way the product is used and the needs it satisfies in different countries is different
 	- JetstarAsia, and for differing countries
 - **Global Pricing:**
+	- Global pricing is how businesses coordinate their pricing policy across different countries
+	- Global businesses can implement:
+		- Customised
+		- Mixed-customised
+		- Standard worldwide price
 - **Competitive Positioning:**
