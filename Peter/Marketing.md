@@ -373,5 +373,5 @@ Physical Evidence:
 			- Prices are set according to local market conditions
 			- Competitive markets prices may be lowered, and vice versa
 		- **Standard worldwide price:**
-			- 
+			- Charging customers the same price for a product anywhere in the world
 - **Competitive Positioning:**
