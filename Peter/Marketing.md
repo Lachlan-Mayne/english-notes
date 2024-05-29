@@ -368,6 +368,7 @@ Physical Evidence:
 	- Global businesses can implement:
 		- **Customised:**
 			- Consumers in different countries are charged different prices for the same product
+			- Based on cost-plus method to cover cost of exporting etc
 		- **Mixed-customised:**
 			- 
 		- **Standard worldwide price:**
