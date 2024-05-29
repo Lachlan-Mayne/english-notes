@@ -348,8 +348,8 @@ Physical Evidence:
 - E-marketing is the practice of using the internet to perform marketing activities
 
 ## Global Marketing:
-- Global Branding
-- Standardisation
-- Customisation
-- Global Pricing
-- Competitive Po
+- **Global Branding:**
+- **Standardisation:**
+- **Customisation:**
+- **Global Pricing:**
+- **Competitive Positioning:**
