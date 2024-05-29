@@ -353,12 +353,15 @@ Physical Evidence:
 	- Can be cost effective because one advertisement can be used in a number of locations
 	- Uniform worldwide image
 	- Successful brand can be linked to new products being introduced into the market
+	- Qantas red and white kangaroo
 - **Standardisation:**
 	- A standardised approach assumes that the way the product is used and the needs is satisfies are the same across the world
 	- Economies of scale
 	- Same product meets everyones wants
+	- Oneworld airline
 - **Customisation:**
 	- Either modify the existing marketing mix, or develop a new one
 	- Assumes the way the product is used and the needs it satisfies in different countries is different
+	- JetstarAsia, and for differing countries
 - **Global Pricing:**
 - **Competitive Positioning:**
