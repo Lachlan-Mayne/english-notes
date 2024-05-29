@@ -349,6 +349,7 @@ Physical Evidence:
 
 ## Global Marketing:
 - **Global Branding:**
+	- The worldwide use of a name, term, symbol or logo identify the seller's products
 - **Standardisation:**
 - **Customisation:**
 - **Global Pricing:**
