@@ -370,7 +370,8 @@ Physical Evidence:
 			- Consumers in different countries are charged different prices for the same product
 			- Based on cost-plus method to cover cost of exporting etc
 		- **Mixed-customised:**
-			- 
+			- Prices are set according to local market conditions
+			- Competitive markets prices may be lowered, and vice versa
 		- **Standard worldwide price:**
 			- 
 - **Competitive Positioning:**
