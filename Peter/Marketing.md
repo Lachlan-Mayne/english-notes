@@ -378,4 +378,4 @@ Physical Evidence:
 	- Relates to how a business will differentiate its products
 	- Centres on how a business will carve out a place in the competitive marketing environment
 	- Shows how its products are better than the competitors products
-	- Avoid competing o
+	- Business strives to develop product leadership, positive customer relationships and operational excellence
