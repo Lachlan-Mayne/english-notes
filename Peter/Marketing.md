@@ -377,4 +377,4 @@ Physical Evidence:
 - **Competitive Positioning:**
 	- Relates to how a business will differentiate its products
 	- Centres on how a business will carve out a place in the competitive marketing environment
-	- 
+	- Shows how its products are better t
