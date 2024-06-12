@@ -28,4 +28,9 @@
 
 ## Key Influences:
 - Stakeholders
-- L
+- Legal
+- Economic
+- Technological
+- Social
+- Ethics and CSR
+
