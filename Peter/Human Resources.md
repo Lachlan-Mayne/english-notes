@@ -17,3 +17,5 @@
 - Sometimes HR functions themselves can be outsourced:
 	- Acquisition, development, maintenance and separation
 - Using contractors has become common for certain tasks where you need specialised workers
+- Choice of business to outsource to, but not choice of individual
+- 
