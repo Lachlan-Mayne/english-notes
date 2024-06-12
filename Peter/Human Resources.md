@@ -23,4 +23,5 @@
 		- Same practices and expectations
 		- More expensive for experience possibly
 	- Global:
-		- Chaper
+		- Cheaper, sacrificing potential skill
+		- Different expectations due to different cultures
