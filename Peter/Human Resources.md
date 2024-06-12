@@ -37,4 +37,5 @@
 ## Stakeholders:
 - Naturally want the business to do well, as they do well when the business does
 - Not all interests are shared - conflict can arise du to differences and competing interests
+- If HR is poorly manages, employers suffer from low productivity, higher costs and possibly industrial action
 - 
