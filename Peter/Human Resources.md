@@ -40,4 +40,4 @@
 - If HR is poorly manages, employers suffer from low productivity, higher costs and possibly industrial action
 - Employees will suffer from lower wages
 - **Employer associations** represent the interest of a number of employers collectively
-- 
+- Unions represent the interest of employees, usually within a 
