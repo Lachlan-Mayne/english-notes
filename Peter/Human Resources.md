@@ -14,4 +14,5 @@
 	- Increase speed to market
 	- Foster innovation
 	- Conserve capital
-- 
+- Sometimes HR functions themselves can be outsourced:
+	- Acquisition, de
