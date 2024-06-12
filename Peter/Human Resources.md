@@ -6,4 +6,4 @@
 
 **Outsourcing:**
 - Involves the business contracting individuals or companies from outside the business to perform certain business activities
-- 
+- **Shamrock organisation:** firms have a core workforce, a flexible casual workforce and some outsourced specialists
