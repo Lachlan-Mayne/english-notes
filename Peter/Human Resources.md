@@ -36,4 +36,5 @@
 
 ## Stakeholders:
 - Naturally want the business to do well, as they do well when the business does
-- Not all interests are share
+- Not all interests are shared - conflict can arise du to differences and competing interests
+- 
