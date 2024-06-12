@@ -25,3 +25,7 @@
 	- Global:
 		- Cheaper, sacrificing potential skill
 		- Different expectations due to different cultures
+
+## Key Influences:
+- Stakeholders
+- L
