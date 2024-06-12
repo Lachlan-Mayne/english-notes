@@ -34,3 +34,6 @@
 - Social
 - Ethics and CSR
 
+## Stakeholders:
+- Naturally want the business to do well, as they do well when the business does
+- Not all interests are share
