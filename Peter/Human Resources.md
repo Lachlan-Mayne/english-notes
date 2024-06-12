@@ -15,4 +15,4 @@
 	- Foster innovation
 	- Conserve capital
 - Sometimes HR functions themselves can be outsourced:
-	- Acquisition, de
+	- Acquisition, development, maintenance and separation
