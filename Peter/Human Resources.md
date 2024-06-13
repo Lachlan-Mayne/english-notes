@@ -50,3 +50,5 @@
 	- Business handling HR will also impact how society views that business
 
 ## Stakeholders and Qantas:
+- Qantas employ over 25,000 staff
+- Qantas is a highly unionised workforce, with 15 different
