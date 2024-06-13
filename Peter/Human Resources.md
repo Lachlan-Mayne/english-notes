@@ -47,4 +47,5 @@
 	- Business closing = less place for shop
 	- Whole family impacted by loss of income
 	- Lower income = lower spending = slowing economy
+	- Business handling HR will also impact how society views that business
 	- 
