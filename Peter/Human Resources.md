@@ -51,4 +51,5 @@
 
 ## Stakeholders and Qantas:
 - Qantas employ over 25,000 staff
-- Qantas is a highly unionised workforce, with 15 different
+- Qantas is a highly unionised workforce, with 15 different unions representing their various types of employees
+- Qantas is a member of the Australian International Airlines Operation Group - an employer association
