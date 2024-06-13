@@ -44,4 +44,7 @@
 - Usually aim for better working conditions
 - **Government organisations** determine the legal framework for HR, help solve disputes and have a wide range of social and economic goals affected by HR
 - **Society** is composed of individuals who are directly and indirectly affected by HR outcomes such as workers and their families
-- 
+	- Business closing = less place for shop
+	- Whole family impacted by loss of income
+	- Lower income = lower spending = slowing economy
+	- 
