@@ -43,4 +43,5 @@
 - Unions represent the interest of employees, usually within a particular industry
 - Usually aim for better working conditions
 - **Government organisations** determine the legal framework for HR, help solve disputes and have a wide range of social and economic goals affected by HR
-- **Society** is composed of individuals 
+- **Society** is composed of individuals who are directly and indirectly affected by HR outcomes such as workers and their families
+- 
