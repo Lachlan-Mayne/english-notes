@@ -38,8 +38,8 @@
 - Naturally want the business to do well, as they do well when the business does
 - Not all interests are shared - conflict can arise du to differences and competing interests
 - If HR is poorly manages, employers suffer from low productivity, higher costs and possibly industrial action
-- Employees will suffer from lower wages
+- Employees will suffer from lower wages or poorer working conditions
 - **Employer associations** represent the interest of a number of employers collectively
 - Unions represent the interest of employees, usually within a particular industry
 - Usually aim for better working conditions
-- 
+- **Government organisations** determine the legal framework for HR, help solve disputes and have a wide range of social and economic goals affected by HR
