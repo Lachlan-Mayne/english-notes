@@ -59,3 +59,6 @@
 - Employment contracts are legally binding agreements between employee and employer that sets out the terms and conditions of employment
 - **Statute law**: made by parliament and is written clearly in legislation
 - **Common law:** court-made law, where a judge has made a decision, is applied to future cases
+- Employers have obligations:
+	- Pay employees fairly as agreed
+	- {}
