@@ -61,4 +61,5 @@
 - **Common law:** court-made law, where a judge has made a decision, is applied to future cases
 - Employers have obligations:
 	- Pay employees fairly as agreed
-	- {}
+	- Provide a sage working environment
+	- Not seriously damage and employees reputation or humiliate them
