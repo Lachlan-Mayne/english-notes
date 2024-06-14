@@ -55,4 +55,5 @@
 - Qantas is a member of the Australian International Airlines Operation Group - an employer association
 
 ## Legal Framework:
-- The laws and R
+- The laws and regulations that deal with 
+- Employment contracts are legally binding agreements between employee and employer that sets out the terms and conditions of employment
