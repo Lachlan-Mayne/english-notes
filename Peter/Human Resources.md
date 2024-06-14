@@ -58,4 +58,4 @@
 - The laws and regulations that deal with 
 - Employment contracts are legally binding agreements between employee and employer that sets out the terms and conditions of employment
 - **Statute law**: made by parliament and is written clearly in legislation
-- Common law: court-made law, where a judge has made a de
+- **Common law:** court-made law, where a judge has made a decision, is applied to future cases
