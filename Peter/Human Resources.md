@@ -68,4 +68,4 @@
 - A type of employment contract that set the minimum wage and working condition for a certain industry or occupation type
 
 ## Enterprise Agreements:
-- Set a minimum agreed set of pay and conditions, however they are collevtively negotiated with a aparticular employer, usu
+- Set a minimum agreed set of pay and conditions, however they are collectively negotiated with a particular employer, usually by a union representing the employees
