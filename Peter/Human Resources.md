@@ -69,3 +69,7 @@
 
 ## Enterprise Agreements:
 - Set a minimum agreed set of pay and conditions, however they are collectively negotiated with a particular employer, usually by a union representing the employees
+
+## Individual contracts:
+- Greater flexibility that can make it easier to attract and reward certain workers
+
