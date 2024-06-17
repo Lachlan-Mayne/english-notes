@@ -80,4 +80,4 @@
 ## Work Heath and Safety Laws
 - WHS act created 2011
 - Regulates employers to protect the health, safety and welfare of workers
-- Qantas' WH plan has increased safety awareness withing the business and lead to an 80% reduction 
+- Qantas' WH plan has increased safety awareness within the business and lead to an 80% reduction in employee injuries since it was implemented in 2001
