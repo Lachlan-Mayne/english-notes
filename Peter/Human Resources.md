@@ -65,4 +65,4 @@
 	- Not seriously damage and employees reputation or humiliate them
 
 ## Awards:
-- A type of employment contract that set the minimum wage and working condition for a certain ind
+- A type of employment contract that set the minimum wage and working condition for a certain industry or occupation type
