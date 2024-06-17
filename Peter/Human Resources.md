@@ -79,3 +79,4 @@
 
 ## Work Heath and Safety Laws
 - WHS act created 2011
+- Regulates employers to protect the health, safety and welfare of workers
