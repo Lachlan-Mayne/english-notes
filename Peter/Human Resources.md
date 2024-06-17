@@ -75,4 +75,4 @@
 
 ## Employment Contract:
 - Casual employees have contracts with employers for short-term, irregular or seasonal work
-- Part-time employees have a continuing eml
+- Part-time employees have a continuing employment contract and work less than 38 hours per week
