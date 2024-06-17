@@ -82,4 +82,5 @@
 - Regulates employers to protect the health, safety and welfare of workers
 - Qantas' WH plan has increased safety awareness within the business and lead to an 80% reduction in employee injuries since it was implemented in 2001
 - Qantas have to take out insurance, proactively to be ready to support workers who may be injured at work
-- Qantas increasing accepting
+- Qantas increasing women accepted into the graduate intake and increasing women's participation in their leadership program
+- Aim to increase female pilots to 40%
