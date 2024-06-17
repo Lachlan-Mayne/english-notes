@@ -70,6 +70,9 @@
 ## Enterprise Agreements:
 - Set a minimum agreed set of pay and conditions, however they are collectively negotiated with a particular employer, usually by a union representing the employees
 
-## Individual contracts:
+## Individual Contracts:
 - Greater flexibility that can make it easier to attract and reward certain workers
 
+## Employment Contract:
+- Casual employees have contracts with employers for short-term, irregular or seasonal work
+- Part-time employees have a continuing eml
