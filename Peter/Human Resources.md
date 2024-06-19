@@ -86,6 +86,7 @@
 - Aim to increase female pilots to 40% within the next decade, which would be significantly above the industry average of 3%.
 
 ## Influences:
+**Economic**:
 - Due to increased level of international competition, businesses are forced to restructure in order to remain competitive 
+**Technological**
 - Human resources can be replaced by machines, meaning retrenchment for some, but some new positions can also be made to operate the machinery
-- 
