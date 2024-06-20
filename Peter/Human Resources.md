@@ -96,3 +96,4 @@
 - Many workers these days do not want to work full time, leading to a rise in casual and part-time work
 - People want more flexibility in their everyday work as well as their career
 - More women joining workforce
+- People working for longer period of
