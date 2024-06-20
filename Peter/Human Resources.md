@@ -97,3 +97,5 @@
 - People want more flexibility in their everyday work as well as their career
 - More women joining workforce
 - People working for longer periods of time
+- Ageing population
+- Standards of living are increasing
