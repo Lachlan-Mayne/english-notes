@@ -101,4 +101,5 @@
 - Standards of living are increasing
 
 **Qantas:**
-- 
+- Qantas need to reduce costs to increase profit, however inflation makes workers demand higher pay
+- Outsourcing IT and call centres to cut costs, but still train their own pilots
