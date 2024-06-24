@@ -105,4 +105,5 @@
 - Outsourcing IT and call centres to cut costs, but still train their own pilots
 
 ## Ethics and CSR Influences:
-**Good working conditions wand properly motivated staffw ill lead to increast motivation and performance, leading to being seen in a better light**
+**Good working conditions wand properly motivated staff will lead to increased motivation and performance, leading to being seen in a better light by the community.**
+
