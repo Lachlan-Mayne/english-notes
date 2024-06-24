@@ -108,5 +108,5 @@
 **Good working conditions wand properly motivated staff will lead to increased motivation and performance, leading to being seen in a better light by the community.**
 - Staff retention and absenteeism rates improve as staff feel more valued and motivated
 - Business costs are reduced and business performance is enhanced
-
-
+- Best practice employers enjoy regular publicity
+- 
