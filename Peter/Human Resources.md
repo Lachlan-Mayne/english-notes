@@ -135,4 +135,4 @@
 3. **Placement**
 	- Locating the employee in a position that best utilises the skills of the individual to meet the needs of the business
 
-An issue that could arise from a business rapidly expanding and requiring additional staff would be the need for external recruitment as internal would be impossible due to the need for more staff that the business does not have. This could be risky for the business as they would have less of an idea and would need to placing more trust in the staff they
+An issue that could arise from a business rapidly expanding and requiring additional staff would be the need for external recruitment as internal would be impossible due to the need for more staff that the business does not have. This could be risky for the business as they would have less of an idea and would need to placing more trust in the staff they are hiring as they are unknown to the business.
