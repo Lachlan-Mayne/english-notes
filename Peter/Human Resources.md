@@ -112,4 +112,6 @@
 
 ## Processes:
 1. **Acquisition
-2. D**
+2. **Development**
+3. **Maintenance**
+4. **Separation**
