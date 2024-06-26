@@ -118,4 +118,5 @@
 
 ## Acquisition:
 - The process of hiring the workers needed to meet business objectives
-- Includes determining the labour ne
+- Includes determining the labour needs, attracting candidates, and selecting the right people
+- 
