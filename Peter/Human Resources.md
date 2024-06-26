@@ -119,4 +119,8 @@
 ## Acquisition:
 - The process of hiring the workers needed to meet business objectives
 - Includes determining the labour needs, attracting candidates, and selecting the right people
-- 
+- Internal hiring:
+	- Trusted employees
+	- Known skills and experience
+- External hiring:
+	- 
