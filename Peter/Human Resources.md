@@ -112,6 +112,10 @@
 
 ## Processes:
 1. **Acquisition
-2. **Development**
-3. **Maintenance**
-4. **Separation**
+3. **Development**
+4. **Maintenance**
+5. **Separation**
+
+## Acquisition:
+- The process of hiring the workers needed to meet business objectives
+- Includes determining the labour ne
