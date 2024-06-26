@@ -128,7 +128,9 @@
 	- Potential for more specialised labour
 	- Better experience possibly
 	- Unknown productivity
-1. Recruitment
+1. **Recruitment**
 	- Finding and attracting the right quantity and quality of staff
-2. Selection
+2. **Selection**
+	- Gathering information about each applicant for a position, then using that info to choose the most appropriate applicant
 3. Placement
+	- 
