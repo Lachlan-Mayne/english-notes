@@ -122,5 +122,8 @@
 - Internal hiring:
 	- Trusted employees
 	- Known skills and experience
+	- Could be limited in overall potential compared to external
 - External hiring:
-	- 
+	- Potential for more specialised labour
+	- Better experience possibly
+	- Unknown productivity
