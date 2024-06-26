@@ -132,5 +132,5 @@
 	- Finding and attracting the right quantity and quality of staff
 2. **Selection**
 	- Gathering information about each applicant for a position, then using that info to choose the most appropriate applicant
-3. Placement
-	- 
+3. **Placement**
+	- Locating the employee in a position that best utilises the skills of the individual to meet the needs of the business
