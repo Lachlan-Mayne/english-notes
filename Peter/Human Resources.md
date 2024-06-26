@@ -140,4 +140,5 @@ An issue that could arise from a business rapidly expanding and requiring additi
 ## Development:
 - Concerned with improving skills and capabilities of employees in order to better meet business goals
 - Employees go through induction
-- Mentoring and coaching may ne 
+- Mentoring and coaching may be used
+- 
