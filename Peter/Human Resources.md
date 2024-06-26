@@ -111,3 +111,5 @@
 - Best practice employers enjoy regular publicity
 
 ## Processes:
+1. **Acquisition
+2. D**
