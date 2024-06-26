@@ -134,3 +134,5 @@
 	- Gathering information about each applicant for a position, then using that info to choose the most appropriate applicant
 3. **Placement**
 	- Locating the employee in a position that best utilises the skills of the individual to meet the needs of the business
+
+An issue that could arise from a business rapidly expanding and requiring additional staff would be the need for external recruitment 
