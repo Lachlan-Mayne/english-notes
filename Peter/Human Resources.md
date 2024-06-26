@@ -128,4 +128,7 @@
 	- Potential for more specialised labour
 	- Better experience possibly
 	- Unknown productivity
-	- 
+1. Recruitment
+	- Finding and attracting the right quantity and quality of staff
+2. Selection
+3. Placement
