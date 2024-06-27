@@ -144,4 +144,5 @@ An issue that could arise from a business rapidly expanding and requiring additi
 - Training should be viewed as an investment by businesses, as it aims to seek a long-term change in skills in order to improve work performance in the business
 - Managers have a performance appraisal process to monitor the results of the development
 
-If employees are unmotivated and management does not listen to their suggestions
+
+If employees are unmotivated and management does not listen to their suggestions, 
