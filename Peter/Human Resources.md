@@ -145,4 +145,4 @@ An issue that could arise from a business rapidly expanding and requiring additi
 - Managers have a performance appraisal process to monitor the results of the development
 
 
-If employees are unmotivated and management does not listen to their suggestions, 
+If employees are unmotivated and management does not listen to their suggestions, then undergoing a training program for the employees may be a valid human resource management process that would improve the qualiuty of the 
