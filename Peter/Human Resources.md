@@ -141,4 +141,5 @@ An issue that could arise from a business rapidly expanding and requiring additi
 - Concerned with improving skills and capabilities of employees in order to better meet business goals
 - Employees go through induction
 - Mentoring and coaching may be used
-- Training should be viewed as an investment by businesses, as it aims to seek a long-term change in skills in order to improve work performance in
+- Training should be viewed as an investment by businesses, as it aims to seek a long-term change in skills in order to improve work performance in the business
+- 
