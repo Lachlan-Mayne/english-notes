@@ -176,3 +176,5 @@ If employees are unmotivated and management does not listen to their suggestions
 - Team building
 - Ensure variety/job rotation
 - Increasing responsibility
+
+
