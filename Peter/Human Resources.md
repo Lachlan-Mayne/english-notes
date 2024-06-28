@@ -189,4 +189,7 @@ If employees are unmotivated and management does not listen to their suggestions
 ## Qantas Work Environment:
 - High quality staff facilities
 - Flex@Q approach (flexible work)
-- Increased paid paternity leave ()
+- Increased paid paternity leave (from 10 - 12 weeks)
+- Up to 10 days carer's leave annually
+- "Keep in touch" program
+- 
