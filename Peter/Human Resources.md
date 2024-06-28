@@ -182,6 +182,11 @@ If employees are unmotivated and management does not listen to their suggestions
 - Discounted hotel and entertainment deals
 - Free uniform dry cleaning
 - Medical insurance
-- Asoption ssisstance
+- Asoption assistance
 - Flexible spending accounts
-- Tuition assisstance
+- Tuition assistance
+
+## Qantas Work Environment:
+- High quality staff facilities
+- Flex@Q approach (flexible work)
+- Increased paid paternity leave ()
