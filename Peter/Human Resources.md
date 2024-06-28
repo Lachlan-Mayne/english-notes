@@ -157,3 +157,5 @@ If employees are unmotivated and management does not listen to their suggestions
 - Includes both monetary and non-monetary rewards (fringe benefits)
 - Monetary is cash payments
 - Non-monetary could be a company car or free healthcare
+**Family friendly/flexible working arrangements:**
+- HR need to plan for things like job sharing, family friendly programs, childcare, leave provisions
