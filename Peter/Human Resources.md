@@ -151,14 +151,18 @@ If employees are unmotivated and management does not listen to their suggestions
 **Maintenance is about motivating, retaining and managing the wellbeing of staff to keep them motivated and committed**
 **Communication and culture:**
 - Poor communication and culture is often reflected in workplace conflict and high turnover rates
+
 **Employee participation:**
 - Involvement in teams, collective bargaining, workplace surveys and activities
+
 **Remuneration:**
 - Includes both monetary and non-monetary rewards (fringe benefits)
 - Monetary is cash payments
 - Non-monetary could be a company car or free healthcare
+
 **Family friendly/flexible working arrangements:**
 - HR need to plan for things like job sharing, family friendly programs, childcare, leave provisions
+
 **Legal compliance and CSR:**
 - Legal issues not being manages are behind high levels of staff stress, absenteeism, turnover, and low productivity and morale
 - Meeting contractual obligations
@@ -166,5 +170,9 @@ If employees are unmotivated and management does not listen to their suggestions
 - Anti-discrimination
 - Pollution/environment
 - Unethical financial deals
+
 **Working environment:**
-- Unsage or uncomfortable working coditions will lead workers to become
+- Unsafe or uncomfortable working conditions will lead workers to becoming unmotivated
+- Team building
+- Ensure variety/job rotation
+- Increasing responsibility
