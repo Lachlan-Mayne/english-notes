@@ -194,5 +194,5 @@ If employees are unmotivated and management does not listen to their suggestions
 - "Keep in touch" program
 - New childcare facilities on-site in Sydney, Melbourne and Brisbane
 - Increased total parental leave for primary care-givers from 52-104 weeks
-- Collaborative approach
-- Ensuring compliance with all government l
+- Collaborative approach with employees
+- Ensuring compliance with all government legislation
