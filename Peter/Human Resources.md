@@ -184,3 +184,4 @@ If employees are unmotivated and management does not listen to their suggestions
 - Medical insurance
 - Asoption ssisstance
 - Flexible spending accounts
+- Tuition assisstance
