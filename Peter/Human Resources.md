@@ -177,4 +177,10 @@ If employees are unmotivated and management does not listen to their suggestions
 - Ensure variety/job rotation
 - Increasing responsibility
 
-
+## Qantas Remuneration:
+- Staff travel
+- Discounted hotel and entertainment deals
+- Free uniform dry cleaning
+- Medical insurance
+- Asoption ssisstance
+- Flexible spending accounts
