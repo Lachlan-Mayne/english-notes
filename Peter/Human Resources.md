@@ -161,4 +161,7 @@ If employees are unmotivated and management does not listen to their suggestions
 - HR need to plan for things like job sharing, family friendly programs, childcare, leave provisions
 **Legal compliance and CSR:**
 - Legal issues not being manages are behind high levels of staff stress, absenteeism, turnover, and low productivity and morale
-- a
+- Meeting contractual obligations
+- WHS
+- Anti-discrimination
+- Pollution/environ
