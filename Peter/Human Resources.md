@@ -149,3 +149,7 @@ If employees are unmotivated and management does not listen to their suggestions
 
 ## Maintenance:
 **Maintenance is about motivating, retaining and managing the wellbeing of staff to keep them motivated and committed**
+**Communication and culture:**
+- Poor communication and culture is often reflected in workplace conflict and high turnover rates
+**Employee participation:**
+- Involvement in teams, collective bargaining, workplace surveys and activiti
