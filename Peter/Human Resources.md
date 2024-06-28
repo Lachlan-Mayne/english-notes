@@ -146,3 +146,6 @@ An issue that could arise from a business rapidly expanding and requiring additi
 
 
 If employees are unmotivated and management does not listen to their suggestions, then undergoing a training program for the employees may be a valid human resource management process that would improve the culture of the workplace. 
+
+## Maintenance:
+**Maintenance is about motivating, retaining and managing the wellbeing of staff to keep them motivated and committed**
