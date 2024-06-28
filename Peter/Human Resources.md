@@ -164,4 +164,7 @@ If employees are unmotivated and management does not listen to their suggestions
 - Meeting contractual obligations
 - WHS
 - Anti-discrimination
-- Pollution/environ
+- Pollution/environment
+- Unethical financial deals
+**Working environment:**
+- Unsage or uncomfortable working coditions will lead workers to become
