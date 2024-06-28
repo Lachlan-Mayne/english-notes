@@ -152,4 +152,8 @@ If employees are unmotivated and management does not listen to their suggestions
 **Communication and culture:**
 - Poor communication and culture is often reflected in workplace conflict and high turnover rates
 **Employee participation:**
-- Involvement in teams, collective bargaining, workplace surveys and activiti
+- Involvement in teams, collective bargaining, workplace surveys and activities
+**Remuneration:**
+- Includes both monetary and non-monetary rewards (fringe benefits)
+- Monetary is cash payments
+- Non-monetary could be a company car or free healthcare
