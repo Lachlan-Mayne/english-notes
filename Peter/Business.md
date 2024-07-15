@@ -60,7 +60,7 @@ Other businesses supply intangible (non-physical) products to customers. This is
 
 ## **Influences:**
 
-**- Globalisation:**
+## Globalisation:
 - Technology, quality expectations, cost-based competition, government policies, legal regulation, environmental sustainability
 - The removal of barriers of trade between nations
 - Integration between national economies and a high degree of transfer of capital, labour, intellectual capital and ideas, financial resources and technology
