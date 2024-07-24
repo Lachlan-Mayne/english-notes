@@ -199,7 +199,8 @@ If employees are unmotivated and management does not listen to their suggestions
 
 ## Separation:
 **Separation is the process of HR concerned with situations when workers leave the business, either voluntarily or involuntarily**
-
+- Separation could put more stress on the pressure the business
+- More pressure could result in higher chance of separation with other employees in the business
 ## Voluntary:
 
 
