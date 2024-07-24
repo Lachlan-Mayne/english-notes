@@ -232,4 +232,5 @@ If employees are unmotivated and management does not listen to their suggestions
 
 **Unfair Dismissal:**
 - Fair Work Commission finds that an employee was harshly, unjustly, or unreasonably AND it was not genuine redundancy
-- Businesses can object to claims if they can show that the claim was 
+- Businesses can object to claims if they can show that the claim was ineligible and that all statements made about the employee were correct
+- Some businesses will avoid the costs and risks associated with possible unfair dismissal claims by during casuals or contractors
