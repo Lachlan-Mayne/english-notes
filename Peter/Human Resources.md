@@ -208,8 +208,9 @@ If employees are unmotivated and management does not listen to their suggestions
 - Contracts often state that the employee must give a minimum 4 weeks notice in order to reduce business disruption
 **Retirement:**
 - Choosing to stop working altogether
-- Most
-
+- Often between ages 60-68
+**Voluntary Redundancy:**
+- When a business needs to let go of people, but asks for people to nominate the
 ## Involuntary:
 **Dismissal:**
 - Leave the company against their will
