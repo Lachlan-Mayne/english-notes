@@ -198,4 +198,9 @@ If employees are unmotivated and management does not listen to their suggestions
 - Ensuring compliance with all government legislation
 
 ## Separation:
-**Separation is the process of HR concerned with situations when workers leave the business, either voluntarily or involuntarily.**
+**Separation is the process of HR concerned with situations when workers leave the business, either voluntarily or involuntarily**
+
+## Voluntary:
+
+
+## Involuntary:
