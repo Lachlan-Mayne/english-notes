@@ -241,4 +241,10 @@ If employees are unmotivated and management does not listen to their suggestions
 - As a result of the GFC, increased competition, changes in technology and COVID-19 Qantas have made several large-scale "downsizing decisions"
 - 2014-16: -5000 staff
 - 2020-21: -9000 staff
-- Covid separations were offered as voluntary redundancies first then compulsory afterards, across:
+- Covid separations were offered as voluntary redundancies first then compulsory afterwards, across:
+	- Ground operations (1500)
+	- Office roles (1450)
+	- Cabin crew (1050)
+	- Engineering (630)
+	- Pilots (220)
+- 
