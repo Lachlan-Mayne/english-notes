@@ -239,4 +239,6 @@ If employees are unmotivated and management does not listen to their suggestions
 
 ## Separation at Qantas:
 - As a result of the GFC, increased competition, changes in technology and COVID-19 Qantas have made several large-scale "downsizing decisions"
-- 
+- 2014-16: -5000 staff
+- 2020-21: -9000 staff
+- Covid separations were offered as voluntary redundancies first then compulsory afterards, across:
