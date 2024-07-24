@@ -202,7 +202,9 @@ If employees are unmotivated and management does not listen to their suggestions
 - Separation could put more stress on the pressure the business
 - More pressure could result in higher chance of separation with other employees in the business
 ## Voluntary:
-Employee leaves of their own free will
+**Resignation:**
+- Employee leaves of their own free will
+- 
 
 ## Involuntary:
 **Dismissal:**
