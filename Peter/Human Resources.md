@@ -231,4 +231,5 @@ If employees are unmotivated and management does not listen to their suggestions
 - Also known as retrenchment
 
 **Unfair Dismissal:**
-- Fair Work Commission finds that an unemployee was 
+- Fair Work Commission finds that an employee was harshly, unjustly, or unreasonably AND it was not genuine redundancy
+- Businesses can object to claims if they can show that the claim was 
