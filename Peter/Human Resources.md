@@ -201,6 +201,7 @@ If employees are unmotivated and management does not listen to their suggestions
 **Separation is the process of HR concerned with situations when workers leave the business, either voluntarily or involuntarily**
 - Separation could put more stress on the pressure the business
 - More pressure could result in higher chance of separation with other employees in the business
+
 ## Voluntary:
 **Resignation:**
 - Employee leaves of their own free will
@@ -234,4 +235,6 @@ If employees are unmotivated and management does not listen to their suggestions
 - Fair Work Commission finds that an employee was harshly, unjustly, or unreasonably AND it was not genuine redundancy
 - Businesses can object to claims if they can show that the claim was ineligible and that all statements made about the employee were correct
 - Some businesses will avoid the costs and risks associated with possible unfair dismissal claims by during casuals or contractors
-- Others implement probation periods or focus on more o
+
+## HR MUST:
+- Notice and lea
