@@ -206,9 +206,11 @@ If employees are unmotivated and management does not listen to their suggestions
 - Employee leaves of their own free will
 - Employee decides to leave the business with the intention of finding a new job elsewhere
 - Contracts often state that the employee must give a minimum 4 weeks notice in order to reduce business disruption
+
 **Retirement:**
 - Choosing to stop working altogether
 - Often between ages 60-68
+
 **Voluntary Redundancy:**
 - When a business needs to let go of people, but asks for people to nominate themselves first
 ## Involuntary:
@@ -219,6 +221,7 @@ If employees are unmotivated and management does not listen to their suggestions
 	- Unreliability
 	- Breach of standards/obligations
 - In most cases, employees must still be given warnings in these cases before dismissal, unless it is a severe breach
+
 **Redundancy:**
 - Employees are not given a choice, but forced to leave due to redundancy
 - May be because:
@@ -226,3 +229,6 @@ If employees are unmotivated and management does not listen to their suggestions
 	- Technology replaces staff
 	- Demand for products are declining
 - Also known as retrenchment
+
+**Unfair Dismissal:**
+- Fair Work Commission finds that an unemployee was 
