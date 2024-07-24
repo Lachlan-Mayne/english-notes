@@ -211,4 +211,11 @@ If employees are unmotivated and management does not listen to their suggestions
 	- Poor performance
 	- Unreliability
 	- Breach of standards/obligations
-- In most cases, employees must still be given warnings in these cases before dismis
+- In most cases, employees must still be given warnings in these cases before dismissal, unless it is a severe breach
+**Redundancy:**
+- Employees are not given a choice, but forced to leave due to redundancy
+- May be because:
+	- Too many employees
+	- Technology replaces staff
+	- Demand for products are declining
+- HR w
