@@ -204,7 +204,11 @@ If employees are unmotivated and management does not listen to their suggestions
 ## Voluntary:
 **Resignation:**
 - Employee leaves of their own free will
-- 
+- Employee decides to leave the business with the intention of finding a new job elsewhere
+- Contracts often state that the employee must give a minimum 4 weeks notice in order to reduce business disruption
+**Retirement:**
+- Choosing to stop working altogether
+- Most
 
 ## Involuntary:
 **Dismissal:**
