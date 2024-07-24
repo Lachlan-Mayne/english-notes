@@ -196,3 +196,6 @@ If employees are unmotivated and management does not listen to their suggestions
 - Increased total parental leave for primary care-givers from 52-104 weeks
 - Collaborative approach with employees
 - Ensuring compliance with all government legislation
+
+## Separation:
+**Separation is the process of HR concerned with situations when workers leave the business, either voluntarily or involuntarily.**
