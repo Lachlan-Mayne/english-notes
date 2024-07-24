@@ -247,4 +247,5 @@ If employees are unmotivated and management does not listen to their suggestions
 	- Cabin crew (1050)
 	- Engineering (630)
 	- Pilots (220)
-- 
+- Fair Work Commission awarded a former flight attendant $33,000 in unfair dismissal
+- Qantas claimed he had stolen Qantas owned al
