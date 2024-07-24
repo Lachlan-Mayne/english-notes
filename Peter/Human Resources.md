@@ -205,3 +205,5 @@ If employees are unmotivated and management does not listen to their suggestions
 
 
 ## Involuntary:
+- Leave the company against their will
+- 
