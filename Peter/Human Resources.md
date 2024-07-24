@@ -210,7 +210,7 @@ If employees are unmotivated and management does not listen to their suggestions
 - Choosing to stop working altogether
 - Often between ages 60-68
 **Voluntary Redundancy:**
-- When a business needs to let go of people, but asks for people to nominate the
+- When a business needs to let go of people, but asks for people to nominate themselves first
 ## Involuntary:
 **Dismissal:**
 - Leave the company against their will
