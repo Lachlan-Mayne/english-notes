@@ -218,4 +218,4 @@ If employees are unmotivated and management does not listen to their suggestions
 	- Too many employees
 	- Technology replaces staff
 	- Demand for products are declining
-- HR w
+- Also known as retrenchment
