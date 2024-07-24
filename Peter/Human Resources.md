@@ -205,5 +205,10 @@ If employees are unmotivated and management does not listen to their suggestions
 
 
 ## Involuntary:
+**Dismissal:**
 - Leave the company against their will
-- 
+- Could be based on:
+	- Poor performance
+	- Unreliability
+	- Breach of standards/obligations
+- In most cases, employees must still be given warnings in these cases before dismis
