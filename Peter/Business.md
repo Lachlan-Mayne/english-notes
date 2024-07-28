@@ -152,17 +152,17 @@ Normally items like blankets, pillows and headphones were cleaned and reused, bu
 - All parts of a business, not just operations must abide by the relevant laws
 - Relevant laws for operations will relate to labour and labour management, the environment and public health
 
-|**Legal Area**|**What it consists of**|
-| :-: | :-: |
-|Labour laws|Minimum wage, award wages, hours, breaks, leave, workers compensation and health and safety laws|
-|Environmental and public health|Regulations stopping dumping, pollution|
-|Business and licensing rules|Particular levels of training or certification, conditions on operations|
-|Taxation|Levies and duties, taxes imposed on profits, superannuation. Tax can be applied in such a way as to encourage particular practices, or discourage others|
-|Trade practices|Market power, misleading and unfair conduct, price collusion, monopoly behaviour, market concentration|
-|Migration and the use of offshore skilled labour|Minimum standards for labour brought in from other nations|
-|Intellectual property|Moral rights such as copyright, patents, trademarks, designs and other original ideas and artistic works|
-|Financial and accounting regulations|Standardise methods and rules around financial reports and record, as well as ensuring that company directors follow certain rules|
-|Human rights|Rules restricting discrimination|
+|                  **Legal Area**                  |                                                                 **What it consists of**                                                                  |
+| :----------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                   Labour laws                    |                             Minimum wage, award wages, hours, breaks, leave, workers compensation and health and safety laws                             |
+|         Environmental and public health          |                                                         Regulations stopping dumping, pollution                                                          |
+|           Business and licensing rules           |                                         Particular levels of training or certification, conditions on operations                                         |
+|                     Taxation                     | Levies and duties, taxes imposed on profits, superannuation. Tax can be applied in such a way as to encourage particular practices, or discourage others |
+|                 Trade practices                  |                          Market power, misleading and unfair conduct, price collusion, monopoly behaviour, market concentration                          |
+| Migration and the use of offshore skilled labour |                                                Minimum standards for labour brought in from other nations                                                |
+|              Intellectual property               |                         Moral rights such as copyright, patents, trademarks, designs and other original ideas and artistic works                         |
+|       Financial and accounting regulations       |            Standardise methods and rules around financial reports and record, as well as ensuring that company directors follow certain rules            |
+|                   Human rights                   |                                                             Rules restricting discrimination                                                             |
 
 ## **Corporate Social Responsibility:**
 
