@@ -328,4 +328,8 @@ This large retail store uses autocratic leadership management, which gives emplo
 
 **Approaches:**
 - Internal recruitment is when HR decides to fill the vacancy with an existing employee
-- External recruitment
+	- Known employees
+	- Workplace jealousy/disruptions
+- External recruitment is when HR fills a job vacancy with people from outside the business
+	- Hire based on experience
+	- Mislead
