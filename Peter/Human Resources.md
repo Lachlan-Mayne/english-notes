@@ -332,4 +332,7 @@ This large retail store uses autocratic leadership management, which gives emplo
 	- Workplace jealousy/disruptions
 - External recruitment is when HR fills a job vacancy with people from outside the business
 	- Hire based on experience
-	- Mislead
+	- Misleading, could be unprofessional
+- General skills
+	- Interpersonal skills, flexibility, positive attitude
+	- Makes employe
