@@ -320,3 +320,5 @@ This large retail store uses autocratic leadership management, which gives emplo
 	- Allowing employees to assume more accountability, responsibility and independence
 
 ## Recruitment
+**The process of locating and attracting the right quantity and quality of staff to apply for employment vacancies.**
+- The recruit
