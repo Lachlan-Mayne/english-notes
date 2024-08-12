@@ -321,4 +321,6 @@ This large retail store uses autocratic leadership management, which gives emplo
 
 ## Recruitment
 **The process of locating and attracting the right quantity and quality of staff to apply for employment vacancies.**
-- The recruit
+- The recruitment strategy undertaken for a job vacancy will determine the kinds of people available to hire
+- NOT the same as outsourcing
+- 
