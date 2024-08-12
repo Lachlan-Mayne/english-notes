@@ -281,4 +281,4 @@ If employees are unmotivated and management does not listen to their suggestions
 - No benefit from skilled workers
 - Can feel restrictive on employees
 
-This large retail store uses autocratic leadership management, which gives employees total control over decision making, which while it may have a positive impact on business performance due to the quick nature of decisions being implemented quickly. However, this can make employees feel they are not being listened to, decreasing worker satisfaction.
+This large retail store uses autocratic leadership management, which gives employees total control over decision making, which while it may have a positive impact on business performance due to the quick nature of decisions being implemented quickly. However, this can make employees feel they are not being listened to. This decreasing worker satisfaction
