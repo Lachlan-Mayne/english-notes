@@ -256,4 +256,4 @@ If employees are unmotivated and management does not listen to their suggestions
 
 ## Leadership Styles:
 **Autocratic:**
-- Total control over decisio
+- Total control over decision-making; des
