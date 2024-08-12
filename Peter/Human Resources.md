@@ -300,4 +300,7 @@ This large retail store uses autocratic leadership management, which gives emplo
 
 ## 2 Main Options:
 **General Tasks:**
-- Giving employees a wider range of tasks in their role, rather than a single repetitive t
+- Giving employees a wider range of tasks in their role, rather than a single repetitive task, will provide more job satisfaction
+- Workers more likely to develop wider range of skills
+
+**Spe**
