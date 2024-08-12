@@ -318,3 +318,4 @@ This large retail store uses autocratic leadership management, which gives emplo
 	- Moving employees from one task to another
 - Job Enrichment:
 	- Allowing employees to assume more accountability, responsibility and independence
+
