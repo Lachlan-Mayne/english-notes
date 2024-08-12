@@ -290,4 +290,7 @@ This large retail store uses autocratic leadership management, which gives emplo
 	- Due to deregulation of the aviation industry, privatisation made democratic more prominent
 	- Qantas employees had more input due to this
 - **During Covid-19: Autocratic**
-	- Fast-
+	- Fast-decisions were necessary
+	- Collaboration with workers was made more difficult, though some video conferencing has allowed minimal amount
+- **Current:**
+	- Vanessa H
