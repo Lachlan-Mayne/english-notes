@@ -263,4 +263,6 @@ If employees are unmotivated and management does not listen to their suggestions
 - Largely reliant on decisions of 1 person
 
 **Democratic:**
-Employees are consulted in setting objective
+- Employees are consulted in setting objectives and determining tactics and techniques
+- Manager has finals decision, but based on suggestions
+- 
