@@ -275,4 +275,7 @@ If employees are unmotivated and management does not listen to their suggestions
 - Some workers may be tempted to slack off
 
 **Bureaucratic:**
-- Decisions are based on policy guidelines or 
+- Decisions are based on policy guidelines or manuals, so management simply identifies set instructions and communicates them to employees
+- Necessary in some industries involving dangerous tasks
+- No benefit from skilled workers
+- Can feel restrictive on employees
