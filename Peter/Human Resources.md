@@ -295,4 +295,6 @@ This large retail store uses autocratic leadership management, which gives emplo
 - **Current:**
 	- Vanessa Hudson's leadership style may appear to be different to Joyce's, with a focus on listening and collaboration
 
-**Job D**
+## Job Design
+**The strategy of determining the tasks for workers to carry out in an effort to motivate them.**
+
