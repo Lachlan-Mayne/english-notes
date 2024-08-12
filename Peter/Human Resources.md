@@ -265,4 +265,6 @@ If employees are unmotivated and management does not listen to their suggestions
 **Democratic:**
 - Employees are consulted in setting objectives and determining tactics and techniques
 - Manager has finals decision, but based on suggestions
-- 
+
+**Laissez-faire:**
+Gives a lot of control and decision making
