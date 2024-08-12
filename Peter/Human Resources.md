@@ -335,4 +335,6 @@ This large retail store uses autocratic leadership management, which gives emplo
 	- Misleading, could be unprofessional
 - General skills
 	- Interpersonal skills, flexibility, positive attitude
-	- Makes employe
+	- Makes employee able to fill multiple potential roles in the business
+- Specific skills
+	- Tailored to the needs of the particular position and may be required - such as a rare skill or a qualification
