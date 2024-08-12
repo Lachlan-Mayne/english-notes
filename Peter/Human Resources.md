@@ -249,3 +249,5 @@ If employees are unmotivated and management does not listen to their suggestions
 	- Pilots (220)
 - Fair Work Commission awarded a former flight attendant $33,000 in unfair dismissal
 - Qantas claimed he had stolen Qantas owned alcohol, which while true, due to the nature of his situation and the long working career for Qantas, he was paid out while not being allowed to work back at Qantas
+
+## Strategies
