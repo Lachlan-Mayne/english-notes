@@ -325,4 +325,7 @@ This large retail store uses autocratic leadership management, which gives emplo
 - NOT the same as outsourcing
 - You can outsource the task/activity of recruitment
 - You then have employees but someone else did the finding + selecting
-- 
+
+**Approaches:**
+- Internal recruitment is when HR decides to fill the vacancy with an existing employee
+- External recruitment
