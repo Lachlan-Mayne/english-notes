@@ -253,3 +253,7 @@ If employees are unmotivated and management does not listen to their suggestions
 ## Strategies
 **Leadership:**
 - The way in which decisions are made in the business and how workers are managed
+
+## Leadership Styles:
+**Autocratic:**
+- Total control over decisio
