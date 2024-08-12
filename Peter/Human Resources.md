@@ -256,4 +256,11 @@ If employees are unmotivated and management does not listen to their suggestions
 
 ## Leadership Styles:
 **Autocratic:**
-- Total control over decision-making; des
+- Total control over decision-making; decisions are made and communicated to workers
+- Decisions can be made quickly
+- Clear instructions and structure
+- More skilled workers may feel undervalued
+- Largely reliant on decisions of 1 person
+
+**Democratic:**
+Employees are consulted in setting objective
