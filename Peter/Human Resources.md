@@ -313,4 +313,8 @@ This large retail store uses autocratic leadership management, which gives emplo
 
 **Qantas use:**
 - Job enlargement:
-	- Giving their workers 
+	- Giving their workers more and varied tasks
+- Job rotation:
+	- Moving employees from one task to another
+- Job Enrichment:
+	- Allowing employees to assume more accountability, responsibility and independence
