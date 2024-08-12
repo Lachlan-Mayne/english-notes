@@ -286,4 +286,8 @@ This large retail store uses autocratic leadership management, which gives emplo
 ## Qantas Leadership Style
 - **1920-1995: Autocratic**
 	- Qantas management had total control over decision making, minimal contact between workers/management
-- **1995-**
+- **1995-2020: Democratic**
+	- Due to deregulation of the aviation industry, privatisation made democratic more prominent
+	- Qantas employees had more input due to this
+- **During Covid-19: Autocratic**
+	- Fast-
