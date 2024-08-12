@@ -267,4 +267,8 @@ If employees are unmotivated and management does not listen to their suggestions
 - Manager has finals decision, but based on suggestions
 
 **Laissez-faire:**
-Gives a lot of control and decision making
+- Gives a lot of control and decision making to employees
+- Leader outlines goals and basic parameters of what is allowed and expected
+- Motivating for employees
+- Workers may not reach full potential
+- Some workers may be tempted to slack off
