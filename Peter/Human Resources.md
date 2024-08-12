@@ -251,3 +251,5 @@ If employees are unmotivated and management does not listen to their suggestions
 - Qantas claimed he had stolen Qantas owned alcohol, which while true, due to the nature of his situation and the long working career for Qantas, he was paid out while not being allowed to work back at Qantas
 
 ## Strategies
+**Leadership:**
+- The way in which decisions are ma
