@@ -298,3 +298,6 @@ This large retail store uses autocratic leadership management, which gives emplo
 ## Job Design
 **The strategy of determining the tasks for workers to carry out in an effort to motivate them.**
 
+## 2 Main Options:
+**General Tasks:**
+- Giving employees a wider range of tasks in their role, rather than a single repetitive t
