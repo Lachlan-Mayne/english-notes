@@ -281,4 +281,4 @@ If employees are unmotivated and management does not listen to their suggestions
 - No benefit from skilled workers
 - Can feel restrictive on employees
 
-This large retail store 
+This large retail store uses autocratic leadership management, which gives employees total control 
