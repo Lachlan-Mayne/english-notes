@@ -309,3 +309,8 @@ This large retail store uses autocratic leadership management, which gives emplo
 - Workers who are able to prove themselves may be more likely to be targets for future promotion or extra rewards
 
 ## Qantas Job Design
+**With employee input, ongoing reviews and feedback, they aim to design jobs more effectively.**
+
+**Qantas use:**
+- Job enlargement:
+	- Giving their workers 
