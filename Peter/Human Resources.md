@@ -324,3 +324,5 @@ This large retail store uses autocratic leadership management, which gives emplo
 - The recruitment strategy undertaken for a job vacancy will determine the kinds of people available to hire
 - NOT the same as outsourcing
 - You can outsource the task/activity of recruitment
+- You then have employees but someone else did the finding + selecting
+- 
