@@ -266,7 +266,7 @@ If employees are unmotivated and management does not listen to their suggestions
 - Employees are consulted in setting objectives and determining tactics and techniques
 - Manager has finals decision, but based on suggestions
 - Workers feel included and important
-- 
+- If majority is uninformed, potential negative impact on business
 
 **Laissez-faire:**
 - Gives a lot of control and decision making to employees
@@ -280,3 +280,5 @@ If employees are unmotivated and management does not listen to their suggestions
 - Necessary in some industries involving dangerous tasks
 - No benefit from skilled workers
 - Can feel restrictive on employees
+
+
