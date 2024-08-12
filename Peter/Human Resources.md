@@ -294,3 +294,5 @@ This large retail store uses autocratic leadership management, which gives emplo
 	- Collaboration with workers was made more difficult, though some video conferencing has allowed minimal amount
 - **Current:**
 	- Vanessa Hudson's leadership style may appear to be different to Joyce's, with a focus on listening and collaboration
+
+**Job D**
