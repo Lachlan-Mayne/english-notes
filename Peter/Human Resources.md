@@ -351,7 +351,12 @@ This large retail store uses autocratic leadership management, which gives emplo
 - Qantas spend $275M annually on training
 
 ## Performance Management
-**The process of monitoring an employees contribution to the business and taking necessary corrective action**
+**The process of monitoring an employees contribution to the business and taking necessary corrective action.**
 
 **Administrative Approach:**
-- ""
+- "Tick the box" attitude
+- Employees do bare minimum and are often brief guidelines on how to improve
+
+**Developmental Approach:**
+- Embraces the opportunity to fine-tune employees
+- Uses data to develop individual employee 
