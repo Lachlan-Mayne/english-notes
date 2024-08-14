@@ -359,4 +359,4 @@ This large retail store uses autocratic leadership management, which gives emplo
 
 **Developmental Approach:**
 - Embraces the opportunity to fine-tune employees
-- Uses data to develop individual employee 
+- Uses data to develop individual employee skills
