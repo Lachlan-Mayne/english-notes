@@ -340,3 +340,5 @@ This large retail store uses autocratic leadership management, which gives emplo
 - Specific skills
 	- PRO: Tailored to the needs of the particular position and may be required - such as a rare skill or a qualification
 	- CON: Can only fit targeted sectors
+
+## Training and Dece
