@@ -341,7 +341,7 @@ This large retail store uses autocratic leadership management, which gives emplo
 	- PRO: Tailored to the needs of the particular position and may be required - such as a rare skill or a qualification
 	- CON: Can only fit targeted sectors
 
-## Training and Development:
+## Training and Development
 - Training people either for bettering current skills, or preparing them for future skills, increasing business performance
 - Training for future skills provides the business with security
 - No immediate payoff for training for future skills
@@ -349,3 +349,9 @@ This large retail store uses autocratic leadership management, which gives emplo
 - Qantas centre for service excellence
 - Focus on safety, keeping up their reputation
 - Qantas spend $275M annually on training
+
+## Performance Management
+**The process of monitoring an employees contribution to the business and taking necessary corrective action**
+
+**Administrative Approach:**
+- ""
