@@ -348,4 +348,4 @@ This large retail store uses autocratic leadership management, which gives emplo
 - Qantas Pilot Program at UNSW (Pilot academy)
 - Qantas centre for service excellence
 - Focus on safety, keeping up their reputation
-- 
+- Qantas spend $275M annually on training
