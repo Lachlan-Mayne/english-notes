@@ -328,13 +328,15 @@ This large retail store uses autocratic leadership management, which gives emplo
 
 **Approaches:**
 - Internal recruitment is when HR decides to fill the vacancy with an existing employee
-	- Known employees
-	- Workplace jealousy/disruptions
+	- PRO: Known employees
+	- CON: Workplace jealousy/disruptions
 - External recruitment is when HR fills a job vacancy with people from outside the business
-	- Hire based on experience
-	- Misleading, could be unprofessional
+	- PRO: Hire based on experience
+	- CON: Misleading, could be unprofessional
 - General skills
-	- Interpersonal skills, flexibility, positive attitude
-	- Makes employee able to fill multiple potential roles in the business
+	- PRO: Interpersonal skills, flexibility, positive attitude
+	- PRO: Makes employee able to fill multiple potential roles in the business
+	- CON: Not targeted efficiency
 - Specific skills
-	- Tailored to the needs of the particular position and may be required - such as a rare skill or a qualification
+	- PRO: Tailored to the needs of the particular position and may be required - such as a rare skill or a qualification
+	- CON: Can only fit targeted sectors
