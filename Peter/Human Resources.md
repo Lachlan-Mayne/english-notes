@@ -345,4 +345,7 @@ This large retail store uses autocratic leadership management, which gives emplo
 - Training people either for bettering current skills, or preparing them for future skills, increasing business performance
 - Training for future skills provides the business with security
 - No immediate payoff for training for future skills
+- Qantas Pilot Program at UNSW
+- Qantas centre for service excellence
+- Focus on safety, keeping up their reputation
 - 
