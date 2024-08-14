@@ -344,4 +344,4 @@ This large retail store uses autocratic leadership management, which gives emplo
 ## Training and Development:
 - Training people either for bettering current skills, or preparing them for future skills, increasing business performance
 - Training for future skills provides the business with security
-- No im
+- No immediate payoff for training for future skills
