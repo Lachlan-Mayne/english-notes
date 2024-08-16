@@ -386,4 +386,12 @@ This large retail store uses autocratic leadership management, which gives emplo
 		- Autonomy
 		- Sense of achievement
 	- **Environment:**
-		- 
+		- Effective leadership
+		- Good relationships with coworkers
+		- Safe environment
+		- Social activities
+		- Recognition
+- Extrinsic rewards:
+	- **Direct:**
+		- q
+
