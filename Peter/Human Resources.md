@@ -368,3 +368,5 @@ This large retail store uses autocratic leadership management, which gives emplo
 	- Better conditions
 	- Company car
 	- Food
+	- Fringe benefits
+- 
