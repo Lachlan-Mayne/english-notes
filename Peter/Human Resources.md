@@ -374,4 +374,14 @@ This large retail store uses autocratic leadership management, which gives emplo
 	- Authority
 	- Services
 - Businesses offer a mix of monetary and non-monetary to keep employees and incentivise them to work harder
-- 
+
+## Total Reward System
+- Intrinsic rewards:
+	- Job:
+		- Intersting work
+		- Challenge
+		- Responsibility
+		- Recognition
+		- Promotion
+		- Autonomy
+		- 
