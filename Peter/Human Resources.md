@@ -366,7 +366,8 @@ This large retail store uses autocratic leadership management, which gives emplo
 - Non-monetary:
 	- Additional leave
 	- Better conditions
-	- Company car
+	- Company car/fuel
 	- Food
 	- Fringe benefits
+	- Authority
 - 
