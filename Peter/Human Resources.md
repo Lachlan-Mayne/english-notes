@@ -377,11 +377,13 @@ This large retail store uses autocratic leadership management, which gives emplo
 
 ## Total Reward System
 - Intrinsic rewards:
-	- Job:
-		- Intersting work
+	- **Job:**
+		- Interesting work
 		- Challenge
 		- Responsibility
 		- Recognition
 		- Promotion
 		- Autonomy
+		- Sense of achievement
+	- **Environment:**
 		- 
