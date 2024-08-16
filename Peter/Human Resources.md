@@ -408,3 +408,4 @@ This large retail store uses autocratic leadership management, which gives emplo
 
 - Individual rewards target specific workers who achieve the highest, accurately rewarding individuals
 - Group rewards encourage teamwork, but there may be "free riders" who receive the reward for minimal effort
+
