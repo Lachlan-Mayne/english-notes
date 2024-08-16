@@ -401,7 +401,9 @@ This large retail store uses autocratic leadership management, which gives emplo
 		- Holidays
 		- Childcare
 		- Medical costs
-		- Flexi
+		- Flexibility
+		- Moving expenses
+		- Company car
 
 
 - Individual rewards target specific workers who achieve the highest, accurately rewarding individuals
