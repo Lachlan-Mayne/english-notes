@@ -373,4 +373,5 @@ This large retail store uses autocratic leadership management, which gives emplo
 	- Fringe benefits
 	- Authority
 	- Services
+- Businesses offer a mix of monetary and non-monetary to keep employees and incentivise them to work harder
 - 
