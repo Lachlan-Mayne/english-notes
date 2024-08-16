@@ -362,7 +362,9 @@ This large retail store uses autocratic leadership management, which gives emplo
 - Uses data to develop individual employee skills
 
 ## Rewards:
-- Monetary
+- Monetary:
+	- Bonuses
+	- Raises
 - Non-monetary:
 	- Additional leave
 	- Better conditions
@@ -370,4 +372,5 @@ This large retail store uses autocratic leadership management, which gives emplo
 	- Food
 	- Fringe benefits
 	- Authority
+	- Services
 - 
