@@ -393,8 +393,16 @@ This large retail store uses autocratic leadership management, which gives emplo
 		- Recognition
 - Extrinsic rewards:
 	- **Direct:**
-		- q
+		- Wages/salary
+		- Commissions
+		- Incentives
+	- **Indirect:**
+		- Insurance
+		- Holidays
+		- Childcare
+		- Medical costs
+		- Flexi
 
 
 - Individual rewards target specific workers who achieve the highest, accurately rewarding individuals
-- Group rewards encourage teamwork, but there may be "free riders" who receive the wa
+- Group rewards encourage teamwork, but there may be "free riders" who receive the reward for minimal effort
