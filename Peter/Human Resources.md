@@ -408,3 +408,7 @@ This large retail store uses autocratic leadership management, which gives emplo
 
 - Individual rewards target specific workers who achieve the highest, accurately rewarding individuals
 - Group rewards encourage teamwork, but there may be "free riders" who receive the reward for minimal effort
+## Qantas Rewards
+- Competitive wages and salaries
+- Performance based pay
+- Record profitability in 2015-2019
