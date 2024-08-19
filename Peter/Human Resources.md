@@ -432,4 +432,8 @@ This large retail store uses autocratic leadership management, which gives emplo
 - Global workers used to fill shortages in the availability of domestic workers
 - Aus workforce needs to replace ~100,000 workers lost to business migration each year
 - Businesses need more workers
-**Strategic responces:**
+**Strategic responses:**
+- Ethnocentric Staffing:
+	- Employing staff from the parent company to key management positions
+- Polycentric Staffing:
+	- Employing a local worker to a key management position
