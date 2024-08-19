@@ -427,5 +427,5 @@ This large retail store uses autocratic leadership management, which gives emplo
 **Skills:**
 - Aus small population = skill shortage
 - Global HR fills skill shortage
-- Overseas qualification may not meet Aus standards
+- Overseas qualification may not meet Aus high standards
 - 
