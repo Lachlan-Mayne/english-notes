@@ -414,3 +414,6 @@ This large retail store uses autocratic leadership management, which gives emplo
 - Record profitability in 2015-2019
 - 2020-2021 no bonuses (Covid)
 - 2022 "recovery and retention program" giving 1000 shares to employees who stayed until August 2023
+
+## Global
+- 
