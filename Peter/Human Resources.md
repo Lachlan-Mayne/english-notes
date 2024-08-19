@@ -439,7 +439,8 @@ This large retail store uses autocratic leadership management, which gives emplo
 	- May not understand the workers or apply culturally relevant ideas
 - Polycentric Staffing:
 	- Employing a local worker to a key management position
-	- 
+	- Better communication, understand customs and culture
+	- Don't understand required quality maybe leading to drops in quality (less control)
 - Geocentric Staffing:
 	- Hiring the best person available globally, regardless of background
 	- 
