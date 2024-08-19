@@ -429,4 +429,5 @@ This large retail store uses autocratic leadership management, which gives emplo
 - Global HR fills skill shortage (China and India larger population)
 - Overseas qualification may not meet Aus high standards
 **Supply:**
-- Global workers used
+- Global workers used to fill shortages in the availability of domestic workers
+- 
