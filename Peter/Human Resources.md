@@ -450,3 +450,4 @@ This large retail store uses autocratic leadership management, which gives emplo
 - 99 Nationalities, 51 languages
 - Vastly different cultural, socio-economic and legal systems from which their workers come present many potential areas for confusion and miscommunications as well as opportunities for strong customer relations
 - Use polycentric and ethnocentric approaches
+- 
