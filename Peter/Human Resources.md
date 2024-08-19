@@ -422,4 +422,4 @@ This large retail store uses autocratic leadership management, which gives emplo
 **Costs:**
 - Lower in some overseas markets which have lower wages and higher unemployment
 - Lower quality of workers
-- 
+- Business establish subsidiaries off-shore to take afvantage of the opportunity to reduce protection costs
