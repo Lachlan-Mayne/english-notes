@@ -444,4 +444,4 @@ This large retail store uses autocratic leadership management, which gives emplo
 - Geocentric Staffing:
 	- Hiring the best person available globally, regardless of background
 	- Most capable staff, high quality of management
-	- 
+	- May be harder to communicate, chaotic mix of timezones, cultures etc
