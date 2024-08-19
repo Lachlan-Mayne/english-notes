@@ -445,3 +445,7 @@ This large retail store uses autocratic leadership management, which gives emplo
 	- Hiring the best person available globally, regardless of background
 	- Most capable staff, high quality of management
 	- May be harder to communicate, chaotic mix of timezones, cultures etc
+
+## Qantas Global Strategies
+- 99 Nationalities, 51 languages
+- Vastly different cultural, socio-economnics an
