@@ -416,4 +416,6 @@ This large retail store uses autocratic leadership management, which gives emplo
 - 2022 "recovery and retention program" giving 1000 shares to employees who stayed until August 2023
 
 ## Global
+- International resources
+- Outsourcing does not equal recruitment
 - 
