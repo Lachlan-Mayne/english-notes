@@ -426,6 +426,7 @@ This large retail store uses autocratic leadership management, which gives emplo
 - Qantas New Zealand flight crews
 **Skills:**
 - Aus small population = skill shortage
-- Global HR fills skill shortage
+- Global HR fills skill shortage (China and India larger population)
 - Overseas qualification may not meet Aus high standards
-- 
+**Supply:**
+- Global workers used
