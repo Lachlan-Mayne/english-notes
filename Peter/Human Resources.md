@@ -430,4 +430,6 @@ This large retail store uses autocratic leadership management, which gives emplo
 - Overseas qualification may not meet Aus high standards
 **Supply:**
 - Global workers used to fill shortages in the availability of domestic workers
-- 
+- Aus workforce needs to replace ~100,000 workers lost to business migration each year
+- Businesses need more workers
+**Strategic responces:**
