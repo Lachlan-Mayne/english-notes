@@ -435,5 +435,9 @@ This large retail store uses autocratic leadership management, which gives emplo
 **Strategic responses:**
 - Ethnocentric Staffing:
 	- Employing staff from the parent company to key management positions
+	- 
+	- Consistent quality and assurance of company values
 - Polycentric Staffing:
 	- Employing a local worker to a key management position
+- Geocentric Staffing:
+	- Hiring the best person available globally, regardless of background
