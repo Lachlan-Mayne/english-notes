@@ -425,4 +425,7 @@ This large retail store uses autocratic leadership management, which gives emplo
 - Business establish subsidiaries off-shore to take advantage of the opportunity to reduce protection costs and gain access to new markets
 - Qantas New Zealand flight crews
 **Skills:**
+- Aus small population = skill shortage
+- Global HR fills skill shortage
+- Overseas qualification may not meet Aus standards
 - 
