@@ -418,4 +418,5 @@ This large retail store uses autocratic leadership management, which gives emplo
 ## Global
 - International resources
 - Outsourcing does not equal recruitment
+- Increased complexity due to language, culture, time differences, training and legal issues
 - 
