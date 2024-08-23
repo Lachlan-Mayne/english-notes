@@ -467,3 +467,8 @@ This large retail store uses autocratic leadership management, which gives emplo
 - Happening is worse then prevention
 
 **But when they come up they use:**
+- Negotiation
+- Mediation
+- Grievance procedures
+- Involvement of courts and tribunals
+
