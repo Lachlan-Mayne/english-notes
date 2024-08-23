@@ -483,3 +483,5 @@ This large retail store uses autocratic leadership management, which gives emplo
 		- Lawyers from both sides present their view to the FWC, who will reach a decision and is legally binding of everyone
 
 
+## Qantas Disputes
+- In 2010, engineers took industrial action,
