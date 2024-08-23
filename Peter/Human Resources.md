@@ -458,3 +458,7 @@ This large retail store uses autocratic leadership management, which gives emplo
 	- Employers (Employer Association)
 	- Governments
 - When employer has dispute with most/all employees it results in an industrial dispute, or a strike
+
+**HR wants to minimise workplace disputes rather than dealing with them because disputes:**
+- Affect quality of work
+- Increas 
