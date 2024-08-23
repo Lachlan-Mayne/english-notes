@@ -469,11 +469,14 @@ This large retail store uses autocratic leadership management, which gives emplo
 **But when they come up they use:**
 - **Negotiation**
 	- 
+
 - **Mediation**
-	- q
 	- 
+
 - **Grievance procedures**
 	- Set of steps that is followed through in the occurrence of a workplace dispute
+
 - **Involvement of courts and tribunals**
 	- 
+
 
