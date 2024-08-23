@@ -453,4 +453,6 @@ This large retail store uses autocratic leadership management, which gives emplo
 
 ## Workplace Disputes
 - Conflict of interests lead to workplace disputes
-- 
+- Stakeholders:
+	- Employees (Trade Unions)
+	- Employers (Employer Ass)
