@@ -452,4 +452,5 @@ This large retail store uses autocratic leadership management, which gives emplo
 - Use polycentric and ethnocentric approaches
 
 ## Workplace Disputes
+- Conflict of interests lead to workplace disputes
 - 
