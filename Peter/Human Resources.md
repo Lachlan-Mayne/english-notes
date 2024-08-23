@@ -480,6 +480,6 @@ This large retail store uses autocratic leadership management, which gives emplo
 	- Conciliation:
 		- Conciliator appointed by the FWC, both parties have to attend a meeting, but agreement is NOT legally binding
 	- Arbitration:
-		- Lawyers from both sides presen
+		- Lawyers from both sides present their view to the FWC, who will reach a decision and is legally binding of everyone
 
 
