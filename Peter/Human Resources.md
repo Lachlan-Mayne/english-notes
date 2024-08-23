@@ -461,4 +461,7 @@ This large retail store uses autocratic leadership management, which gives emplo
 
 **HR wants to minimise workplace disputes rather than dealing with them because disputes:**
 - Affect quality of work
-- Increas 
+- Increase chance of people leaving the business
+- Are costly in both time and money
+- Can damage workplace culture
+- 
