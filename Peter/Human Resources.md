@@ -471,7 +471,7 @@ This large retail store uses autocratic leadership management, which gives emplo
 	- Discussion between the parties hoping to reach a compromise agreement
 
 - **Mediation**
-	- 
+	- Independent third party steps in to assist in resolving the dispute
 
 - **Grievance procedures**
 	- Set of steps that is followed through in the occurrence of a workplace dispute
