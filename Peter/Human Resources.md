@@ -452,7 +452,9 @@ This large retail store uses autocratic leadership management, which gives emplo
 - Use polycentric and ethnocentric approaches
 
 ## Workplace Disputes
-- Conflict of interests lead to workplace disputes
+- Conflict of interests lead to workplace disputes (grievances)
 - Stakeholders:
 	- Employees (Trade Unions)
-	- Employers (Employer Ass)
+	- Employers (Employer Association)
+	- Governments
+- When employer has dispute with most/all e
