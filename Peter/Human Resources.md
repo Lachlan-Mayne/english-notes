@@ -468,7 +468,7 @@ This large retail store uses autocratic leadership management, which gives emplo
 
 **But when they come up they use:**
 - **Negotiation**
-	- 
+	- Discussion between the parties hoping to reach a compromise agreement
 
 - **Mediation**
 	- 
