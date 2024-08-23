@@ -477,6 +477,9 @@ This large retail store uses autocratic leadership management, which gives emplo
 	- Set of steps that is followed through in the occurrence of a workplace dispute
 
 - **Involvement of courts and tribunals**
-	- 
+	- Conciliation:
+		- Conciliator appointed by the FWC, both parties have to attend a meeting, but agreement is NOT legally binding
+	- Arbitration:
+		- Lawyers from both sides presen
 
 
