@@ -457,4 +457,4 @@ This large retail store uses autocratic leadership management, which gives emplo
 	- Employees (Trade Unions)
 	- Employers (Employer Association)
 	- Governments
-- When employer has dispute with most/all e
+- When employer has dispute with most/all employees it results in an industrial dispute, or a strike
