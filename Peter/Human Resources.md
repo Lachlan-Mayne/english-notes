@@ -531,3 +531,7 @@ This large retail store uses autocratic leadership management, which gives emplo
 	- Measuring the business' performance in indicators against standards
 		- Against past data
 		- Against industry averages
+	- Are met through
+		- Human resource audit
+		- Quantitative measures
+		- Qualitative evaluation
