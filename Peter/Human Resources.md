@@ -537,3 +537,5 @@ This large retail store uses autocratic leadership management, which gives emplo
 		- Qualitative evaluation
 
 ## Qantas HR Management
+- Increase in turnover from 4.8% in 2018 to 8.6% in 2023
+- Decrease in absenteeism averaging about 9 days/year
