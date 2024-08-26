@@ -495,4 +495,6 @@ This large retail store uses autocratic leadership management, which gives emplo
 **Corporate Culture:**
 - Shared attitudes, values and practices within the business, which can be monitored to ensure all employees display the desired ethic
 - HR should hire workers who they believe best fit into the corporate culture and through training and motivation ensure it remains consistent over time
-- 
+- **Measured by:**
+	- Staff turnover
+	- Cus
