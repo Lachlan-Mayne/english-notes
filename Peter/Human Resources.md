@@ -521,4 +521,5 @@ This large retail store uses autocratic leadership management, which gives emplo
 	- Plans falling through
 - **Level of accidents:**
 	- How many accidents happen
+	- High = dangerous workplace\
 	- 
