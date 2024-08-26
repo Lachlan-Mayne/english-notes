@@ -545,4 +545,5 @@ This large retail store uses autocratic leadership management, which gives emplo
 	- Safety effectiveness improves
 - "Lost work case frequency rate" (LWCFR) 8.2 in 2018 up to 9.8 in 2023
 	- More frequent, but less serious injuries
-- From 2011-14, high number of industrial dispute
+- From 2011-14, high number of industrial disputes
+- 2014-18 disputes were lower, but they began to break down again. 
