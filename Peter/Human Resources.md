@@ -516,4 +516,4 @@ This large retail store uses autocratic leadership management, which gives emplo
 		- Unmotivated
 		- Avoiding someone/thing
 		- Conflict
-	- 
+	- Very costly due to sick leave/relplacement worker
