@@ -527,4 +527,5 @@ This large retail store uses autocratic leadership management, which gives emplo
 - **Disputation:**
 	- Disputes = inefficient workplace
 	- Frequent disputes mean HR needs to minimise underlying causes
-	- 
+- **Benchmarking key variables:**
+	- Measuring the business' performance in indicators against standards
