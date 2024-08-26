@@ -513,3 +513,6 @@ This large retail store uses autocratic leadership management, which gives emplo
 	- Workers choosing to stay away from work
 	- Not unavoidable absences due to factors such as sickness
 	- Higher rates indicate HR is ineffective at noticing and/or responding to issues in the workplace
+		- Unmotivated
+		- Avoiding people
+		- Conflict
