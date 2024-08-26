@@ -517,3 +517,8 @@ This large retail store uses autocratic leadership management, which gives emplo
 		- Avoiding someone/thing
 		- Conflict
 	- Very costly due to sick leave/replacement worker
+	- Less work is performed
+	- Plans falling through
+- **Level of accidents:**
+	- How many accidents happen
+	- 
