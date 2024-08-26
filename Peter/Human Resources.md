@@ -529,3 +529,5 @@ This large retail store uses autocratic leadership management, which gives emplo
 	- Frequent disputes mean HR needs to minimise underlying causes
 - **Benchmarking key variables:**
 	- Measuring the business' performance in indicators against standards
+		- Against past data
+		- Against industry averages
