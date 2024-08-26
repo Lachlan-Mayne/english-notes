@@ -497,4 +497,7 @@ This large retail store uses autocratic leadership management, which gives emplo
 - HR should hire workers who they believe best fit into the corporate culture and through training and motivation ensure it remains consistent over time
 - **Measured by:**
 	- Staff turnover
-	- Cus
+	- Customer service
+	- Level of absenteeism
+	- Level of accidents
+	- Amount of disputes and internal conflicts
