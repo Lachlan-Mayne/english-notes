@@ -541,6 +541,7 @@ This large retail store uses autocratic leadership management, which gives emplo
 	- Ineffective
 - Decrease in absenteeism averaging about 9 days/year
 	- Improving, but still not good
-- "Total recordable injury frequency rate" 23.9 in 2018 down to 18.5 in 2023
+- "Total recordable injury frequency rate" () 23.9 in 2018 down to 18.5 in 2023
 	- Safety effectiveness improves
-- 
+- "Lost work case frequency rate" (LWCFR) 8.2 in 2018 up to 9.8 in 2023
+	- More frequent, but less serious injuries
