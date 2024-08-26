@@ -509,3 +509,6 @@ This large retail store uses autocratic leadership management, which gives emplo
 	- Rate at which employees are separated from the business
 	- High turnover = lost of new hiring
 	- Average turnover rate for 12 months to October 2023 was 14%
+- **Absenteeism:**
+	- Workers choosing to stay away from work
+	- Not unavoidable absence
