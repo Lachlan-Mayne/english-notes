@@ -548,4 +548,5 @@ This large retail store uses autocratic leadership management, which gives emplo
 - From 2011-14, high number of industrial disputes
 - 2014-18 disputes were lower, but they began to break down again
 	- Ineffective
-- 
+- Staff satisfaction
+	- Ineffective
