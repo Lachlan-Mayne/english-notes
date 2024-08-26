@@ -506,5 +506,6 @@ This large retail store uses autocratic leadership management, which gives emplo
 	- Result of poor leadership, inability to progress, poor recognition
 	- Understood via surveys, polls, focus groups etc
 - **Staff turnover:**
-- Rate at which employees are separated from the business
-- 
+	- Rate at which employees are separated from the business
+	- High turnover = lost of new rehiring
+	- Average turnover rate for 12 months to October 2023
