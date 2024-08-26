@@ -491,4 +491,6 @@ This large retail store uses autocratic leadership management, which gives emplo
 ## Effectiveness
 - HR averages around 60% of the running cost of business
 - Number of indicators which can be monitored as such to determine how effective management is performing
-- 
+
+**Corporate Culture:**
+- Shared attitudes, values and practices within the business, which can be monitored to ensure all employees display the desired ethic
