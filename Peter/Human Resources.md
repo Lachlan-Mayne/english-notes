@@ -490,4 +490,5 @@ This large retail store uses autocratic leadership management, which gives emplo
 
 ## Effectiveness
 - HR averages around 60% of the running cost of business
-- Number of indicators which can be monitored as such to determine how effective managm
+- Number of indicators which can be monitored as such to determine how effective management is performing
+- 
