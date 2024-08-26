@@ -524,3 +524,6 @@ This large retail store uses autocratic leadership management, which gives emplo
 	- High = dangerous workplace\
 	- All businesses need legally compliant work health and safety practices
 	- Lost time injury is an event that results in a fatality, permanent disability or time of one day/shift or more lost from work
+- **Disputation:**
+	- Disputes = inefficient workplace
+	- Frequent disputes mean HR 
