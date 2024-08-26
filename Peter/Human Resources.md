@@ -487,3 +487,4 @@ This large retail store uses autocratic leadership management, which gives emplo
 - In 2010, engineers took industrial action, planning rolling stoppages which grounded the airline
 - In 2013, pilots took industrial action wearing red ties and making inflight announcements that only Qantas trained pilots should fly Qantas planes
 - In 2015, Jetstar pilots held work stoppages that disrupted some services
+
