@@ -505,3 +505,6 @@ This large retail store uses autocratic leadership management, which gives emplo
 	- Level of enjoyment and motivation staff have
 	- Result of poor leadership, inability to progress, poor recognition
 	- Understood via surveys, polls, focus groups etc
+- **Staff turnover:**
+- Rate at which employees are separated from the business
+- 
