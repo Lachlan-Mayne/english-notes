@@ -172,4 +172,5 @@ The human desire for finding the truth will surpass those who oppose it.
 ## General notes
 - The goal is to have a lot to say AND to keep writing continuously
 - Even if you aren't sure, just keep writing
-- Topic sentence > Elaboratio
+- Topic sentence > Elaboration > Quotes/Techniques
+- 
