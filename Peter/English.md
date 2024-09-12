@@ -174,4 +174,5 @@ The human desire for finding the truth will surpass those who oppose it.
 - Even if you aren't sure, just keep writing
 - Topic sentence > Elaboration > Quotes/Techniques
 - For C-range, at least 2 quotes in each paragraph, better to have 3
-- Show you care, qrite clear
+- Show you care, write clearly, get others to check for basic errors
+- 
