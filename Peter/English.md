@@ -175,4 +175,9 @@ The human desire for finding the truth will surpass those who oppose it.
 - Topic sentence > Elaboration > Quotes/Techniques
 - For C-range, at least 2 quotes in each paragraph, better to have 3
 - Show you care, write clearly, get others to check for basic errors
-- 
+
+1. Find and record good quotes
+2. Develop research notes based on the quotes
+3. Memorise the research notes
+4. Make a plan on the paper
+5. Write constantly from your plan
