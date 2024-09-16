@@ -187,4 +187,6 @@ The human desire for finding the truth will surpass those who oppose it.
 1. Focus on ideas rather than details
 2. Arrange quotes under bigger headings
 3. Handwrite quotes word for word
-4. Practice handwriting key words and tec
+4. Practice handwriting key words and techniques for each quote
+5. Practise writing quotes and key words from memory
+6. Check how well you did and repeat if there are any errors
