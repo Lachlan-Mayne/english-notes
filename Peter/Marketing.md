@@ -2,7 +2,7 @@
 
 ## Strategic Role of Marketing
 The long-term process of implementing a marketing mix to satisfy the needs and wants of customers to enable the business to increase sales, and market share, and thereby achieve long-term profit maximisation
-
+''
 ## Approaches to Marketing:
 **Production Approach:**
 Focused on the production of G&S and was popular from 1820s to 1920s.
